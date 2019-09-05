@@ -1,10 +1,15 @@
+[Adblock Plus 2.0]
 ! Title: AnonymousPoster – BlockRules
 ! Expires: 1 hour
+! version: 4
+! Last modified: Thu  5 Sep 19:34:52 CEST 2019
 ! Licence: https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/LICENSE
 ! Homepage: https://gitlab.com/AnonymousPoster/ublockorigin-rules/
 !
+! Please report any unblocked content or problems by email or in our forums
 ! GitLab issues: https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues
 ! GitLab pull requests: https://gitlab.com/AnonymousPoster/ublockorigin-rules/merge_requests
+! Email: incoming+anonymousposter-ublockorigin-rules-14161071-issue-@incoming.gitlab.com
 
 ! 29/07/2019 https://members.metart.com
 members.metart.com##.custom-hover-cams.hidden-xs.hidden-sm.hidden-md > .pull-left
