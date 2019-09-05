@@ -1,53 +1,34 @@
 [Adblock Plus 2.0]
-! Title: AnonymousPoster – BlockRules
+! Title: AnonymousPoster – Andblock Rules
 ! Expires: 1 hours
-! version: 6
-! Last modified: Thu  5 Sep 19:34:52 CEST 2019
-! Licence: https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/LICENSE
-! Homepage: https://gitlab.com/AnonymousPoster/ublockorigin-rules/
-!
-! Please report any unblocked content or problems by email or in our forums
+! Adblock Plus recommends that "Version" is a numerical-only value, but
+! this is only necessary if you intend for your list to be included in
+! Adblock Plus or on its websites.
+! Version:
+! For human readability, add date and time
+! Last updated
+! License: https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/LICENSE
+! Homepage: https://gitlab.com/AnonymousPoster/ublockorigin-rules
+! Please report any unblocked content or problems by email or in our
+! Issue board.
 ! GitLab issues: https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues
-! GitLab pull requests: https://gitlab.com/AnonymousPoster/ublockorigin-rules/merge_requests
+! GitLab merge request: https://gitlab.com/AnonymousPoster/ublockorigin-rules/merge_requests
 ! Email: incoming+anonymousposter-ublockorigin-rules-14161071-issue-@incoming.gitlab.com
+! Description: 
 
-! 29/07/2019 https://members.metart.com
-members.metart.com##.custom-hover-cams.hidden-xs.hidden-sm.hidden-md > .pull-left
+! (Optional; does not work in Adblock Plus) If you have made multiple
+! lists on the same server, and want the users of one list to auto-load
+! another list, you can use "!#include" followed by the filename of the
+! other list to do so. You can usually only include lists from the same
+! repo or server. Multiple lists can be included. PS: It'd be bad sport
+! to abuse this function by adding lists about irrelevant topics.
+!#include whitelist.txt
+!#include
 
-! 29/07/2019 https://www.systutorials.com
-www.systutorials.com###ez-cookie-dialog-wrapper
+! All comments that are not list entries, shall be prefaced by a ! or a
+! #. This tells the adblocker that this line does not indicate a thing
+! that shall be blocked. This is conventionally used to write remarks,
+! or to explain the purpose of the entry/entries that are below that
+! line.
 
-! 29/07/2019 https://members.metart.com
-members.metart.com##div.custom-cams-container.row:nth-of-type(4)
-
-! 29/07/2019 https://v2.sexart.com
-v2.sexart.com##.show.modal.fade
-v2.sexart.com##.show.modal-backdrop.fade
-v2.sexart.com##[href="/upgrade"]
-v2.sexart.com##.live-girls-wrapper.hidden-sm.hidden-xs
-
-! 29/07/2019 https://v2.metartx.com
-v2.metartx.com##.show.modal-backdrop.fade
-v2.metartx.com##.live-girls-wrapper.hidden-sm.hidden-xs
-v2.metartx.com##[href="/upgrade"] > p
-
-! 29/07/2019 https://v2.thelifeerotic.com
-v2.thelifeerotic.com##.show.modal-backdrop.fade
-v2.thelifeerotic.com##[href="/upgrade"]
-v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
-
-! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/1
-##.live-girls-wrapper.hidden-sm.hidden-xs
-##.show.modal-backdrop.fade
-##.show.modal.fade
-##.upgrade-strip
-##.upgrade-open.
-##.cams.container.row
-
-
-||www.googletagservices.*/tag/js/gpt.js^$important
-
-! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/2
-www.dmi.dk##.hidden-print.add-top.add-container
-www.dmi.dk###adMiddle
-www.dmi.dk##div.columns.small-12.medium-6.large-6:nth-of-type(1)
+! ↓ Paste your filterlist entries below: ↓
