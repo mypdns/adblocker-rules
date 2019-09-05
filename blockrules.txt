@@ -31,7 +31,7 @@ v2.thelifeerotic.com##.show.modal-backdrop.fade
 v2.thelifeerotic.com##[href="/upgrade"]
 v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
 
-! 05/09/2019 https://v2.metart.com
+! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/1
 v2.metart.com##.live-girls.more-girls
 v2.metart.com##.kdqqdL.sc-hzDkRC.cams.dUkTyr.sc-kIPQKe.container.row > .slider
 
