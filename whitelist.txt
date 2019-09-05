@@ -1,0 +1,12 @@
+about-scheme
+chrome-extension-scheme
+chrome-scheme
+moz-extension-scheme
+opera-scheme
+vivaldi-scheme
+wyciwyg-scheme
+192.168.*
+about.gitlab.com
+ccbill.metartmoney.com
+localhost
+yspmedia-web.gitlab.io
