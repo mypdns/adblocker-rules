@@ -1,4 +1,4 @@
 * @AnonymousPoster @Spirillen
-.gitlab/ISSUE_TEMPLATE.md @uBlockOrigin
-.gitlab/PULL_REQUEST_TEMPLATE.md @uBlockOrigin
-CONTRIBUTING.md @uBlockOrigin
+.gitlab/ISSUE_TEMPLATE.md @uBlockOrigin @AnonymousPoster
+.gitlab/PULL_REQUEST_TEMPLATE.md @uBlockOrigin @AnonymousPoster
+CONTRIBUTING.md @uBlockOrigin @AnonymousPoster
