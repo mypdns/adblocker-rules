@@ -37,7 +37,6 @@ v2.thelifeerotic.com##[href="/upgrade"]
 v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
 
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/1
-! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/2
 ##.live-girls-wrapper.hidden-sm.hidden-xs
 ##.show.modal-backdrop.fade
 ##.show.modal.fade
@@ -47,3 +46,8 @@ v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
 
 
 ||www.googletagservices.*/tag/js/gpt.js^$important
+
+! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/2
+www.dmi.dk##.hidden-print.add-top.add-container
+www.dmi.dk###adMiddle
+www.dmi.dk##div.columns.small-12.medium-6.large-6:nth-of-type(1)
