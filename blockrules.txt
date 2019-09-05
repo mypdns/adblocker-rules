@@ -1,5 +1,5 @@
 ! Title: AnonymousPoster – BlockRules
-! Expires: 1 days
+! Expires: 1 hour
 ! Licence: https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/LICENSE
 ! Homepage: https://gitlab.com/AnonymousPoster/ublockorigin-rules/
 !
