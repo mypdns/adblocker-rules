@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: AnonymousPoster – BlockRules
-! Expires: 1 hour
-! version: 4
+! Expires: 1 hours
+! version: 6
 ! Last modified: Thu  5 Sep 19:34:52 CEST 2019
 ! Licence: https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/LICENSE
 ! Homepage: https://gitlab.com/AnonymousPoster/ublockorigin-rules/
