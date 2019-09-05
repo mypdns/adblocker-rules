@@ -32,7 +32,13 @@ v2.thelifeerotic.com##[href="/upgrade"]
 v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
 
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/1
-v2.metart.com##.live-girls.more-girls
-v2.metart.com##.kdqqdL.sc-hzDkRC.cams.dUkTyr.sc-kIPQKe.container.row > .slider
+! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/2
+##.live-girls-wrapper.hidden-sm.hidden-xs
+##.show.modal-backdrop.fade
+##.show.modal.fade
+##.upgrade-strip
+##.upgrade-open.
+##.cams.container.row
 
-||www.googletagservices.com/tag/js/gpt.js
+
+||www.googletagservices.*/tag/js/gpt.js^$important
