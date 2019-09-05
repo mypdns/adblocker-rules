@@ -2,3 +2,4 @@
 .gitlab/ISSUE_TEMPLATE.md @uBlockOrigin @AnonymousPoster
 .gitlab/PULL_REQUEST_TEMPLATE.md @uBlockOrigin @AnonymousPoster
 CONTRIBUTING.md @uBlockOrigin @AnonymousPoster
+update-3rdparties.sh @uBlockOrigin @AnonymousPoster
