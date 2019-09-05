@@ -1,0 +1,38 @@
+! Title: AnonymousPoster – BlockRules
+! Expires: 1 days
+! Licence: https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/LICENSE
+! Homepage: https://gitlab.com/AnonymousPoster/ublockorigin-rules/
+!
+! GitLab issues: https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues
+! GitLab pull requests: https://gitlab.com/AnonymousPoster/ublockorigin-rules/merge_requests
+
+! 29/07/2019 https://members.metart.com
+members.metart.com##.custom-hover-cams.hidden-xs.hidden-sm.hidden-md > .pull-left
+
+! 29/07/2019 https://www.systutorials.com
+www.systutorials.com###ez-cookie-dialog-wrapper
+
+! 29/07/2019 https://members.metart.com
+members.metart.com##div.custom-cams-container.row:nth-of-type(4)
+
+! 29/07/2019 https://v2.sexart.com
+v2.sexart.com##.show.modal.fade
+v2.sexart.com##.show.modal-backdrop.fade
+v2.sexart.com##[href="/upgrade"]
+v2.sexart.com##.live-girls-wrapper.hidden-sm.hidden-xs
+
+! 29/07/2019 https://v2.metartx.com
+v2.metartx.com##.show.modal-backdrop.fade
+v2.metartx.com##.live-girls-wrapper.hidden-sm.hidden-xs
+v2.metartx.com##[href="/upgrade"] > p
+
+! 29/07/2019 https://v2.thelifeerotic.com
+v2.thelifeerotic.com##.show.modal-backdrop.fade
+v2.thelifeerotic.com##[href="/upgrade"]
+v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
+
+! 05/09/2019 https://v2.metart.com
+v2.metart.com##.live-girls.more-girls
+v2.metart.com##.kdqqdL.sc-hzDkRC.cams.dUkTyr.sc-kIPQKe.container.row > .slider
+
+||www.googletagservices.com/tag/js/gpt.js
