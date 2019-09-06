@@ -24,6 +24,8 @@ before_script:
   - pip install git+https://github.com/adblockplus/python-abp
   - virtualenv venv
   - source venv/bin/activate
+  - git config --global user.email "git@gitlab.com"
+  - git config --global user.name "Gitlab CI"
 
 after_script:
   - echo "After script section"

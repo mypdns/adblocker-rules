@@ -4,7 +4,7 @@
 ! Adblock Plus recommends that "Version" is a numerical-only value, but
 ! this is only necessary if you intend for your list to be included in
 ! Adblock Plus or on its websites.
-! Version:
+! Version: %timestamp%
 ! For human readability, add date and time
 ! Last updated: %timestamp%
 ! License: https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/LICENSE
