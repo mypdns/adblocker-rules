@@ -1,0 +1,60 @@
+[Adblock Plus 2.0]
+! Version: 201909061114
+! Title: AnonymousPoster – Andblock Rules
+! Expires: 1 hours
+! Adblock Plus recommends that "Version" is a numerical-only value, but
+! this is only necessary if you intend for your list to be included in
+! Adblock Plus or on its websites.
+! Version: %timestamp%
+! For human readability, add date and time
+! Last updated: %timestamp%
+! License: https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/LICENSE
+! Homepage: https://gitlab.com/AnonymousPoster/ublockorigin-rules
+! Please report any unblocked content or problems by email or in our
+! Issue board.
+! GitLab issues: https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues
+! GitLab merge request: https://gitlab.com/AnonymousPoster/ublockorigin-rules/merge_requests
+! Email: incoming+anonymousposter-ublockorigin-rules-14161071-issue-@incoming.gitlab.com
+! Description:
+! 
+! --------------------General advert blocking filters--------------------!
+! *** ublockorigin-rules:rules/blockrules.txt ***
+! 29/07/2019 https://members.metart.com
+members.metart.com##.custom-hover-cams.hidden-xs.hidden-sm.hidden-md > .pull-left
+
+! 29/07/2019 https://www.systutorials.com
+www.systutorials.com###ez-cookie-dialog-wrapper
+
+! 29/07/2019 https://members.metart.com
+members.metart.com##div.custom-cams-container.row:nth-of-type(4)
+
+! 29/07/2019 https://v2.sexart.com
+v2.sexart.com##.show.modal.fade
+v2.sexart.com##.show.modal-backdrop.fade
+v2.sexart.com##[href="/upgrade"]
+v2.sexart.com##.live-girls-wrapper.hidden-sm.hidden-xs
+
+! 29/07/2019 https://v2.metartx.com
+v2.metartx.com##.show.modal-backdrop.fade
+v2.metartx.com##.live-girls-wrapper.hidden-sm.hidden-xs
+v2.metartx.com##[href="/upgrade"] > p
+
+! 29/07/2019 https://v2.thelifeerotic.com
+v2.thelifeerotic.com##.show.modal-backdrop.fade
+v2.thelifeerotic.com##[href="/upgrade"]
+v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
+
+! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/1
+##.live-girls-wrapper.hidden-sm.hidden-xs
+##.show.modal-backdrop.fade
+##.show.modal.fade
+##.upgrade-strip
+##.upgrade-open.
+##.cams.container.row
+
+
+||www.googletagservices.*/tag/js/gpt.js^$important
+
+! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/2
+dmi.dk##.add-container
+dmi.dk#?#.large-6:-abp-has(:scope > .section-1-ad)
