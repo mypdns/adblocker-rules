@@ -32,13 +32,14 @@ test:
     #- python setup.py test
     #- pip install tox flake8  # you can also use tox
     #- tox -e py36,flake8
+    - git checkout $CI_COMMIT_REF_NAME
     - flrender -i ublockorigin-rules=. AnonymousPoster.template blockrules.txt
     - bash -c "cat blockrules.txt"
     - git remote set-url origin https://gitlab-ci:$DEPLOY_KEY@gitlab.com/$CI_PROJECT_PATH.git
     - git add .
     - git status
     - git commit -m '[skip ci] commit from CI runner'
-    - git push -u origin master
+    - git push -u origin $CI_COMMIT_REF_NAME
 
 #run:
   #script:
