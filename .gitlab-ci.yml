@@ -27,15 +27,6 @@ before_script:
   - git config --global user.email "git@gitlab.com"
   - git config --global user.name "Gitlab CI"
 
-after_script:
-  - echo "After script section"
-  - git remote set-url origin https://git:$DEPLOY_KEY@gitlab.com/$CI_PROJECT_PATH.git
-  #- git status
-  - git add .
-  - git status
-  - git commit -m '[skip ci] commit from CI runner'
-  - git push -u origin master
-
 test:
   script:
     #- python setup.py test
@@ -43,6 +34,11 @@ test:
     #- tox -e py36,flake8
     - flrender -i ublockorigin-rules=. AnonymousPoster.template blockrules.txt
     - bash -c "cat blockrules.txt"
+    - git remote set-url origin https://gitlab-ci:$DEPLOY_KEY@gitlab.com/$CI_PROJECT_PATH.git
+    - git add .
+    - git status
+    - git commit -m '[skip ci] commit from CI runner'
+    - git push -u origin master
 
 #run:
   #script:
