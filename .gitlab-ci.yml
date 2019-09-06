@@ -30,7 +30,7 @@ test:
     #- python setup.py test
     #- pip install tox flake8  # you can also use tox
     #- tox -e py36,flake8
-    - flrender -i AnonymousPoster=. AnonymousPoster.template blockrules.txt
+    - flrender -i ublockorigin-rules=. AnonymousPoster.template blockrules.txt
 
 #run:
   #script:
