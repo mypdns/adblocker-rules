@@ -29,35 +29,25 @@ before_script:
 
 test:
   script:
-    #- python setup.py test
-    #- pip install tox flake8  # you can also use tox
-    #- tox -e py36,flake8
     - git checkout $CI_COMMIT_REF_NAME
     - flrender -i ublockorigin-rules=. AnonymousPoster.template blockrules.txt
-    - bash -c "cat blockrules.txt"
+  except:
+  - master
+
+deploy:
+  script:
+    - git checkout $CI_COMMIT_REF_NAME
+    - flrender -i ublockorigin-rules=. AnonymousPoster.template blockrules.txt
     - git remote set-url origin https://gitlab-ci:$DEPLOY_KEY@gitlab.com/$CI_PROJECT_PATH.git
     - git add .
     - git status
     - git commit -m '[skip ci] commit from CI runner'
     - git push -u origin $CI_COMMIT_REF_NAME
+  only:
+  - master
 
-#run:
-  #script:
-    #- python setup.py bdist_wheel
-    # an alternative approach is to install and run:
-    #- pip install dist/*
-    # run the command here
-  #artifacts:
-    #paths:
-      #- dist/*.whl
-
-#pages:
-#  script:
-#    - pip install sphinx sphinx-rtd-theme
-#    - cd doc ; make html
-#    - mv build/html/ ../public/
-#  artifacts:
-#    paths:
-#      - public
-#  only:
-#    - master
+artifacts:
+    paths:
+      - blockrules.txt
+  only:
+    - master

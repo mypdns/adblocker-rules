@@ -1,19 +1,22 @@
 [Adblock Plus 2.0]
 ! Title: AnonymousPoster – Andblock Rules
 ! Expires: 1 hours
-! Adblock Plus recommends that "Version" is a numerical-only value, but
-! this is only necessary if you intend for your list to be included in
-! Adblock Plus or on its websites.
-! Version: %timestamp%
-! For human readability, add date and time
-! Last updated: %timestamp%
-! License: https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/LICENSE
+!
+! List url: 
+! https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/blockrules.txt
+!
+! License:
+! https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/LICENSE
 ! Homepage: https://gitlab.com/AnonymousPoster/ublockorigin-rules
+!
 ! Please report any unblocked content or problems by email or in our
 ! Issue board.
-! GitLab issues: https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues
-! GitLab merge request: https://gitlab.com/AnonymousPoster/ublockorigin-rules/merge_requests
-! Email: incoming+anonymousposter-ublockorigin-rules-14161071-issue-@incoming.gitlab.com
+! GitLab issues:
+! - https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues
+! GitLab merge request:
+! - https://gitlab.com/AnonymousPoster/ublockorigin-rules/merge_requests
+! Email:
+! incoming+anonymousposter-ublockorigin-rules-14161071-issue-@incoming.gitlab.com
 ! Description: 
 !
 !--------------------General advert blocking filters--------------------!
