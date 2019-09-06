@@ -27,28 +27,28 @@ before_script:
 
 test:
   script:
-    - python setup.py test
-    - pip install tox flake8  # you can also use tox
-    - tox -e py36,flake8
-    - flrender -i easylist=. easylist.template blockrules.txt
+    #- python setup.py test
+    #- pip install tox flake8  # you can also use tox
+    #- tox -e py36,flake8
+    - flrender -i AnonymousPoster=. AnonymousPoster.template blockrules.txt
 
-run:
-  script:
-    - python setup.py bdist_wheel
+#run:
+  #script:
+    #- python setup.py bdist_wheel
     # an alternative approach is to install and run:
-    - pip install dist/*
+    #- pip install dist/*
     # run the command here
-  artifacts:
-    paths:
-      - dist/*.whl
+  #artifacts:
+    #paths:
+      #- dist/*.whl
 
-pages:
-  script:
-    - pip install sphinx sphinx-rtd-theme
-    - cd doc ; make html
-    - mv build/html/ ../public/
-  artifacts:
-    paths:
-      - public
-  only:
-    - master
+#pages:
+#  script:
+#    - pip install sphinx sphinx-rtd-theme
+#    - cd doc ; make html
+#    - mv build/html/ ../public/
+#  artifacts:
+#    paths:
+#      - public
+#  only:
+#    - master

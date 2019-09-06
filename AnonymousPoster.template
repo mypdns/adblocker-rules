@@ -6,7 +6,7 @@
 ! Adblock Plus or on its websites.
 ! Version:
 ! For human readability, add date and time
-! Last updated
+! Last updated: %timestamp%
 ! License: https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/LICENSE
 ! Homepage: https://gitlab.com/AnonymousPoster/ublockorigin-rules
 ! Please report any unblocked content or problems by email or in our
@@ -15,20 +15,6 @@
 ! GitLab merge request: https://gitlab.com/AnonymousPoster/ublockorigin-rules/merge_requests
 ! Email: incoming+anonymousposter-ublockorigin-rules-14161071-issue-@incoming.gitlab.com
 ! Description: 
-
-! (Optional; does not work in Adblock Plus) If you have made multiple
-! lists on the same server, and want the users of one list to auto-load
-! another list, you can use "!#include" followed by the filename of the
-! other list to do so. You can usually only include lists from the same
-! repo or server. Multiple lists can be included. PS: It'd be bad sport
-! to abuse this function by adding lists about irrelevant topics.
-!#include whitelist.txt
-!#include
-
-! All comments that are not list entries, shall be prefaced by a ! or a
-! #. This tells the adblocker that this line does not indicate a thing
-! that shall be blocked. This is conventionally used to write remarks,
-! or to explain the purpose of the entry/entries that are below that
-! line.
-
-! ↓ Paste your filterlist entries below: ↓
+!
+!--------------------General advert blocking filters--------------------!
+%include ublockorigin-rules:rules/blockrules.txt%
