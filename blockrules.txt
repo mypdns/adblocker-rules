@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201909061859
+! Version: 201909102241
 ! Title: AnonymousPoster – Andblock Rules
 ! Expires: 1 hours
 ! 
@@ -24,6 +24,7 @@
 ! *** ublockorigin-rules:rules/blockrules.txt ***
 ! 29/07/2019 https://members.metart.com
 members.metart.com##.custom-hover-cams.hidden-xs.hidden-sm.hidden-md > .pull-left
+##.custom-modal-gateway.modal-dialog
 
 ! 29/07/2019 https://www.systutorials.com
 www.systutorials.com###ez-cookie-dialog-wrapper
