@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201909102241
+! Version: 201909131840
 ! Title: AnonymousPoster – Andblock Rules
 ! Expires: 1 hours
 ! 
@@ -55,6 +55,8 @@ v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
 ##.upgrade-strip
 ##.upgrade-open.
 ##.cams.container.row
+##.custom-modal-gateway.modal-dialog
+##div.custom-cams-container.row:nth-of-type(3) > .custom-cams.container
 
 
 ||www.googletagservices.*/tag/js/gpt.js^$important
@@ -62,3 +64,9 @@ v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/2
 dmi.dk##.add-container
 dmi.dk#?#.large-6:-abp-has(:scope > .section-1-ad)
+
+! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/3
+www.pornhub.com###streamMateModel
+www.pornhub.com##h3
+www.pornhub.com##.streamatesModelsContainer.sectionWrapper
+www.pornhub.com###menuItem4 > .js-topMenuLink
