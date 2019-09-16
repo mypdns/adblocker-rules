@@ -21,3 +21,6 @@
 !
 !--------------------General advert blocking filters--------------------!
 %include ublockorigin-rules:rules/blockrules.txt%
+
+!--------------------MetArt Networking blocking filters--------------------!
+%include ublockorigin-rules:rules/MetArtNetwork.txt%
