@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201909161036
+! Version: 201909162106
 ! Title: AnonymousPoster – Andblock Rules
 ! Expires: 1 hours
 ! 
@@ -63,6 +63,9 @@ www.pornhub.com###menuItem4 > .js-topMenuLink
 ! static.zdassets.com
 ||static.zdassets.com^$all
 
+! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/4
+translation.babylon-software.com##.pc-popup-new
+translation.babylon-software.com###dimScreen
 
 ! --------------------MetArt Networking blocking filters--------------------!
 ! *** ublockorigin-rules:rules/MetArtNetwork.txt ***
