@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201909161034
+! Version: 201909161036
 ! Title: AnonymousPoster – Andblock Rules
 ! Expires: 1 hours
 ! 
@@ -63,3 +63,17 @@ www.pornhub.com###menuItem4 > .js-topMenuLink
 ! static.zdassets.com
 ||static.zdassets.com^$all
 
+
+! --------------------MetArt Networking blocking filters--------------------!
+! *** ublockorigin-rules:rules/MetArtNetwork.txt ***
+##.live-girls-wrapper.hidden-sm.hidden-xs
+! ##.show.modal-backdrop.fade
+! ##.show.modal.fade
+##.upgrade-strip
+##.upgrade-open.
+##.cams.container.row
+##.custom-modal-gateway.modal-dialog
+##div.custom-cams-container.row:nth-of-type(3) > .custom-cams.container
+##.mx.modal-body.man-modal-body
+##[src^="data:image/png;base64,"]
+@@##.tag-panel-body.panel-body
