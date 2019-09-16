@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201909160904
+! Version: 201909160914
 ! Title: AnonymousPoster – Andblock Rules
 ! Expires: 1 hours
 ! 
@@ -70,3 +70,7 @@ www.pornhub.com###streamMateModel
 www.pornhub.com##h3
 www.pornhub.com##.streamatesModelsContainer.sectionWrapper
 www.pornhub.com###menuItem4 > .js-topMenuLink
+
+! static.zdassets.com
+||static.zdassets.com^$all
+
