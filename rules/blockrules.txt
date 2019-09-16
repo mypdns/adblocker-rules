@@ -33,6 +33,8 @@ v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
 ##.cams.container.row
 ##.custom-modal-gateway.modal-dialog
 ##div.custom-cams-container.row:nth-of-type(3) > .custom-cams.container
+##.mx.modal-body.man-modal-body
+##[src^="data:image/png;base64,"]
 @@##.tag-panel-body.panel-body
 
 
