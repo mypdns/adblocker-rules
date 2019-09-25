@@ -30,8 +30,8 @@ before_script:
   - pip install git+https://github.com/adblockplus/python-abp
   - virtualenv venv
   - source venv/bin/activate
-  #- git config --global user.email "$GITLAB_USER_EMAIL"
-  #- git config --global user.name "AnonymousPoster"
+  - git config --global user.email "$GITLAB_USER_EMAIL"
+  - git config --global user.name "AnonymousPoster"
 
 test:
   script:
