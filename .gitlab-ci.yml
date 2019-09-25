@@ -31,7 +31,8 @@ before_script:
   - virtualenv venv
   - source venv/bin/activate
   - git config --global user.email "$GITLAB_USER_EMAIL"
-  - git config --global user.name "AnonymousPoster"
+  #- git config --global user.name "AnonymousPoster"
+  - git config --global user.name "$CI_REGISTRY_USER"
 
 test:
   script:
