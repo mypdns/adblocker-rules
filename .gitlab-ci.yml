@@ -32,7 +32,8 @@ before_script:
   - source venv/bin/activate
   - git config --global user.email "$GITLAB_USER_EMAIL"
   #- git config --global user.name "AnonymousPoster"
-  - git config --global user.name "$CI_REGISTRY_USER"
+  - git config --global user.name "gitlab-ci-token"
+  - echo -e "machine gitlab.com\nlogin gitlab-ci-token\npassword ${CI_JOB_TOKEN}" > ~/.netrc
 
 test:
   script:
