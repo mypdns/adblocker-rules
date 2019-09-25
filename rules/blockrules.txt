@@ -31,10 +31,19 @@ dmi.dk##.add-container
 dmi.dk#?#.large-6:-abp-has(:scope > .section-1-ad)
 
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/3
-www.pornhub.com###streamMateModel
-www.pornhub.com##h3
-www.pornhub.com##.streamatesModelsContainer.sectionWrapper
-www.pornhub.com###menuItem4 > .js-topMenuLink
+pornhub.com###streamMateModel
+pornhub.com##h3
+pornhub.com##.streamatesModelsContainer.sectionWrapper
+pornhub.com###menuItem4 > .js-topMenuLink
+pornhub.com##.footer-title
+pornhub.com##.footerContentWrapper
+
+||sailboatdata.com/storage/10163/Thunderstruck0918.jpg$image
+
+sourceforge.net##.m-project-list.m-sidebar-widget
+sourceforge.net##.m-project-related-keywords.m-sidebar-widget
+sourceforge.net##aside.m-sidebar-widget:nth-of-type(3)
+sourceforge.net##.m-sidebar-compare.m-sidebar-widget
 
 ! static.zdassets.com
 ||static.zdassets.com^$all
