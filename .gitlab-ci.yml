@@ -52,7 +52,7 @@ deploy:
     #- url_host=`git remote get-url origin | sed -e "s/https:\/\/gitlab-ci-token:.*@//g"`
     #- git remote set-url origin "https://gitlab-ci-token:${DEPLOY_KEY}@${url_host}"
     - git add .
-    - git commit -m '[skip ci] commit from CI runner `echo "${CI_COMMIT_REF_NAME}"`'
+    - git commit -m '[skip ci] commit from CI runner ${CI_COMMIT_REF_NAME}'
     #- git push -u origin $CI_COMMIT_REF_NAME
     - git push "https://${GITLAB_USER_NAME}:${DEPLOY_KEY}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}"
   only:
