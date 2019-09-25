@@ -30,8 +30,8 @@ before_script:
   - pip install git+https://github.com/adblockplus/python-abp
   - virtualenv venv
   - source venv/bin/activate
-  - git config --global user.email "$GITLAB_USER_EMAIL"
-  - git config --global user.name "AnonymousPoster"
+  #- git config --global user.email "$GITLAB_USER_EMAIL"
+  #- git config --global user.name "AnonymousPoster"
 
 test:
   script:
@@ -44,11 +44,11 @@ deploy:
   script:
     - git checkout $CI_COMMIT_REF_NAME
     - flrender -i ublockorigin-rules=. AnonymousPoster.template blockrules.txt
-    - git remote set-url origin https://AnonymousPoster:$DEPLOY_KEY@gitlab.com/$CI_PROJECT_PATH.git
+    #- git remote set-url origin https://AnonymousPoster:$DEPLOY_KEY@gitlab.com/$CI_PROJECT_PATH.git
+    - git remote set-url origin https://gitlab-ci-token:${CI_JOB_TOKEN}@gitlab.com/$CI_PROJECT_PATH.git
     - git add .
     - git commit -m '[skip ci] commit from CI runner'
     - git push -u origin $CI_COMMIT_REF_NAME
-  when: manual
   only:
     - master
 
