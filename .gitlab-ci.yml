@@ -31,7 +31,7 @@ before_script:
   - source venv/bin/activate
   #- git config --global user.email "git@gitlab.com"
   - git config --global user.email "$GITLAB_USER_EMAIL"
-  - git config --global user.name "$CI_DEPLOY_USER"
+  - git config --global user.name "AnonymousPoster"
 
 test:
   script:
@@ -44,8 +44,7 @@ deploy:
   script:
     - git checkout $CI_COMMIT_REF_NAME
     - flrender -i ublockorigin-rules=. AnonymousPoster.template blockrules.txt
-    #- git remote set-url origin https://gitlab-ci:$DEPLOY_KEY@gitlab.com/$CI_PROJECT_PATH.git
-    - git remote set-url origin https://$CI_DEPLOY_USER:$CI_DEPLOY_PASSWORD@gitlab.com/$CI_PROJECT_PATH.git
+    - git remote set-url origin https://AnonymousPoster:$DEPLOY_KEY@gitlab.com/$CI_PROJECT_PATH.git
     - git add .
     - git status
     - git commit -m '[skip ci] commit from CI runner'
