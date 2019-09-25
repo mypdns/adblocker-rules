@@ -31,7 +31,7 @@ before_script:
   - source venv/bin/activate
   #- git config --global user.email "git@gitlab.com"
   - git config --global user.email "$GITLAB_USER_EMAIL"
-  - git config --global user.name "$CI_DEPLOY_USER"
+  - git config --global user.name "$GITLAB_USER_LOGIN"
 
 test:
   script:
