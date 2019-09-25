@@ -33,8 +33,8 @@ before_script:
   #- git config --global user.email "$GITLAB_USER_EMAIL"
   #- git config --global user.name "AnonymousPoster"
   #- git config --global user.name "gitlab-ci-token"
-  #- echo -e "machine gitlab.com\nlogin gitlab-ci-token\npassword ${CI_JOB_TOKEN}" > ~/.netrc
-  #- cat ~/.netrc
+  - git config --global user.name "${GITLAB_USER_NAME}"
+  - git config --global user.email "${GITLAB_USER_EMAIL}"
 
 test:
   script:
@@ -53,6 +53,7 @@ deploy:
     - git remote set-url origin "https://gitlab-ci-token:${DEPLOY_KEY}@${url_host}"
     - git add .
     - git commit -m '[skip ci] commit from CI runner'
-    - git push -u origin $CI_COMMIT_REF_NAME
+    #- git push -u origin $CI_COMMIT_REF_NAME
+    - git push "https://${GITLAB_USER_NAME}:${CI_GIT_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_TAG}"
   only:
     - master
