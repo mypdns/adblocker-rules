@@ -26,12 +26,10 @@ cache:
 
 before_script:
   - python -V  # Print out python version for debugging
-  - pip install --upgrade pip
-  - pip install virtualenv
+  - python3 -m pip install -U virtualenv pip
   - python3 -m venv env
   - source venv/bin/activate
-  - pip install git+https://github.com/adblockplus/python-abp
-  #- virtualenv venv
+  - python3 -m pip install git+https://github.com/adblockplus/python-abp
   - git config --global user.name "${GITLAB_USER_NAME}"
   - git config --global user.email "${GITLAB_USER_EMAIL}"
 
@@ -46,6 +44,7 @@ deploy:
   script:
     - git checkout $CI_COMMIT_REF_NAME
     - flrender -i ublockorigin-rules=. AnonymousPoster.template blockrules.txt
+    - flrender --help
     #- url_host=`git remote get-url origin | sed -e "s/https:\/\/gitlab-ci-token:.*@//g"`
     #- git remote set-url origin "https://gitlab-ci-token:${DEPLOY_KEY}@${url_host}"
     - git add .
