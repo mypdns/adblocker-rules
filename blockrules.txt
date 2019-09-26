@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201909260139
+! Version: 201909260147
 ! Title: AnonymousPoster – Andblock Rules
 ! Expires: 1 hours
 ! 
