@@ -30,9 +30,6 @@ before_script:
   - pip install git+https://github.com/adblockplus/python-abp
   - virtualenv venv
   - source venv/bin/activate
-  #- git config --global user.email "$GITLAB_USER_EMAIL"
-  #- git config --global user.name "AnonymousPoster"
-  #- git config --global user.name "gitlab-ci-token"
   - git config --global user.name "${GITLAB_USER_NAME}"
   - git config --global user.email "${GITLAB_USER_EMAIL}"
 
@@ -47,13 +44,10 @@ deploy:
   script:
     - git checkout $CI_COMMIT_REF_NAME
     - flrender -i ublockorigin-rules=. AnonymousPoster.template blockrules.txt
-    #- git remote set-url origin https://AnonymousPoster:$DEPLOY_KEY@gitlab.com/$CI_PROJECT_PATH.git
-    #- git remote set-url origin git@gitlab.com:gitlab-ci-token/$CI_PROJECT_PATH.git
     #- url_host=`git remote get-url origin | sed -e "s/https:\/\/gitlab-ci-token:.*@//g"`
     #- git remote set-url origin "https://gitlab-ci-token:${DEPLOY_KEY}@${url_host}"
     - git add .
-    - git commit -m '[skip ci] commit from CI runner $CI_COMMIT_REF_NAME'
-    #- git push -u origin $CI_COMMIT_REF_NAME
+    - git commit -m '[skip ci] commit from CI runner'
     - git push "https://${GITLAB_USER_NAME}:${DEPLOY_KEY}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}"
   only:
     - master
