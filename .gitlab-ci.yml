@@ -44,7 +44,7 @@ deploy:
   script:
     - git checkout $CI_COMMIT_REF_NAME
     - flrender -i ublockorigin-rules=. AnonymousPoster.template blockrules.txt
-    - flrender --help
+    #- flrender --help
     #- url_host=`git remote get-url origin | sed -e "s/https:\/\/gitlab-ci-token:.*@//g"`
     #- git remote set-url origin "https://gitlab-ci-token:${DEPLOY_KEY}@${url_host}"
     - git add .
