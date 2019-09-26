@@ -27,8 +27,9 @@ cache:
 before_script:
   - python -V  # Print out python version for debugging
   - pip install virtualenv
-  - pip install git+https://github.com/adblockplus/python-abp
-  - virtualenv venv
+  - python3 -m venv env
+  - env/bin/pip install git+https://github.com/adblockplus/python-abp
+  #- virtualenv venv
   - source venv/bin/activate
   - git config --global user.name "${GITLAB_USER_NAME}"
   - git config --global user.email "${GITLAB_USER_EMAIL}"
