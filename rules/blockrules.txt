@@ -1,3 +1,9 @@
+! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/5
+||pingtopingsrv*.life^
+
+! https://github.com/uBlockOrigin/uAssets/issues/6344
+bluehouse.is###customForm
+bluehouse.is###PopupOverLay_WA_0
 
 ! 29/07/2019 https://www.systutorials.com
 www.systutorials.com###ez-cookie-dialog-wrapper
