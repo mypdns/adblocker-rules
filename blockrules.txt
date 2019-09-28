@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201909260300
+! Version: 201909280952
 ! Title: AnonymousPoster – Andblock Rules
 ! Expires: 1 hours
 ! 
@@ -22,6 +22,11 @@
 ! 
 ! --------------------General advert blocking filters--------------------!
 ! *** ublockorigin-rules:rules/blockrules.txt ***
+||pingtopingsrv*.life^
+
+! https://github.com/uBlockOrigin/uAssets/issues/6344
+bluehouse.is###customForm
+bluehouse.is###PopupOverLay_WA_0
 
 ! 29/07/2019 https://www.systutorials.com
 www.systutorials.com###ez-cookie-dialog-wrapper
