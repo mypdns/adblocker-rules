@@ -23,6 +23,8 @@ cache:
     #- .cache/pip
     - "$CI_PROJECT_DIR/.cache/pip"
     - venv/
+    - rules/
+    - thirdparties/
 
 before_script:
   - python -V  # Print out python version for debugging
@@ -33,14 +35,23 @@ before_script:
   - git config --global user.name "${GITLAB_USER_NAME}"
   - git config --global user.email "${GITLAB_USER_EMAIL}"
 
-test:
+build:
+  stage: build
   script:
     - git checkout $CI_COMMIT_REF_NAME
+    - python FOP.py rules/ thirdparties/
+
+test:
+  stage: test
+  script:
+    - git checkout $CI_COMMIT_REF_NAME
+    - python FOP.py rules/ thirdparties/
     - flrender -i ublockorigin-rules=. AnonymousPoster.template blockrules.txt
   except:
     - master
 
 deploy:
+  stage: deploy
   script:
     - git checkout $CI_COMMIT_REF_NAME
     - flrender -i ublockorigin-rules=. AnonymousPoster.template blockrules.txt
