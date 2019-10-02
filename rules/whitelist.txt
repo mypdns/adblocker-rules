@@ -1,4 +1,4 @@
-hub.filterlists.com#@#.btn-social
+~hub.filterlists.com#@#.btn-social
 
 about-scheme
 chrome-extension-scheme
