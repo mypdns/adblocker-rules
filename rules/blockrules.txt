@@ -1,3 +1,5 @@
+||facebook.*^$third_party
+
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/5
 ||pingtopingsrv*.life^
 

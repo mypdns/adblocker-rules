@@ -29,13 +29,14 @@ build:
   stage: build
   script:
     - git checkout $CI_COMMIT_REF_NAME
-    - python FOP.py rules/ thirdparties/
+    - python FOP.py rules/
+    - flrender -i ublockorigin-rules=. AnonymousPoster.template blockrules.txt
 
 test:
   stage: test
   script:
     - git checkout $CI_COMMIT_REF_NAME
-    - python FOP.py rules/ thirdparties/
+    - python FOP.py rules/
     - flrender -i ublockorigin-rules=. AnonymousPoster.template blockrules.txt
   except:
     - master
@@ -44,7 +45,7 @@ deploy:
   stage: deploy
   script:
     - git checkout $CI_COMMIT_REF_NAME
-    - flrender -i ublockorigin-rules=. AnonymousPoster.template blockrules.txt
+    #- flrender -i ublockorigin-rules=. AnonymousPoster.template blockrules.txt
     #- flrender --help
     #- url_host=`git remote get-url origin | sed -e "s/https:\/\/gitlab-ci-token:.*@//g"`
     #- git remote set-url origin "https://gitlab-ci-token:${DEPLOY_KEY}@${url_host}"
