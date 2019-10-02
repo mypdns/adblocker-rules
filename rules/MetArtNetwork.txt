@@ -28,3 +28,4 @@ v2.metartx.com##[href="/upgrade"] > p
 v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
 v2.thelifeerotic.com##.show.modal-backdrop.fade
 v2.thelifeerotic.com##[href="/upgrade"]
+v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs

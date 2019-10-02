@@ -1,16 +1,19 @@
-||facebook.*^$third-party
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/5
 ||pingtopingsrv*.life^
+
 ! https://github.com/uBlockOrigin/uAssets/issues/6344
 bluehouse.is###PopupOverLay_WA_0
 bluehouse.is###customForm
+
 ! 29/07/2019 https://www.systutorials.com
 www.systutorials.com###ez-cookie-dialog-wrapper
 ||google.*^
 ||www.googletagservices.*/tag/js/gpt.js^$important
+
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/2
 dmi.dk##.add-container
 dmi.dk#?#.large-6:-abp-has(:scope > .section-1-ad)
+
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/3
 pornhub.com###menuItem4 > .js-topMenuLink
 pornhub.com###streamMateModel
@@ -25,6 +28,7 @@ pornhub.com##h3
 ||sailboatdata.com/storage/10163/Thunderstruck0918.jpg$image
 ! static.zdassets.com
 ||static.zdassets.com^$all
+
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/4
 translation.babylon-software.com###dimScreen
 translation.babylon-software.com##.pc-popup-new

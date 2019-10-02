@@ -13,8 +13,7 @@ cache:
     #- .cache/pip
     - "$CI_PROJECT_DIR/.cache/pip"
     - venv/
-    - rules/
-    - thirdparties/
+    #- rules/
 
 before_script:
   - python -V  # Print out python version for debugging
@@ -29,14 +28,14 @@ build:
   stage: build
   script:
     - git checkout $CI_COMMIT_REF_NAME
-    - python FOP.py rules/
+    #- python FOP.py rules/ # fucking rules layout
     - flrender -i ublockorigin-rules=. AnonymousPoster.template blockrules.txt
 
 test:
   stage: test
   script:
     - git checkout $CI_COMMIT_REF_NAME
-    - python FOP.py rules/
+    #- python FOP.py rules/
     - flrender -i ublockorigin-rules=. AnonymousPoster.template blockrules.txt
   except:
     - master
