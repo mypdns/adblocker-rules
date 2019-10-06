@@ -36,3 +36,4 @@ translation.babylon-software.com##.pc-popup-new
 ! 10/2/2019 https://hub.filterlists.com
 hub.filterlists.com##.alert-info.alert.signup-cta
 
+||google.com/recaptcha
