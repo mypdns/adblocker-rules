@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201910071719
+! Version: 201910071723
 ! Title: AnonymousPoster – Andblock Rules
 ! Expires: 1 hours
 ! 
@@ -65,6 +65,8 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 /analytics/event
 ||js-agent.newrelic.com^
 /api/tracking/*
+||static.zdassets.com^
+||googletagmanager.com/gtm.js$script
 
 ! --------------------MetArt Networking blocking filters-----------------!
 ! *** ublockorigin-rules:rules/MetArtNetwork.txt ***
