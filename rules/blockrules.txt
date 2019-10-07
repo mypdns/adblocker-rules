@@ -59,3 +59,5 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 ##.social-counters
 ##.social-counts-single
 /metrics/statsd/*
+
+||cdn.polyfill.io/v2/*$script
