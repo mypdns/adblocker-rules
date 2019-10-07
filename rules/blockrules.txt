@@ -46,3 +46,15 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 ||googletagmanager.com/gtm.js$script
 ||collector.githubapp.com^
 ||github.com/_private/browser/stats
+##.social-controls
+##.social-count
+##.social-count-boxes
+##.social-count-wrap
+##.social-counter
+##.social-counter-man
+##.social-counter-metro
+##.social-counter-widget
+##.social-counter-wrap
+##.social-counter-wrapper
+##.social-counters
+##.social-counts-single
