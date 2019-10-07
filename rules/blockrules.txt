@@ -41,3 +41,4 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 /snowplow/*$script
 /analytics/event
 ||js-agent.newrelic.com^
+/api/tracking/*
