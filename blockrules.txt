@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201910071846
+! Version: 201910071904
 ! Title: AnonymousPoster – Andblock Rules
 ! Expires: 1 hours
 ! 
@@ -120,15 +120,13 @@ v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
 ! *** ublockorigin-rules:rules/whitelist.txt ***
 ~hub.filterlists.com#@#.btn-social
 
-about-scheme
-chrome-extension-scheme
-chrome-scheme
-moz-extension-scheme
-opera-scheme
-vivaldi-scheme
-wyciwyg-scheme
-/^https?://192\.168\.1\.\d+//
-about.gitlab.com
-ccbill.metartmoney.com
-localhost
-yspmedia-web.gitlab.io
+@@about-scheme
+@@chrome-extension-scheme
+@@chrome-scheme
+@@moz-extension-scheme
+@@opera-scheme
+@@vivaldi-scheme
+@@wyciwyg-scheme
+@@about.gitlab.com
+@@ccbill.metartmoney.com
+@@yspmedia-web.gitlab.io
