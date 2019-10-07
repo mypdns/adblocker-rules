@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201910012348
+! Version: 201910071719
 ! Title: AnonymousPoster – Andblock Rules
 ! Expires: 1 hours
 ! 
@@ -25,12 +25,11 @@
 ||pingtopingsrv*.life^
 
 ! https://github.com/uBlockOrigin/uAssets/issues/6344
-bluehouse.is###customForm
 bluehouse.is###PopupOverLay_WA_0
+bluehouse.is###customForm
 
 ! 29/07/2019 https://www.systutorials.com
 www.systutorials.com###ez-cookie-dialog-wrapper
-
 ||google.*^
 ||www.googletagservices.*/tag/js/gpt.js^$important
 
@@ -39,60 +38,80 @@ dmi.dk##.add-container
 dmi.dk#?#.large-6:-abp-has(:scope > .section-1-ad)
 
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/3
-pornhub.com###streamMateModel
-pornhub.com##h3
-pornhub.com##.streamatesModelsContainer.sectionWrapper
 pornhub.com###menuItem4 > .js-topMenuLink
+pornhub.com###streamMateModel
 pornhub.com##.footer-title
 pornhub.com##.footerContentWrapper
-
-||sailboatdata.com/storage/10163/Thunderstruck0918.jpg$image
-
 sourceforge.net##.m-project-list.m-sidebar-widget
 sourceforge.net##.m-project-related-keywords.m-sidebar-widget
-sourceforge.net##aside.m-sidebar-widget:nth-of-type(3)
 sourceforge.net##.m-sidebar-compare.m-sidebar-widget
-
+pornhub.com##.streamatesModelsContainer.sectionWrapper
+sourceforge.net##aside.m-sidebar-widget:nth-of-type(3)
+pornhub.com##h3
+||sailboatdata.com/storage/10163/Thunderstruck0918.jpg$image
 ! static.zdassets.com
 ||static.zdassets.com^$all
 
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/4
-translation.babylon-software.com##.pc-popup-new
 translation.babylon-software.com###dimScreen
+translation.babylon-software.com##.pc-popup-new
 
-! --------------------MetArt Networking blocking filters--------------------!
+! 10/2/2019 https://hub.filterlists.com
+hub.filterlists.com##.alert-info.alert.signup-cta
+
+||google.com/recaptcha
+
+/snowplow/*$script
+/analytics/event
+||js-agent.newrelic.com^
+/api/tracking/*
+
+! --------------------MetArt Networking blocking filters-----------------!
 ! *** ublockorigin-rules:rules/MetArtNetwork.txt ***
 ##.live-girls-wrapper.hidden-sm.hidden-xs
 ! ##.show.modal-backdrop.fade
 ! ##.show.modal.fade
-##.upgrade-strip
-##.upgrade-open.
 ##.cams.container.row
 ##.custom-modal-gateway.modal-dialog
-##div.custom-cams-container.row:nth-of-type(3) > .custom-cams.container
 ##.mx.modal-body.man-modal-body
-##[src^="data:image/png;base64,"]
+##.upgrade-open.
+##.upgrade-strip
 @@##.tag-panel-body.panel-body
-
+##[src^="data:image/png;base64,"]
+##div.custom-cams-container.row:nth-of-type(3) > .custom-cams.container
 ! 29/07/2019 https://members.metart.com
 members.metart.com##.custom-hover-cams.hidden-xs.hidden-sm.hidden-md > .pull-left
 ##.custom-modal-gateway.modal-dialog
-
 ! 29/07/2019 https://members.metart.com
 members.metart.com##div.custom-cams-container.row:nth-of-type(4)
-
 ! 29/07/2019 https://v2.sexart.com
-v2.sexart.com##.show.modal.fade
-v2.sexart.com##.show.modal-backdrop.fade
-v2.sexart.com##[href="/upgrade"]
 v2.sexart.com##.live-girls-wrapper.hidden-sm.hidden-xs
-
+v2.sexart.com##.show.modal-backdrop.fade
+v2.sexart.com##.show.modal.fade
+v2.sexart.com##[href="/upgrade"]
 ! 29/07/2019 https://v2.metartx.com
-v2.metartx.com##.show.modal-backdrop.fade
 v2.metartx.com##.live-girls-wrapper.hidden-sm.hidden-xs
+v2.metartx.com##.show.modal-backdrop.fade
 v2.metartx.com##[href="/upgrade"] > p
-
 ! 29/07/2019 https://v2.thelifeerotic.com
+v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
 v2.thelifeerotic.com##.show.modal-backdrop.fade
 v2.thelifeerotic.com##[href="/upgrade"]
 v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
+
+! -------------------------White List -----------------------------------!
+! *** ublockorigin-rules:rules/whitelist.txt ***
+~hub.filterlists.com#@#.btn-social
+
+about-scheme
+chrome-extension-scheme
+chrome-scheme
+moz-extension-scheme
+opera-scheme
+vivaldi-scheme
+wyciwyg-scheme
+/^https?://192\.168\.1\.\d+//
+about.gitlab.com
+ccbill.metartmoney.com
+localhost
+yspmedia-web.gitlab.io
