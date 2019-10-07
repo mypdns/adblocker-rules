@@ -37,3 +37,5 @@ translation.babylon-software.com##.pc-popup-new
 hub.filterlists.com##.alert-info.alert.signup-cta
 
 ||google.com/recaptcha
+
+/snowplow/*$script
