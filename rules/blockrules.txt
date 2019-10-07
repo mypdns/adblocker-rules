@@ -42,3 +42,5 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 /analytics/event
 ||js-agent.newrelic.com^
 /api/tracking/*
+||static.zdassets.com^
+||googletagmanager.com/gtm.js$script
