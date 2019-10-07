@@ -61,3 +61,4 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 /metrics/statsd/*
 
 ||cdn.polyfill.io/v2/*$script
+||fonts.googleapis.com^$stylesheet
