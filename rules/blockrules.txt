@@ -58,3 +58,4 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 ##.social-counter-wrapper
 ##.social-counters
 ##.social-counts-single
+/metrics/statsd/*
