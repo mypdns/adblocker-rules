@@ -39,3 +39,5 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 ||google.com/recaptcha
 
 /snowplow/*$script
+/analytics/event
+||js-agent.newrelic.com^
