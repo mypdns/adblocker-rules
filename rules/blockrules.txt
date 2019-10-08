@@ -60,5 +60,6 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 ##.social-counts-single
 /metrics/statsd/*
 
-||cdn.polyfill.io/v2/*$script
+!||cdn.polyfill.io/v2/*$script
+||polyfill.io^$third-party
 ||fonts.googleapis.com^$stylesheet
