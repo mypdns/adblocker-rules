@@ -1,12 +1,11 @@
-~hub.filterlists.com#@#.btn-social
-
 @@about-scheme
+@@about.gitlab.com
+@@ccbill.metartmoney.com
 @@chrome-extension-scheme
 @@chrome-scheme
 @@moz-extension-scheme
 @@opera-scheme
 @@vivaldi-scheme
 @@wyciwyg-scheme
-@@about.gitlab.com
-@@ccbill.metartmoney.com
 @@yspmedia-web.gitlab.io
+~hub.filterlists.com#@#.btn-social

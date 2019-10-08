@@ -1,13 +1,9 @@
-# hpHosts - Ad and Tracking servers only
 #
-# The following are hosts in the hpHosts database with the ATS classification ONLY.
-# This file will NOT protect you against malicious domains
-#
-127.0.0.1 localhost #IPv4 localhost
-::1 localhost #IPv6 localhost
-#
-# AD SERVERS START HERE
-#
+# ad servers start here
+# hosts: 45737
+# hpHosts - ad and tracking servers only
+# the following are hosts in the hphosts database with the ats classification only.
+# this file will not protect you against malicious domains
 127.0.0.1	005.free-counter.co.uk
 127.0.0.1	006.free-adult-counters.x-xtra.com
 127.0.0.1	006.free-counter.co.uk
@@ -1404,6 +1400,7 @@
 127.0.0.1	9wjg4.voluumtrk.com
 127.0.0.1	9zaju.voluumtrk.com
 127.0.0.1	9zfh1.voluumtrk.com
+127.0.0.1	_thums.ero-advertising.com
 127.0.0.1	a-ads.com
 127.0.0.1	a-counter.com.ua
 127.0.0.1	a-counter.kiev.ua
@@ -4292,7 +4289,6 @@
 127.0.0.1	ad.doubleclick.net.23559.9075.302br.net
 127.0.0.1	ad.doubleclick.net.23563.9075.302br.net
 127.0.0.1	ad.doubleclick.net.23565.9075.302br.net
-127.0.0.1	ad.doubleclick.net.23569.9075.302br.net
 127.0.0.1	ad.doubleclick.net.23569.9075.302br.net
 127.0.0.1	ad.doubleclick.net.23571.9075.302br.net
 127.0.0.1	ad.doubleclick.net.23572.9075.302br.net
@@ -16229,12 +16225,12 @@
 127.0.0.1	admagnet.net
 127.0.0.1	admailtiser.com
 127.0.0.1	adman.gr
+127.0.0.1	adman_test.go2cloud.org
 127.0.0.1	admanage.com
 127.0.0.1	admanagement.ch
 127.0.0.1	admanager.btopenworld.com
 127.0.0.1	admanager.persianblog.com
 127.0.0.1	admantic.ru
-127.0.0.1	adman_test.go2cloud.org
 127.0.0.1	admarket.entireweb.com
 127.0.0.1	admarketplace.com
 127.0.0.1	admarketplace.net
@@ -17862,6 +17858,7 @@
 127.0.0.1	ads97.hpg.com.br
 127.0.0.1	ads98.hpg.com.br
 127.0.0.1	ads99.hpg.com.br
+127.0.0.1	ads_ad_center.s3.amazonaws.com
 127.0.0.1	adsafeprotected.com
 127.0.0.1	adsalvo.com
 127.0.0.1	adsances.ero-advertising.com
@@ -18244,7 +18241,6 @@
 127.0.0.1	adsweb.tiscali.it
 127.0.0.1	adswizz.com
 127.0.0.1	adsx.greystripe.com
-127.0.0.1	adsx.greystripe.com
 127.0.0.1	adsxgm.com
 127.0.0.1	adsxxxtraff.com
 127.0.0.1	adsymptotic.com
@@ -18253,7 +18249,6 @@
 127.0.0.1	adsys.townnews.com
 127.0.0.1	adsyst.biz
 127.0.0.1	adsytipl.indiatimes.com
-127.0.0.1	ads_ad_center.s3.amazonaws.com
 127.0.0.1	adtackmedia.go2cloud.org
 127.0.0.1	adtag.msn.ca
 127.0.0.1	adtag.sympatico.ca
@@ -32334,6 +32329,7 @@
 127.0.0.1	o3ozt.voluumtrk.com
 127.0.0.1	o64x.voluumtrk.com
 127.0.0.1	o8yrg.voluumtrk.com
+127.0.0.1	o_thus.ero-advertising.com
 127.0.0.1	oa4xu.voluumtrk.com
 127.0.0.1	oamtrk.com
 127.0.0.1	oaqkv.voluumtrk.com
@@ -32869,7 +32865,6 @@
 127.0.0.1	oylkc.voluumtrk.com
 127.0.0.1	oyvir.voluumtrk.com
 127.0.0.1	ozzhf.voluumtrk.com
-127.0.0.1	o_thus.ero-advertising.com
 127.0.0.1	p-bandai-hk.b.appier.net
 127.0.0.1	p.ace.advertising.com
 127.0.0.1	p.adpdx.com
@@ -32936,6 +32931,7 @@
 127.0.0.1	p8tre.emv3.com
 127.0.0.1	p96582.adskape.ru
 127.0.0.1	p9tre.emv3.com
+127.0.0.1	p_en.popunder.net
 127.0.0.1	pa.advertising.veeseo.com
 127.0.0.1	pa.yahoo.com
 127.0.0.1	pads.adition.com
@@ -33861,7 +33857,6 @@
 127.0.0.1	pyzou.voluumtrk.com
 127.0.0.1	pztqt.voluumtrk.com
 127.0.0.1	pzxld.voluumtrk.com
-127.0.0.1	p_en.popunder.net
 127.0.0.1	q-mobi.go2affise.com
 127.0.0.1	q.addthis.com
 127.0.0.1	q.azcentral.com
@@ -38473,7 +38468,6 @@
 127.0.0.1	view.atdmt.com.25208.9185.302br.net
 127.0.0.1	view.atdmt.com.25211.9185.302br.net
 127.0.0.1	view.atdmt.com.25214.9185.302br.net
-127.0.0.1	view.atdmt.com.25217.9185.302br.net
 127.0.0.1	view.atdmt.com.25217.9185.302br.net
 127.0.0.1	view.atdmt.com.26099.9201.302br.net
 127.0.0.1	view.atdmt.com.26102.9201.302br.net
@@ -45744,5 +45738,5 @@
 127.0.0.1	zz.zeroredirect1.com
 127.0.0.1	zzptzdhugavot.review
 127.0.0.1	zzz.clickbank.net
-127.0.0.1	_thums.ero-advertising.com
-# Hosts: 45737
+127.0.0.1 localhost #ipv4 localhost
+::1 localhost #ipv6 localhost

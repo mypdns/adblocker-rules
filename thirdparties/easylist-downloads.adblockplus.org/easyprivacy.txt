@@ -5,11 +5,11 @@
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
-! 
+!
 ! Please report any unblocked tracking or problems
 ! in the forums (https://forums.lanik.us/)
 ! or via e-mail (easylist.subscription@gmail.com).
-! 
+!
 ! -----------------General tracking systems-----------------!
 ! *** easylist:easyprivacy/easyprivacy_general.txt ***
 &action=js_stats&
@@ -14780,7 +14780,7 @@ $xmlhttprequest,domain=alltube.pl|alltube.tv|auroravid.to|catrumahminimalis.me|d
 ! regex !
 /([0-9]{1,3}\.){3}[0-9]{1,3}.*(\/proxy|\.wasm|\.wsm|\.wa)$/$third-party,websocket
 /.*(\/proxy|\.wasm|\.wsm|\.wa)$/$websocket,xmlhttprequest,domain=reactor.cc|sickrage.ca|sorteosrd.com|streamplay.to
-! 
+!
 /assets/application-$domain=iamdisappoint.com|shitbrix.com|tattoofailure.com
 ||2giga.link^*/hive.js
 ||browsealoud.com/plus/scripts/$script

@@ -1,3 +1,4 @@
+! MetArt Network
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/1
 ##.live-girls-wrapper.hidden-sm.hidden-xs
 ! ##.show.modal-backdrop.fade
@@ -24,14 +25,13 @@ v2.sexart.com##[href="/upgrade"]
 v2.metartx.com##.live-girls-wrapper.hidden-sm.hidden-xs
 v2.metartx.com##.show.modal-backdrop.fade
 v2.metartx.com##[href="/upgrade"] > p
+! The Life Erotic
 ! 29/07/2019 https://v2.thelifeerotic.com
 v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
 v2.thelifeerotic.com##.show.modal-backdrop.fade
 v2.thelifeerotic.com##[href="/upgrade"]
-v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
-
 ! 08/10/2019 https://v2.metart.com
 !v2.metart.com##.show.modal.fade
+v2.metart.com##.live-girls.more-girls
 v2.metart.com##.show.modal-backdrop.fade
 v2.metart.com##.upgrade-strip.hVTYCd.sc-gzVnrw
-v2.metart.com##.live-girls.more-girls

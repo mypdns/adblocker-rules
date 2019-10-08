@@ -2,14 +2,14 @@
 ! Version: 201910081622
 ! Title: AnonymousPoster – Andblock Rules
 ! Expires: 1 hours
-! 
+!
 ! List url:
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/blockrules.txt
-! 
+!
 ! License:
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/LICENSE
 ! Homepage: https://gitlab.com/AnonymousPoster/ublockorigin-rules
-! 
+!
 ! Please report any unblocked content or problems by email or in our
 ! Issue board.
 ! GitLab issues:
@@ -19,24 +19,20 @@
 ! Email:
 ! incoming+anonymousposter-ublockorigin-rules-14161071-issue-@incoming.gitlab.com
 ! Description:
-! 
+!
 ! --------------------General advert blocking filters--------------------!
 ! *** ublockorigin-rules:rules/blockrules.txt ***
 ||pingtopingsrv*.life^
-
 ! https://github.com/uBlockOrigin/uAssets/issues/6344
 bluehouse.is###PopupOverLay_WA_0
 bluehouse.is###customForm
-
 ! 29/07/2019 https://www.systutorials.com
 www.systutorials.com###ez-cookie-dialog-wrapper
 ||google.*^
 ||www.googletagservices.*/tag/js/gpt.js^$important
-
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/2
 dmi.dk##.add-container
 dmi.dk#?#.large-6:-abp-has(:scope > .section-1-ad)
-
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/3
 pornhub.com###menuItem4 > .js-topMenuLink
 pornhub.com###streamMateModel
@@ -51,24 +47,11 @@ pornhub.com##h3
 ||sailboatdata.com/storage/10163/Thunderstruck0918.jpg$image
 ! static.zdassets.com
 ||static.zdassets.com^$all
-
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/4
 translation.babylon-software.com###dimScreen
 translation.babylon-software.com##.pc-popup-new
-
 ! 10/2/2019 https://hub.filterlists.com
 hub.filterlists.com##.alert-info.alert.signup-cta
-
-||google.com/recaptcha
-
-/snowplow/*$script
-/analytics/event
-||js-agent.newrelic.com^
-/api/tracking/*
-||static.zdassets.com^
-||googletagmanager.com/gtm.js$script
-||collector.githubapp.com^
-||github.com/_private/browser/stats
 ##.social-controls
 ##.social-count
 ##.social-count-boxes
@@ -81,12 +64,19 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 ##.social-counter-wrapper
 ##.social-counters
 ##.social-counts-single
+/analytics/event
+/api/tracking/*
 /metrics/statsd/*
-
+/snowplow/*$script
+||collector.githubapp.com^
+||github.com/_private/browser/stats
+||google.com/recaptcha
+||googletagmanager.com/gtm.js$script
+||js-agent.newrelic.com^
+||static.zdassets.com^
 ! ||cdn.polyfill.io/v2/*$script
-||polyfill.io^$third-party
 ||fonts.googleapis.com^$stylesheet
-
+||polyfill.io^$third-party
 ! --------------------MetArt Networking blocking filters-----------------!
 ! *** ublockorigin-rules:rules/MetArtNetwork.txt ***
 ##.live-girls-wrapper.hidden-sm.hidden-xs
@@ -118,25 +108,21 @@ v2.metartx.com##[href="/upgrade"] > p
 v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
 v2.thelifeerotic.com##.show.modal-backdrop.fade
 v2.thelifeerotic.com##[href="/upgrade"]
-v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
-
 ! 08/10/2019 https://v2.metart.com
 ! v2.metart.com##.show.modal.fade
+v2.metart.com##.live-girls.more-girls
 v2.metart.com##.show.modal-backdrop.fade
 v2.metart.com##.upgrade-strip.hVTYCd.sc-gzVnrw
-v2.metart.com##.live-girls.more-girls
-
 ! -------------------------White List -----------------------------------!
 ! *** ublockorigin-rules:rules/whitelist.txt ***
-~hub.filterlists.com#@#.btn-social
-
 @@about-scheme
+@@about.gitlab.com
+@@ccbill.metartmoney.com
 @@chrome-extension-scheme
 @@chrome-scheme
 @@moz-extension-scheme
 @@opera-scheme
 @@vivaldi-scheme
 @@wyciwyg-scheme
-@@about.gitlab.com
-@@ccbill.metartmoney.com
 @@yspmedia-web.gitlab.io
+~hub.filterlists.com#@#.btn-social
