@@ -29,6 +29,7 @@ build:
   script:
     - git checkout $CI_COMMIT_REF_NAME
     #- python FOP.py rules/ # fucking rules layout
+    - mkdir -p public/
     - flrender -i ublockorigin-rules=. AnonymousPoster.template public/blockrules.txt
 
 test:
