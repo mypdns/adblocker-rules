@@ -1,15 +1,15 @@
 [Adblock Plus 2.0]
-! Version: 201910081622
+! Version: 201910082222
 ! Title: AnonymousPoster – Andblock Rules
 ! Expires: 1 hours
-!
+! 
 ! List url:
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/blockrules.txt
-!
+! 
 ! License:
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/LICENSE
 ! Homepage: https://gitlab.com/AnonymousPoster/ublockorigin-rules
-!
+! 
 ! Please report any unblocked content or problems by email or in our
 ! Issue board.
 ! GitLab issues:
@@ -19,7 +19,7 @@
 ! Email:
 ! incoming+anonymousposter-ublockorigin-rules-14161071-issue-@incoming.gitlab.com
 ! Description:
-!
+! 
 ! --------------------General advert blocking filters--------------------!
 ! *** ublockorigin-rules:rules/blockrules.txt ***
 ||pingtopingsrv*.life^
@@ -29,7 +29,7 @@ bluehouse.is###customForm
 ! 29/07/2019 https://www.systutorials.com
 www.systutorials.com###ez-cookie-dialog-wrapper
 ||google.*^
-||www.googletagservices.*/tag/js/gpt.js^$important
+||googletagservices.*^
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/2
 dmi.dk##.add-container
 dmi.dk#?#.large-6:-abp-has(:scope > .section-1-ad)
@@ -46,7 +46,7 @@ sourceforge.net##aside.m-sidebar-widget:nth-of-type(3)
 pornhub.com##h3
 ||sailboatdata.com/storage/10163/Thunderstruck0918.jpg$image
 ! static.zdassets.com
-||static.zdassets.com^$all
+||zdassets.com^$third-party
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/4
 translation.babylon-software.com###dimScreen
 translation.babylon-software.com##.pc-popup-new
@@ -77,8 +77,11 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 ! ||cdn.polyfill.io/v2/*$script
 ||fonts.googleapis.com^$stylesheet
 ||polyfill.io^$third-party
+
 ! --------------------MetArt Networking blocking filters-----------------!
 ! *** ublockorigin-rules:rules/MetArtNetwork.txt ***
+! MetArt Network
+! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/1
 ##.live-girls-wrapper.hidden-sm.hidden-xs
 ! ##.show.modal-backdrop.fade
 ! ##.show.modal.fade
@@ -104,6 +107,7 @@ v2.sexart.com##[href="/upgrade"]
 v2.metartx.com##.live-girls-wrapper.hidden-sm.hidden-xs
 v2.metartx.com##.show.modal-backdrop.fade
 v2.metartx.com##[href="/upgrade"] > p
+! The Life Erotic
 ! 29/07/2019 https://v2.thelifeerotic.com
 v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
 v2.thelifeerotic.com##.show.modal-backdrop.fade
@@ -113,6 +117,7 @@ v2.thelifeerotic.com##[href="/upgrade"]
 v2.metart.com##.live-girls.more-girls
 v2.metart.com##.show.modal-backdrop.fade
 v2.metart.com##.upgrade-strip.hVTYCd.sc-gzVnrw
+
 ! -------------------------White List -----------------------------------!
 ! *** ublockorigin-rules:rules/whitelist.txt ***
 @@about-scheme
