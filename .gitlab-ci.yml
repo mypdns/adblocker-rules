@@ -3,10 +3,10 @@ image: python:latest
 variables:
   PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
 
-stages:
-  - build
-  - test
-  - deploy
+#stages:
+#  - build
+#  - test
+#  - deploy
 
 cache:
   paths:
@@ -24,28 +24,26 @@ before_script:
   - git config --global user.name "${GITLAB_USER_NAME}"
   - git config --global user.email "${GITLAB_USER_EMAIL}"
 
-build:
-  stage: build
-  script:
-    - git checkout $CI_COMMIT_REF_NAME
+#build:
+#  stage: build
+#  script:
+#    - git checkout $CI_COMMIT_REF_NAME
     #- python FOP.py rules/ # fucking rules layout
-    - mkdir -p public/
-    - flrender -i ublockorigin-rules=. AnonymousPoster.template public/blockrules.txt
+#    - flrender -i ublockorigin-rules=. AnonymousPoster.template public/blockrules.txt
 
-test:
-  stage: test
-  script:
-    - git checkout $CI_COMMIT_REF_NAME
-    #- python FOP.py rules/
-    - flrender -i ublockorigin-rules=. AnonymousPoster.template public/blockrules.txt
-  except:
-    - master
+#test:
+#  stage: test
+#  script:
+#    - git checkout $CI_COMMIT_REF_NAME
+#    #- python FOP.py rules/
+#    - flrender -i ublockorigin-rules=. AnonymousPoster.template public/blockrules.txt
+#  except:
+#    - master
 
-deploy:
+pages:
   stage: deploy
   script:
     #- git checkout $CI_COMMIT_REF_NAME
-    - mkdir -p public/
     - flrender -i ublockorigin-rules=. AnonymousPoster.template public/blockrules.txt
     #- flrender --help
     #- url_host=`git remote get-url origin | sed -e "s/https:\/\/gitlab-ci-token:.*@//g"`
@@ -53,5 +51,9 @@ deploy:
     #- git add .
     #- git commit -m '[skip ci] commit from CI runner'
     #- git push "https://${GITLAB_USER_NAME}:${DEPLOY_KEY}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}"
+  artifacts:
+    paths:
+    - public
+
   only:
     - master
