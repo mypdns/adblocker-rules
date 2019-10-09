@@ -37,16 +37,8 @@ h1 {
     margin-left: 15px;
 }
 
-a:link, a:visited {
-  color: white;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-
-a:hover, a:active {
-  background-color: #0ef20e;
+a {
+  color: #0ef20e;
 }
 
 img {
