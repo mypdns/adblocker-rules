@@ -1,10 +1,21 @@
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/1
 ! 09/10/2019 metart.com
-##.container.content > div:nth-of-type(1) > div > .hidden-xs
-##.live-girls.more-girls
-##.page-content > div:nth-of-type(3)
-##.upgrade-strip.hVTYCd.sc-gzVnrw
-||cdn.metartnetwork.com/*/media/promotions/
-||v2.metart.com/api/location$xmlhttprequest
-||v2.metart.com/api/upgradable-sites$xmlhttprequest
-||v2.metart.com/sw.js$script
+!metart.com,sexart.com##.container.content > div:nth-of-type(1) > div > .hidden-xs
+!##.live-girls.more-girls
+!##.page-content > div:nth-of-type(3)
+!##.upgrade-strip.hVTYCd.sc-gzVnrw
+!||cdn.metartnetwork.com/*/media/promotions/
+!||v2.metart.com/api/location$xmlhttprequest
+!||v2.metart.com/api/upgradable-sites$xmlhttprequest
+!||v2.metart.com/sw.js$script
+! New Test
+/api/location$xmlhttprequest,domain=alsscan.com|domai.com|eroticbeauty.com|errotica-archives.com|eternaldesire.com|goddessnudes.com|live.tv|lovehairy.com|metart.com|rylskyart.com|sexart.com|stunning18.com|thelifeerotic.com|vivthomas.com
+/api/upgradable-sites$xmlhttprequest,domain=alsscan.com|domai.com|eroticbeauty.com|errotica-archives.com|eternaldesire.com|goddessnudes.com|live.tv|lovehairy.com|metart..com|metart.com|rylskyart.com|sexart.com|stunning18.com|thelifeerotic.com|vivthomas.com
+/media/promotions/,domain=metart.com|metart.com|sexart.com|thelifeerotic.com|vivthomas.com|lovehairy.com|errotica-archives.com|domai.com|goddessnudes.com|eroticbeauty.com|alsscan.com|rylskyart.com|eternaldesire.com|stunning18.com|live.tv
+/sw.js$script,domain=alsscan.com|domai.com|eroticbeauty.com|errotica-archives.com|eternaldesire.com|goddessnudes.com|live.tv|lovehairy.com|metart.com|rylskyart.com|sexart.com|stunning18.com|thelifeerotic.com|vivthomas.com
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.container.content > div:nth-of-type(1) > div > .hidden-xs
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.live-girls.more-girls
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.page-content > div:nth-of-type(3)
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.upgrade-strip
+! 09/10/2019 https://v2.metart.com
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.col-xs-12.col-sm-12.col-md-12.col-lg-4
