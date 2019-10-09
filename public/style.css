@@ -44,16 +44,16 @@ h1 {
   display: inline-block;
 }
 
-.box a:link {
+.box.a:link {
   color: white;
 }
-.box a:visited {
+.box.a:visited {
   color: white;
 }
-.box a:hover {
+.box.a:hover {
   background-color: #0ef20e;
 }
-.box a:active {
+.box.a:active {
   background-color: #0ef20e;
 }
 
