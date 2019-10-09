@@ -37,7 +37,7 @@ h1 {
     margin-left: 15px;
 }
 
-p.a:link, p.a:visited {
+a.box:link, p.box:visited {
   color: white;
   padding: 10px 20px;
   text-align: center;
@@ -45,7 +45,7 @@ p.a:link, p.a:visited {
   display: inline-block;
 }
 
-p.a:hover, p.a:active {
+p.box:hover, p.box:active {
   background-color: #0ef20e;
 }
 
