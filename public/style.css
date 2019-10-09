@@ -1,4 +1,6 @@
 body {
+  background-image: url("background.jpg");
+  background-color: #cccccc;
   font-family: sans-serif;
   margin: auto;
   max-width: 1280px;
