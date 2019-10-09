@@ -1,5 +1,5 @@
 body {
-  background: url(background1.jpg) no-repeat center center fixed;
+  background: url(anonymous1.gif) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -37,7 +37,7 @@ h1 {
     margin-left: 15px;
 }
 
-.box:link, .box:visited {
+.box a:link, a:visited {
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
@@ -45,8 +45,12 @@ h1 {
   color: white;
 }
 
-.box:hover, .box:active {
+.box a:hover, a:active {
   background-color: #0ef20e;
+}
+
+a:hover, a:active a:link, a:visited {
+    color: white;
 }
 
 img {
