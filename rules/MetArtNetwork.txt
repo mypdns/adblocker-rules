@@ -1,45 +1,10 @@
-! MetArt Network
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/1
-!##.live-girls-wrapper.hidden-sm.hidden-xs
-! ##.show.modal-backdrop.fade
-! ##.show.modal.fade
-!##.cams.container.row
-!##.custom-modal-gateway.modal-dialog
-!##.mx.modal-body.man-modal-body
-!##.upgrade-open.
-!##.upgrade-strip
-!@@##.tag-panel-body.panel-body
-!##[src^="data:image/png;base64,"]
-!##div.custom-cams-container.row:nth-of-type(3) > .custom-cams.container
-! 29/07/2019 https://members.metart.com
-!members.metart.com##.custom-hover-cams.hidden-xs.hidden-sm.hidden-md > .pull-left
-!##.custom-modal-gateway.modal-dialog
-! 29/07/2019 https://members.metart.com
-!members.metart.com##div.custom-cams-container.row:nth-of-type(4)
-! 29/07/2019 https://v2.sexart.com
-!v2.sexart.com##.live-girls-wrapper.hidden-sm.hidden-xs
-!v2.sexart.com##.show.modal-backdrop.fade
-!v2.sexart.com##.show.modal.fade
-!v2.sexart.com##[href="/upgrade"]
-! 29/07/2019 https://v2.metartx.com
-!v2.metartx.com##.live-girls-wrapper.hidden-sm.hidden-xs
-!v2.metartx.com##.show.modal-backdrop.fade
-!v2.metartx.com##[href="/upgrade"] > p
-! The Life Erotic
-! 29/07/2019 https://v2.thelifeerotic.com
-!v2.thelifeerotic.com##.live-girls-wrapper.hidden-sm.hidden-xs
-!v2.thelifeerotic.com##.show.modal-backdrop.fade
-!v2.thelifeerotic.com##[href="/upgrade"]
-! 08/10/2019 https://v2.metart.com
-!v2.metart.com##.show.modal.fade
-!v2.metart.com##.live-girls.more-girls
-!v2.metart.com##.show.modal-backdrop.fade
-!v2.metart.com##.upgrade-strip.hVTYCd.sc-gzVnrw
 ! 09/10/2019 metart.com
-!||cdn.metartnetwork.com/*/media/promotions/*
-!||v2.metart.com/api/upgradable-sites$xmlhttprequest
-##.live-girls.more-girls
-##.upgrade-strip.hVTYCd.sc-gzVnrw
-||v2.metart.com/sw.js$script
-!##.container.content.efCZNc.sc-exAgwC > div:nth-of-type(1) > div > .hidden-xs
 ##.container.content > div:nth-of-type(1) > div > .hidden-xs
+##.live-girls.more-girls
+##.page-content > div:nth-of-type(3)
+##.upgrade-strip.hVTYCd.sc-gzVnrw
+||cdn.metartnetwork.com/*/media/promotions/
+||v2.metart.com/api/location$xmlhttprequest
+||v2.metart.com/api/upgradable-sites$xmlhttprequest
+||v2.metart.com/sw.js$script
