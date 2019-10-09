@@ -2,14 +2,14 @@
 ! Version: 201910082222
 ! Title: AnonymousPoster – Andblock Rules
 ! Expires: 1 hours
-! 
+!
 ! List url:
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/blockrules.txt
-! 
+!
 ! License:
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/LICENSE
 ! Homepage: https://gitlab.com/AnonymousPoster/ublockorigin-rules
-! 
+!
 ! Please report any unblocked content or problems by email or in our
 ! Issue board.
 ! GitLab issues:
@@ -19,7 +19,7 @@
 ! Email:
 ! incoming+anonymousposter-ublockorigin-rules-14161071-issue-@incoming.gitlab.com
 ! Description:
-! 
+!
 ! --------------------General advert blocking filters--------------------!
 ! *** ublockorigin-rules:rules/blockrules.txt ***
 ||pingtopingsrv*.life^
@@ -77,7 +77,6 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 ! ||cdn.polyfill.io/v2/*$script
 ||fonts.googleapis.com^$stylesheet
 ||polyfill.io^$third-party
-
 ! --------------------MetArt Networking blocking filters-----------------!
 ! *** ublockorigin-rules:rules/MetArtNetwork.txt ***
 ! MetArt Network
@@ -117,7 +116,6 @@ v2.thelifeerotic.com##[href="/upgrade"]
 v2.metart.com##.live-girls.more-girls
 v2.metart.com##.show.modal-backdrop.fade
 v2.metart.com##.upgrade-strip.hVTYCd.sc-gzVnrw
-
 ! -------------------------White List -----------------------------------!
 ! *** ublockorigin-rules:rules/whitelist.txt ***
 @@about-scheme
