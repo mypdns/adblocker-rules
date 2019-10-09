@@ -54,3 +54,7 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 !||cdn.polyfill.io/v2/*$script
 ||fonts.googleapis.com^$stylesheet
 ||polyfill.io^$third-party
+! 10/9/2019 https://github.com
+! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/6
+github.com##.mt-3.flash-warn.flash
+github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
