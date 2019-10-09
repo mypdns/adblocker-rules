@@ -28,3 +28,7 @@ body {
 .navbar a:hover {
   color: #cccccc;
 }
+
+p {
+  margin: 100px 100px 150px 80px;
+}
