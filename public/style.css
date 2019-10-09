@@ -37,16 +37,20 @@ h1 {
     margin-left: 15px;
 }
 
-a.box:link, p.box:visited {
+a:link, a:visited {
   color: white;
+  
+}
+
+a:hover, a:active {
+  background-color: #0ef20e;
+}
+
+.box {
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-}
-
-p.box:hover, p.box:active {
-  background-color: #0ef20e;
 }
 
 img {
