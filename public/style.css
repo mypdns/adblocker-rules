@@ -1,5 +1,5 @@
 body {
-  background: url(background.jpg) no-repeat center center fixed;
+  background: url(background1.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -8,12 +8,13 @@ body {
   font-family: sans-serif;
   margin: auto;
   max-width: 1280px;
+  color: white;
 }
 
 .navbar {
   background-color: #313236;
   border-radius: 2px;
-  max-width: 800px;
+  max-width: 100%;
 }
 
 .navbar a {
@@ -25,5 +26,5 @@ body {
 }
 
 .navbar a:hover {
-  color: #ffffff;
+  color: #cccccc;
 }
