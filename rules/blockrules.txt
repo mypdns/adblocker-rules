@@ -58,3 +58,12 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/6
 github.com##.mt-3.flash-warn.flash
 github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
+! 10/13/2019 tv2.dk
+||tv2login.dk/api/login/v1/users/current/consents$xmlhttprequest
+||tv2a.dk/analytics/gallup/spring.js$script
+||tv2a.dk/ads/*
+||tv2a.dk/consent/*$script
+||tv2a.dk/oil/*$script
+||facebook.net^$script
+||adobedtm.com^$script
+||tv2net.zendesk.com^$script
