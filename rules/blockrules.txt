@@ -5,7 +5,7 @@ bluehouse.is###PopupOverLay_WA_0
 ||player.pulsemediatv.com^$third-party,$domain=~bwin.sport
 !||api.cxense.com/public/widget/data?$script
 ! 10/12/2019 https://gitbook.com/
-||googleapis.com^
+||googleapis.com^$important
 ! 10/12/2019 https://taenk.dk/
 ||cookieinformation.com^
 ! 10/10/2019 https://www.wired.com
@@ -111,6 +111,6 @@ github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
 ||tv2login.dk/api/login/v1/users/current/consents$xmlhttprequest
 ||tv2net.zendesk.com^$script
 ! 11/10/2019 https://www.youtube.com
-www.youtube.com###contentWrapper > .ytd-popup-container.style-scope
-www.youtube.com###subscribe-button
-www.youtube.com##.size-small.style-suggestive.ytd-masthead.style-scope
+youtube.com###contentWrapper > .ytd-popup-container.style-scope
+youtube.com###subscribe-button
+youtube.com##.size-small.style-suggestive.ytd-masthead.style-scope
