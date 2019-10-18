@@ -59,11 +59,15 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 github.com##.mt-3.flash-warn.flash
 github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
 ! 10/13/2019 tv2.dk
-||tv2login.dk/api/login/v1/users/current/consents$xmlhttprequest
-||tv2a.dk/analytics/gallup/spring.js$script
-||tv2a.dk/ads/*
-||tv2a.dk/consent/*$script
-||tv2a.dk/oil/*$script
-||facebook.net^$script
 ||adobedtm.com^$script
+||facebook.net^$script
+||tv2a.dk/ads/
+||tv2a.dk/analytics/gallup/spring.js$script
+||tv2a.dk/consent/$script
+||tv2a.dk/oil/$script
+||tv2login.dk/api/login/v1/users/current/consents$xmlhttprequest
 ||tv2net.zendesk.com^$script
+! 11/10/2019 https://www.youtube.com
+www.youtube.com###contentWrapper > .ytd-popup-container.style-scope
+www.youtube.com###subscribe-button
+www.youtube.com##.size-small.style-suggestive.ytd-masthead.style-scope
