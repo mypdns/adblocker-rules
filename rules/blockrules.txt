@@ -1,3 +1,5 @@
+! 10/12/2019 https://taenk.dk/
+||cookieinformation.com^
 ! 10/10/2019 https://www.wired.com
 www.wired.com##.paywall-bar--expanded.paywall-bar-failsafe
 www.wired.com##.paywall-bar__expanded
