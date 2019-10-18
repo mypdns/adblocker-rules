@@ -1,3 +1,7 @@
+! 10/10/2019 https://www.wired.com
+www.wired.com##.paywall-bar--expanded.paywall-bar-failsafe
+www.wired.com##.paywall-bar__expanded
+www.wired.com##.show-social-box.persistent-aside--align-left.persistent-aside
 ! 10/9/2019 https://duckduckgo.com
 duckduckgo.com##div.detail__pane:nth-of-type(2) > .detail__inner > .detail__body > .detail__body__content.c-detail > .c-detail__more > [href^="https://www.youtube.com/results"]
 ! 10/9/2019 dr.dk/
