@@ -20,7 +20,7 @@ before_script:
   - python3 -m pip install -U virtualenv #pip
   - python3 -m venv env
   - source venv/bin/activate
-  - python3 -m pip install git+https://github.com/adblockplus/python-abp
+  - python3 -m pip install python-abp #git+https://github.com/adblockplus/python-abp
   - git config --global user.name "${GITLAB_USER_NAME}"
   - git config --global user.email "${GITLAB_USER_EMAIL}"
 
