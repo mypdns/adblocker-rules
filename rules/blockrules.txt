@@ -1,3 +1,13 @@
+! 10/12/2019 dr.dk
+||adobedtm.com/
+||cookiebot.com^
+||www.dr.dk/drwebstat/
+! 10/13/2019 digst.dk
+||digst.dk/proxy.gba$first-party,xmlhttprequest
+! 10/13/2019 ft.dk
+||cdhsign.dk^
+||s.ytimg.com^$domain=www.ft.dk
+||typekit.net^$domain=www.ft.dk
 ! 10/18/2019 https://www.crowdstrike.com
 www.crowdstrike.com###optInMessage-new
 www.crowdstrike.com###optinmessagebg
