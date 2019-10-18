@@ -1,3 +1,7 @@
+bluehouse.is###PopupOverLay_WA_0
+bluehouse.is###customForm
+||player.pulsemediatv.com^$third-party,$domain=~bwin.sport
+!||api.cxense.com/public/widget/data?$script
 ! 10/12/2019 https://gitbook.com/
 ||googleapis.com^
 ! 10/12/2019 https://taenk.dk/
