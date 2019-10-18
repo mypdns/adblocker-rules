@@ -1,5 +1,7 @@
-bluehouse.is###PopupOverLay_WA_0
+! 10/19/2019 thefappeningblog.com
 bluehouse.is###customForm
+bluehouse.is###PopupOverLay_WA_0
+||google.com/recaptcha/$important,script
 ||player.pulsemediatv.com^$third-party,$domain=~bwin.sport
 !||api.cxense.com/public/widget/data?$script
 ! 10/12/2019 https://gitbook.com/
