@@ -1,3 +1,5 @@
+! 10/9/2019 https://duckduckgo.com
+duckduckgo.com##div.detail__pane:nth-of-type(2) > .detail__inner > .detail__body > .detail__body__content.c-detail > .c-detail__more > [href^="https://www.youtube.com/results"]
 ! 10/9/2019 dr.dk/
 ||www.dr.dk/DR.Common.Banner.Ads/$xmlhttprequest
 ||www.dr.dk/drWebStat/$script
