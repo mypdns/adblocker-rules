@@ -10,18 +10,18 @@ variables:
 
 cache:
   paths:
-    #- .cache/pip
+    - .cache/pip
     - "$CI_PROJECT_DIR/.cache/pip"
     - venv/
-    #- rules/
+    - rules/
 
 before_script:
-  - python -V  # Print out python version for debugging
-  - python3 -m pip install -U virtualenv pip
-  - python3 -m venv env
-  - source env/bin/activate
-  #- python3 -m pip install git+https://github.com/adblockplus/python-abp
-  - env/bin/pip install -U git+https://github.com/adblockplus/python-abp
+  #- python -V  # Print out python version for debugging
+  #- python3 -m pip install -U virtualenv pip
+  #- python3 -m venv env
+  #- source env/bin/activate
+  - python3 -m pip install git+https://github.com/adblockplus/python-abp
+  #- env/bin/pip install -U git+https://github.com/adblockplus/python-abp
   - git config --global user.name "${GITLAB_USER_NAME}"
   - git config --global user.email "${GITLAB_USER_EMAIL}"
 
@@ -45,7 +45,7 @@ pages:
   stage: deploy
   script:
     #- git checkout $CI_COMMIT_REF_NAME
-    - env/bin/flrender -i ublockorigin-rules=. AnonymousPoster.template public/blockrules.txt
+    - flrender -i ublockorigin-rules=. AnonymousPoster.template public/blockrules.txt
     #- flrender --help
     #- url_host=`git remote get-url origin | sed -e "s/https:\/\/gitlab-ci-token:.*@//g"`
     #- git remote set-url origin "https://gitlab-ci-token:${DEPLOY_KEY}@${url_host}"
@@ -55,6 +55,5 @@ pages:
   artifacts:
     paths:
     - public
-
   only:
     - master
