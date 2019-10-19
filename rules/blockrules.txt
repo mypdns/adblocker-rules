@@ -1,3 +1,9 @@
+! 10/19/2019 https://github.com
+github.com##.rounded-2.border.p-4.mb-6.mx-auto.signup-prompt
+
+! 10/19/2019 http://magnet2torrent.me
+magnet2torrent.me##li:nth-of-type(2)
+
 ! 10/19/2019 thefappeningblog.com
 bluehouse.is###customForm
 bluehouse.is###PopupOverLay_WA_0
