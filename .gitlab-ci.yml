@@ -1,19 +1,19 @@
 image: python:latest
 
-variables:
-  PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
+#variables:
+#  PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
 
 #stages:
 #  - build
 #  - test
 #  - deploy
 
-cache:
-  paths:
-    - .cache/pip
-    - "$CI_PROJECT_DIR/.cache/pip"
-    - venv/
-    - rules/
+#cache:
+#  paths:
+#    - .cache/pip
+#    - "$CI_PROJECT_DIR/.cache/pip"
+#    - venv/
+#    - rules/
 
 before_script:
   #- python -V  # Print out python version for debugging
