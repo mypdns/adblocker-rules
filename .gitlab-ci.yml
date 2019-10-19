@@ -52,8 +52,8 @@ pages:
     #- git add .
     #- git commit -m '[skip ci] commit from CI runner'
     #- git push "https://${GITLAB_USER_NAME}:${DEPLOY_KEY}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}"
-  artifacts:
-    paths:
-    - public
+  #artifacts:
+    #paths:
+    #- public
   only:
     - master
