@@ -114,3 +114,4 @@ github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
 youtube.com###contentWrapper > .ytd-popup-container.style-scope
 youtube.com###subscribe-button
 youtube.com##.size-small.style-suggestive.ytd-masthead.style-scope
+||magnet2torrent.me/html/pageindex.html
