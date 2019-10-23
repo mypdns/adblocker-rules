@@ -1,15 +1,11 @@
 ! 10/20/2019 https://www.reddit.com
 www.reddit.com##div.SubredditVars-r-pihole:nth-of-type(3)
-
 ! 10/20/2019 https://www.nytimes.com
 www.nytimes.com##.e1x0szx60.css-1uqnipt.expanded-dock.expanded.shown.gdpr
-
 ! 10/19/2019 https://github.com
 github.com##.rounded-2.border.p-4.mb-6.mx-auto.signup-prompt
-
 ! 10/19/2019 http://magnet2torrent.me
 magnet2torrent.me##li:nth-of-type(2)
-
 ! 10/19/2019 thefappeningblog.com
 bluehouse.is###customForm
 bluehouse.is###PopupOverLay_WA_0
