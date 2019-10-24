@@ -20,8 +20,9 @@ alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,g
 ! 09/10/2019 https://v2.metart.com
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.col-xs-12.col-sm-12.col-md-12.col-lg-4
 ! 18/10/2019 https://v2.metart.com
-!##.modal-dialog-centered.free-access-modal.jipZkP.sc-lhVmIH.man-modal.modal-dialog
-!##.show.modal.fade
+! Updated by suggestion of krystian3w
+v2.metart.com##.free-access-modal.modal-dialog
+v2.metart.com##.modal.fade
 ! 18 Oct 2019 14:21
 ##.container.content > div:nth-of-type(1) > div > .hidden-xs
 ##.live-girls.more-girls
