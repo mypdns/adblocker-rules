@@ -1,3 +1,101 @@
+! 10/22/2019 https://www.youtube.com
+www.youtube.com###main
+
+! 10/23/2019 https://serverfault.com
+serverfault.com###noscript-warning
+
+! 10/23/2019 ekstrabladet.dk
+||consent.dk^
+
+! 10/30/2019 http://18teens.pro
+18teens.pro###topbar
+18teens.pro##.ad-on-video
+18teens.pro##div.mexu-bns-bl:nth-of-type(4)
+18teens.pro##div.mexu-bns-bl:nth-of-type(6)
+
+! 11/3/2019 https://gitlab.com
+gitlab.com##.rounded.flash-notice.flash-content
+
+! 11/4/2019 http://freeteenmovs.pro
+freeteenmovs.pro###topbar
+
+! 11/4/2019 https://hentai-paradise.fr
+hentai-paradise.fr###theEnd
+hentai-paradise.fr##.reveal-overlay
+
+! 11/4/2019 http://hentaisexuality.com
+hentaisexuality.com###popwindow
+###popwindow
+
+! 11/4/2019 http://horse-fucking.com
+horse-fucking.com###popwindow
+
+! 11/4/2019 livefreecamx.com
+||ssl-ccstatic.highwebmedia.com/CACHE/js/*$script
+###.overlay
+
+! 11/4/2019 https://www.denic.de
+www.denic.de##.notification--bottom.notification--acknowledge.notification--notice.notification.teaser
+
+! 11/4/2019 https://nakedgirls.org
+!nakedgirls.org###dclm_modal_screen
+!nakedgirls.org###dclm_modal_content
+
+! 11/4/2019 nakedgirls.org
+||nakedgirls.org/wp-content/cache/min/1/9fcd011c46522a73b34f64eb7ca6b479.js$script
+
+! 11/4/2019 http://nakedgirls.pw
+nakedgirls.pw##.adHomePage
+nakedgirls.pw##.plugrush.centered
+
+! 11/4/2019 http://nakedwomenweb.com
+nakedwomenweb.com##canvas:nth-of-type(2)
+
+! 11/4/2019 http://www.nextpics.com
+www.nextpics.com##.popup
+www.nextpics.com##.\<b\>19\<\/b\>\<br.line.on.\<b\>\/var\/www\/damplips\/data\/www\/nextpics\.com\/wp-content\/themes\/vlog-v5\/ssi\/warning18\.php\<\/b\>.in.message_cookie.index\:.Undefined.\<b\>Notice\<\/b\>\:.\/\>.\<br.cookie-message
+
+! 11/4/2019 http://petiteteenmovs.pro
+!petiteteenmovs.pro###topbar
+###topbar
+
+! 11/4/2019 https://pornshui.com
+||pornshui.com/tf/cron.php$subdocument
+
+! 11/4/2019 http://sexual-teens.com
+sexual-teens.com##div.container-fluid:nth-of-type(2) > .text-center.mobile-thumbs > a[href^="go.php"]:nth-of-type(2)
+
+! 11/4/2019 truepurenudism.com
+||truepurenudism.com/scripts/*$script
+||truepurenudism.com/counter.js$script
+
+! 11/4/2019 https://the-sex.me
+the-sex.me###disclaimer
+the-sex.me##.thumb-ad
+
+! 11/4/2019 https://www.xgaytube.tv
+www.xgaytube.tv##.active.js-random-link-item.js-menu-random.b-main-nav__link--mi.b-main-nav__link
+
+! 11/4/2019 http://youngsexpics.com
+youngsexpics.com##.partridge
+
+! 11/4/2019 youngsexpics.com
+||youngsexpics.com/esuvmisa$xhr
+||youngsexpics.com/trmdvjik/cron.php$xhr
+||youngsexpics.com/trmdvjik/*
+
+! 11/4/2019 freelatinapics.com
+||bnstats.js$script
+||lab.blackpics.net/iframe.php$subdocument
+||freelatinapics.com/lsvd/cron.php$xhr
+||www.freelatinapics.com/lsvd/check.php
+
+! 11/4/2019 https://www.hostwinds.com
+www.hostwinds.com##.all-services
+||www.hostwinds.com/guide/wp-content/plugins/super-socializer/images/transparent_bg.png$image
+www.hostwinds.com###heateor_ss_browser_popup_bg
+||www.hostwinds.com/guide/wp-content/plugins/super-socializer/images/close.png$image
+
 ! 10/20/2019 By krystian3w at https://gitlab.com/my-privacy-dns/matrix/matrix/issues/182#note_223460116
 /^https?:\/\/(.*\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{5,22}[0-9]{1,8}\.(agency|icu|life|live)\//$document,domain=agency|icu|life|live
 
