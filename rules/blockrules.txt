@@ -1,3 +1,5 @@
+||google.com/recaptcha/$script,subdocument
+
 ! 10/22/2019 https://www.youtube.com
 www.youtube.com###main
 
