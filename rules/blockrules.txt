@@ -34,6 +34,8 @@ serverfault.com###noscript-warning
 
 ! 11/3/2019 https://gitlab.com
 gitlab.com##.rounded.flash-notice.flash-content
+! 11/15/2019 https://gitlab.com
+gitlab.com##.flash-notice
 
 ! 11/4/2019 http://freeteenmovs.pro
 freeteenmovs.pro###topbar
