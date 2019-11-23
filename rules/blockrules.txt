@@ -1,3 +1,13 @@
+! YET ANOTHER HUGE FAILURE of TREAT from EasyLst
+! @@||cam4.*/ads/directory/$1p,xmlhttprequest,domain=~gaytube.com|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com
+||cam4.*/ads/directory/$1p,xmlhttprequest
+
+! 11/19/2019 https://www.clickcease.com
+www.clickcease.com###cookies-alert
+
+! 11/22/2019 https://blogspot.com
+blogspot.com###cookieChoiceInfo
+
 ! 11/6/2019 https://gitlab.com
 gitlab.com##.rounded.flash-alert.flash-content
 
