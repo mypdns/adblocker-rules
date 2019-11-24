@@ -1,6 +1,9 @@
 ! YET ANOTHER HUGE FAILURE of TREAT from EasyLst
 ! @@||cam4.*/ads/directory/$1p,xmlhttprequest,domain=~gaytube.com|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com
 ||cam4.*/ads/directory/$1p,xmlhttprequest
+! https://github.com/easylist/easylist/pull/4321/files
+||alternathistory.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js$script,~third-party
+/wp-content/plugins/google-analytics-for-wordpress/*$1p,script
 
 ! 11/19/2019 https://www.clickcease.com
 !www.clickcease.com###cookies-alert
@@ -19,7 +22,8 @@ linuxconfig.org##div.size-25.g-block:nth-of-type(1)
 linuxconfig.org##div.size-25.g-block:nth-of-type(2) > .g-content > div.moduletable:nth-of-type(1)
 
 ! 11/14/2019 https://www.manualslib.com
-www.manualslib.com###cookie-alert
+!www.manualslib.com###cookie-alert
+##cookie-alert
 
 ! 11/14/2019 https://www.bowerswilkins.com
 ##.eu-cookie-compliance-content
@@ -59,11 +63,11 @@ hentai-paradise.fr###theEnd
 hentai-paradise.fr##.reveal-overlay
 
 ! 11/4/2019 http://hentaisexuality.com
-hentaisexuality.com###popwindow
+!hentaisexuality.com###popwindow
 ##popwindow
 
 ! 11/4/2019 http://horse-fucking.com
-horse-fucking.com###popwindow
+!horse-fucking.com###popwindow
 
 ! 11/4/2019 livefreecamx.com
 ||ssl-ccstatic.highwebmedia.com/CACHE/js/*$script
@@ -93,7 +97,7 @@ www.nextpics.com##.\<b\>19\<\/b\>\<br.line.on.\<b\>\/var\/www\/damplips\/data\/w
 
 ! 11/4/2019 http://petiteteenmovs.pro
 !petiteteenmovs.pro###topbar
-###topbar
+##topbar
 
 ! 11/4/2019 https://pornshui.com
 ||pornshui.com/tf/cron.php$subdocument
