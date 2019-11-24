@@ -3,10 +3,12 @@
 ||cam4.*/ads/directory/$1p,xmlhttprequest
 
 ! 11/19/2019 https://www.clickcease.com
-www.clickcease.com###cookies-alert
+!www.clickcease.com###cookies-alert
+##cookies-alert
 
 ! 11/22/2019 https://blogspot.com
-blogspot.com###cookieChoiceInfo
+!blogspot.com###cookieChoiceInfo
+##cookieChoiceInfo
 
 ! 11/6/2019 https://gitlab.com
 gitlab.com##.rounded.flash-alert.flash-content
@@ -31,14 +33,16 @@ www.manualslib.com###cookie-alert
 www.youtube.com###main
 
 ! 10/23/2019 https://serverfault.com
-serverfault.com###noscript-warning
+!serverfault.com###noscript-warning
+##noscript-warning
 
 ! 10/23/2019 ekstrabladet.dk
 ||consent.dk^
 
 ! 10/30/2019 http://18teens.pro
 18teens.pro###topbar
-18teens.pro##.ad-on-video
+!18teens.pro##.ad-on-video
+##.ad-on-video
 18teens.pro##div.mexu-bns-bl:nth-of-type(4)
 18teens.pro##div.mexu-bns-bl:nth-of-type(6)
 
@@ -56,14 +60,15 @@ hentai-paradise.fr##.reveal-overlay
 
 ! 11/4/2019 http://hentaisexuality.com
 hentaisexuality.com###popwindow
-###popwindow
+##popwindow
 
 ! 11/4/2019 http://horse-fucking.com
 horse-fucking.com###popwindow
 
 ! 11/4/2019 livefreecamx.com
 ||ssl-ccstatic.highwebmedia.com/CACHE/js/*$script
-###.overlay
+!###.overlay
+##.overlay
 
 ! 11/4/2019 https://www.denic.de
 www.denic.de##.notification--bottom.notification--acknowledge.notification--notice.notification.teaser
