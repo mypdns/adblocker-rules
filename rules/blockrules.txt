@@ -1,3 +1,15 @@
+! 11/28/2019 https://bestlovesexdoll.com
+!bestlovesexdoll.com##.halo-modal.wrapper-newsletter
+##.halo-modal.wrapper-newsletter
+
+! 11/28/2019 bestlistofporn.com
+||bestlistofporn.com/wp-content/plugins/google-analytics-for-wordpress/*$script
+
+! 11/28/2019 https://en.bab.la
+en.bab.la##div.teaser-wrapper:nth-of-type(5)
+en.bab.la##.magazine.teaser
+en.bab.la##div.teaser-wrapper:nth-of-type(6)
+
 ! 11/24/2019 casacherda.nl
 /wp-content/plugins/google-analytics-for-wordpress/*$script
 
