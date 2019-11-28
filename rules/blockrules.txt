@@ -8,6 +8,9 @@
 ||alternathistory.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js$script,~third-party
 /wp-content/plugins/google-analytics-for-wordpress/*$1p,script
 
+! Googles recaptcha.net
+||recaptcha.net^
+
 ! 11/19/2019 https://www.clickcease.com
 !www.clickcease.com###cookies-alert
 ##cookies-alert
