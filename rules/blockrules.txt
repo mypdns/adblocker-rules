@@ -18,7 +18,7 @@ en.bab.la##div.teaser-wrapper:nth-of-type(6)
 ||cam4.*/ads/directory/$1p,xmlhttprequest
 ! https://github.com/easylist/easylist/pull/4321/files
 ||alternathistory.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js$script,~third-party
-/wp-content/plugins/google-analytics-for-wordpress/*$1p,script
+/wp-content/plugins/google-analytics-for-wordpress/$important,script
 
 ! Googles recaptcha.net
 ||recaptcha.net^
