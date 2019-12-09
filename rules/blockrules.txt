@@ -1,3 +1,34 @@
+! 09/12/2019 flortestobb.com
+||www.flortestobb.com/landers/*
+
+! 09/12/2019 https://csaladi-porno.com
+###erotikusmodalbox
+##.show.fade.modal-backdrop
+
+! 09/12/2019 https://pornovideo.szex.hu
+pornovideo.szex.hu###\31 8kapu
+pornovideo.szex.hu##.in.fade.modal-backdrop
+
+||/ad_track.js$script
+
+! 09/12/2019 pornovideo.szex.hu
+||ads.exoclick.com/ad_track.js$script
+
+! 09/12/2019 https://szexfilmek-ingyen.hu
+!||szexfilmek-ingyen.hu
+/frodo.php$image
+
+! 09/12/2019 https://szexkepek.net
+###\31 8kapu
+##.in.fade.modal-backdrop
+||szexkepek.net/webfile.php$image
+
+! 09/12/2019 https://tini-porno.com
+tini-porno.com###\31 8kapu
+tini-porno.com##.in.fade.modal-backdrop
+tini-porno.com###text-2 > div.textwidget:nth-of-type(1)
+tini-porno.com##.hidden-sm.sidebar.col-sm-4
+
 ! 24/11/2019 https://github.com
 github.com##.box-shadow-large.Box.p-4.left-0.Popover-message--top-left.Popover-message--large.Popover-message
 github.com##.box-shadow-large.Box.mt-6.p-3.text-left.Popover-message--large.Popover-message--top-left.Popover-message
