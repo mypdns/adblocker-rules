@@ -1,3 +1,17 @@
+! 24/11/2019 https://github.com
+github.com##.box-shadow-large.Box.p-4.left-0.Popover-message--top-left.Popover-message--large.Popover-message
+github.com##.box-shadow-large.Box.mt-6.p-3.text-left.Popover-message--large.Popover-message--top-left.Popover-message
+
+! 01/12/2019 https://gitlab.com
+gitlab.com##.flash-alert
+! 06/11/2019 https://gitlab.com
+gitlab.com##.rounded.flash-alert.flash-content
+
+! 01/12/2019 https://bitbucket.org
+bitbucket.org##.success.fadeout.shadowed.closeable.aui-message
+! 09/10/2019 https://bitbucket.org
+bitbucket.org###id_is_private_group
+
 ! 09/12/2019 dprtb.com
 ||dprtb.com/click
 
@@ -7,6 +21,11 @@
 ###accept-cookies
 ##.product-suggest
 
+! 11/11/2019 https://www.thesslstore.com
+www.thesslstore.com##.open.slide-out-div
+
+! 17/11/2019 https://blog.heckel.io
+blog.heckel.io###sidebar_second_ad
 
 ! 11/28/2019 https://bestlovesexdoll.com
 !bestlovesexdoll.com##.halo-modal.wrapper-newsletter
