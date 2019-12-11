@@ -1,226 +1,171 @@
+! Another big mistake from EasyList https://github.com/easylist/easylist/commit/c0efafdc218efa80cb12f42e424728924153c261#diff-9e00091554e8e64d830b74ad010e291dR102
+||mediaworld.it^*/GoogleTagManager.js?
 ! 09/12/2019 https://videoporno-gratuite.fr
 !||videoporno-gratuite.fr/meyer.php$image
 /meyer.php$image
-
 ! 09/12/2019 flortestobb.com
-||www.flortestobb.com/landers/*
-
+||www.flortestobb.com/landers/
 ! 09/12/2019 https://csaladi-porno.com
 ###erotikusmodalbox
 ##.show.fade.modal-backdrop
-
 ! 09/12/2019 https://pornovideo.szex.hu
 pornovideo.szex.hu###\31 8kapu
 pornovideo.szex.hu##.in.fade.modal-backdrop
-
 ||/ad_track.js$script
-
 ! 09/12/2019 pornovideo.szex.hu
 ||ads.exoclick.com/ad_track.js$script
-
 ! 09/12/2019 https://szexfilmek-ingyen.hu
 !||szexfilmek-ingyen.hu
 /frodo.php$image
-
 ! 09/12/2019 https://szexkepek.net
 ###\31 8kapu
 ##.in.fade.modal-backdrop
 ||szexkepek.net/webfile.php$image
-
 ! 09/12/2019 https://tini-porno.com
 tini-porno.com###\31 8kapu
-tini-porno.com##.in.fade.modal-backdrop
 tini-porno.com###text-2 > div.textwidget:nth-of-type(1)
 tini-porno.com##.hidden-sm.sidebar.col-sm-4
-
+tini-porno.com##.in.fade.modal-backdrop
 ! 24/11/2019 https://github.com
-github.com##.box-shadow-large.Box.p-4.left-0.Popover-message--top-left.Popover-message--large.Popover-message
 github.com##.box-shadow-large.Box.mt-6.p-3.text-left.Popover-message--large.Popover-message--top-left.Popover-message
-
+github.com##.box-shadow-large.Box.p-4.left-0.Popover-message--top-left.Popover-message--large.Popover-message
 ! 01/12/2019 https://gitlab.com
 gitlab.com##.flash-alert
 ! 06/11/2019 https://gitlab.com
 gitlab.com##.rounded.flash-alert.flash-content
-
 ! 01/12/2019 https://bitbucket.org
 bitbucket.org##.success.fadeout.shadowed.closeable.aui-message
 ! 09/10/2019 https://bitbucket.org
 bitbucket.org###id_is_private_group
-
 ! 09/12/2019 dprtb.com
 ||dprtb.com/click
-
 ! 11/28/2019 https://bestlovesexdoll.com
 !bestlovesexdoll.com###accept-cookies
 !bestlovesexdoll.com##.product-suggest
 ###accept-cookies
 ##.product-suggest
-
 ! 11/11/2019 https://www.thesslstore.com
 www.thesslstore.com##.open.slide-out-div
-
 ! 17/11/2019 https://blog.heckel.io
 blog.heckel.io###sidebar_second_ad
-
 ! 11/28/2019 https://bestlovesexdoll.com
 !bestlovesexdoll.com##.halo-modal.wrapper-newsletter
 ##.halo-modal.wrapper-newsletter
-
 ! 11/28/2019 bestlistofporn.com
-||bestlistofporn.com/wp-content/plugins/google-analytics-for-wordpress/*$script
-
+||bestlistofporn.com/wp-content/plugins/google-analytics-for-wordpress/$script
 ! 11/28/2019 https://en.bab.la
-en.bab.la##div.teaser-wrapper:nth-of-type(5)
 en.bab.la##.magazine.teaser
+en.bab.la##div.teaser-wrapper:nth-of-type(5)
 en.bab.la##div.teaser-wrapper:nth-of-type(6)
-
 ! 11/24/2019 casacherda.nl
-||/wp-content/plugins/google-analytics-for-wordpress/*$script
-
+||/wp-content/plugins/google-analytics-for-wordpress/$script
 ! YET ANOTHER HUGE FAILURE of TREAT from EasyLst
 ! @@||cam4.*/ads/directory/$1p,xmlhttprequest,domain=~gaytube.com|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com
 ||cam4.*/ads/directory/$1p,xmlhttprequest
 ! https://github.com/easylist/easylist/pull/4321/files
-||alternathistory.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js$script,~third-party
 /wp-content/plugins/google-analytics-for-wordpress/$important,script
-
+||alternathistory.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js$script,~third-party
 ! Googles recaptcha.net
 ||recaptcha.net^
-
 ! 11/19/2019 https://www.clickcease.com
 !www.clickcease.com###cookies-alert
 ##cookies-alert
-
 ! 11/22/2019 https://blogspot.com
 !blogspot.com###cookieChoiceInfo
-##cookieChoiceInfo
-
+##cookiechoiceinfo
 ! 11/6/2019 https://gitlab.com
 gitlab.com##.rounded.flash-alert.flash-content
-
 ! 11/12/2019 https://linuxconfig.org
 linuxconfig.org##div.g-grid:nth-of-type(2) > .size-100.g-block > .g-content
 linuxconfig.org##div.size-25.g-block:nth-of-type(1)
 linuxconfig.org##div.size-25.g-block:nth-of-type(2) > .g-content > div.moduletable:nth-of-type(1)
-
 ! 11/14/2019 https://www.manualslib.com
 !www.manualslib.com###cookie-alert
 ##cookie-alert
-
 ! 11/14/2019 https://www.bowerswilkins.com
 ##.eu-cookie-compliance-content
-
 ! https://github.com/easylist/easylist/commit/a231c361bc8fd6fb5b90d6b4b24bb5fda1d72800#diff-3c94e5e631ac34edafb40b939d16245aR36
-||hdtvpolska.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js
-
 ||google.com/recaptcha/$script,subdocument
-
+||hdtvpolska.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js
 ! 10/22/2019 https://www.youtube.com
 www.youtube.com###main
-
 ! 10/23/2019 https://serverfault.com
 !serverfault.com###noscript-warning
 ##noscript-warning
-
 ! 10/23/2019 ekstrabladet.dk
 ||consent.dk^
-
 ! 10/30/2019 http://18teens.pro
 18teens.pro###topbar
 !18teens.pro##.ad-on-video
 ##.ad-on-video
 18teens.pro##div.mexu-bns-bl:nth-of-type(4)
 18teens.pro##div.mexu-bns-bl:nth-of-type(6)
-
 ! 11/3/2019 https://gitlab.com
 gitlab.com##.rounded.flash-notice.flash-content
 ! 11/15/2019 https://gitlab.com
 gitlab.com##.flash-notice
-
 ! 11/4/2019 http://freeteenmovs.pro
 freeteenmovs.pro###topbar
-
 ! 11/4/2019 https://hentai-paradise.fr
 hentai-paradise.fr###theEnd
 hentai-paradise.fr##.reveal-overlay
-
 ! 11/4/2019 http://hentaisexuality.com
 !hentaisexuality.com###popwindow
 ##popwindow
-
 ! 11/4/2019 http://horse-fucking.com
 !horse-fucking.com###popwindow
-
 ! 11/4/2019 livefreecamx.com
-||ssl-ccstatic.highwebmedia.com/CACHE/js/*$script
+||ssl-ccstatic.highwebmedia.com/CACHE/js/$script
 !###.overlay
 ##.overlay
-
 ! 11/4/2019 https://www.denic.de
 www.denic.de##.notification--bottom.notification--acknowledge.notification--notice.notification.teaser
-
 ! 11/4/2019 https://nakedgirls.org
 !nakedgirls.org###dclm_modal_screen
 !nakedgirls.org###dclm_modal_content
-
 ! 11/4/2019 nakedgirls.org
 ||nakedgirls.org/wp-content/cache/min/1/9fcd011c46522a73b34f64eb7ca6b479.js$script
-
 ! 11/4/2019 http://nakedgirls.pw
 nakedgirls.pw##.adHomePage
 nakedgirls.pw##.plugrush.centered
-
 ! 11/4/2019 http://nakedwomenweb.com
 nakedwomenweb.com##canvas:nth-of-type(2)
-
 ! 11/4/2019 http://www.nextpics.com
-www.nextpics.com##.popup
 www.nextpics.com##.\<b\>19\<\/b\>\<br.line.on.\<b\>\/var\/www\/damplips\/data\/www\/nextpics\.com\/wp-content\/themes\/vlog-v5\/ssi\/warning18\.php\<\/b\>.in.message_cookie.index\:.Undefined.\<b\>Notice\<\/b\>\:.\/\>.\<br.cookie-message
-
+www.nextpics.com##.popup
 ! 11/4/2019 http://petiteteenmovs.pro
 !petiteteenmovs.pro###topbar
 ##topbar
-
 ! 11/4/2019 https://pornshui.com
 ||pornshui.com/tf/cron.php$subdocument
-
 ! 11/4/2019 http://sexual-teens.com
 sexual-teens.com##div.container-fluid:nth-of-type(2) > .text-center.mobile-thumbs > a[href^="go.php"]:nth-of-type(2)
-
 ! 11/4/2019 truepurenudism.com
-||truepurenudism.com/scripts/*$script
 ||truepurenudism.com/counter.js$script
-
+||truepurenudism.com/scripts/$script
 ! 11/4/2019 https://the-sex.me
 the-sex.me###disclaimer
 the-sex.me##.thumb-ad
-
 ! 11/4/2019 https://www.xgaytube.tv
 www.xgaytube.tv##.active.js-random-link-item.js-menu-random.b-main-nav__link--mi.b-main-nav__link
-
 ! 11/4/2019 http://youngsexpics.com
 youngsexpics.com##.partridge
-
 ! 11/4/2019 youngsexpics.com
 ||youngsexpics.com/esuvmisa$xhr
+||youngsexpics.com/trmdvjik/
 ||youngsexpics.com/trmdvjik/cron.php$xhr
-||youngsexpics.com/trmdvjik/*
-
 ! 11/4/2019 freelatinapics.com
 ||bnstats.js$script
-||lab.blackpics.net/iframe.php$subdocument
 ||freelatinapics.com/lsvd/cron.php$xhr
+||lab.blackpics.net/iframe.php$subdocument
 ||www.freelatinapics.com/lsvd/check.php
-
 ! 11/4/2019 https://www.hostwinds.com
-www.hostwinds.com##.all-services
-||www.hostwinds.com/guide/wp-content/plugins/super-socializer/images/transparent_bg.png$image
 www.hostwinds.com###heateor_ss_browser_popup_bg
+www.hostwinds.com##.all-services
 ||www.hostwinds.com/guide/wp-content/plugins/super-socializer/images/close.png$image
-
+||www.hostwinds.com/guide/wp-content/plugins/super-socializer/images/transparent_bg.png$image
 ! 10/20/2019 By krystian3w at https://gitlab.com/my-privacy-dns/matrix/matrix/issues/182#note_223460116
 /^https?:\/\/(.*\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{5,22}[0-9]{1,8}\.(agency|icu|life|live)\//$document,domain=agency|icu|life|live
-
 ! 10/20/2019 https://www.reddit.com
 www.reddit.com##div.SubredditVars-r-pihole:nth-of-type(3)
 ! 10/20/2019 https://www.nytimes.com
