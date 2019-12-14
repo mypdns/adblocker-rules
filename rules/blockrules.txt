@@ -1,3 +1,5 @@
+! 09/12/2019 http://www.erotica.xxx
+/banners/*$domain=www.erotica.xxx,image
 ! Another big mistake from EasyList https://github.com/easylist/easylist/commit/c0efafdc218efa80cb12f42e424728924153c261#diff-9e00091554e8e64d830b74ad010e291dR102
 ||mediaworld.it^*/GoogleTagManager.js?
 ! 09/12/2019 https://videoporno-gratuite.fr
@@ -13,7 +15,7 @@ pornovideo.szex.hu###\31 8kapu
 pornovideo.szex.hu##.in.fade.modal-backdrop
 ||/ad_track.js$script
 ! 09/12/2019 pornovideo.szex.hu
-||ads.exoclick.com/ad_track.js$script
+||ads.exoclick.com/ad_track.js$script^$important
 ! 09/12/2019 https://szexfilmek-ingyen.hu
 !||szexfilmek-ingyen.hu
 /frodo.php$image
