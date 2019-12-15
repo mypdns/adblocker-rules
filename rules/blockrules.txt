@@ -1,3 +1,4 @@
+||yastatic.net/share2/share.js$script^important
 ! 09/12/2019 http://www.erotica.xxx
 /banners/*$domain=www.erotica.xxx,image
 ! Another big mistake from EasyList https://github.com/easylist/easylist/commit/c0efafdc218efa80cb12f42e424728924153c261#diff-9e00091554e8e64d830b74ad010e291dR102
