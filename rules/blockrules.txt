@@ -1,3 +1,5 @@
+! Yet another Seriously threat from google and easylist
+||google.com^*recaptcha/$subdocument^$important
 ||yastatic.net/share2/share.js$script^important
 ! 09/12/2019 http://www.erotica.xxx
 /banners/*$domain=www.erotica.xxx,image
