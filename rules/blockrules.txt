@@ -42,6 +42,7 @@ github.com##.p-2.border-bottom.js-notice
 gitlab.com##.flash-alert
 ! 06/11/2019 https://gitlab.com
 gitlab.com##.rounded.flash-alert.flash-content
+##.prepend-top-10.append-bottom-20.banner-non-empty-state.banner-callout.js-autodevops-banner
 ! 01/12/2019 https://bitbucket.org
 bitbucket.org##.success.fadeout.shadowed.closeable.aui-message
 ! 09/10/2019 https://bitbucket.org
