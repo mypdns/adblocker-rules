@@ -1,5 +1,7 @@
 ! Yet another Seriously threat from google and easylist
-||google.com^*recaptcha/$subdocument^$important
+! with help from @THEtomaso at https://github.com/easylist/easylist/issues/4529#issuecomment-566108181
+||google.com^*recaptcha/$frame,badfilter
+||google.com^*recaptcha/$important
 ||yastatic.net/share2/share.js$script^important
 ! 09/12/2019 http://www.erotica.xxx
 /banners/*$domain=www.erotica.xxx,image
