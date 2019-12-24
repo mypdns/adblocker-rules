@@ -1,3 +1,5 @@
+! Prevent https://github.com/easylist/easylist/pull/4564
+http://duskgytldkxiuqc6.onion/,important
 ! Yet another Seriously threat from google and easylist
 ! with help from @THEtomaso at https://github.com/easylist/easylist/issues/4529#issuecomment-566108181
 ||google.com^*recaptcha/$frame,badfilter
@@ -201,6 +203,8 @@ www.wired.com##.paywall-bar__expanded
 www.wired.com##.show-social-box.persistent-aside--align-left.persistent-aside
 ! 10/9/2019 https://duckduckgo.com
 duckduckgo.com##div.detail__pane:nth-of-type(2) > .detail__inner > .detail__body > .detail__body__content.c-detail > .c-detail__more > [href^="https://www.youtube.com/results"]
+! 23/12/2019 https://github.com/easylist/easylist/issues/4558
+||sascdn.com^$third-party,important
 ! 10/9/2019 dr.dk/
 ||www.dr.dk/DR.Common.Banner.Ads/$xmlhttprequest
 ||www.dr.dk/drWebStat/$script
