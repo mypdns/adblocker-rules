@@ -1,5 +1,8 @@
 ! Prevent https://github.com/easylist/easylist/pull/4564
 http://duskgytldkxiuqc6.onion/,important
+! Prevent https://github.com/easylist/easylist/pull/4618
+||connect.squareup.com/payments/analytics/frame.html,important
+||connect.squareupsandbox.com/payments/analytics/frame.html,important
 ! Yet another Seriously threat from google and easylist
 ! with help from @THEtomaso at https://github.com/easylist/easylist/issues/4529#issuecomment-566108181
 ||google.com^*recaptcha/$frame,badfilter
