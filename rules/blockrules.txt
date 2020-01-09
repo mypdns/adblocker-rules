@@ -1,3 +1,39 @@
+! 18/12/2019 https://gitlab.com
+gitlab.com##.content-block.landing.bordered-box
+
+! 19/12/2019 focus.de
+||gstatic.com^
+
+! 23/12/2019 poulnielsen.dk
+||omnicar.io^
+||api.omnicar.io^
+||serviceagreement.omnicar.io^
+
+! 23/12/2019 dr.dk
+!||sascdn.com^$third-party^$important
+
+! 31/12/2019 https://gitlab.com
+gitlab.com##.content-block.bordered-box
+
+
+
+! 31/12/2019 https://members.metart.com
+!members.metart.com##div.custom-cams-container.row:nth-of-type(4) > .custom-cams.container
+##div.custom-cams-container.row
+##.custom-hover-cams.hidden-xs.hidden-sm.hidden-md
+##.custom-beta-notice
+
+! 31/12/2019 https://members.metart.com
+!members.metart.com##.custom-hover-cams.hidden-xs.hidden-sm.hidden-md > .pull-left
+
+! 01/01/2020 https://www.fullrate.dk
+www.fullrate.dk##.callme-popunder
+www.fullrate.dk##[href="/mit-fullrate"]
+||www.fullrate.dk/selvbetjening/res/img/ny-mfr_banner.jpg$image
+
+! 01/01/2020 https://gitlab.com
+gitlab.com##.gl-banner.js-autodevops-banner
+
 ! https://github.com/easylist/easylist/pull/4663/files
 torrentz2.eu,torrentz2.is##.NonToleratds
 torrentz2.eu,torrentz2.is##.downurls > dl:nth-of-type(1)
