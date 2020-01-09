@@ -1,3 +1,165 @@
+! https://github.com/easylist/easylist/pull/4663/files
+torrentz2.eu,torrentz2.is##.NonToleratds
+torrentz2.eu,torrentz2.is##.downurls > dl:nth-of-type(1)
+op.gg##[class*="Ad"]
+ndtv.com,.is##a[href*=".amazonaws.com"]
+1337x.to,kissmanga.com,mylivecricket.tv##div[id*="Composite"]
+
+###accept-cookies
+##.product-suggest
+
+! 12/1/2019 https://sihteeriopisto.co
+sihteeriopisto.co##.mfp-content
+sihteeriopisto.co##.mfp-inline-holder.mfp-container
+sihteeriopisto.co##.mfp-ready.mfp-fade.mfp-auto-cursor.mfp-wrap
+sihteeriopisto.co##.mfp-ready.mfp-fade.mfp-bg
+
+! 12/2/2019 https://www.mechbunny.com
+www.mechbunny.com##.cookieWarningBox
+
+! 12/2/2019 https://hub.docker.com
+hub.docker.com##.styles__wrapper___EX-Nj
+
+! 12/2/2019 https://bitbucket.org
+bitbucket.org##.success.fadeout.shadowed.closeable.aui-message
+
+! 12/2/2019 https://gitlab.com
+gitlab.com##.flash-alert
+
+! 12/2/2019 https://duckduckgo.com
+duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--fadein.badge-link--top.badge-link
+
+! 12/2/2019 adexplode.pw
+||www.adexplode.pw^
+
+! 12/4/2019 https://gitlab.com
+gitlab.com##.prepend-top-10.append-bottom-20.banner-non-empty-state.banner-callout.js-autodevops-banner
+
+! 12/4/2019 https://bitbucket.org
+bitbucket.org###id_is_private_group
+
+! 12/5/2019 https://gitlab.com
+gitlab.com###promote_repository_features
+
+! 12/6/2019 https://www.8muses.com
+www.8muses.com##a.t-hover.c-tile:nth-of-type(4) > .image
+www.8muses.com##a.t-hover.c-tile:nth-of-type(12) > .image
+www.8muses.com##a.t-hover.c-tile:nth-of-type(24) > .image
+www.8muses.com##a.t-hover.c-tile:nth-of-type(36) > .image
+www.8muses.com##a.t-hover.c-tile:nth-of-type(36)
+www.8muses.com##a.t-hover.c-tile:nth-of-type(46) > .image
+www.8muses.com##a.t-hover.c-tile:nth-of-type(46)
+www.8muses.com##a.t-hover.c-tile:nth-of-type(55) > .image
+www.8muses.com##a.t-hover.c-tile:nth-of-type(55)
+www.8muses.com##a.t-hover.c-tile:nth-of-type(64) > .image
+www.8muses.com##a.t-hover.c-tile:nth-of-type(64)
+www.8muses.com##a.t-hover.c-tile:nth-of-type(79) > .image
+www.8muses.com##a.t-hover.c-tile:nth-of-type(79)
+! 12/28/2019 https://www.8muses.com
+www.8muses.com##a.t-hover.c-tile:nth-of-type(47)
+www.8muses.com##a.t-hover.c-tile:nth-of-type(32)
+www.8muses.com##a.t-hover.c-tile:nth-of-type(23)
+www.8muses.com##a.t-hover.c-tile:nth-of-type(12)
+
+! 12/8/2019 https://www.imdb.com
+www.imdb.com###sidebar
+
+! 12/10/2019 https://celebjihad.com
+celebjihad.com##[href^="https://go.celebjihad.live/smartpop/"]
+celebjihad.com##.theme_article.sidebar_increase
+
+! 12/11/2019 https://en.oui.sncf
+en.oui.sncf##.vsc__lightbox__container
+en.oui.sncf##.vsc__noFocus.vsc__lightbox--survey.vsc__lightbox
+en.oui.sncf###cookie-policy-popin > div:nth-of-type(2)
+
+! 12/12/2019 https://www.theatlantic.com
+www.theatlantic.com##.qc-cmp-showing.qc-cmp-ui-container
+
+! 12/16/2019 https://github.com
+github.com##.flash-notice.flash-full.flash
+
+||google.com^*recaptcha/$frame,badfilter
+||google.com^*recaptcha/$important
+
+! 12/27/2019 https://www.elgiganten.dk
+www.elgiganten.dk##.cookie-info-layer
+
+! 12/28/2019 https://gitlab.com
+gitlab.com##.gl-banner.js-autodevops-banner
+
+! 12/28/2019 https://www.fullrate.dk
+www.fullrate.dk##.callme-popunder__background
+
+
+
+! 12/28/2019 https://www.power.dk
+!www.power.dk###cookie-notification
+###cookie-notification
+
+! 12/28/2019 https://www.power.se
+!www.power.se###cookie-notification
+
+! 1/1/2020 https://gitlab.com
+gitlab.com##.popover-body
+
+! 1/4/2020 pinterest.com
+||www.pinterest.com/resource/UserRegisterTrackActionResource/*$xhr
+||www.pinterest.com/resource/ContextLogResource/*$xhr
+||www.pinterest.com/resource/ActivateExperimentResource/*$xhr
+||www.pinterest.com/resource/StatsLogResource/*$xhr
+||www.pinterest.com/resource/*$xhr
+||accountkit.com$script
+
+! 1/6/2020 https://www.information.dk
+www.information.dk##.field-label-hidden.field-type-ds.field-name-non-subscriber-ad-article.field.paywall-box
+www.information.dk##div.omega.alpha.grid-12.panel-panel:nth-of-type(4)
+
+! 1/6/2020 http://news.discoverynetworks.dk
+news.discoverynetworks.dk###navbar-primary
+
+! 1/7/2020 https://conversion-rate-experts.com
+conversion-rate-experts.com##.cookie-consent-bar
+
+! 1/7/2020 https://sourceforge.net
+sourceforge.net###mirror
+sourceforge.net###newsletter-floating
+
+! 1/8/2020 https://github.com
+github.com##.ws-normal.text-left.p-3.box-shadow-large.Box.Popover-message
+github.com##.protip
+github.com##.js-notice.mb-4.container-lg
+
+! 1/9/2020 https://www.amazon.com
+www.amazon.com##.nav-flyout.nav-coreFlyout.glow-toaster-slot-default.glow-toaster-theme-default.glow-toaster.a-section
+
+! 1/9/2020 https://www.imdb.com
+www.imdb.com###maindetails_center_bottom > div.article:nth-of-type(1)
+www.imdb.com###maindetails_sidebar_bottom
+www.imdb.com##div.article:nth-of-type(1)
+www.imdb.com##.uc-add-wl.uc-add-wl--not-in-wl.uc-add-wl-button
+www.imdb.com###title_completed_pro_link
+www.imdb.com##.star-rating-button > button
+www.imdb.com##.imdb-header__watchlist-button.RWCCJ.sc-kpOJdX
+www.imdb.com##.iTQkiJ.sc-kgoBCf.navbar__user._3x17Igk9XRXcaKrcG3_MXQ
+www.imdb.com###titleDidYouKnow
+www.imdb.com###titleFAQ
+www.imdb.com##.contribute.article
+www.imdb.com##.recently-viewed
+www.imdb.com##._2Wc8yXs8SzGv7TVS-oOmhT.imdb-footer__socials
+www.imdb.com##._27tI4dkp5ppErr-0Cga4Dw.ipc-inline-list
+www.imdb.com##li.zgFV3U-XECrqVQnyDbx2B.ipc-inline-list__item:nth-of-type(3)
+www.imdb.com##li.zgFV3U-XECrqVQnyDbx2B.ipc-inline-list__item:nth-of-type(2)
+www.imdb.com##._1eKbSAFyeJgUyBUy2VbcS_.imdb-footer__logo
+www.imdb.com##._2-iNNCFskmr4l2OFN2DRsf.imdb-footer__copyright
+www.imdb.com##.primary_ribbon
+www.imdb.com###title-social-sharing-widget
+www.imdb.com##a.quicklink:nth-of-type(4)
+
+! 1/9/2020 https://github.com
+github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-3.col-lg-3.col-md-3.col-12.team-left-column
+
+
 ! Prevent https://github.com/easylist/easylist/pull/4564
 http://duskgytldkxiuqc6.onion/,important
 ! Prevent https://github.com/easylist/easylist/pull/4618
