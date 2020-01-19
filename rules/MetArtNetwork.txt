@@ -1,6 +1,5 @@
 ! 09/01/2020 metart.com
 ||nsimg.*^$important
-
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/1
 ! 09/10/2019 metart.com
 !metart.com,sexart.com##.container.content > div:nth-of-type(1) > div > .hidden-xs
