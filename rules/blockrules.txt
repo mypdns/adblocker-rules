@@ -1,3 +1,7 @@
+! 1/19/2020 http://thefappening.news
+thefappening.news##.entry-content > div
+##[href="http://thefappening.news/banned-red.php"]
+
 ! https://github.com/easylist/easylist/commit/38cf2f6112770f9cc86707ac90a0ee2beaade0b3
 ||x-link.pl^$third-party
 ! 18/12/2019 https://gitlab.com
