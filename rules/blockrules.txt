@@ -1,3 +1,6 @@
+! 1/19/2020 https://thefappening.xyz
+thefappening.xyz##.headline.text-center
+
 ! 1/19/2020 http://thefappening.news
 thefappening.news##.entry-content > div
 ##[href="http://thefappening.news/banned-red.php"]
