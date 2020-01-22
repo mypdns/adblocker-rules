@@ -1,0 +1,5 @@
+! This list is to counter any misspalced whitelisting of tracking rules
+# from EasyList
+
+! https://github.com/easylist/easylist/pull/4780/files#diff-9e00091554e8e64d830b74ad010e291dR35
+@@||cdn.vuplay.co.uk/stats/adobe/*/AppMeasurement.js$script,domain=radioplus.be,badrule
