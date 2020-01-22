@@ -27,3 +27,6 @@
 
 !-------------------------White List -----------------------------------!
 %include ublockorigin-rules:rules/whitelist.txt%
+
+!-------------------------Anti White -----------------------------------!
+%include ublockorigin-rules:rules/anti_whitelist.txt%
