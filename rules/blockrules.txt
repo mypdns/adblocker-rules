@@ -1,3 +1,27 @@
+! 1/19/2020 http://thefappening.news
+##[href="http://thefappening.news/banned-red.php"]
+thefappening.news##.entry-content > div
+
+! 1/19/2020 https://thefappening.xyz
+thefappening.xyz##.headline.text-center
+
+! 1/20/2020 https://linuxize.com
+linuxize.com###ez-cookie-dialog-wrapper
+
+! 1/20/2020 https://duckduckgo.com
+duckduckgo.com###organic-module
+
+! 1/20/2020 https://da.wikipedia.org
+da.wikipedia.org###siteNotice
+
+! 1/22/2020 https://celebjihad.com
+celebjihad.com##[href^="https://go.hpyrdr.com/"]
+
+! 1/23/2020 https://www.techjunkie.com
+www.techjunkie.com##.modal--download.modal
+www.techjunkie.com##.is_stuck.fixed-sidebar-fire-tv
+www.techjunkie.com##.fixed-sidebar-fire-tv
+
 ! 1/19/2020 https://thefappening.xyz
 thefappening.xyz##.headline.text-center
 
