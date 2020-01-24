@@ -18,9 +18,8 @@ da.wikipedia.org###siteNotice
 celebjihad.com##[href^="https://go.hpyrdr.com/"]
 
 ! 1/23/2020 https://www.techjunkie.com
-www.techjunkie.com##.modal--download.modal
-www.techjunkie.com##.is_stuck.fixed-sidebar-fire-tv
-www.techjunkie.com##.fixed-sidebar-fire-tv
+techjunkie.com##.fixed-sidebar-fire-tv
+||techjunkie.com/wp-content/themes/techjunkie/js/bioep.min.js
 
 ! 1/19/2020 https://thefappening.xyz
 thefappening.xyz##.headline.text-center
