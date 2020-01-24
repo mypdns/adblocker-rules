@@ -42,6 +42,7 @@ gitlab.com##.content-block.landing.bordered-box
 !||sascdn.com^$third-party^$important
 ! 31/12/2019 https://gitlab.com
 gitlab.com##.content-block.bordered-box
+gitlab.com##.mb-2.flash-notice
 ! 31/12/2019 https://members.metart.com
 !members.metart.com##div.custom-cams-container.row:nth-of-type(4) > .custom-cams.container
 ##.custom-beta-notice
