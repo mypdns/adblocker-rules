@@ -9,3 +9,5 @@
 
 ! https://github.com/easylist/easylist/issues/4809
 @@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|duolingo.com|febbit.com|id.logi.com|jakdojade.pl|moshi.com|olx.pl|olx.ro|passeidireto.com|sato.fi,badrule
+
+@@/advertisement.js$script,badrule
