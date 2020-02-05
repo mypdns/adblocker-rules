@@ -1,3 +1,72 @@
+! 1/26/2020 https://www.edbpriser.dk
+www.edbpriser.dk##.cc-color-override-2046284562.cc-top.cc-theme-classic.cc-type-opt-in.cc-banner.cc-window
+
+! 1/26/2020 https://www.av-cables.dk
+!www.av-cables.dk
+##.trustpilot.grid-x
+
+! 1/26/2020 https://www.hifiklubben.dk
+www.hifiklubben.dk###dixa-iframe-wrapper
+www.hifiklubben.dk##.bf2019-global-msg
+www.hifiklubben.dk##.taggedBanner.bgRed.contentSection
+
+! 1/26/2020 https://www.dba.dk
+||guide.dba.dk/widget/article/$subdocument
+www.dba.dk###RelatedListingsByExternalId
+www.dba.dk###TopGalleryFeature
+www.dba.dk##.save-search-agent.save-search
+www.dba.dk##.save-search-feedback
+www.dba.dk###srp-tabs
+! 1/26/2020 https://www.dba.dk
+www.dba.dk##.foot > .container > .row-fluid > .span3
+
+! 1/26/2020 https://www.whathifi.com
+!www.whathifi.com
+##.newsletter-signup.box
+
+! 1/20/2020 https://duckduckgo.com
+duckduckgo.com###organic-module
+! 1/27/2020 https://duckduckgo.com
+duckduckgo.com##.js-ia-modules.ia-modules
+
+! 1/27/2020 https://www.hifiklubben.dk
+||files.hifiklubben.com/UI/dummy.png$image
+www.hifiklubben.dk##.ms-container
+
+! 1/28/2020 https://www.storyvillerecords.com
+!www.storyvillerecords.com
+###cookieConsent
+
+! 1/29/2020 blackpics.net
+||stats.hprofits.com/advertisement.js$script
+||log.ebonybooty.pics^
+
+! 2/1/2020 https://www.gumtree.com
+www.gumtree.com##.fixed-bottom.gdpr-banner.notification
+www.gumtree.com##.right
+
+! 2/2/2020 https://en.wikipedia.org
+!en.wikipedia.org###siteNotice
+! 1/20/2020 https://da.wikipedia.org
+!da.wikipedia.org###siteNotice
+wikipedia.org###siteNotice
+
+! 2/4/2020 https://aktion.bmw.de
+!aktion.bmw.de
+###consent_disclaimer
+
+! 2/4/2020 https://www.digitalocean.com
+www.digitalocean.com##._panel_1nv7e_1
+www.digitalocean.com###newsletter-signup-dialog
+
+! 2/5/2020 https://dnslytics.com
+!dnslytics.com
+###EU_Cookie_Message
+
+! 2/5/2020 https://voegl.bmw
+!voegl.bmw
+###LayerArea
+
 ! 1/19/2020 http://thefappening.news
 ##[href="http://thefappening.news/banned-red.php"]
 thefappening.news##.entry-content > div
@@ -6,13 +75,8 @@ thefappening.news##.entry-content > div
 thefappening.xyz##.headline.text-center
 
 ! 1/20/2020 https://linuxize.com
-linuxize.com###ez-cookie-dialog-wrapper
-
-! 1/20/2020 https://duckduckgo.com
-duckduckgo.com###organic-module
-
-! 1/20/2020 https://da.wikipedia.org
-da.wikipedia.org###siteNotice
+!linuxize.com
+###ez-cookie-dialog-wrapper
 
 ! 1/22/2020 https://celebjihad.com
 celebjihad.com##[href^="https://go.hpyrdr.com/"]
@@ -158,7 +222,7 @@ github.com##.ws-normal.text-left.p-3.box-shadow-large.Box.Popover-message
 ! 1/9/2020 https://www.amazon.com
 www.amazon.com##.nav-flyout.nav-coreFlyout.glow-toaster-slot-default.glow-toaster-theme-default.glow-toaster.a-section
 ! 1/9/2020 https://www.imdb.com
-www.imdb.com###maindetails_center_bottom > div.article:nth-of-type(1)
+!www.imdb.com###maindetails_center_bottom > div.article:nth-of-type(1)
 www.imdb.com###maindetails_sidebar_bottom
 www.imdb.com###title-social-sharing-widget
 www.imdb.com###titleDidYouKnow
@@ -171,11 +235,11 @@ www.imdb.com##._2Wc8yXs8SzGv7TVS-oOmhT.imdb-footer__socials
 www.imdb.com##.contribute.article
 www.imdb.com##.iTQkiJ.sc-kgoBCf.navbar__user._3x17Igk9XRXcaKrcG3_MXQ
 www.imdb.com##.imdb-header__watchlist-button.RWCCJ.sc-kpOJdX
-www.imdb.com##.primary_ribbon
+!www.imdb.com##.primary_ribbon
 www.imdb.com##.recently-viewed
 www.imdb.com##.star-rating-button > button
 www.imdb.com##.uc-add-wl.uc-add-wl--not-in-wl.uc-add-wl-button
-www.imdb.com##a.quicklink:nth-of-type(4)
+!www.imdb.com##a.quicklink:nth-of-type(4)
 www.imdb.com##div.article:nth-of-type(1)
 www.imdb.com##li.zgFV3U-XECrqVQnyDbx2B.ipc-inline-list__item:nth-of-type(2)
 www.imdb.com##li.zgFV3U-XECrqVQnyDbx2B.ipc-inline-list__item:nth-of-type(3)
