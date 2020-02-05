@@ -1,3 +1,42 @@
+! 2/5/2020 https://sn.dk
+!sn.dk##.cookie_container
+sn.dk###form73012b9f-2d02-4c77-a134-eac31911fb4f
+sn.dk##[href="https://sn.peytzmail.com/f/subscribe/tilmeldingsside-halsnaes"]
+##.cookie_container
+
+! 2/5/2020 http://www.sejlsport.dk
+www.sejlsport.dk##.cc-color-override-43623614.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+
+! 2/5/2020 https://www.fuglsangvvs.dk
+!www.fuglsangvvs.dk
+###cookie_box
+
+! 2/5/2020 https://bornholm.info
+!bornholm.info
+##.cookie-box
+
+! 2/5/2020 https://datacvr.virk.dk
+!datacvr.virk.dk
+##.eksCookieContainer
+
+! 2/5/2020 https://www.scanboat.com
+www.scanboat.com##.margin-tb-25.row
+
+! 2/5/2020 https://www.botenbank.nl
+!www.botenbank.nl
+###cookieConsentForm33
+
+! 2/5/2020 https://www.schipveiling.nl
+!www.schipveiling.nl
+###catapult-cookie-bar
+www.schipveiling.nl###spu-8513
+www.schipveiling.nl###spu-bg-8513
+
+! 2/5/2020 https://www.scanboat.com
+www.scanboat.com##.margin-b-50.details__social > ul > li:nth-of-type(2)
+www.scanboat.com##.margin-b-50.details__social > ul > li:nth-of-type(4)
+www.scanboat.com##.details__related.row
+
 ! 1/26/2020 https://www.edbpriser.dk
 www.edbpriser.dk##.cc-color-override-2046284562.cc-top.cc-theme-classic.cc-type-opt-in.cc-banner.cc-window
 
