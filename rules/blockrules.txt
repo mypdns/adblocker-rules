@@ -266,9 +266,27 @@ en.oui.sncf##.vsc__noFocus.vsc__lightbox--survey.vsc__lightbox
 www.theatlantic.com##.qc-cmp-showing.qc-cmp-ui-container
 
 ! 2/5/2020 https://github.com
-github.com##.js-notice.mb-4
+!github.com##.js-notice.mb-4
 ! 12/16/2019 https://github.com
-github.com##.flash-notice.flash-full.flash
+!github.com##.flash-notice.flash-full.flash
+! 1/8/2020 https://github.com
+github.com##.js-notice.mb-4.container-lg
+github.com##.protip
+github.com##.ws-normal.text-left.p-3.box-shadow-large.Box.Popover-message
+! 1/9/2020 https://github.com
+github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-3.col-lg-3.col-md-3.col-12.team-left-column
+! 24/11/2019 https://github.com
+github.com##.box-shadow-large.Box.mt-6.p-3.text-left.Popover-message--large.Popover-message--top-left.Popover-message
+github.com##.box-shadow-large.Box.p-4.left-0.Popover-message--top-left.Popover-message--large.Popover-message
+##.flash-error.flash-full.flash
+! 14/12/2019 https://github.com
+github.com##.p-2.border-bottom.js-notice
+! 10/19/2019 https://github.com
+github.com##.rounded-2.border.p-4.mb-6.mx-auto.signup-prompt
+||collector.githubapp.com^
+||github.com/_private/browser/stats
+
+
 ||google.com^*recaptcha/$badfilter,frame
 ||google.com^*recaptcha/$important
 ! 12/27/2019 https://www.elgiganten.dk
@@ -301,29 +319,10 @@ conversion-rate-experts.com##.cookie-consent-bar
 ! 1/7/2020 https://sourceforge.net
 sourceforge.net###mirror
 sourceforge.net###newsletter-floating
-! 1/8/2020 https://github.com
-github.com##.js-notice.mb-4.container-lg
-github.com##.protip
-github.com##.ws-normal.text-left.p-3.box-shadow-large.Box.Popover-message
 ! 1/9/2020 https://www.amazon.com
 www.amazon.com##.nav-flyout.nav-coreFlyout.glow-toaster-slot-default.glow-toaster-theme-default.glow-toaster.a-section
-
-! 1/9/2020 https://github.com
-github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-3.col-lg-3.col-md-3.col-12.team-left-column
-! Prevent https://github.com/easylist/easylist/pull/4564
-http://duskgytldkxiuqc6.onion/,important
-! Prevent https://github.com/easylist/easylist/pull/4618
-||connect.squareup.com/payments/analytics/frame.html,important
-||connect.squareupsandbox.com/payments/analytics/frame.html,important
-! Yet another Seriously threat from google and easylist
-! with help from @THEtomaso at https://github.com/easylist/easylist/issues/4529#issuecomment-566108181
-||google.com^*recaptcha/$badfilter,frame
-||google.com^*recaptcha/$important
-||yastatic.net/share2/share.js$script^important
 ! 09/12/2019 http://www.erotica.xxx
 /banners/*$image,domain=www.erotica.xxx
-! Another big mistake from EasyList https://github.com/easylist/easylist/commit/c0efafdc218efa80cb12f42e424728924153c261#diff-9e00091554e8e64d830b74ad010e291dR102
-||mediaworld.it^*/GoogleTagManager.js?
 ! 09/12/2019 https://videoporno-gratuite.fr
 !||videoporno-gratuite.fr/meyer.php$image
 /meyer.php$image
@@ -350,12 +349,7 @@ tini-porno.com###\31 8kapu
 tini-porno.com###text-2 > div.textwidget:nth-of-type(1)
 tini-porno.com##.hidden-sm.sidebar.col-sm-4
 tini-porno.com##.in.fade.modal-backdrop
-! 24/11/2019 https://github.com
-github.com##.box-shadow-large.Box.mt-6.p-3.text-left.Popover-message--large.Popover-message--top-left.Popover-message
-github.com##.box-shadow-large.Box.p-4.left-0.Popover-message--top-left.Popover-message--large.Popover-message
-##.flash-error.flash-full.flash
-! 14/12/2019 https://github.com
-github.com##.p-2.border-bottom.js-notice
+
 ! 01/12/2019 https://gitlab.com
 gitlab.com##.flash-alert
 ! 06/11/2019 https://gitlab.com
@@ -390,8 +384,6 @@ en.bab.la##div.teaser-wrapper:nth-of-type(6)
 ! YET ANOTHER HUGE FAILURE of TREAT from EasyLst
 ! @@||cam4.*/ads/directory/$1p,xmlhttprequest,domain=~gaytube.com|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com
 ||cam4.*/ads/directory/$1p,xmlhttprequest
-! https://github.com/easylist/easylist/pull/4321/files
-/wp-content/plugins/google-analytics-for-wordpress/$important,script
 ||alternathistory.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js$script,~third-party
 ! Googles recaptcha.net
 ||recaptcha.net^
@@ -412,9 +404,6 @@ linuxconfig.org##div.size-25.g-block:nth-of-type(2) > .g-content > div.moduletab
 ##cookie-alert
 ! 11/14/2019 https://www.bowerswilkins.com
 ##.eu-cookie-compliance-content
-! https://github.com/easylist/easylist/commit/a231c361bc8fd6fb5b90d6b4b24bb5fda1d72800#diff-3c94e5e631ac34edafb40b939d16245aR36
-||google.com/recaptcha/$script,subdocument
-||hdtvpolska.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js
 ! 10/22/2019 https://www.youtube.com
 www.youtube.com###main
 ||youtube-nocookie.com/api/stats/ads?
@@ -501,8 +490,6 @@ www.hostwinds.com##.all-services
 www.reddit.com##div.SubredditVars-r-pihole:nth-of-type(3)
 ! 10/20/2019 https://www.nytimes.com
 www.nytimes.com##.e1x0szx60.css-1uqnipt.expanded-dock.expanded.shown.gdpr
-! 10/19/2019 https://github.com
-github.com##.rounded-2.border.p-4.mb-6.mx-auto.signup-prompt
 ! 10/19/2019 http://magnet2torrent.me
 magnet2torrent.me##li:nth-of-type(2)
 ! 10/19/2019 thefappeningblog.com
@@ -521,8 +508,6 @@ www.wired.com##.paywall-bar__expanded
 www.wired.com##.show-social-box.persistent-aside--align-left.persistent-aside
 ! 10/9/2019 https://duckduckgo.com
 duckduckgo.com##div.detail__pane:nth-of-type(2) > .detail__inner > .detail__body > .detail__body__content.c-detail > .c-detail__more > [href^="https://www.youtube.com/results"]
-! 23/12/2019 https://github.com/easylist/easylist/issues/4558
-||sascdn.com^$important,third-party
 ! 10/9/2019 dr.dk/
 ||www.dr.dk/DR.Common.Banner.Ads/$xmlhttprequest
 ||www.dr.dk/drWebStat/$script
@@ -552,9 +537,6 @@ www.crowdstrike.com###optInMessage-new
 www.crowdstrike.com###optinmessagebg
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/5
 ||pingtopingsrv*.life^
-! https://github.com/uBlockOrigin/uAssets/issues/6344
-bluehouse.is###PopupOverLay_WA_0
-bluehouse.is###customForm
 ! 29/07/2019 https://www.systutorials.com
 www.systutorials.com###ez-cookie-dialog-wrapper
 ||google.*^
@@ -597,8 +579,6 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 /api/tracking/*
 /metrics/statsd/*
 /snowplow/*$script
-||collector.githubapp.com^
-||github.com/_private/browser/stats
 ||google.com/recaptcha
 ||googletagmanager.com/gtm.js$script
 ||js-agent.newrelic.com^

@@ -11,3 +11,33 @@
 @@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|duolingo.com|febbit.com|id.logi.com|jakdojade.pl|moshi.com|olx.pl|olx.ro|passeidireto.com|sato.fi,badrule
 
 @@/advertisement.js$script,badrule
+
+! Prevent https://github.com/easylist/easylist/pull/4564
+http://duskgytldkxiuqc6.onion/,important
+! Prevent https://github.com/easylist/easylist/pull/4618
+||connect.squareup.com/payments/analytics/frame.html,important
+||connect.squareupsandbox.com/payments/analytics/frame.html,important
+
+! Yet another Seriously threat from google and easylist
+! with help from @THEtomaso at https://github.com/easylist/easylist/issues/4529#issuecomment-566108181
+||google.com^*recaptcha/$badfilter,frame
+||google.com^*recaptcha/$important
+||yastatic.net/share2/share.js$script^important
+
+! Another big mistake from EasyList https://github.com/easylist/easylist/commit/c0efafdc218efa80cb12f42e424728924153c261#diff-9e00091554e8e64d830b74ad010e291dR102
+||mediaworld.it^*/GoogleTagManager.js?
+
+! https://github.com/easylist/easylist/pull/4321/files
+/wp-content/plugins/google-analytics-for-wordpress/$important,script
+
+! https://github.com/easylist/easylist/commit/a231c361bc8fd6fb5b90d6b4b24bb5fda1d72800#diff-3c94e5e631ac34edafb40b939d16245aR36
+||google.com/recaptcha/$script,subdocument
+||hdtvpolska.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js
+
+! 23/12/2019 https://github.com/easylist/easylist/issues/4558
+||sascdn.com^$important,third-party
+
+! https://github.com/uBlockOrigin/uAssets/issues/6344
+bluehouse.is###PopupOverLay_WA_0
+bluehouse.is###customForm
+
