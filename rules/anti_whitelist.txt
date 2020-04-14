@@ -1,3 +1,6 @@
+! https://github.com/easylist/easylist/commit/7ece7052f862fd1beea5aade61f3017fb08e52d7#diff-9e00091554e8e64d830b74ad010e291dR296
+@@||fastwhitecat.com/wp-content/plugins/duracelltomi-google-tag-manager/$script,domain=fastwhitecat.com, badrule
+
 ! https://github.com/easylist/easylist/issues/5219
 ##.grecaptcha-badge,important
 
