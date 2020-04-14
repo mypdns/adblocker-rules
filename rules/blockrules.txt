@@ -1,3 +1,118 @@
+/^https?:\/\/([a-z0-9]{8,10}\.)?[a-z0-9]{5,14}\.(com|bid|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
+/^https?:\/\/[a-z0-9]{5,14}\.(com|bid|online|top|club)\/[0-9a-f]{32}\/invoke.js$/$script,third-party
+||www.porndaa.com/sw.js$1p
+||www.fsphhbsklawjs.com^
+https://padsabz.com/5b/11/ec/5b11ec577f7ab76d9e3bf5af286eda00.js
+
+! 2/11/2020 https://www.porndaa.com
+www.porndaa.com##.col-md-8 > div:nth-of-type(1)
+www.porndaa.com##div.well:nth-of-type(5)
+
+##.push-subscription-prompt
+
+! 2/11/2020 https://www.imdb.com
+www.imdb.com##.page-grid.hero.ipc-page-grid--bias-left.ipc-page-grid > .ipc-page-grid__item--span-3.ipc-page-grid__item
+www.imdb.com##div.page-grid.ipc-page-grid--bias-left.ipc-page-grid:nth-of-type(3)
+
+! 2/12/2020 https://redgifs.com
+redgifs.com##.visible.type1.pro-cta
+redgifs.com##.popover.signup-call-to-action
+redgifs.com##.visible.type6.pro-cta
+
+! 2/13/2020 https://myshiptracking.com
+myshiptracking.com##.rt_alerts
+myshiptracking.com##div.ads_160_right.listbox:nth-of-type(3)
+
+! 2/16/2020 https://github.com
+github.com##.js-notice.mb-4
+github.com##.js-notifications-list-protip.text-gray.flex-items-center.d-flex
+
+! 2/18/2020 https://linux-audit.com
+linux-audit.com###content > .clearfix.entry
+
+! 2/19/2020 https://xhamster.com
+xhamster.com##.dyltv-container
+xhamster.com##div.related-container:nth-of-type(3)
+
+! 2/19/2020 https://www.scnsrc.me
+www.scnsrc.me##[href="https://www.scnsrc.me/linksnappy-review-special-offer/"]
+
+! 2/21/2020 https://meta.wikimedia.org
+meta.wikimedia.org###mw-anon-edit-warning
+
+! 2/21/2020 https://en.wikipedia.org
+en.wikipedia.org###mw-anon-edit-warning
+
+! 2/22/2020 https://www.faaborg-sejlklub.dk
+www.faaborg-sejlklub.dk##.banner-overlay
+www.faaborg-sejlklub.dk###banner-area-wrapper
+
+! 3/3/2020 https://www.sexsrc.com
+www.sexsrc.com##div.well:nth-of-type(5)
+www.sexsrc.com##.col-md-8 > div:nth-of-type(1)
+
+! 3/3/2020 https://forums.sexyandfunny.com
+forums.sexyandfunny.com##table:nth-of-type(4) > tbody > tr > td:nth-of-type(1) > .tborder
+forums.sexyandfunny.com##[src="https://www.sexyandfunny.com/featuredmediaSFF.php"]
+forums.sexyandfunny.com##div > table:nth-of-type(3) > tbody > tr > td:nth-of-type(1)
+
+! 3/4/2020 https://www.sex.com
+www.sex.com##[src="https://dat1.its-up.com/zone/12150/"]
+www.sex.com###container > .text-center
+
+! 3/4/2020 https://www.celebritymoviearchive.com
+www.celebritymoviearchive.com##.notification
+www.celebritymoviearchive.com##.wrpr > div:nth-of-type(2)
+
+! 3/5/2020 https://netflixtechblog.com
+netflixtechblog.com##.tn.tm.tl.tk.tj.ti.th.tg.tf.te.td.tc.tb.ta.sz.sy.sx.sw.sv.su.st.ss.sr.sq.sp.so.sn.sm.sl.sk.sj.al.si.jv.t.s
+
+! 3/5/2020 https://www.wikia.org
+www.wikia.org##.rxbhWIyq7zN9DBsGKihO9._1qTFYU2AttM0QuKykrEq1
+www.wikia.org##body > div:nth-of-type(3)
+
+! 3/11/2020 https://www.pornhub.com
+www.pornhub.com###videoSearchResult > .alpha
+www.pornhub.com##.clearfix.xc6lhd4nney0780v
+
+! 3/15/2020 https://www.youporn.com
+www.youporn.com###adblock_tooltip
+www.youporn.com##.promo-message
+www.youporn.com##.swyp > [href="/swyp"]
+www.youporn.com##.channelRow.row
+
+! 3/15/2020 https://xhamster.com
+xhamster.com##.premium-overlay
+
+! 3/15/2020 https://pastebin.com
+pastebin.com###float-box-frame
+
+! 4/11/2020 https://www.livesex.com
+www.livesex.com###overlay-container
+
+! 4/12/2020 http://de.1cam.webcam
+1cam.webcam##.fancybox-overlay-fixed.fancybox-overlay
+1cam.webcam##.fancybox-skin
+1cam.webcam##.__give_away.bc_popalert
+1cam.webcam##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
+1cam.webcam##.fancybox-overlay-fixed.fancybox-overlay
+
+##.fancybox-overlay-fixed.fancybox-overlay
+##.fancybox-skin
+##.__give_away.bc_popalert
+##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
+##.fancybox-overlay-fixed.fancybox-overlay
+
+! 4/13/2020 http://animal-lovers.net
+animal-lovers.net##[href="http://beastsexstars.net"] > .aligncenter
+animal-lovers.net##.p-topBarController
+
+! 4/13/2020 hot-animal-porn.biz
+/tp/out.php$document
+
+! 4/13/2020 animalsex.online
+/scj/cgi/out.php
+
 ! 12/04/2020 sexandsubmission.com
 ||cdnp.kink.com/assets/static-pages/landing-pages/withwatermark.mp4
 
