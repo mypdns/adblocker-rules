@@ -1,5 +1,8 @@
 ! https://github.com/easylist/easylist/issues/5219
-##.grecaptcha-badge
+##.grecaptcha-badge,important
+
+! 9bfbcea9af6 (monzta 2017-11-27 18:20:19 +0100 253) @@||segment.com/analytics.js/*/analytics.min.js$script
+||segment.com/analytics.js/*/analytics.min.js$script,important
 
 ! https://github.com/easylist/easylist/commit/023a72799bb58b9f2b3c0ae304e54bdae9445ad2#diff-57814f66f7ce561ca9320be995443b1fR6
 @@||adobedtm.com^*/launch-$script,badrule
