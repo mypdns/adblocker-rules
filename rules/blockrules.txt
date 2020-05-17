@@ -1,3 +1,61 @@
+! 4/14/2020 https://www.sythe.org
+www.sythe.org###logoBlock > .pageWidth > .pageContent > div:nth-of-type(1)
+
+! 4/16/2020 https://www.reck.dk
+www.reck.dk##.is-upgrade-premium.has-call-to-action.jitm-banner.jitm-card
+www.reck.dk##.wpmudev-recommended-plugins
+www.reck.dk##.updated
+
+! 4/17/2020 https://bitbucket.org
+bitbucket.org##.upgrade-banner-container
+
+! 4/18/2020 https://stackoverflow.com
+stackoverflow.com##.js-theme-selector.bs-md.z-active.overflow-hidden.theme-selector
+
+! 4/18/2020 https://www.tecmint.com
+www.tecmint.com###text-28
+www.tecmint.com###text-27
+www.tecmint.com###text-29
+www.tecmint.com###attachment_10255
+www.tecmint.com##.post-format
+www.tecmint.com##.after-post-box
+www.tecmint.com##.entry-inner > div:nth-of-type(10)
+www.tecmint.com###attachment_10195
+
+! 4/18/2020 https://duckduckgo.com
+duckduckgo.com##.badge-link--newsletter.badge-link--thumbnail.js-badge-link.badge-link--serp.badge-link
+
+! 4/19/2020 https://github.com
+github.com##.mb-3.js-details-container.Details.border-black-fade.Box-row--yellow.Box
+
+! 4/20/2020 bitbucket.org
+||web-security-reports.services.atlassian.com/csp-report/bb-website$csp_report
+
+! 4/23/2020 https://www.zytrax.com
+!www.zytrax.com##.adv
+##.adv
+
+! 4/26/2020 https://www.deviantart.com
+www.deviantart.com##._1fo9J
+
+! 4/28/2020 https://www.eonline.com
+www.eonline.com##.featherlight
+
+! 5/1/2020 https://www.cyberciti.biz
+www.cyberciti.biz###text-384338391
+
+! 5/1/2020 https://www.linuxquestions.org
+www.linuxquestions.org##td.page:nth-of-type(1) > table.tborder:nth-of-type(3)
+
+! 5/9/2020 https://www.kingston.com
+www.kingston.com###email-signup-modal
+
+! 5/9/2020 https://www.tecmint.com
+www.tecmint.com###quickiebarpro
+
+! 5/17/2020 https://gitlab.com
+gitlab.com##.js-recovery-settings-callout.gl-alert-warning.gl-alert
+
 ! https://www.mypdns.org/T581
 ||quotes.com^
 
