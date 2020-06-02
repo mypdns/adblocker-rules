@@ -1,3 +1,7 @@
+! Fanboy’s Enhanced Tracking List
+! https://video.adaptv.advertising.com/ad/ads/advertisers/advertisers.txt
+||advertising.com/ad/ads/advertisers/advertisers.txt,important
+
 ||marketo.com/js/forms2/$script,important
 
 ! https://github.com/easylist/easylist/commit/7ece7052f862fd1beea5aade61f3017fb08e52d7#diff-9e00091554e8e64d830b74ad010e291dR296
