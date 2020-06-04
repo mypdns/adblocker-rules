@@ -1,3 +1,6 @@
+! AdGuard Base
+||services.brid.tv/player/build/plugins/adunit.js,important
+
 ! Fanboy’s Enhanced Tracking List
 ! https://video.adaptv.advertising.com/ad/ads/advertisers/advertisers.txt
 ||advertising.com/ad/ads/advertisers/advertisers.txt,important
