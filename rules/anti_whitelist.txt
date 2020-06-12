@@ -1,3 +1,6 @@
+! https://github.com/easylist/easylist/issues/5540
+@@||www.facebook.com/plugins/page.php$domain=topplant.pl,badrule
+
 ! AdGuard Base
 ||services.brid.tv/player/build/plugins/adunit.js,important
 
