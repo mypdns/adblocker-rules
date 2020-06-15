@@ -2,11 +2,11 @@
 @@||www.facebook.com/plugins/page.php$domain=topplant.pl,badrule
 
 ! AdGuard Base
-||services.brid.tv/player/build/plugins/adunit.js,$important
+||services.brid.tv/player/build/plugins/adunit.js$important
 
 ! Fanboy’s Enhanced Tracking List
 ! https://video.adaptv.advertising.com/ad/ads/advertisers/advertisers.txt
-||advertising.com/ad/ads/advertisers/advertisers.txt,$important
+||advertising.com/ad/ads/advertisers/advertisers.txt$important
 
 ||marketo.com/js/forms2/$script$important
 
@@ -14,10 +14,10 @@
 @@||fastwhitecat.com/wp-content/plugins/duracelltomi-google-tag-manager/$script,domain=fastwhitecat.com,badrule
 
 ! https://github.com/easylist/easylist/issues/5219
-##.grecaptcha-badge,$important
+##.grecaptcha-badge$important
 
 ! 9bfbcea9af6 (monzta 2017-11-27 18:20:19 +0100 253) @@||segment.com/analytics.js/*/analytics.min.js$script
-||segment.com/analytics.js/*/analytics.min.js$script,$important
+||segment.com/analytics.js/*/analytics.min.js$script$important
 
 ! https://github.com/easylist/easylist/commit/023a72799bb58b9f2b3c0ae304e54bdae9445ad2#diff-57814f66f7ce561ca9320be995443b1fR6
 @@||adobedtm.com^*/launch-$script,badrule
@@ -34,16 +34,16 @@
 @@/advertisement.js$script,badrule
 
 ! Prevent https://github.com/easylist/easylist/pull/4564
-http://duskgytldkxiuqc6.onion/,$important
+http://duskgytldkxiuqc6.onion/$important
 ! Prevent https://github.com/easylist/easylist/pull/4618
-||connect.squareup.com/payments/analytics/frame.html,$important
-||connect.squareupsandbox.com/payments/analytics/frame.html,$important
+||connect.squareup.com/payments/analytics/frame.html$important
+||connect.squareupsandbox.com/payments/analytics/frame.html$important
 
 ! Yet another Seriously threat from google and easylist
 ! with help from @THEtomaso at https://github.com/easylist/easylist/issues/4529#issuecomment-566108181
 ||google.com^*recaptcha/$badfilter,frame
-||google.com^*recaptcha/,$important
-||yastatic.net/share2/share.js$script^$important
+||google.com^*recaptcha/$important
+||yastatic.net/share2/share.js$script$important
 
 ! Another big mistake from EasyList https://github.com/easylist/easylist/commit/c0efafdc218efa80cb12f42e424728924153c261#diff-9e00091554e8e64d830b74ad010e291dR102
 ||mediaworld.it^*/GoogleTagManager.js?
