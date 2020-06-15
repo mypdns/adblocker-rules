@@ -8,13 +8,15 @@
 ! https://video.adaptv.advertising.com/ad/ads/advertisers/advertisers.txt
 ||advertising.com^$important
 
-||marketo.com/js/forms2/$script$important
+||marketo.com^$important
 
 ! https://github.com/easylist/easylist/commit/7ece7052f862fd1beea5aade61f3017fb08e52d7#diff-9e00091554e8e64d830b74ad010e291dR296
 @@||fastwhitecat.com/wp-content/plugins/duracelltomi-google-tag-manager/$script,domain=fastwhitecat.com,badrule
 
 ! 9bfbcea9af6 (monzta 2017-11-27 18:20:19 +0100 253) @@||segment.com/analytics.js/*/analytics.min.js$script
 ||segment.com/analytics.js/*/analytics.min.js$script$important
+! https://github.com/AdguardTeam/AdguardFilters/issues/57098
+@@||cdn.segment.com/analytics.js/v1/*/analytics.min.js$domain=shop.fender.com,badrule
 
 ! https://github.com/easylist/easylist/commit/023a72799bb58b9f2b3c0ae304e54bdae9445ad2#diff-57814f66f7ce561ca9320be995443b1fR6
 @@||adobedtm.com^*/launch-$script,badrule
