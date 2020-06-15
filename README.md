@@ -4,6 +4,7 @@
 
 How to write filters
 --------------------
+[Howto? block whitlisted spyware](https://github.com/easylist/easylist/issues/4529)
 
 ## Url to source
 https://help.eyeo.com/en/adblockplus/how-to-write-filters
