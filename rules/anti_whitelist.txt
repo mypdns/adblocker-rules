@@ -2,19 +2,16 @@
 @@||www.facebook.com/plugins/page.php$domain=topplant.pl,badrule
 
 ! AdGuard Base
-||services.brid.tv/player/build/plugins/adunit.js$important
+@@||services.brid.tv/player/build/plugins/adunit.js$script,domain=hideout.co,badrule
 
 ! Fanboy’s Enhanced Tracking List
 ! https://video.adaptv.advertising.com/ad/ads/advertisers/advertisers.txt
-||advertising.com/ad/ads/advertisers/advertisers.txt$important
+||advertising.com^$important
 
 ||marketo.com/js/forms2/$script$important
 
 ! https://github.com/easylist/easylist/commit/7ece7052f862fd1beea5aade61f3017fb08e52d7#diff-9e00091554e8e64d830b74ad010e291dR296
 @@||fastwhitecat.com/wp-content/plugins/duracelltomi-google-tag-manager/$script,domain=fastwhitecat.com,badrule
-
-! https://github.com/easylist/easylist/issues/5219
-##.grecaptcha-badge$important
 
 ! 9bfbcea9af6 (monzta 2017-11-27 18:20:19 +0100 253) @@||segment.com/analytics.js/*/analytics.min.js$script
 ||segment.com/analytics.js/*/analytics.min.js$script$important
