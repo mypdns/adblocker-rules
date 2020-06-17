@@ -1,3 +1,6 @@
+! https://github.com/easylist/easylist/issues/5556
+/check_a_b.js
+
 ! https://github.com/easylist/easylist/issues/5540
 @@||www.facebook.com/plugins/page.php$domain=topplant.pl,badrule
 
