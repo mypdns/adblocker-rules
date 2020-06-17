@@ -1,3 +1,7 @@
+! https://github.com/easylist/easylist/pull/5538 & https://github.com/easylist/easylist/commit/c98995b5a52cab2f353a2ca14345e361cac9bbb8
+@@||adobedtm.com^*/mbox-contents-$script,domain=ceair.com|fcbarcelona.cn,badrule
+@@||adobedtm.com^*/satelliteLib-$script,domain=ceair.com|fcbarcelona.cn,badrule
+
 ! https://github.com/easylist/easylist/issues/5557
 @@||datadoghq-browser-agent.com/datadog-rum-us.js$script,domain=usa.experian.com,badrule
 
