@@ -1,3 +1,5 @@
+! https://github.com/easylist/easylist/pull/5551
+/cdn-cgi/bm/*
 
 ! 05/06/2020 https://linuxize.com
 linuxize.com##.pt-12.lg\:top-16.lg\:sticky.lg\:relative.lg\:block.-mt-12.flex-col.flex
