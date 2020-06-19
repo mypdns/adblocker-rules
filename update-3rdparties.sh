@@ -11,7 +11,10 @@ assets=(
     ['thirdparties/Yuki2718/ublock-anti-whitelist.txt']='https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/ublock-anti-whitelist.txt'
 )
 
-mkdir -p "thirdparties/Yuki2718/"
+for d in "${!assets[@]}"
+do
+	mkdir -p localURL="$d"
+done
 
 for i in "${!assets[@]}"; do
     localURL="$i"
