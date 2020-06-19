@@ -1,3 +1,7 @@
+! 5/24/2020 hetzner.com
+@@||www.hetzner.com^$font,domain=www.hetzner.com
+@@||livesupport.hetzner.de/fonts/*$font,domain=www.hetzner.com
+
 @@about-scheme
 @@about.gitlab.com
 @@ccbill.metartmoney.com
