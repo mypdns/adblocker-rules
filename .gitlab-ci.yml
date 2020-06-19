@@ -6,7 +6,8 @@ image: python:latest
 stages:
   - build
   #- test
-  - deploy
+  #- deploy
+  - pages
 
 #cache:
 #  paths:
