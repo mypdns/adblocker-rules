@@ -1,3 +1,29 @@
+! 3/25/2020 https://www.howtoforge.com
+www.howtoforge.com##.bsa-apiads
+
+! 4/12/2020 http://en.1cam.webcam
+1cam.webcam##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
+1cam.webcam##.fancybox-overlay-fixed.fancybox-overlay
+
+! 4/25/2020 https://rarbgaccess.org
+||22pixx.xyz^$image
+
+! 5/23/2020 https://healthyceleb.com
+healthyceleb.com##.code-block-5.code-block
+
+! 6/2/2020 huffingtonpost.ca
+||uplynk.com^$xhr
+
+||adobedtm.com^$important
+
+! 6/7/2020 spillemyndigheden.dk
+||www.spillemyndigheden.dk^$script,1p
+
+! 6/19/2020 https://www.sha2sslchecker.com
+www.sha2sslchecker.com##[src="/images/BottomBanner.gif"]
+www.sha2sslchecker.com##[src="/images/TopBanner.gif"]
+www.sha2sslchecker.com##.f-right
+
 ! 6/9/2020 https://github.com
 github.com##.col-3.box-shadow-medium.right-0.top-0.Popover.mr-3.mt-6.d-lg-block.d-none
 
