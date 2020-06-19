@@ -11,6 +11,8 @@ assets=(
     ['thirdparties/Yuki2718/ublock-anti-whitelist.txt']='https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/ublock-anti-whitelist.txt'
 )
 
+mkdir -p "thirdparties/Yuki2718/"
+
 for i in "${!assets[@]}"; do
     localURL="$i"
     remoteURL="${assets[$i]}"
@@ -20,7 +22,6 @@ for i in "${!assets[@]}"; do
             if ! cmp -s "$TEMPFILE" "$localURL"; then
                 echo -e "\tNew version found: ${localURL}"
                 if [ "$1" != "dry" ]; then
-                    mkdir -p "$TEMPFILE" "$localURL"
                     mv "$TEMPFILE" "$localURL"
                 fi
             fi
