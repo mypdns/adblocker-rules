@@ -1,3 +1,6 @@
+! Unknow, Fanboy’s Annoyance - Fanboy’s Social
+@@||platform.twitter.com/widgets/widget_iframe.$subdocument,badfilter
+
 ! https://github.com/easylist/easylist/pull/5445
 ||cxense.com^$important
 @@||images.sprinklecontent.com/270/170/$image,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|rytmi.com|soundi.fi|tilt.fi,badfilter
