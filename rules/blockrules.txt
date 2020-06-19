@@ -1,3 +1,6 @@
+! https://github.com/uBlockOrigin/uAssets/issues/5648
+/ads.v*.js?v=*$important
+
 ! 3/25/2020 https://www.howtoforge.com
 www.howtoforge.com##.bsa-apiads
 
