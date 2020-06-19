@@ -9,14 +9,17 @@ pages:
   stage: deploy
   script:
     - git checkout $CI_COMMIT_REF_NAME
+    - mkdir .public
     - ./update-3rdparties.sh
-    - flrender -i ublockorigin-rules=. AnonymousPoster.template public/blockrules.txt
+    - flrender -i ublockorigin-rules=. AnonymousPoster.template _public/blockrules.txt
+    - cp -r _public/* .public
+    - mv .public public
     #- flrender --help
     #- url_host=`git remote get-url origin | sed -e "s/https:\/\/gitlab-ci-token:.*@//g"`
-    - git remote set-url origin "https://gitlab-ci-token:${DEPLOY_KEY}@${url_host}"
-    - git add .
-    - git commit -m '[skip ci] commit from CI runner'
-    - git push "https://${GITLAB_USER_NAME}:${DEPLOY_KEY}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}"
+    #- git remote set-url origin "https://gitlab-ci-token:${DEPLOY_KEY}@${url_host}"
+    #- git add .
+    #- git commit -m '[skip ci] commit from CI runner'
+    #- git push "https://${GITLAB_USER_NAME}:${DEPLOY_KEY}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}"
   artifacts:
     paths:
     - public

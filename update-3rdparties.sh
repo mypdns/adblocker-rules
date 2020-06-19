@@ -28,7 +28,3 @@ for i in "${!assets[@]}"; do
         fi
     fi
 done
-
-# This will help minimize diff between updates
-sort "thirdparties/mirror1.malwaredomains.com/files/justdomains" > "$TEMPFILE"
-mv "$TEMPFILE" "thirdparties/mirror1.malwaredomains.com/files/justdomains"
