@@ -1,6 +1,11 @@
+! https://github.com/easylist/easylist/pull/5445
+||cxense.com^$important
+@@||images.sprinklecontent.com/270/170/$image,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|rytmi.com|soundi.fi|tilt.fi,badfilter
+@@||widgets.sprinklecontent.com/v2/$script,xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|rytmi.com|soundi.fi|tilt.fi,badfilter
+
 ! https://github.com/easylist/easylist/pull/5521
-@@||assets.hcaptcha.com/captcha/$script,subdocument,domain=abcvideo.cc
-@@||hcaptcha.com^*/api.js$script,domain=abcvideo.cc
+@@||assets.hcaptcha.com/captcha/$script,subdocument,domain=abcvideo.cc,badfilter
+@@||hcaptcha.com^*/api.js$script,domain=abcvideo.cc,badfilter
 
 ! https://github.com/easylist/easylist/commit/3ec21e55ace2027b52cd69ef73002cd374d8344c#diff-3034fb5f835bb84b82df3927c7048308R10
 @@||192.168.*/privacy_policy.js$~third-party,badfilter
