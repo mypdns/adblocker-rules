@@ -1,3 +1,7 @@
+! 6/19/2020 https://www.ouedkniss.com
+! Appendix to https://github.com/easylist/easylist/pull/5507
+www.ouedkniss.com###page_interstitiel
+
 ! https://github.com/uBlockOrigin/uAssets/issues/5648
 /ads.v*.js?v=*$important
 
