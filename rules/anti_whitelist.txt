@@ -1,21 +1,21 @@
 ! https://github.com/easylist/easylist/pull/5560
-@@||c.evidon.com/sitenotice/evidon-sitenotice-tag.js$script,domain=southparkstudios.nu,badrule
+@@||c.evidon.com/sitenotice/evidon-sitenotice-tag.js$script,domain=southparkstudios.nu,badfilter
 
 ! https://github.com/easylist/easylist/pull/5538 & https://github.com/easylist/easylist/commit/c98995b5a52cab2f353a2ca14345e361cac9bbb8
-@@||adobedtm.com^*/mbox-contents-$script,domain=ceair.com|fcbarcelona.cn,badrule
-@@||adobedtm.com^*/satelliteLib-$script,domain=ceair.com|fcbarcelona.cn,badrule
+@@||adobedtm.com^*/mbox-contents-$script,domain=ceair.com|fcbarcelona.cn,badfilter
+@@||adobedtm.com^*/satelliteLib-$script,domain=ceair.com|fcbarcelona.cn,badfilter
 
 ! https://github.com/easylist/easylist/issues/5557
-@@||datadoghq-browser-agent.com/datadog-rum-us.js$script,domain=usa.experian.com,badrule
+@@||datadoghq-browser-agent.com/datadog-rum-us.js$script,domain=usa.experian.com,badfilter
 
 ! https://github.com/easylist/easylist/issues/5556
 /check_a_b.js
 
 ! https://github.com/easylist/easylist/issues/5540
-@@||www.facebook.com/plugins/page.php$domain=topplant.pl,badrule
+@@||www.facebook.com/plugins/page.php$domain=topplant.pl,badfilter
 
 ! AdGuard Base
-@@||services.brid.tv/player/build/plugins/adunit.js$script,domain=hideout.co,badrule
+@@||services.brid.tv/player/build/plugins/adunit.js$script,domain=hideout.co,badfilter
 
 ! Fanboy’s Enhanced Tracking List
 ! https://video.adaptv.advertising.com/ad/ads/advertisers/advertisers.txt
@@ -24,49 +24,49 @@
 ||marketo.com^$important
 
 ! https://github.com/easylist/easylist/commit/7ece7052f862fd1beea5aade61f3017fb08e52d7#diff-9e00091554e8e64d830b74ad010e291dR296
-@@||fastwhitecat.com/wp-content/plugins/duracelltomi-google-tag-manager/$script,domain=fastwhitecat.com,badrule
+@@||fastwhitecat.com/wp-content/plugins/duracelltomi-google-tag-manager/$script,domain=fastwhitecat.com,badfilter
 
 ! 9bfbcea9af6 (monzta 2017-11-27 18:20:19 +0100 253) @@||segment.com/analytics.js/*/analytics.min.js$script
 ||segment.com/analytics.js/*/analytics.min.js$script$important
 ! https://github.com/AdguardTeam/AdguardFilters/issues/57098
-@@||cdn.segment.com/analytics.js/v1/*/analytics.min.js$domain=shop.fender.com,badrule
+@@||cdn.segment.com/analytics.js/v1/*/analytics.min.js$domain=shop.fender.com,badfilter
 
 ! https://github.com/easylist/easylist/commit/023a72799bb58b9f2b3c0ae304e54bdae9445ad2#diff-57814f66f7ce561ca9320be995443b1fR6
 ||adobedtm.com^$important
-@@||adobedtm.com^*/launch-$script,badrule
+@@||adobedtm.com^*/launch-$script,badfilter
 
 ! https://github.com/easylist/easylist/pull/4780/files#diff-9e00091554e8e64d830b74ad010e291dR35
-@@||cdn.vuplay.co.uk/stats/adobe/*/AppMeasurement.js$script,domain=radioplus.be,badrule
+@@||cdn.vuplay.co.uk/stats/adobe/*/AppMeasurement.js$script,domain=radioplus.be,badfilter
 
 ! https://github.com/easylist/easylist/issues/4809
-@@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|duolingo.com|febbit.com|id.logi.com|jakdojade.pl|moshi.com|olx.pl|olx.ro|passeidireto.com|sato.fi,badrule
+@@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|duolingo.com|febbit.com|id.logi.com|jakdojade.pl|moshi.com|olx.pl|olx.ro|passeidireto.com|sato.fi,badfilter
 
-@@/advertisement.js$script,badrule
+@@/advertisement.js$script,badfilter
 
 ! Prevent https://github.com/easylist/easylist/pull/4564
-@@||pro.ip-api.com/json/$xhr,domain=cookappsgames.com,badrule
+@@||pro.ip-api.com/json/$xhr,domain=cookappsgames.com,badfilter
 
 ||duskgytldkxiuqc6.onion^$important
 ! Prevent https://github.com/easylist/easylist/pull/4618
-@@||connect.squareup.com/payments/analytics/frame.html$subdocument,badrule
-@@||connect.squareupsandbox.com/payments/analytics/frame.html,badrule
+@@||connect.squareup.com/payments/analytics/frame.html$subdocument,badfilter
+@@||connect.squareupsandbox.com/payments/analytics/frame.html,badfilter
 
 ! Yet another Seriously threat from google and easylist
 ! with help from @THEtomaso at https://github.com/easylist/easylist/issues/4529#issuecomment-566108181
 ! https://forums.lanik.us/viewtopic.php?f=64&t=40469
-@@||google.com^*recaptcha/$frame,badrule
+@@||google.com^*recaptcha/$frame,badfilter
 ||google.com^*recaptcha/$important
 ||yastatic.net/share2/share.js$script$important
 
 ! Another big mistake from EasyList https://github.com/easylist/easylist/commit/c0efafdc218efa80cb12f42e424728924153c261#diff-9e00091554e8e64d830b74ad010e291dR102
-@@||mediaworld.it^*/GoogleTagManager.js?,badrule
+@@||mediaworld.it^*/GoogleTagManager.js?,badfilter
 
 ! https://github.com/easylist/easylist/pull/4321/files
-@@||alternathistory.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js$script,~third-party,badrule
+@@||alternathistory.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js$script,~third-party,badfilter
 
 ! https://github.com/easylist/easylist/commit/a231c361bc8fd6fb5b90d6b4b24bb5fda1d72800#diff-3c94e5e631ac34edafb40b939d16245aR36
 ||google.com/recaptcha/$script,subdocument
-@@||hdtvpolska.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js,badrule
+@@||hdtvpolska.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js,badfilter
 
 ! 23/12/2019 https://github.com/easylist/easylist/issues/4558
 ||sascdn.com^$important,third-party
