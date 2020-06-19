@@ -1,58 +1,22 @@
 image: python:latest
 
-#variables:
-#  PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
-
-#stages:
-  #- build
-  #- test
-  #- deploy
-
-#cache:
-#  paths:
-#    - .cache/pip
-#    - "$CI_PROJECT_DIR/.cache/pip"
-#    - venv/
-#    - rules/
-
-#before_script:
+before_script:
   - python3 -m pip install --no-cache-dir --upgrade git+https://github.com/adblockplus/python-abp
   - git config --global user.name "${GITLAB_USER_NAME}"
   - git config --global user.email "${GITLAB_USER_EMAIL}"
 
-#build:
-  #stage: build
-  #script:
-    #- git checkout $CI_COMMIT_REF_NAME
-    #- ./update-3rdparties.sh
-    ##- python FOP.py rules/ # fucking rules layout
-    ##- flrender -i ublockorigin-rules=. AnonymousPoster.template public/blockrules.txt
-    #- git remote set-url origin "https://gitlab-ci-token:${DEPLOY_KEY}@${url_host}"
-    #- git add .
-    #- git commit -m 'Commit from CI runner'
-    #- git push "https://${GITLAB_USER_NAME}:${DEPLOY_KEY}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}"
-
-#test:
-#  stage: test
-#  script:
-#    - git checkout $CI_COMMIT_REF_NAME
-#    #- python FOP.py rules/
-#    - flrender -i ublockorigin-rules=. AnonymousPoster.template public/blockrules.txt
-#  except:
-#    - master
-
 pages:
   stage: deploy
   script:
-    #- git checkout $CI_COMMIT_REF_NAME
+    - git checkout $CI_COMMIT_REF_NAME
     - ./update-3rdparties.sh
     - flrender -i ublockorigin-rules=. AnonymousPoster.template public/blockrules.txt
     #- flrender --help
     #- url_host=`git remote get-url origin | sed -e "s/https:\/\/gitlab-ci-token:.*@//g"`
-    #- git remote set-url origin "https://gitlab-ci-token:${DEPLOY_KEY}@${url_host}"
-    #- git add .
-    #- git commit -m '[skip ci] commit from CI runner'
-    #- git push "https://${GITLAB_USER_NAME}:${DEPLOY_KEY}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}"
+    - git remote set-url origin "https://gitlab-ci-token:${DEPLOY_KEY}@${url_host}"
+    - git add .
+    - git commit -m '[skip ci] commit from CI runner'
+    - git push "https://${GITLAB_USER_NAME}:${DEPLOY_KEY}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}"
   artifacts:
     paths:
     - public
