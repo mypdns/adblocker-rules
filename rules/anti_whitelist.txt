@@ -1,3 +1,6 @@
+! https://github.com/easylist/easylist/commit/b99a733ce638eed4afe67ddc9988cba2ce9863bd
+telepolis.pl#@#.social-media-icons,badfilter
+
 ! https://github.com/easylist/easylist/issues/5464 (Tracking)
 @@||widgets.trustedshops.com/reviews/tsSticker/$domain=koziol-shop.de,badfilter
 
