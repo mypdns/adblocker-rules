@@ -1,3 +1,6 @@
+! https://github.com/easylist/easylist/pull/5500
+power.fi#@##cookie-notification,badfilter
+
 ! Unknow, Fanboy’s Annoyance - Fanboy’s Social
 @@||platform.twitter.com/widgets/widget_iframe.$subdocument,badfilter
 
