@@ -1,0 +1,1219 @@
+[Adblock Plus 2.0]
+! Version: 202006191557
+! Title: AnonymousPoster – Andblock Rules
+! Expires: 1 hours
+! 
+! List url:
+! https://anonymousposter.gitlab.io/ublockorigin-rules/blockrules.txt
+! 
+! License:
+! https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/LICENSE
+! Homepage: https://gitlab.com/AnonymousPoster/ublockorigin-rules
+! 
+! Please report any unblocked content or problems by email or in our
+! Issue board.
+! GitLab issues:
+! - https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues
+! GitLab merge request:
+! - https://gitlab.com/AnonymousPoster/ublockorigin-rules/merge_requests
+! Email:
+! incoming+anonymousposter-ublockorigin-rules-14161071-issue-@incoming.gitlab.com
+! Description:
+! 
+! ------------------- General advert blocking filters -------------------!
+! *** ublockorigin-rules:rules/blockrules.txt ***
+||hcaptcha.com^$important
+
+! https://github.com/easylist/easylist/pull/5551
+/cdn-cgi/bm/*
+
+! 05/06/2020 https://linuxize.com
+linuxize.com##.pt-12.lg\:top-16.lg\:sticky.lg\:relative.lg\:block.-mt-12.flex-col.flex
+
+! 12/04/2020 sexandsubmission.com
+||cdnp.kink.com/assets/static-pages/landing-pages/withwatermark.mp4
+
+! 12/04/2020 sexmomsex.com
+||www.sexmomsex.com/xtube.php$document
+
+! 12/04/2020 sexteenageporn.com
+||worldtraffic.trade^
+
+! 12/04/2020 shinyjapaneseporn.com
+||www.shinyjapaneseporn.com/xtube.php$document
+
+! 12/04/2020 drivepornvideos.com
+||www.drivepornvideos.com/xtube.php
+
+! 13/04/2020 animal-sex-movie.biz
+/tp/out.php
+
+! 13/04/2020 animepornfilm.com
+/xtube.php
+
+! 13/04/2020 animeporn.pro
+||www.animeporn.pro/xtube.php
+/xtube.php$document
+
+! 13/04/2020 anime-studio.org
+||free.cartoon-valley.in/dtr/sheduler.php
+||x-terrarium.com/movies/sheduler.php
+||freeadultpics.info/tube/sheduler.php
+||anime.boomthumb.com/tube/sheduler.php
+
+! 13/04/2020 https://www.arab-sex-pics.com
+www.arab-sex-pics.com###index1bannerdesktop
+
+! 13/04/2020 https://asambleabenidorm2019.com
+asambleabenidorm2019.com##div.ads.video-block.item
+
+! 27/04/2020 https://developers.redhat.com
+developers.redhat.com##.general-promo.category-promo-section
+
+! 27/04/2020 https://www.reck.dk
+www.reck.dk##.updated
+
+! 28/04/2020 https://gitlab.com
+gitlab.com##.d-flex.js-broadcast-notification-100719.broadcast-notification-message
+
+! 07/05/2020 https://bitbucket.org
+bitbucket.org##.upgrade-banner-container
+
+! 07/05/2020 https://serverfault.com
+serverfault.com###noscript-warning
+
+! 07/05/2020 https://tecadmin.net
+tecadmin.net##.block-single.block.author-box
+tecadmin.net###custom_html-3
+
+! 11/05/2020 https://community.spiceworks.com
+community.spiceworks.com##.join-login-alt--six-second.join-login-alt.join-login-wrapper
+
+! 13/05/2020 https://www.tecmint.com
+www.tecmint.com##.link-overlay
+www.tecmint.com###quickiebarpro
+
+! 17/05/2020 https://gitlab.com
+gitlab.com##.js-recovery-settings-callout.gl-alert-warning.gl-alert
+
+! 24/05/2020 https://www.nytimes.com
+www.nytimes.com##.e1x0szx60.css-xdenu8.expanded-dock.expanded.shown.gdpr
+
+! 25/05/2020 https://www.gitkraken.com
+! www.gitkraken.com###PureChatWidget
+||purechat.com
+! ||widgetapi.purechat.com^$xhr
+
+! 29/05/2020 https://www.babes.com
+www.babes.com##div.lbVJTw.sc-1mhpkp8-3:nth-of-type(9)
+
+! 01/06/2020 https://rapidapi.com
+rapidapi.com##.boxzilla-bottom-left-container.boxzilla-container
+rapidapi.com##p:nth-of-type(16)
+
+! 01/06/2020 https://www.edbpriser.dk
+www.edbpriser.dk###product-listing-8
+www.edbpriser.dk##.d-md-block.d-none.sidebar-module-container
+
+! 01/06/2020 https://www.computersalg.dk
+www.computersalg.dk##div.BannerZoneMain
+
+! 01/06/2020 https://www.proshop.dk
+www.proshop.dk##.hidden-sm.hidden-xs
+www.proshop.dk##.site-content-table-footer.pull-right.col-sm-9 > .site-row-margin-top-small.row
+www.proshop.dk##.site-campaigns-area > .site-row-margin-top-small.row
+
+! 01/06/2020 https://www.paradoxplaza.com
+www.paradoxplaza.com###cookies-info
+www.paradoxplaza.com###disablingDiv
+www.paradoxplaza.com###cookies-info
+www.paradoxplaza.com###cookies-info
+
+! 01/06/2020 https://www.pricerunner.dk
+www.pricerunner.dk##._3YnaHq5Pmy
+
+! 03/06/2020 https://www.imagefap.com
+www.imagefap.com##td.mnu0:nth-of-type(21)
+
+! 4/14/2020 https://www.sythe.org
+www.sythe.org###logoBlock > .pageWidth > .pageContent > div:nth-of-type(1)
+
+! 4/16/2020 https://www.reck.dk
+www.reck.dk##.is-upgrade-premium.has-call-to-action.jitm-banner.jitm-card
+www.reck.dk##.wpmudev-recommended-plugins
+www.reck.dk##.updated
+
+! 4/17/2020 https://bitbucket.org
+bitbucket.org##.upgrade-banner-container
+
+! 4/18/2020 https://stackoverflow.com
+stackoverflow.com##.js-theme-selector.bs-md.z-active.overflow-hidden.theme-selector
+
+! 4/18/2020 https://www.tecmint.com
+www.tecmint.com###text-28
+www.tecmint.com###text-27
+www.tecmint.com###text-29
+www.tecmint.com###attachment_10255
+www.tecmint.com##.post-format
+www.tecmint.com##.after-post-box
+www.tecmint.com##.entry-inner > div:nth-of-type(10)
+www.tecmint.com###attachment_10195
+
+! 4/18/2020 https://duckduckgo.com
+duckduckgo.com##.badge-link--newsletter.badge-link--thumbnail.js-badge-link.badge-link--serp.badge-link
+
+! 4/19/2020 https://github.com
+github.com##.mb-3.js-details-container.Details.border-black-fade.Box-row--yellow.Box
+
+! 4/20/2020 bitbucket.org
+||web-security-reports.services.atlassian.com/csp-report/bb-website$csp_report
+
+! 4/23/2020 https://www.zytrax.com
+! www.zytrax.com##.adv
+##.adv
+
+! 4/26/2020 https://www.deviantart.com
+www.deviantart.com##._1fo9J
+
+! 4/28/2020 https://www.eonline.com
+www.eonline.com##.featherlight
+
+! 5/1/2020 https://www.cyberciti.biz
+www.cyberciti.biz###text-384338391
+
+! 5/1/2020 https://www.linuxquestions.org
+www.linuxquestions.org##td.page:nth-of-type(1) > table.tborder:nth-of-type(3)
+
+! 5/9/2020 https://www.kingston.com
+www.kingston.com###email-signup-modal
+
+! 5/9/2020 https://www.tecmint.com
+www.tecmint.com###quickiebarpro
+
+! 5/17/2020 https://gitlab.com
+gitlab.com##.js-recovery-settings-callout.gl-alert-warning.gl-alert
+
+! https://www.mypdns.org/T581
+||quotes.com^
+
+/^https?:\/\/([a-z0-9]{8,10}\.)?[a-z0-9]{5,14}\.(com|bid|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
+/^https?:\/\/[a-z0-9]{5,14}\.(com|bid|online|top|club)\/[0-9a-f]{32}\/invoke.js$/$script,third-party
+||www.porndaa.com/sw.js$1p
+||www.fsphhbsklawjs.com^
+https://padsabz.com/5b/11/ec/5b11ec577f7ab76d9e3bf5af286eda00.js
+
+! 2/11/2020 https://www.porndaa.com
+www.porndaa.com##.col-md-8 > div:nth-of-type(1)
+www.porndaa.com##div.well:nth-of-type(5)
+
+##.push-subscription-prompt
+
+! 2/11/2020 https://www.imdb.com
+www.imdb.com##.page-grid.hero.ipc-page-grid--bias-left.ipc-page-grid > .ipc-page-grid__item--span-3.ipc-page-grid__item
+www.imdb.com##div.page-grid.ipc-page-grid--bias-left.ipc-page-grid:nth-of-type(3)
+
+! 2/12/2020 https://redgifs.com
+redgifs.com##.visible.type1.pro-cta
+redgifs.com##.popover.signup-call-to-action
+redgifs.com##.visible.type6.pro-cta
+
+! 2/13/2020 https://myshiptracking.com
+myshiptracking.com##.rt_alerts
+myshiptracking.com##div.ads_160_right.listbox:nth-of-type(3)
+
+! 2/16/2020 https://github.com
+github.com##.js-notice.mb-4
+github.com##.js-notifications-list-protip.text-gray.flex-items-center.d-flex
+
+! 2/18/2020 https://linux-audit.com
+linux-audit.com###content > .clearfix.entry
+
+! 2/19/2020 https://xhamster.com
+xhamster.com##.dyltv-container
+xhamster.com##div.related-container:nth-of-type(3)
+
+! 2/19/2020 https://www.scnsrc.me
+www.scnsrc.me##[href="https://www.scnsrc.me/linksnappy-review-special-offer/"]
+
+! 2/21/2020 https://meta.wikimedia.org
+meta.wikimedia.org###mw-anon-edit-warning
+
+! 2/21/2020 https://en.wikipedia.org
+en.wikipedia.org###mw-anon-edit-warning
+
+! 2/22/2020 https://www.faaborg-sejlklub.dk
+www.faaborg-sejlklub.dk##.banner-overlay
+www.faaborg-sejlklub.dk###banner-area-wrapper
+
+! 3/3/2020 https://www.sexsrc.com
+www.sexsrc.com##div.well:nth-of-type(5)
+www.sexsrc.com##.col-md-8 > div:nth-of-type(1)
+
+! 3/3/2020 https://forums.sexyandfunny.com
+forums.sexyandfunny.com##table:nth-of-type(4) > tbody > tr > td:nth-of-type(1) > .tborder
+forums.sexyandfunny.com##[src="https://www.sexyandfunny.com/featuredmediaSFF.php"]
+forums.sexyandfunny.com##div > table:nth-of-type(3) > tbody > tr > td:nth-of-type(1)
+
+! 3/4/2020 https://www.sex.com
+www.sex.com##[src="https://dat1.its-up.com/zone/12150/"]
+www.sex.com###container > .text-center
+
+! 3/4/2020 https://www.celebritymoviearchive.com
+www.celebritymoviearchive.com##.notification
+www.celebritymoviearchive.com##.wrpr > div:nth-of-type(2)
+
+! 3/5/2020 https://netflixtechblog.com
+netflixtechblog.com##.tn.tm.tl.tk.tj.ti.th.tg.tf.te.td.tc.tb.ta.sz.sy.sx.sw.sv.su.st.ss.sr.sq.sp.so.sn.sm.sl.sk.sj.al.si.jv.t.s
+
+! 3/5/2020 https://www.wikia.org
+www.wikia.org##.rxbhWIyq7zN9DBsGKihO9._1qTFYU2AttM0QuKykrEq1
+www.wikia.org##body > div:nth-of-type(3)
+
+! 3/11/2020 https://www.pornhub.com
+www.pornhub.com###videoSearchResult > .alpha
+www.pornhub.com##.clearfix.xc6lhd4nney0780v
+
+! 3/15/2020 https://www.youporn.com
+www.youporn.com###adblock_tooltip
+www.youporn.com##.promo-message
+www.youporn.com##.swyp > [href="/swyp"]
+www.youporn.com##.channelRow.row
+
+! 3/15/2020 https://xhamster.com
+xhamster.com##.premium-overlay
+
+! 3/15/2020 https://pastebin.com
+pastebin.com###float-box-frame
+
+! 4/11/2020 https://www.livesex.com
+www.livesex.com###overlay-container
+
+! 4/12/2020 http://de.1cam.webcam
+1cam.webcam##.fancybox-overlay-fixed.fancybox-overlay
+1cam.webcam##.fancybox-skin
+1cam.webcam##.__give_away.bc_popalert
+1cam.webcam##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
+1cam.webcam##.fancybox-overlay-fixed.fancybox-overlay
+
+##.fancybox-overlay-fixed.fancybox-overlay
+##.fancybox-skin
+##.__give_away.bc_popalert
+##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
+##.fancybox-overlay-fixed.fancybox-overlay
+
+! 4/13/2020 http://animal-lovers.net
+animal-lovers.net##[href="http://beastsexstars.net"] > .aligncenter
+animal-lovers.net##.p-topBarController
+
+! 4/13/2020 hot-animal-porn.biz
+/tp/out.php$document
+
+! 4/13/2020 animalsex.online
+/scj/cgi/out.php
+
+! 12/04/2020 sexandsubmission.com
+||cdnp.kink.com/assets/static-pages/landing-pages/withwatermark.mp4
+
+! 12/04/2020 sexmomsex.com
+||www.sexmomsex.com/xtube.php$document
+/xtube.php$document
+
+! 12/04/2020 sexteenageporn.com
+||worldtraffic.trade^
+
+! 12/04/2020 shinyjapaneseporn.com
+||www.shinyjapaneseporn.com/xtube.php$document
+
+! 09/01/2020 metart.com
+||nsimg.*^$important
+
+! 16/01/2020 https://www.fullrate.dk
+www.fullrate.dk##.page__social
+
+! 22/01/2020 https://github.com
+github.com##.js-banner.border-gray-light.border.rounded-1.text-center.p-4.content
+
+! 24/01/2020 https://www.cyberciti.biz
+www.cyberciti.biz###blocker7a1003a
+
+! 26/01/2020 https://www.free-porn-teen.com
+www.free-porn-teen.com###index1bannerdesktop
+
+! 26/01/2020 fullporn.online
+||noproblfr.com^
+
+! 26/01/2020 porngays.pro
+||www.porngays.pro/func.js$script
+
+! 26/01/2020 http://girlmature.com
+girlmature.com##[href^="../cgi-bin/at3/out.cgi"]
+
+! https://github.com/easylist/easylist/pull/4799
+/ab_fl.js$script
+
+! 28/01/2020 https://duckduckgo.com
+duckduckgo.com##.js-ia-modules.ia-modules
+
+##[href^="https://www.facebook.com"]
+##[href^="https://www.amazon.com"]
+##[href^="https://twitter.com"]
+
+! 03/02/2020 wetmeets.com
+||i.wetmeets.com/media/exit-new/*
+||i.wetmeets.com/cookie/*$script
+
+! 04/02/2020 https://gitguys.com
+gitguys.com##.td_block_template_1.td_uid_54_5e397b5fe9cbb_rand.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap
+
+! 05/02/2020 https://unix.stackexchange.com
+unix.stackexchange.com###noscript-warning
+
+! 10/02/2020 https://www.imdb.com
+www.imdb.com###pagecontent > .ab_widget
+
+! 10/02/2020 https://www.porndaa.com
+www.porndaa.com##div.well:nth-of-type(5)
+www.porndaa.com##.col-md-8 > div:nth-of-type(1)
+
+! 10/02/2020 https://imagetwist.com
+imagetwist.com##.container-fluid
+
+! 11/02/2020 https://www.pornhub.com
+www.pornhub.com##.sectionWrapper > .sectionWrapper
+
+! 22/03/2020 https://www.cloudbooklet.com
+www.cloudbooklet.com##.wp-block-group
+
+! 30/03/2020 https://ipaddressguide.com
+ipaddressguide.com##.text-center.col-md-3
+
+! 11/04/2020 direct-webcams.com
+||direct-webcams.com/api/metrics$xhr
+||direct-webcams.com/api/events$xhr
+
+! 11/04/2020 ecvision.info
+||ecvision.info/img/*$image
+
+! 11/04/2020 firecams.com
+||statsd-wc.hwtool.net/timing/*
+
+! 11/04/2020 hothouse.com
+||cloudfront.net/slickadd.min.js$script
+
+! 11/04/2020 ferame.com
+||ferame.com^$ping
+
+! 11/04/2020 javhd.com
+||^$ping
+||javhd.com^$ping
+
+! 12/04/2020 https://mipr.info
+mipr.info##.fogyk > div.wuqaw:nth-of-type(5)
+mipr.info##.fogyk > div.wuqaw:nth-of-type(1)
+mipr.info##.fuciged.fizezo.funadar
+mipr.info##.fogyk > div.wuqaw:nth-of-type(3)
+mipr.info##.fogyk > div.wuqaw:nth-of-type(7)
+
+! 12/04/2020 mmcams.com
+||hybridclient.naiadsystems.com/api/v2/*$xhr
+
+! 12/04/2020 gitkraken.com
+||trackingcheckinapi2-prod.spvyig3fxm.us-east-2.elasticbeanstalk.com^$xhr
+
+! 12/04/2020 https://mylesbianporn.com
+mylesbianporn.com##.promotionboxBlock.visible-lg.visible-md.promotionbox.video-list-ads
+
+! 12/04/2020 nastypornpics.com
+||a.bestcontentprogram.top/loader
+
+! 12/04/2020 newjapanesexxx.com
+||www.newjapanesexxx.com/js/functions.js$script
+
+! 12/04/2020 realyoungsex.com
+||www.realyoungsex.com/js/active.js$script
+
+! 12/04/2020 fuqporn.pro
+||/?id=podlivtest88.com
+
+! 12/04/2020 trustyfine.com
+||trustyfine.com^
+
+
+/^https?:\/\/([a-z0-9]{8,10}\.)?[a-z0-9]{5,14}\.(com|bid|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
+/^https?:\/\/[a-z0-9]{5,14}\.(com|bid|online|top|club)\/[0-9a-f]{32}\/invoke.js$/$script,third-party
+||www.porndaa.com/sw.js$1p
+||www.fsphhbsklawjs.com^
+https://padsabz.com/5b/11/ec/5b11ec577f7ab76d9e3bf5af286eda00.js
+
+! 2/6/2020 https://www.rosehosting.com
+www.rosehosting.com##.active.essb-followme-bottom.essb-followme
+www.rosehosting.com##.cc-color-override-469092766.cc-left.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-floating.cc-window
+
+! 2/6/2020 https://www.roskildebib.dk
+www.roskildebib.dk###sliding-popup
+www.roskildebib.dk##[href^="https://www.roskildebib.dk/nyheder/ebiblioteket/filmstriben"]
+www.roskildebib.dk##.js-ding-webtrekk-processed.node-ding-campaign-plus.node
+www.roskildebib.dk##.pane-serendipity-ting-object.panel-pane > .panel-pane-inner
+
+! 2/7/2020 https://roxette.se
+roxette.se###cff_124117970984196_2902756323120333 > .cff-meta-wrap
+
+! 2/8/2020 https://forum.videohelp.com
+forum.videohelp.com##.cc_container--open.cc_container.cc_banner
+
+! 2/5/2020 https://sn.dk
+! sn.dk##.cookie_container
+sn.dk###form73012b9f-2d02-4c77-a134-eac31911fb4f
+sn.dk##[href="https://sn.peytzmail.com/f/subscribe/tilmeldingsside-halsnaes"]
+##.cookie_container
+
+! 2/5/2020 http://www.sejlsport.dk
+www.sejlsport.dk##.cc-color-override-43623614.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+
+! 2/5/2020 https://www.fuglsangvvs.dk
+! www.fuglsangvvs.dk
+###cookie_box
+
+! 2/5/2020 https://bornholm.info
+! bornholm.info
+##.cookie-box
+
+! 2/5/2020 https://datacvr.virk.dk
+! datacvr.virk.dk
+##.eksCookieContainer
+
+! 2/5/2020 https://www.scanboat.com
+www.scanboat.com##.margin-tb-25.row
+
+! 2/5/2020 https://www.botenbank.nl
+! www.botenbank.nl
+###cookieConsentForm33
+
+! 2/5/2020 https://www.schipveiling.nl
+! www.schipveiling.nl
+###catapult-cookie-bar
+www.schipveiling.nl###spu-8513
+www.schipveiling.nl###spu-bg-8513
+
+! 2/5/2020 https://www.scanboat.com
+www.scanboat.com##.margin-b-50.details__social > ul > li:nth-of-type(2)
+www.scanboat.com##.margin-b-50.details__social > ul > li:nth-of-type(4)
+www.scanboat.com##.details__related.row
+
+! 1/26/2020 https://www.edbpriser.dk
+www.edbpriser.dk##.cc-color-override-2046284562.cc-top.cc-theme-classic.cc-type-opt-in.cc-banner.cc-window
+
+! 1/26/2020 https://www.av-cables.dk
+! www.av-cables.dk
+##.trustpilot.grid-x
+
+! 1/26/2020 https://www.hifiklubben.dk
+www.hifiklubben.dk###dixa-iframe-wrapper
+www.hifiklubben.dk##.bf2019-global-msg
+www.hifiklubben.dk##.taggedBanner.bgRed.contentSection
+
+! 1/26/2020 https://www.dba.dk
+||guide.dba.dk/widget/article/$subdocument
+www.dba.dk###RelatedListingsByExternalId
+www.dba.dk###TopGalleryFeature
+www.dba.dk##.save-search-agent.save-search
+www.dba.dk##.save-search-feedback
+www.dba.dk###srp-tabs
+! 1/26/2020 https://www.dba.dk
+www.dba.dk##.foot > .container > .row-fluid > .span3
+
+! 1/26/2020 https://www.whathifi.com
+! www.whathifi.com
+##.newsletter-signup.box
+
+! 1/20/2020 https://duckduckgo.com
+duckduckgo.com###organic-module
+! 1/27/2020 https://duckduckgo.com
+duckduckgo.com##.js-ia-modules.ia-modules
+
+! 1/27/2020 https://www.hifiklubben.dk
+||files.hifiklubben.com/UI/dummy.png$image
+www.hifiklubben.dk##.ms-container
+
+! 1/28/2020 https://www.storyvillerecords.com
+! www.storyvillerecords.com
+###cookieConsent
+
+! 1/29/2020 blackpics.net
+||stats.hprofits.com/advertisement.js$script
+||log.ebonybooty.pics^
+
+! 2/1/2020 https://www.gumtree.com
+www.gumtree.com##.fixed-bottom.gdpr-banner.notification
+www.gumtree.com##.right
+
+! 2/2/2020 https://en.wikipedia.org
+! en.wikipedia.org###siteNotice
+! 1/20/2020 https://da.wikipedia.org
+! da.wikipedia.org###siteNotice
+wikipedia.org###siteNotice
+
+! 2/4/2020 https://aktion.bmw.de
+! aktion.bmw.de
+###consent_disclaimer
+
+! 2/4/2020 https://www.digitalocean.com
+www.digitalocean.com##._panel_1nv7e_1
+www.digitalocean.com###newsletter-signup-dialog
+
+! 2/5/2020 https://dnslytics.com
+! dnslytics.com
+###EU_Cookie_Message
+
+! 2/5/2020 https://voegl.bmw
+! voegl.bmw
+###LayerArea
+
+! 1/19/2020 http://thefappening.news
+##[href="http://thefappening.news/banned-red.php"]
+thefappening.news##.entry-content > div
+
+! 1/19/2020 https://thefappening.xyz
+thefappening.xyz##.headline.text-center
+
+! 1/20/2020 https://linuxize.com
+! linuxize.com
+###ez-cookie-dialog-wrapper
+
+! 1/22/2020 https://celebjihad.com
+celebjihad.com##[href^="https://go.hpyrdr.com/"]
+
+! 1/23/2020 https://www.techjunkie.com
+techjunkie.com##.fixed-sidebar-fire-tv
+||techjunkie.com/wp-content/themes/techjunkie/js/bioep.min.js
+
+! 1/19/2020 https://thefappening.xyz
+thefappening.xyz##.headline.text-center
+
+! 1/19/2020 http://thefappening.news
+thefappening.news##.entry-content > div
+##[href="http://thefappening.news/banned-red.php"]
+
+! https://github.com/easylist/easylist/commit/38cf2f6112770f9cc86707ac90a0ee2beaade0b3
+||x-link.pl^$third-party
+! 18/12/2019 https://gitlab.com
+gitlab.com##.content-block.landing.bordered-box
+! 19/12/2019 focus.de
+||gstatic.com^
+! 23/12/2019 poulnielsen.dk
+||api.omnicar.io^
+||omnicar.io^
+||serviceagreement.omnicar.io^
+! 23/12/2019 dr.dk
+! ||sascdn.com^$third-party^$important
+! 31/12/2019 https://gitlab.com
+gitlab.com##.content-block.bordered-box
+gitlab.com##.mb-2.flash-notice
+! 31/12/2019 https://members.metart.com
+! members.metart.com##div.custom-cams-container.row:nth-of-type(4) > .custom-cams.container
+##.custom-beta-notice
+##.custom-hover-cams.hidden-xs.hidden-sm.hidden-md
+##div.custom-cams-container.row
+! 31/12/2019 https://members.metart.com
+! members.metart.com##.custom-hover-cams.hidden-xs.hidden-sm.hidden-md > .pull-left
+! 01/01/2020 https://www.fullrate.dk
+www.fullrate.dk##.callme-popunder
+www.fullrate.dk##[href="/mit-fullrate"]
+||www.fullrate.dk/selvbetjening/res/img/ny-mfr_banner.jpg$image
+! 01/01/2020 https://gitlab.com
+gitlab.com##.gl-banner.js-autodevops-banner
+! https://github.com/easylist/easylist/pull/4663/files
+###accept-cookies
+torrentz2.eu,torrentz2.is##.NonToleratds
+torrentz2.eu,torrentz2.is##.downurls > dl:nth-of-type(1)
+##.product-suggest
+op.gg##[class*="Ad"]
+.is,ndtv.com##a[href*=".amazonaws.com"]
+1337x.to,kissmanga.com,mylivecricket.tv##div[id*="Composite"]
+! 12/1/2019 https://sihteeriopisto.co
+sihteeriopisto.co##.mfp-content
+sihteeriopisto.co##.mfp-inline-holder.mfp-container
+sihteeriopisto.co##.mfp-ready.mfp-fade.mfp-auto-cursor.mfp-wrap
+sihteeriopisto.co##.mfp-ready.mfp-fade.mfp-bg
+! 12/2/2019 https://www.mechbunny.com
+www.mechbunny.com##.cookieWarningBox
+! 12/2/2019 https://hub.docker.com
+hub.docker.com##.styles__wrapper___EX-Nj
+! 12/2/2019 https://bitbucket.org
+bitbucket.org##.success.fadeout.shadowed.closeable.aui-message
+! 12/2/2019 https://gitlab.com
+gitlab.com##.flash-alert
+! 12/2/2019 https://duckduckgo.com
+duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--fadein.badge-link--top.badge-link
+! 12/2/2019 adexplode.pw
+||www.adexplode.pw^
+! 12/4/2019 https://gitlab.com
+gitlab.com##.prepend-top-10.append-bottom-20.banner-non-empty-state.banner-callout.js-autodevops-banner
+! 12/4/2019 https://bitbucket.org
+bitbucket.org###id_is_private_group
+! 12/5/2019 https://gitlab.com
+gitlab.com###promote_repository_features
+! 12/6/2019 https://www.8muses.com
+www.8muses.com##a.t-hover.c-tile:nth-of-type(12) > .image
+www.8muses.com##a.t-hover.c-tile:nth-of-type(24) > .image
+www.8muses.com##a.t-hover.c-tile:nth-of-type(36)
+www.8muses.com##a.t-hover.c-tile:nth-of-type(36) > .image
+www.8muses.com##a.t-hover.c-tile:nth-of-type(4) > .image
+www.8muses.com##a.t-hover.c-tile:nth-of-type(46)
+www.8muses.com##a.t-hover.c-tile:nth-of-type(46) > .image
+www.8muses.com##a.t-hover.c-tile:nth-of-type(55)
+www.8muses.com##a.t-hover.c-tile:nth-of-type(55) > .image
+www.8muses.com##a.t-hover.c-tile:nth-of-type(64)
+www.8muses.com##a.t-hover.c-tile:nth-of-type(64) > .image
+www.8muses.com##a.t-hover.c-tile:nth-of-type(79)
+www.8muses.com##a.t-hover.c-tile:nth-of-type(79) > .image
+! 12/28/2019 https://www.8muses.com
+www.8muses.com##a.t-hover.c-tile:nth-of-type(12)
+www.8muses.com##a.t-hover.c-tile:nth-of-type(23)
+www.8muses.com##a.t-hover.c-tile:nth-of-type(32)
+www.8muses.com##a.t-hover.c-tile:nth-of-type(47)
+! 12/8/2019 https://www.imdb.com
+www.imdb.com###sidebar
+! 1/9/2020 https://www.imdb.com
+! www.imdb.com###maindetails_center_bottom > div.article:nth-of-type(1)
+! www.imdb.com###maindetails_sidebar_bottom
+www.imdb.com###title-social-sharing-widget
+www.imdb.com###titleDidYouKnow
+! www.imdb.com###titleFAQ
+www.imdb.com###title_completed_pro_link
+www.imdb.com##._1eKbSAFyeJgUyBUy2VbcS_.imdb-footer__logo
+www.imdb.com##._2-iNNCFskmr4l2OFN2DRsf.imdb-footer__copyright
+! www.imdb.com##._27tI4dkp5ppErr-0Cga4Dw.ipc-inline-list
+www.imdb.com##._2Wc8yXs8SzGv7TVS-oOmhT.imdb-footer__socials
+www.imdb.com##.contribute.article
+! www.imdb.com##.iTQkiJ.sc-kgoBCf.navbar__user._3x17Igk9XRXcaKrcG3_MXQ
+! www.imdb.com##.imdb-header__watchlist-button.RWCCJ.sc-kpOJdX
+! www.imdb.com##.primary_ribbon
+www.imdb.com##.recently-viewed
+! www.imdb.com##.star-rating-button > button
+! www.imdb.com##.uc-add-wl.uc-add-wl--not-in-wl.uc-add-wl-button
+! www.imdb.com##a.quicklink:nth-of-type(4)
+! www.imdb.com##div.article:nth-of-type(1)
+! www.imdb.com##li.zgFV3U-XECrqVQnyDbx2B.ipc-inline-list__item:nth-of-type(2)
+! www.imdb.com##li.zgFV3U-XECrqVQnyDbx2B.ipc-inline-list__item:nth-of-type(3)
+! 12/10/2019 https://celebjihad.com
+celebjihad.com##.theme_article.sidebar_increase
+celebjihad.com##[href^="https://go.celebjihad.live/smartpop/"]
+! 12/11/2019 https://en.oui.sncf
+en.oui.sncf###cookie-policy-popin > div:nth-of-type(2)
+en.oui.sncf##.vsc__lightbox__container
+en.oui.sncf##.vsc__noFocus.vsc__lightbox--survey.vsc__lightbox
+! 12/12/2019 https://www.theatlantic.com
+www.theatlantic.com##.qc-cmp-showing.qc-cmp-ui-container
+
+! 2/5/2020 https://github.com
+! github.com##.js-notice.mb-4
+! 12/16/2019 https://github.com
+! github.com##.flash-notice.flash-full.flash
+! 1/8/2020 https://github.com
+github.com##.js-notice.mb-4.container-lg
+github.com##.protip
+github.com##.ws-normal.text-left.p-3.box-shadow-large.Box.Popover-message
+! 1/9/2020 https://github.com
+github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-3.col-lg-3.col-md-3.col-12.team-left-column
+! 24/11/2019 https://github.com
+github.com##.box-shadow-large.Box.mt-6.p-3.text-left.Popover-message--large.Popover-message--top-left.Popover-message
+github.com##.box-shadow-large.Box.p-4.left-0.Popover-message--top-left.Popover-message--large.Popover-message
+##.flash-error.flash-full.flash
+! 14/12/2019 https://github.com
+github.com##.p-2.border-bottom.js-notice
+! 10/19/2019 https://github.com
+github.com##.rounded-2.border.p-4.mb-6.mx-auto.signup-prompt
+||collector.githubapp.com^
+||github.com/_private/browser/stats
+
+
+||google.com^*recaptcha/$badfilter,frame
+||google.com^*recaptcha/$important
+! 12/27/2019 https://www.elgiganten.dk
+www.elgiganten.dk##.cookie-info-layer
+! 12/28/2019 https://gitlab.com
+gitlab.com##.gl-banner.js-autodevops-banner
+! 12/28/2019 https://www.fullrate.dk
+www.fullrate.dk##.callme-popunder__background
+! 12/28/2019 https://www.power.dk
+! www.power.dk###cookie-notification
+###cookie-notification
+! 12/28/2019 https://www.power.se
+! www.power.se###cookie-notification
+! 1/1/2020 https://gitlab.com
+gitlab.com##.popover-body
+! 1/4/2020 pinterest.com
+||accountkit.com$script
+||www.pinterest.com/resource/$xhr
+||www.pinterest.com/resource/ActivateExperimentResource/$xhr
+||www.pinterest.com/resource/ContextLogResource/$xhr
+||www.pinterest.com/resource/StatsLogResource/$xhr
+||www.pinterest.com/resource/UserRegisterTrackActionResource/$xhr
+! 1/6/2020 https://www.information.dk
+www.information.dk##.field-label-hidden.field-type-ds.field-name-non-subscriber-ad-article.field.paywall-box
+www.information.dk##div.omega.alpha.grid-12.panel-panel:nth-of-type(4)
+! 1/6/2020 http://news.discoverynetworks.dk
+news.discoverynetworks.dk###navbar-primary
+! 1/7/2020 https://conversion-rate-experts.com
+conversion-rate-experts.com##.cookie-consent-bar
+! 1/7/2020 https://sourceforge.net
+sourceforge.net###mirror
+sourceforge.net###newsletter-floating
+! 1/9/2020 https://www.amazon.com
+www.amazon.com##.nav-flyout.nav-coreFlyout.glow-toaster-slot-default.glow-toaster-theme-default.glow-toaster.a-section
+! 09/12/2019 http://www.erotica.xxx
+/banners/*$image,domain=www.erotica.xxx
+! 09/12/2019 https://videoporno-gratuite.fr
+! ||videoporno-gratuite.fr/meyer.php$image
+/meyer.php$image
+! 09/12/2019 flortestobb.com
+||www.flortestobb.com/landers/
+! 09/12/2019 https://csaladi-porno.com
+###erotikusmodalbox
+##.show.fade.modal-backdrop
+! 09/12/2019 https://pornovideo.szex.hu
+pornovideo.szex.hu###\31 8kapu
+pornovideo.szex.hu##.in.fade.modal-backdrop
+||/ad_track.js$script
+! 09/12/2019 pornovideo.szex.hu
+||ads.exoclick.com/ad_track.js$script^$important
+! 09/12/2019 https://szexfilmek-ingyen.hu
+! ||szexfilmek-ingyen.hu
+/frodo.php$image
+! 09/12/2019 https://szexkepek.net
+###\31 8kapu
+##.in.fade.modal-backdrop
+||szexkepek.net/webfile.php$image
+! 09/12/2019 https://tini-porno.com
+tini-porno.com###\31 8kapu
+tini-porno.com###text-2 > div.textwidget:nth-of-type(1)
+tini-porno.com##.hidden-sm.sidebar.col-sm-4
+tini-porno.com##.in.fade.modal-backdrop
+
+! 01/12/2019 https://gitlab.com
+gitlab.com##.flash-alert
+! 06/11/2019 https://gitlab.com
+##.prepend-top-10.append-bottom-20.banner-non-empty-state.banner-callout.js-autodevops-banner
+gitlab.com##.rounded.flash-alert.flash-content
+! 01/12/2019 https://bitbucket.org
+bitbucket.org##.success.fadeout.shadowed.closeable.aui-message
+! 09/10/2019 https://bitbucket.org
+bitbucket.org###id_is_private_group
+! 09/12/2019 dprtb.com
+||dprtb.com/click
+! 11/28/2019 https://bestlovesexdoll.com
+! bestlovesexdoll.com###accept-cookies
+! bestlovesexdoll.com##.product-suggest
+###accept-cookies
+##.product-suggest
+! 11/11/2019 https://www.thesslstore.com
+www.thesslstore.com##.open.slide-out-div
+! 17/11/2019 https://blog.heckel.io
+blog.heckel.io###sidebar_second_ad
+! 11/28/2019 https://bestlovesexdoll.com
+! bestlovesexdoll.com##.halo-modal.wrapper-newsletter
+##.halo-modal.wrapper-newsletter
+! 11/28/2019 bestlistofporn.com
+||bestlistofporn.com/wp-content/plugins/google-analytics-for-wordpress/$script
+! 11/28/2019 https://en.bab.la
+en.bab.la##.magazine.teaser
+en.bab.la##div.teaser-wrapper:nth-of-type(5)
+en.bab.la##div.teaser-wrapper:nth-of-type(6)
+! 11/24/2019 casacherda.nl
+||/wp-content/plugins/google-analytics-for-wordpress/$script
+! YET ANOTHER HUGE FAILURE of TREAT from EasyLst
+! @@||cam4.*/ads/directory/$1p,xmlhttprequest,domain=~gaytube.com|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com
+||cam4.*/ads/directory/$1p,xmlhttprequest
+||alternathistory.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js$script,~third-party
+! Googles recaptcha.net
+||recaptcha.net^
+! 11/19/2019 https://www.clickcease.com
+! www.clickcease.com###cookies-alert
+##cookies-alert
+! 11/22/2019 https://blogspot.com
+! blogspot.com###cookieChoiceInfo
+##cookiechoiceinfo
+! 11/6/2019 https://gitlab.com
+gitlab.com##.rounded.flash-alert.flash-content
+! 11/12/2019 https://linuxconfig.org
+linuxconfig.org##div.g-grid:nth-of-type(2) > .size-100.g-block > .g-content
+linuxconfig.org##div.size-25.g-block:nth-of-type(1)
+linuxconfig.org##div.size-25.g-block:nth-of-type(2) > .g-content > div.moduletable:nth-of-type(1)
+! 11/14/2019 https://www.manualslib.com
+! www.manualslib.com###cookie-alert
+##cookie-alert
+! 11/14/2019 https://www.bowerswilkins.com
+##.eu-cookie-compliance-content
+! 10/22/2019 https://www.youtube.com
+www.youtube.com###main
+||youtube-nocookie.com/api/stats/ads?
+||youtube-nocookie.com/api/stats/watchtime?
+||youtube.com/api/stats/watchtime?
+! 10/23/2019 https://serverfault.com
+! serverfault.com###noscript-warning
+##noscript-warning
+! 10/23/2019 ekstrabladet.dk
+||consent.dk^
+! 10/30/2019 http://18teens.pro
+18teens.pro###topbar
+! 18teens.pro##.ad-on-video
+##.ad-on-video
+18teens.pro##div.mexu-bns-bl:nth-of-type(4)
+18teens.pro##div.mexu-bns-bl:nth-of-type(6)
+! 11/3/2019 https://gitlab.com
+gitlab.com##.rounded.flash-notice.flash-content
+! 11/15/2019 https://gitlab.com
+gitlab.com##.flash-notice
+! 11/4/2019 http://freeteenmovs.pro
+freeteenmovs.pro###topbar
+! 11/4/2019 https://hentai-paradise.fr
+hentai-paradise.fr###theEnd
+hentai-paradise.fr##.reveal-overlay
+! 11/4/2019 http://hentaisexuality.com
+! hentaisexuality.com###popwindow
+##popwindow
+! 11/4/2019 http://horse-fucking.com
+! horse-fucking.com###popwindow
+! 11/4/2019 livefreecamx.com
+||ssl-ccstatic.highwebmedia.com/CACHE/js/$script
+! ###.overlay
+##.overlay
+! 11/4/2019 https://www.denic.de
+www.denic.de##.notification--bottom.notification--acknowledge.notification--notice.notification.teaser
+! 11/4/2019 https://nakedgirls.org
+! nakedgirls.org###dclm_modal_screen
+! nakedgirls.org###dclm_modal_content
+! 11/4/2019 nakedgirls.org
+||nakedgirls.org/wp-content/cache/min/1/9fcd011c46522a73b34f64eb7ca6b479.js$script
+! 11/4/2019 http://nakedgirls.pw
+nakedgirls.pw##.adHomePage
+nakedgirls.pw##.plugrush.centered
+! 11/4/2019 http://nakedwomenweb.com
+nakedwomenweb.com##canvas:nth-of-type(2)
+! 11/4/2019 http://www.nextpics.com
+www.nextpics.com##.\<b\>19\<\/b\>\<br.line.on.\<b\>\/var\/www\/damplips\/data\/www\/nextpics\.com\/wp-content\/themes\/vlog-v5\/ssi\/warning18\.php\<\/b\>.in.message_cookie.index\:.Undefined.\<b\>Notice\<\/b\>\:.\/\>.\<br.cookie-message
+www.nextpics.com##.popup
+! 11/4/2019 http://petiteteenmovs.pro
+! petiteteenmovs.pro###topbar
+##topbar
+! 11/4/2019 https://pornshui.com
+||pornshui.com/tf/cron.php$subdocument
+! 11/4/2019 http://sexual-teens.com
+sexual-teens.com##div.container-fluid:nth-of-type(2) > .text-center.mobile-thumbs > a[href^="go.php"]:nth-of-type(2)
+! 11/4/2019 truepurenudism.com
+||truepurenudism.com/counter.js$script
+||truepurenudism.com/scripts/$script
+! 11/4/2019 https://the-sex.me
+the-sex.me###disclaimer
+the-sex.me##.thumb-ad
+! 11/4/2019 https://www.xgaytube.tv
+www.xgaytube.tv##.active.js-random-link-item.js-menu-random.b-main-nav__link--mi.b-main-nav__link
+! 11/4/2019 http://youngsexpics.com
+youngsexpics.com##.partridge
+! 11/4/2019 youngsexpics.com
+||youngsexpics.com/esuvmisa$xhr
+||youngsexpics.com/trmdvjik/
+||youngsexpics.com/trmdvjik/cron.php$xhr
+! 11/4/2019 freelatinapics.com
+||bnstats.js$script
+||freelatinapics.com/lsvd/cron.php$xhr
+||lab.blackpics.net/iframe.php$subdocument
+||www.freelatinapics.com/lsvd/check.php
+! 11/4/2019 https://www.hostwinds.com
+www.hostwinds.com###heateor_ss_browser_popup_bg
+www.hostwinds.com##.all-services
+||www.hostwinds.com/guide/wp-content/plugins/super-socializer/images/close.png$image
+||www.hostwinds.com/guide/wp-content/plugins/super-socializer/images/transparent_bg.png$image
+! 10/20/2019 By krystian3w at https://gitlab.com/my-privacy-dns/matrix/matrix/issues/182#note_223460116
+/^https?:\/\/(.*\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{5,22}[0-9]{1,8}\.(agency|icu|life|live)\//$document,domain=agency|icu|life|live
+! 10/20/2019 https://www.reddit.com
+www.reddit.com##div.SubredditVars-r-pihole:nth-of-type(3)
+! 10/20/2019 https://www.nytimes.com
+www.nytimes.com##.e1x0szx60.css-1uqnipt.expanded-dock.expanded.shown.gdpr
+! 10/19/2019 http://magnet2torrent.me
+magnet2torrent.me##li:nth-of-type(2)
+! 10/19/2019 thefappeningblog.com
+bluehouse.is###customForm
+bluehouse.is###PopupOverLay_WA_0
+||google.com/recaptcha/$important,script
+||player.pulsemediatv.com^$third-party,$domain=~bwin.sport
+! ||api.cxense.com/public/widget/data?$script
+! 10/12/2019 https://gitbook.com/
+||googleapis.com^$important
+! 10/12/2019 https://taenk.dk/
+||cookieinformation.com^
+! 10/10/2019 https://www.wired.com
+www.wired.com##.paywall-bar--expanded.paywall-bar-failsafe
+www.wired.com##.paywall-bar__expanded
+www.wired.com##.show-social-box.persistent-aside--align-left.persistent-aside
+! 10/9/2019 https://duckduckgo.com
+duckduckgo.com##div.detail__pane:nth-of-type(2) > .detail__inner > .detail__body > .detail__body__content.c-detail > .c-detail__more > [href^="https://www.youtube.com/results"]
+! 10/9/2019 dr.dk/
+||www.dr.dk/DR.Common.Banner.Ads/$xmlhttprequest
+||www.dr.dk/drWebStat/$script
+! 10/9/2019 https://www.dr.dk
+! www.dr.dk###CybotCookiebotDialogBodyUnderlay
+! www.dr.dk###CybotCookiebotDialog
+! 10/9/2019 dr.dk
+||cookiebot.com^$script
+! 10/9/2019 https://www.extremetech.com
+www.extremetech.com###_evidon-background
+www.extremetech.com###_evidon-banner
+www.extremetech.com###_evidon-barrier-wrapper
+! 10/10/2019 https://www.kino.dk
+www.kino.dk###sliding-popup
+! 10/12/2019 dr.dk
+||adobedtm.com/
+||cookiebot.com^
+||www.dr.dk/drwebstat/
+! 10/13/2019 digst.dk
+||digst.dk/proxy.gba$first-party,xmlhttprequest
+! 10/13/2019 ft.dk
+||cdhsign.dk^
+||s.ytimg.com^$domain=www.ft.dk
+||typekit.net^$domain=www.ft.dk
+! 10/18/2019 https://www.crowdstrike.com
+www.crowdstrike.com###optInMessage-new
+www.crowdstrike.com###optinmessagebg
+! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/5
+||pingtopingsrv*.life^
+! 29/07/2019 https://www.systutorials.com
+www.systutorials.com###ez-cookie-dialog-wrapper
+||google.*^
+||googletagservices.*^
+! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/2
+dmi.dk##.add-container
+dmi.dk#?#.large-6:-abp-has(:scope > .section-1-ad)
+! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/3
+pornhub.com###menuItem4 > .js-topMenuLink
+pornhub.com###streamMateModel
+pornhub.com##.footer-title
+pornhub.com##.footerContentWrapper
+sourceforge.net##.m-project-list.m-sidebar-widget
+sourceforge.net##.m-project-related-keywords.m-sidebar-widget
+sourceforge.net##.m-sidebar-compare.m-sidebar-widget
+pornhub.com##.streamatesModelsContainer.sectionWrapper
+sourceforge.net##aside.m-sidebar-widget:nth-of-type(3)
+pornhub.com##h3
+||sailboatdata.com/storage/10163/Thunderstruck0918.jpg$image
+! static.zdassets.com
+||zdassets.com^$third-party
+! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/4
+translation.babylon-software.com###dimScreen
+translation.babylon-software.com##.pc-popup-new
+! 10/2/2019 https://hub.filterlists.com
+hub.filterlists.com##.alert-info.alert.signup-cta
+##.social-controls
+##.social-count
+##.social-count-boxes
+##.social-count-wrap
+##.social-counter
+##.social-counter-man
+##.social-counter-metro
+##.social-counter-widget
+##.social-counter-wrap
+##.social-counter-wrapper
+##.social-counters
+##.social-counts-single
+/analytics/event
+/api/tracking/*
+/metrics/statsd/*
+/snowplow/*$script
+||google.com/recaptcha
+||googletagmanager.com/gtm.js$script
+||js-agent.newrelic.com^
+||static.zdassets.com^
+! ||cdn.polyfill.io/v2/*$script
+||fonts.googleapis.com^$stylesheet
+||polyfill.io^$third-party
+! 10/9/2019 https://github.com
+! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/6
+github.com##.mt-3.flash-warn.flash
+github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
+! 10/13/2019 tv2.dk
+||adobedtm.com^$script
+||facebook.net^$script
+||tv2a.dk/ads/
+||tv2a.dk/analytics/gallup/spring.js$script
+||tv2a.dk/consent/$script
+||tv2a.dk/oil/$script
+||tv2login.dk/api/login/v1/users/current/consents$xmlhttprequest
+||tv2net.zendesk.com^$script
+! 11/10/2019 https://www.youtube.com
+youtube.com###contentWrapper > .ytd-popup-container.style-scope
+youtube.com###subscribe-button
+youtube.com##.size-small.style-suggestive.ytd-masthead.style-scope
+||magnet2torrent.me/html/pageindex.html
+
+! ------------------- MetArt Networking blocking filters ----------------!
+! *** ublockorigin-rules:rules/MetArtNetwork.txt ***
+! 09/01/2020 metart.com
+||nsimg.*^$important
+! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/1
+! 09/10/2019 metart.com
+! metart.com,sexart.com##.container.content > div:nth-of-type(1) > div > .hidden-xs
+! ##.live-girls.more-girls
+! ##.page-content > div:nth-of-type(3)
+! ##.upgrade-strip.hVTYCd.sc-gzVnrw
+! ||cdn.metartnetwork.com/*/media/promotions/
+! ||v2.metart.com/api/location$xmlhttprequest
+! ||v2.metart.com/api/upgradable-sites$xmlhttprequest
+! ||v2.metart.com/sw.js$script
+! New Test
+/api/location$xmlhttprequest^domain=alsscan.com|domai.com|eroticbeauty.com|errotica-archives.com|eternaldesire.com|goddessnudes.com|live.tv|lovehairy.com|metart.com|rylskyart.com|sexart.com|stunning18.com|thelifeerotic.com|vivthomas.com
+/api/upgradable-sites$xmlhttprequest^domain=alsscan.com|domai.com|eroticbeauty.com|errotica-archives.com|eternaldesire.com|goddessnudes.com|live.tv|lovehairy.com|metart..com|metart.com|rylskyart.com|sexart.com|stunning18.com|thelifeerotic.com|vivthomas.com
+/media/promotions/^domain=metart.com|metart.com|sexart.com|thelifeerotic.com|vivthomas.com|lovehairy.com|errotica-archives.com|domai.com|goddessnudes.com|eroticbeauty.com|alsscan.com|rylskyart.com|eternaldesire.com|stunning18.com|live.tv
+/sw.js$script^domain=alsscan.com|domai.com|eroticbeauty.com|errotica-archives.com|eternaldesire.com|goddessnudes.com|live.tv|lovehairy.com|metart.com|rylskyart.com|sexart.com|stunning18.com|thelifeerotic.com|vivthomas.com
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.container.content > div:nth-of-type(1) > div > .hidden-xs
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.live-girls.more-girls
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.page-content > div:nth-of-type(3)
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.upgrade-strip
+! 09/10/2019 https://v2.metart.com
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.col-xs-12.col-sm-12.col-md-12.col-lg-4
+! 18/10/2019 https://v2.metart.com
+! Updated by suggestion of krystian3w
+v2.metart.com##.free-access-modal.modal-dialog
+v2.metart.com##.modal.fade
+! 18 Oct 2019 14:21
+##.container.content > div:nth-of-type(1) > div > .hidden-xs
+##.live-girls.more-girls
+##.page-content > div:nth-of-type(3)
+##.upgrade-strip
+/api/location$xmlhttprequest
+/api/upgradable-sites$xmlhttprequest,domain=alsscan.com|domai.com|eroticbeauty.com|errotica-archives.com|eternaldesire.com|goddessnudes.com|live.tv|lovehairy.com|metart..com|metart.com|rylskyart.com|sexart.com|stunning18.com|thelifeerotic.com|vivthomas.com
+/media/promotions/
+/sw.js$script
+! 09/10/2019 https://v2.metart.com
+##.col-xs-12.col-sm-12.col-md-12.col-lg-4
+
+! ------------------------ White List -----------------------------------!
+! *** ublockorigin-rules:rules/whitelist.txt ***
+@@about-scheme
+@@about.gitlab.com
+@@ccbill.metartmoney.com
+@@chrome-extension-scheme
+@@chrome-scheme
+@@moz-extension-scheme
+@@opera-scheme
+@@vivaldi-scheme
+@@wyciwyg-scheme
+@@yspmedia-web.gitlab.io
+~hub.filterlists.com#@#.btn-social
+
+! ------------------------ Anti White -----------------------------------!
+! *** ublockorigin-rules:rules/anti_whitelist.txt ***
+@@||assets.hcaptcha.com/captcha/$script,subdocument,domain=abcvideo.cc
+@@||hcaptcha.com^*/api.js$script,domain=abcvideo.cc
+
+! https://github.com/easylist/easylist/commit/3ec21e55ace2027b52cd69ef73002cd374d8344c#diff-3034fb5f835bb84b82df3927c7048308R10
+@@||192.168.*/privacy_policy.js$~third-party,badfilter
+
+! https://github.com/easylist/easylist/issues/5545
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=tv.rakuten.co.jp,badfilter
+@@||pubads.g.doubleclick.net/gampad/ads$xmlhttprequest,domain=imasdk.googleapis.com,badfilter
+
+! https://github.com/easylist/easylist/pull/5560
+@@||c.evidon.com/sitenotice/evidon-sitenotice-tag.js$script,domain=southparkstudios.nu,badfilter
+
+! https://github.com/easylist/easylist/pull/5538 & https://github.com/easylist/easylist/commit/c98995b5a52cab2f353a2ca14345e361cac9bbb8
+@@||adobedtm.com^*/mbox-contents-$script,domain=ceair.com|fcbarcelona.cn,badfilter
+@@||adobedtm.com^*/satelliteLib-$script,domain=ceair.com|fcbarcelona.cn,badfilter
+
+! https://github.com/easylist/easylist/issues/5557
+@@||datadoghq-browser-agent.com/datadog-rum-us.js$script,domain=usa.experian.com,badfilter
+
+! https://github.com/easylist/easylist/issues/5556
+/check_a_b.js
+
+! https://github.com/easylist/easylist/issues/5540
+@@||www.facebook.com/plugins/page.php$domain=topplant.pl,badfilter
+
+! AdGuard Base
+@@||services.brid.tv/player/build/plugins/adunit.js$script,domain=hideout.co,badfilter
+
+! Fanboy’s Enhanced Tracking List
+! https://video.adaptv.advertising.com/ad/ads/advertisers/advertisers.txt
+||advertising.com^$important
+
+||marketo.com^$important
+
+! https://github.com/easylist/easylist/commit/7ece7052f862fd1beea5aade61f3017fb08e52d7#diff-9e00091554e8e64d830b74ad010e291dR296
+@@||fastwhitecat.com/wp-content/plugins/duracelltomi-google-tag-manager/$script,domain=fastwhitecat.com,badfilter
+
+! 9bfbcea9af6 (monzta 2017-11-27 18:20:19 +0100 253) @@||segment.com/analytics.js/*/analytics.min.js$script
+||segment.com/analytics.js/*/analytics.min.js$script$important
+! https://github.com/AdguardTeam/AdguardFilters/issues/57098
+@@||cdn.segment.com/analytics.js/v1/*/analytics.min.js$domain=shop.fender.com,badfilter
+
+! https://github.com/easylist/easylist/commit/023a72799bb58b9f2b3c0ae304e54bdae9445ad2#diff-57814f66f7ce561ca9320be995443b1fR6
+||adobedtm.com^$important
+@@||adobedtm.com^*/launch-$script,badfilter
+
+! https://github.com/easylist/easylist/pull/4780/files#diff-9e00091554e8e64d830b74ad010e291dR35
+@@||cdn.vuplay.co.uk/stats/adobe/*/AppMeasurement.js$script,domain=radioplus.be,badfilter
+
+! https://github.com/easylist/easylist/issues/4809
+@@||apis.google.com/js/platform.js$domain=9gag.com|discogs.com|duolingo.com|febbit.com|id.logi.com|jakdojade.pl|moshi.com|olx.pl|olx.ro|passeidireto.com|sato.fi,badfilter
+
+@@/advertisement.js$script,badfilter
+
+! Prevent https://github.com/easylist/easylist/pull/4564
+@@||pro.ip-api.com/json/$xhr,domain=cookappsgames.com,badfilter
+
+||duskgytldkxiuqc6.onion^$important
+! Prevent https://github.com/easylist/easylist/pull/4618
+@@||connect.squareup.com/payments/analytics/frame.html$subdocument,badfilter
+@@||connect.squareupsandbox.com/payments/analytics/frame.html,badfilter
+
+! Yet another Seriously threat from google and easylist
+! with help from @THEtomaso at https://github.com/easylist/easylist/issues/4529#issuecomment-566108181
+! https://forums.lanik.us/viewtopic.php?f=64&t=40469
+@@||google.com^*recaptcha/$frame,badfilter
+||google.com^*recaptcha/$important
+||yastatic.net/share2/share.js$script$important
+
+! Another big mistake from EasyList https://github.com/easylist/easylist/commit/c0efafdc218efa80cb12f42e424728924153c261#diff-9e00091554e8e64d830b74ad010e291dR102
+@@||mediaworld.it^*/GoogleTagManager.js?,badfilter
+
+! https://github.com/easylist/easylist/pull/4321/files
+@@||alternathistory.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js$script,~third-party,badfilter
+
+! https://github.com/easylist/easylist/commit/a231c361bc8fd6fb5b90d6b4b24bb5fda1d72800#diff-3c94e5e631ac34edafb40b939d16245aR36
+||google.com/recaptcha/$script,subdocument
+@@||hdtvpolska.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js,badfilter
+
+! 23/12/2019 https://github.com/easylist/easylist/issues/4558
+||sascdn.com^$important,third-party
+
+! https://github.com/uBlockOrigin/uAssets/issues/6344
+bluehouse.is###PopupOverLay_WA_0
+bluehouse.is###customForm
+
+
+! ---------------------- Anti Whitelist by Yuki2718 ---------------------!
+! *** ublockorigin-rules:thirdparties/Yuki2718/ublock-anti-whitelist.txt ***
+! EasyList
+/prebid1.$important,domain=9to5google.com|9to5mac.com|9to5toys.com|electrek.co|dronedj.com
+||accuweather.com/bundles/prebid.$important
+||g.doubleclick.net/tag/js/gpt.js$important,domain=accuweather.com
+||kissanime.ru/ads/$frame,important
+||www.networkworld.com/www/js/ads/$important
+@@||clients*.google.com/adsense/*?key=$domain=~calcalist.co.il|~gaytube.com|~mako.co.il|~pornhub.com|~pornhubthbh7ap3u.onion|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~walla.co.il|~xtu,badfilter
+
+! EasyPrivacy
+||omtrdc.net/rest/$important
+||play.google.com/log$important,domain=~myaccount.google.com
+||smetrics.aem.playstation.com^$important
+||www.walmart.com^*/logger^$xhr,important
+@@||s.yimg.com^*/advertisement/sponsor/promo/ad.png$image,domain=news.yahoo.com,badfilter
+@@||youtube.com/api/stats/watchtime?$image,domain=youtube.com,badfilter
+
+! AdGuard Base
+@@||2mdn.net/instream/$badfilter
+! no breakage on my end but if you get, add speedtest.net##+js(set, apstag.init, noopFunc)
+@@||b.cdnst.net/javascript/amazon.js$domain=speedtest.net,badfilter
+@@||imasdk.googleapis.com/js/core/bridge*.html$domain=~spotify.com,badfilter
+@@||krebsonsecurity.com^$badfilter
+@@||s1.wp.com^$badfilter
+@@||wp.com/p/jetpack^$badfilter
