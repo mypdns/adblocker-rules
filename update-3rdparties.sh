@@ -15,12 +15,13 @@ for i in "${!assets[@]}"; do
     localURL="$i"
     remoteURL="${assets[$i]}"
     echo "*** Downloading ${remoteURL}"
-    if wget -q -T 30 -O $TEMPFILE -- $remoteURL; then
-        if [ -s $TEMPFILE ]; then
-            if ! cmp -s $TEMPFILE $localURL; then
-                echo "    New version found: ${localURL}"
+    if wget -q -T 30 -O "$TEMPFILE" -- "$remoteURL"; then
+        if [ -s "$TEMPFILE" ]; then
+            if ! cmp -s "$TEMPFILE" "$localURL"; then
+                echo -e "\tNew version found: ${localURL}"
                 if [ "$1" != "dry" ]; then
-                    mv $TEMPFILE $localURL
+                    mkdir -p "$TEMPFILE" "$localURL"
+                    mv "$TEMPFILE" "$localURL"
                 fi
             fi
         fi
@@ -28,5 +29,5 @@ for i in "${!assets[@]}"; do
 done
 
 # This will help minimize diff between updates
-sort thirdparties/mirror1.malwaredomains.com/files/justdomains > $TEMPFILE
-mv $TEMPFILE thirdparties/mirror1.malwaredomains.com/files/justdomains
+sort "thirdparties/mirror1.malwaredomains.com/files/justdomains" > "$TEMPFILE"
+mv "$TEMPFILE" "thirdparties/mirror1.malwaredomains.com/files/justdomains"
