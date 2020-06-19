@@ -19,14 +19,17 @@
 ! incoming+anonymousposter-ublockorigin-rules-14161071-issue-@incoming.gitlab.com
 ! Description: 
 !
-!--------------------General advert blocking filters--------------------!
+!------------------- General advert blocking filters -------------------!
 %include ublockorigin-rules:rules/blockrules.txt%
 
-!--------------------MetArt Networking blocking filters-----------------!
+!------------------- MetArt Networking blocking filters ----------------!
 %include ublockorigin-rules:rules/MetArtNetwork.txt%
 
-!-------------------------White List -----------------------------------!
+!------------------------ White List -----------------------------------!
 %include ublockorigin-rules:rules/whitelist.txt%
 
-!-------------------------Anti White -----------------------------------!
+!------------------------ Anti White -----------------------------------!
 %include ublockorigin-rules:rules/anti_whitelist.txt%
+
+!---------------------- Anti Whitelist by Yuki2718 ---------------------!
+%include ublockorigin-rules:thirdparties/Yuki2718/ublock-anti-whitelist.txt%

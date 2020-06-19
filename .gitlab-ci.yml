@@ -25,12 +25,13 @@ before_script:
   - git config --global user.name "${GITLAB_USER_NAME}"
   - git config --global user.email "${GITLAB_USER_EMAIL}"
 
-#build:
-#  stage: build
-#  script:
-#    - git checkout $CI_COMMIT_REF_NAME
+build:
+  stage: build
+  script:
+    - git checkout $CI_COMMIT_REF_NAME
+    - ./update-3rdparties.sh
     #- python FOP.py rules/ # fucking rules layout
-#    - flrender -i ublockorigin-rules=. AnonymousPoster.template public/blockrules.txt
+    #- flrender -i ublockorigin-rules=. AnonymousPoster.template public/blockrules.txt
 
 #test:
 #  stage: test
@@ -45,6 +46,7 @@ pages:
   stage: deploy
   script:
     #- git checkout $CI_COMMIT_REF_NAME
+    - ./update-3rdparties.sh
     - flrender -i ublockorigin-rules=. AnonymousPoster.template public/blockrules.txt
     #- flrender --help
     #- url_host=`git remote get-url origin | sed -e "s/https:\/\/gitlab-ci-token:.*@//g"`
