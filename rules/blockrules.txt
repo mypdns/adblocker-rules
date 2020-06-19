@@ -1,3 +1,44 @@
+! 5/17/2020 https://celebmasta.com
+##[href^="https://hornygirlhere.com/"]
+
+! 5/18/2020 https://askubuntu.com
+askubuntu.com###noscript-warning
+
+! 5/21/2020 https://serverfault.com
+serverfault.com###noscript-warning
+
+! 5/22/2020 https://centminmod.com
+centminmod.com##.section-title > .col-md-9
+
+! 5/23/2020 https://www.babepedia.com
+||www.babepedia.com/pics/Jeana%20Turner_thumb.jpg$image
+www.babepedia.com##canvas:nth-of-type(2)
+
+! 5/26/2020 nabble.com
+||powerdns.13854.n7.nabble.com/trk0.js$script,1p
+||powerdns.13854.n7.nabble.com/trk5.js$script
+
+! 5/26/2020 http://henrik.dk
+henrik.dk##div.box_sponsor02
+
+! 5/26/2020 https://www.mrskin.com
+www.mrskin.com###access_modal
+www.mrskin.com###skod-container
+www.mrskin.com##.bg-white.featured-scene-description-container > .text-center
+www.mrskin.com##.col-xs-12.col-sm-8.col-md-4
+
+! 6/2/2020 https://shop.westerndigital.com
+shop.westerndigital.com##div.ng-scope.md\:h-auto.h-full.flex.relative.flex-col.lg\:cols-3.xs\:cols-4.cols-6:nth-of-type(3)
+
+! 6/2/2020 https://www.pricerunner.dk
+www.pricerunner.dk##._3YnaHq5Pmy
+
+! 6/9/2020 https://bitbucket.org
+bitbucket.org##.ei693ry6.css-kigghj
+
+! 5/29/2020 https://www.babes.com
+www.babes.com##.dLQauY.sc-1mhpkp8-0 > .lenLl.sc-1xljrhb-0
+
 ! https://www.mypdns.org/T915
 ||hcaptcha.com^$important
 
