@@ -13,7 +13,7 @@ assets=(
 
 for d in "${!assets[@]}"
 do
-	mkdir -p localURL="$d"
+	printf localURL="$d"
 done
 
 for i in "${!assets[@]}"; do
