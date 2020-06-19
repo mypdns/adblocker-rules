@@ -1,3 +1,6 @@
+! https://www.mypdns.org/T915
+||hcaptcha.com^$important
+
 ! https://github.com/easylist/easylist/pull/5551
 /cdn-cgi/bm/*
 
