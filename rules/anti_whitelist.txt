@@ -1,3 +1,7 @@
+! https://github.com/ryanbr/fanboy-adblock/issues/1372
+! https://github.com/spirillen/dns-rpz-integration/issues/17#issuecomment-647053231
+/cookie-banner$domain=bbc.com,important
+
 ! https://github.com/easylist/easylist/pull/5450
 @@||googletagmanager.com/gtm.js$script,domain=cdon.fi|como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi|veho.fi,badfilter
 
