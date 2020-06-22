@@ -1,3 +1,6 @@
+! https://github.com/easylist/easylist/issues/5577
+@@||apis.google.com/js/platform.js$script,domain=naruto.oasgames.com,badfilter
+
 ! https://github.com/easylist/easylist/pull/5583
 mages.sprinklecontent.com/270/170/$image,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|rytmi.com|soundi.fi|tilt.fi,badfilter
 @@||proxy.strossle.it/proxy.html$subdocument,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|rytmi.com|soundi.fi|tilt.fi,badfilter
