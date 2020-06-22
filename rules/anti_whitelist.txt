@@ -1,3 +1,6 @@
+! https://github.com/easylist/easylist/pull/5581
+mehilainen.fi#@#div[class*="CookieConsent"]$badfilter
+
 ! https://github.com/ryanbr/fanboy-adblock/issues/1372
 ! https://github.com/spirillen/dns-rpz-integration/issues/17#issuecomment-647053231
 /cookie-banner$domain=bbc.com,important
@@ -69,7 +72,7 @@ power.fi#@##cookie-notification,$badfilter
 @@||fastwhitecat.com/wp-content/plugins/duracelltomi-google-tag-manager/$script,domain=fastwhitecat.com,badfilter
 
 ! 9bfbcea9af6 (monzta 2017-11-27 18:20:19 +0100 253) @@||segment.com/analytics.js/*/analytics.min.js$script
-||segment.com/analytics.js/*/analytics.min.js$script$important
+||segment.com/analytics.js/*/analytics.min.js$script,important
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/57098
 @@||cdn.segment.com/analytics.js/v1/*/analytics.min.js$domain=shop.fender.com,badfilter
@@ -102,14 +105,14 @@ power.fi#@##cookie-notification,$badfilter
 ||yastatic.net/share2/share.js$script,important
 
 ! Another big mistake from EasyList https://github.com/easylist/easylist/commit/c0efafdc218efa80cb12f42e424728924153c261#diff-9e00091554e8e64d830b74ad010e291dR102
-@@||mediaworld.it^*/GoogleTagManager.js?,$badfilter
+@@||mediaworld.it^*/GoogleTagManager.js?$badfilter
 
 ! https://github.com/easylist/easylist/pull/4321/files
 @@||alternathistory.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js$script,~third-party,badfilter
 
 ! https://github.com/easylist/easylist/commit/a231c361bc8fd6fb5b90d6b4b24bb5fda1d72800#diff-3c94e5e631ac34edafb40b939d16245aR36
 ||google.com/recaptcha/$script,subdocument
-@@||hdtvpolska.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js,$badfilter
+@@||hdtvpolska.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js$badfilter
 
 ! 23/12/2019 https://github.com/easylist/easylist/issues/4558
 ||sascdn.com^$important,third-party
