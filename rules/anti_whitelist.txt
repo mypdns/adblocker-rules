@@ -1,3 +1,9 @@
+! Based on, not from https://github.com/ryanbr/fanboy-adblock/issues/1375
+@@||geolocation.onetrust.com/cookieconsentpub/$script,badfilter
+@@||cookielaw.org/consent/$xmlhttprequest,badfilter
+@@||isgprivacy.cbsi.com/dist/optanon.js$script,badfilter
+@@||cookielaw.org/scripttemplates/$script,domain=eurogamer.net|zdnet.com,badfilter
+
 ! https://github.com/easylist/easylist/pull/5444
 @@||googletagmanager.com/gtm.js$script,domain=cdon.fi|como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi
 @@||kiwi45.leiki.com/focus/$script,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi
