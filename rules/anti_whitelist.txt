@@ -1,3 +1,6 @@
+! unknown commit
+@@/wp-content/plugins/akismet/*$script,1p,domain=~gaytube.com|~pornhub.com|~pornhubthbh7ap3u.onion|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com,badfilter
+
 ! https://github.com/easylist/easylist/pull/5612
 @@||script.nettix.fi^*analytics.js$script,domain=nettiauto.com|nettikaravaani.com|nettikone.com|nettimokki.com|nettimoto.com|nettivaraosa.com,badfilter
 
