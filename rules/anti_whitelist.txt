@@ -1,3 +1,6 @@
+! https://github.com/easylist/easylist/issues/5431#issuecomment-636639239
+supercomfysleep.com##.normal_social:style(visibility: hidden !important;)
+
 ! unknown
 @@||mediafire.com^$generichide,badfilter
 
