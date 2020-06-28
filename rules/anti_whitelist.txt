@@ -1,3 +1,7 @@
+! https://github.com/easylist/easylist/commit/6ecc2aea641c040b5ae752fc08941c9097149ad5
+! https://github.com/easylist/easylist/issues/5597
+-125x40-
+
 ! https://github.com/easylist/easylist/issues/5431#issuecomment-636639239
 supercomfysleep.com##.normal_social:style(visibility: hidden !important;)
 
