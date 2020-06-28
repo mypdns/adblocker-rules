@@ -1,3 +1,9 @@
+! https://www.mypdns.org/T941
+! 6/28/2020 github.com
+||live.github.com/_luau/*$websocket,important
+||live.github.com/_ws/*$websocket,important
+||github.com/_ws$xhr,important
+
 ! 6/19/2020 https://www.ouedkniss.com
 ! Appendix to https://github.com/easylist/easylist/pull/5507
 www.ouedkniss.com###page_interstitiel
