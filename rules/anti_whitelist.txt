@@ -61,7 +61,7 @@ power.fi###cookie-notification#cookie-notification
 
 ! https://github.com/easylist/easylist/issues/5545
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=tv.rakuten.co.jp,badfilter
-@@||pubads.g.doubleclick.net/gampad/ads$xmlhttprequest,domain=imasdk.googleapis.com,badfilter
+@@||pubads.g.doubleclick.net/gampad/ads*tv.rakuten.co.jp$xhr,domain=imasdk.googleapis.com,badfilter
 
 ! https://github.com/easylist/easylist/pull/5560
 @@||c.evidon.com/sitenotice/evidon-sitenotice-tag.js$script,domain=southparkstudios.nu,badfilter
