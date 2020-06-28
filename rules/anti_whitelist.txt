@@ -1,3 +1,6 @@
+! https://github.com/easylist/easylist/pull/5612
+@@||script.nettix.fi^*analytics.js$script,domain=nettiauto.com|nettikaravaani.com|nettikone.com|nettimokki.com|nettimoto.com|nettivaraosa.com,badfilter
+
 ! https://github.com/easylist/easylist/commit/6ecc2aea641c040b5ae752fc08941c9097149ad5
 ! https://github.com/easylist/easylist/issues/5597
 -125x40-
