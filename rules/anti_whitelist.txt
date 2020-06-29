@@ -1,3 +1,6 @@
+! https://github.com/easylist/easylist/issues/5380
+radiolodz.pl##.share_icons
+
 ! https://github.com/easylist/easylist/pull/5386 yimg.* is all about tracking
 @@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.$script,domain=sports.yahoo.co.jp,badfilter
 
