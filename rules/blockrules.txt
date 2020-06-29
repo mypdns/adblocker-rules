@@ -227,9 +227,6 @@ duckduckgo.com##.badge-link--newsletter.badge-link--thumbnail.js-badge-link.badg
 ! 4/19/2020 https://github.com
 github.com##.mb-3.js-details-container.Details.border-black-fade.Box-row--yellow.Box
 
-! 4/20/2020 bitbucket.org
-||web-security-reports.services.atlassian.com/csp-report/bb-website$csp_report
-
 ! 4/23/2020 https://www.zytrax.com
 !www.zytrax.com##.adv
 ##.adv
@@ -466,7 +463,6 @@ ipaddressguide.com##.text-center.col-md-3
 ||ferame.com^$ping
 
 ! 11/04/2020 javhd.com
-||^$ping
 ||javhd.com^$ping
 
 ! 12/04/2020 https://mipr.info
