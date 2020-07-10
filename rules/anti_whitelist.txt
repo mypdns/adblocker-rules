@@ -1,3 +1,6 @@
+! Unknow MR 'uBlock filters – Unbreak'
+@@||chaturbate.com/*embed$subdocument,badfilter
+
 ! https://github.com/easylist/easylist/issues/5380
 radiolodz.pl##.share_icons
 
