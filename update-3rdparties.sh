@@ -10,7 +10,7 @@ echo "*** uAssets: updating remote assets..."
 
 declare -A assets
 assets=(
-    ['thirdparties/Yuki2718/ublock-anti-whitelist.txt']='https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/ublock-anti-whitelist.txt'
+    ['thirdparties/Yuki2718/ublock-anti-whitelist.txt']='https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/anti-allowlist.txt'
 )
 
 for i in "${!assets[@]}"; do
