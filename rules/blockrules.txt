@@ -1,3 +1,9 @@
+! https://github.com/easylist/easylist/issues/5749
+! https://www.mypdns.org/T957
+! 7/18/2020 rarbgaccessed.org
+||dyncdn.me/static/20/js/showads.js$script,important
+||dyncdn.me/static/20/js/expla95.js$script,important
+
 ! https://github.com/uBlockOrigin/uAssets/issues/7609
 wikibious.com##+js(aopr, disable_copy)
 wikibious.com##+js(aopw, document.oncontextmenu)
