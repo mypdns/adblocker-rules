@@ -1,6 +1,6 @@
 ! https://github.com/easylist/easylist/commit/fedd2b71f993c929b8ba39b35f8e1adf82919259
-@@||stabila.com/bundles/marketingsuite/css/cookie-bar.css,badfilter
-stabila.com#@#.cookie-bar-visible,badfilter
+@@||stabila.com/bundles/marketingsuite/css/cookie-bar.css$badfilter
+stabila.com##.cookie-bar-visible .mod_cms_accept_tags > form
 
 ! Unknow MR 'uBlock filters – Unbreak'
 @@||chaturbate.com/*embed$subdocument,badfilter
