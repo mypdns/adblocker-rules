@@ -1,3 +1,59 @@
+! 08/06/2020 https://www.whois.com
+www.whois.com##.promoblurb-container
+www.whois.com##.slides-container
+www.whois.com##.chiclet_wph
+
+! 15/06/2020 https://bitbucket.org
+bitbucket.org##div.atlaskit-portal:nth-of-type(1) > .lmzGgl.sc-gipzik > .cGINmZ.sc-Rmtcm
+bitbucket.org##.ei693ry6.css-kigghj
+
+@@||github.com^$generichide,badfilter
+
+! 29/06/2020 https://bitbucket.org
+bitbucket.org##div.atlaskit-portal:nth-of-type(1) > .bbgDmu.sc-bZQynM > .fHktW.sc-htoDjs
+
+! 04/07/2020 https://bitbucket.org
+bitbucket.org##div.atlaskit-portal:nth-of-type(1) > .hCTpf.sc-gzVnrw > .hHLyWY.sc-dnqmqq
+
+! 08/07/2020 dandomain.dk
+||gstaticadssl.l.google.com^$important
+||fonts.gstatic.com^$important
+
+! 18/07/2020 https://bitbucket.org
+bitbucket.org##.cjMOOK.styledFlagGroup-sc-1dirlpz-0
+
+! 21/07/2020 https://passion-hd.com
+passion-hd.com##.mt-xl-2.mt-1.mb-xl-3.mb-2.d-lg-block.d-none
+passion-hd.com##.payment-popup.popup3.epoch-box
+passion-hd.com##footer
+
+! 26/07/2020 https://github.com
+github.com##.js-notice.position-absolute.Popover
+
+! 26/07/2020 msecnd.net
+||msecnd.net/script/raptor-2.1.0.js$important
+
+! 04/08/2020 erobodio.ru
+||maps.yandex.net^$important
+
+! 08/08/2020 github.com
+||alive.github.com^$websocket,important
+
+! 08/08/2020 harley-quinn-nude.com
+||wordpress.harley-quinn-nude.com/wp-content/plugins/share-this-image/*$script,important
+
+! 08/08/2020 pornhub.com
+||ci.phncdn.com/www-static/js/promo-banner.js$script,important
+
+! 7/14/2020 https://www.teamskeet.com
+www.teamskeet.com##.promo-bar-contents
+
+! 7/26/2020 porn.com
+||ajax.googleapis.com^$important
+
+! 8/3/2020 postnord.com
+||googleapis.com^$important
+
 ! https://github.com/easylist/easylist/issues/5749
 ! https://www.mypdns.org/T957
 ! 7/18/2020 rarbgaccessed.org
