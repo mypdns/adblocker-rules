@@ -13,7 +13,7 @@ script:
 - bash ./update-3rdparties.sh
 - flrender -i ublockorigin-rules=. AnonymousPoster.template _public/blockrules.txt
 after_success:
-- bash ./scripts/deploy.sh
+- bash ./travis/deploy.sh
 env:
   global:
   - GH_USER: spirillen
