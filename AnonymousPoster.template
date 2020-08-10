@@ -1,22 +1,22 @@
 [Adblock Plus 2.0]
-! Title: AnonymousPoster – Andblock Rules
+! Title: My Privacy DNS – Andblock Rules
 ! Expires: 1 hours
 !
 ! List url: 
-! https://anonymousposter.gitlab.io/ublockorigin-rules/blockrules.txt
+! https://github.com/spirillen/ublockorigin-rules/blockrules.txt
 !
 ! License:
-! https://gitlab.com/AnonymousPoster/ublockorigin-rules/blob/master/LICENSE
-! Homepage: https://gitlab.com/AnonymousPoster/ublockorigin-rules
+! https://github.com/spirillen/ublockorigin-rules/blob/master/LICENSE
+! Homepage: https://github.com/spirillen/ublockorigin-rules/
 !
 ! Please report any unblocked content or problems by email or in our
 ! Issue board.
-! GitLab issues:
-! - https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues
-! GitLab merge request:
-! - https://gitlab.com/AnonymousPoster/ublockorigin-rules/merge_requests
+! GitHub issues:
+! - https://github.com/spirillen/ublockorigin-rules/issues
+! GitHub merge request:
+! - https://github.com/spirillen/ublockorigin-rules/pulls
 ! Email:
-! incoming+anonymousposter-ublockorigin-rules-14161071-issue-@incoming.gitlab.com
+! None
 ! Description: 
 !
 !------------------- General advert blocking filters -------------------!
