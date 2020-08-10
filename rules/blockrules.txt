@@ -1,10 +1,37 @@
-! 8/10/2020 pornstarapex.com
+@@||googletagmanager.com/gtm.js$domain=imgur.com,badfilter
+
+! 10/08/2020 perfecttitspics.com
+||/advertise.js$script,important
+
+! 10/08/2020 pornharvest.com
+||nichedlinks.com/hop/hop.php$important
+
+! 10/08/2020 newextra.com
+||newextra.com/ndfh.cgi$important
+
+! 10/08/2020 vagina.nl
+||vagina.nl/fish-hooks/fetch.json$xhr,important
+
+! 10/08/2020 wichspornos.com
+||delivery.pcon.space/cpanel/c.php$script,important
+||fabrouter.com/cpanel/*$script,important
+
+! 10/08/2020 darkworldbynight.com
+||darkworldbynight.com/?_dwr/interface/PageCounterDWR.js$script
+||darkworldbynight.com/?system/resource/js/dynclicks.js$script
+
+! 10/08/2020 freefuckmovies.pro
+||freefuckmovies.pro/gallery.php$important
+
+! 10/08/2020 pornstarapex.com
+||pornstarapex.com/default.html$important
+||pornstarapex.com/*.cgi$important
 ||pornstarapex.com/ojzy.cgi$important
 ||pornstarapex.com/lgjhvg.cgi$important
 ||pornstarapex.com/ljchioi.cgi$document,important
 ||pornstarapex.com/irh.cgi$important
 ||pornstarapex.com/atatewf.cgi$important
-||pornstarapex.com/*.cgi$important
+
 
 ! 8/10/2020 1ts18.top
 ||s.1ts18.top/4bfb8d4d$important
