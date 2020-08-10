@@ -1,3 +1,35 @@
+! AdGuard ANTI Tracking Protection
+! Seriously?? whitelist any googletagmanager.com??
+! Why do you even bother trying to make a "Tracking Protection"
+! https://github.com/AdguardTeam/AdguardFilters/issues/27586
+! https://github.com/AdguardTeam/AdguardFilters/issues/27609
+@@||googletagmanager.com/gtm.js$domain=imgur.com,badfilter
+@@||googletagmanager.com/gtag/js$domain=malwaretips.com$badfilter
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/26975
+@@||googletagmanager.com/gtm.js$domain=programme-tv.net$badfilter
+
+! line.me - menu buttons not working
+@@||google-analytics.com/plugins/ua/linkid.js$domain=line.me$badfilter
+
+!+ NOT_PLATFORM(windows, mac, android, ext_chromium, ext_edge)
+@@||cdn.optimizely.com/public/$script,domain=nytimes.com$badfilter
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/29236
+@@||googletagmanager.com/gtm.js$domain=superesportes.com.br$badfilter
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/30291
+@@||googletagmanager.com/gtm.js$domain=jbc.be$badfilter
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/25373
+@@||googletagmanager.com/gtm.js$domain=fooda.com$badfilter
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/27402
+@@||google-analytics.com/cx/api.js$domain=pcloud.com$badfilter
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/27312
+@@||googletagmanager.com/gtm.js$domain=cinemaximum.com.tr$badfilter
+
 ! https://github.com/easylist/easylist/commit/fedd2b71f993c929b8ba39b35f8e1adf82919259
 @@||stabila.com/bundles/marketingsuite/css/cookie-bar.css$badfilter
 stabila.com##.cookie-bar-visible .mod_cms_accept_tags > form
