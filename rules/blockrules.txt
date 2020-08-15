@@ -1,3 +1,44 @@
+! 2020-08-14 hentaisexuality.com
+||hentaisexuality.com/out.php$important
+
+! 2020-08-14 3dsextales.icu
+||3dsextales.icu/out.php$important
+
+! 2020-08-14 greentoons.club
+||greentoons.club/out.php$important
+||greentoons.club/outback.php$important
+
+! 2020-08-14 erogames.com
+||recaptcha.net^$important
+@@||recaptcha.net/recaptcha/$badfilter
+
+! 2020-08-14 https://gogirls18.com
+gogirls18.com##[href^="/show.php"]
+
+! 2020-08-14 freeteenpussypic.com
+||24log.fr^
+
+! 2020-08-15 sky.com
+@@||analytics.global.sky.com/sky-tags$badfilter
+
+! 2020-08-15 bbc.co.uk
+@@||bbci.co.uk^*/cookie-library.min.js$badfilter
+
+! 2020-08-15 e-hentai.tube
+||vkcache.com^3p
+||vkcache.com^$important
+@@/fuckadblock.$script,1p,badfilter
+
+! 2020-08-15 hentaibedta.net
+||discordapp.com^$important
+||discord.com^$important
+
+! 2020-08-15 hentaiser.com
+||hentaiser.com/stats.php$important
+
+! 2020-08-15 https://85tube.com
+||static.javhd.com/sb/$image
+
 ! 2020-08-14 smallteenpussy.com
 ||nichehit.net^$important
 
