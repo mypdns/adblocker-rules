@@ -1,3 +1,12 @@
+! 2020-08-19 actionjav.com
+||platform.twitter.com/widgets.js$script,important
+
+! 2020-08-19 avwend.com
+||mixdrop.co/js/ads.js$important
+
+! 2020-08-19 beautiful-bodies.com
+||beautiful-bodies.com/*.mp4$media,important
+
 ! 2020-08-20 thetechsutra.com
 ||thetechsutra.com/wp-content/cache/*$script,important
 ||thetechsutra.com/cdn-cgi/scripts/*/cloudflare-static/email-decode.min.js$script,important
