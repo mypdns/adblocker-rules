@@ -1,3 +1,6 @@
+! uBlock filters – Unbreak
+@@||youtube-ui.l.google.com^$subdocument,badfilter
+
 ! https://www.mypdns.org/T1266
 ! Anti whitelist from EasyList. Unknow contributor
 @@||adf.ly^$generichide,badfilter
