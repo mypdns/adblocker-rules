@@ -1,3 +1,7 @@
+! https://github.com/easylist/easylist/commit/74734bc7a8af596c853a656770ca0bc9d0ac244f
+! Addition to https://github.com/spirillen/ublockorigin-rules/commit/65d43f48cdb30b48328a2b84bbcf357175f4dfce
+bccnapoli.it,thetechsutra.com#@#.cp-overlay$badfilter
+
 ! uBlock filters – Unbreak
 @@||youtube-ui.l.google.com^$subdocument,badfilter
 
