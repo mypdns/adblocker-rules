@@ -1,3 +1,8 @@
+! 2020-09-01 18-21yo.com
+! https://www.mypdns.org/T1306
+||www.18-21yo.com/trace/site.html$important
+
+
 ! 2020-09-01 allfeetlinks.com
 ! https://www.mypdns.org/T1305
 ||www.allfeetlinks.com/thumb.php$important
