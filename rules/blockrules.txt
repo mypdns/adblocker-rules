@@ -2,7 +2,9 @@
 ! https://www.mypdns.org/T1305
 ||www.allfeetlinks.com/thumb.php$important
 
-
+! 2020-09-01 icfcdn.com
+! https://www.mypdns.org/T1297
+||icfcdn.com^$xhr,important
 
 ! 2020-08-19 actionjav.com
 ||platform.twitter.com/widgets.js$script,important
