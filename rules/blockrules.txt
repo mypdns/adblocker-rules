@@ -80,6 +80,43 @@ gogirls18.com##[href^="/show.php"]
 ! 12/08/2020 https://github.com
 github.com##.js-notice.MarketplaceAnnouncement.flash-full.flash
 
+! 2020-09-02 github.com
+||github.com/_alive$xhr,important
+
+! 26/07/2020 https://github.com
+github.com##.js-notice.position-absolute.Popover
+! 08/08/2020 github.com
+||alive.github.com^$websocket,important
+
+! https://github.com/easylist/easylist/issues/5749
+! https://www.mypdns.org/T957
+! 7/18/2020 rarbgaccessed.org
+||dyncdn.me/static/20/js/showads.js$script,important
+||dyncdn.me/static/20/js/expla95.js$script,important
+
+! https://github.com/uBlockOrigin/uAssets/issues/7609
+wikibious.com##+js(aopr, disable_copy)
+wikibious.com##+js(aopw, document.oncontextmenu)
+wikibious.com##.unselectable,html:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
+
+! https://www.mypdns.org/T941
+! 6/28/2020 github.com
+||live.github.com/_luau/*$websocket,important
+||live.github.com/_ws/*$websocket,important
+||github.com/_ws$xhr,important
+
+! 6/19/2020 https://www.ouedkniss.com
+! Appendix to https://github.com/easylist/easylist/pull/5507
+www.ouedkniss.com###page_interstitiel
+
+! https://github.com/uBlockOrigin/uAssets/issues/5648
+/ads.v*.js?v=*$important
+
+! 6/9/2020 https://github.com
+github.com##.col-3.box-shadow-medium.right-0.top-0.Popover.mr-3.mt-6.d-lg-block.d-none
+
+@@||github.com^$generichide,badfilter
+
 @@||googletagmanager.com/gtm.js$domain=imgur.com,badfilter
 
 ! 10/08/2020 perfecttitspics.com
@@ -133,8 +170,6 @@ www.whois.com##.chiclet_wph
 bitbucket.org##div.atlaskit-portal:nth-of-type(1) > .lmzGgl.sc-gipzik > .cGINmZ.sc-Rmtcm
 bitbucket.org##.ei693ry6.css-kigghj
 
-@@||github.com^$generichide,badfilter
-
 ! 29/06/2020 https://bitbucket.org
 bitbucket.org##div.atlaskit-portal:nth-of-type(1) > .bbgDmu.sc-bZQynM > .fHktW.sc-htoDjs
 
@@ -153,17 +188,11 @@ passion-hd.com##.mt-xl-2.mt-1.mb-xl-3.mb-2.d-lg-block.d-none
 passion-hd.com##.payment-popup.popup3.epoch-box
 passion-hd.com##footer
 
-! 26/07/2020 https://github.com
-github.com##.js-notice.position-absolute.Popover
-
 ! 26/07/2020 msecnd.net
 ||msecnd.net/script/raptor-2.1.0.js$important
 
 ! 04/08/2020 erobodio.ru
 ||maps.yandex.net^$important
-
-! 08/08/2020 github.com
-||alive.github.com^$websocket,important
 
 ! 08/08/2020 harley-quinn-nude.com
 ||wordpress.harley-quinn-nude.com/wp-content/plugins/share-this-image/*$script,important
@@ -180,29 +209,6 @@ www.teamskeet.com##.promo-bar-contents
 ! 8/3/2020 postnord.com
 ||googleapis.com^$important
 
-! https://github.com/easylist/easylist/issues/5749
-! https://www.mypdns.org/T957
-! 7/18/2020 rarbgaccessed.org
-||dyncdn.me/static/20/js/showads.js$script,important
-||dyncdn.me/static/20/js/expla95.js$script,important
-
-! https://github.com/uBlockOrigin/uAssets/issues/7609
-wikibious.com##+js(aopr, disable_copy)
-wikibious.com##+js(aopw, document.oncontextmenu)
-wikibious.com##.unselectable,html:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
-
-! https://www.mypdns.org/T941
-! 6/28/2020 github.com
-||live.github.com/_luau/*$websocket,important
-||live.github.com/_ws/*$websocket,important
-||github.com/_ws$xhr,important
-
-! 6/19/2020 https://www.ouedkniss.com
-! Appendix to https://github.com/easylist/easylist/pull/5507
-www.ouedkniss.com###page_interstitiel
-
-! https://github.com/uBlockOrigin/uAssets/issues/5648
-/ads.v*.js?v=*$important
 
 ! 3/25/2020 https://www.howtoforge.com
 www.howtoforge.com##.bsa-apiads
@@ -230,8 +236,6 @@ www.sha2sslchecker.com##[src="/images/BottomBanner.gif"]
 www.sha2sslchecker.com##[src="/images/TopBanner.gif"]
 www.sha2sslchecker.com##.f-right
 
-! 6/9/2020 https://github.com
-github.com##.col-3.box-shadow-medium.right-0.top-0.Popover.mr-3.mt-6.d-lg-block.d-none
 
 ! 5/17/2020 https://celebmasta.com
 ##[href^="https://hornygirlhere.com/"]
