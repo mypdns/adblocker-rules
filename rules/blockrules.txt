@@ -1,3 +1,33 @@
+! 2020-08-31 https://www.iobit.com
+www.iobit.com###db7new
+
+! 2020-09-01 https://urlgalleries.net
+urlgalleries.net###ifrm
+urlgalleries.net##table:nth-of-type(9)
+
+! 2020-09-01 https://adult.urlgalleries.net
+adult.urlgalleries.net##tr:nth-of-type(68) > td > table
+
+! 2020-09-01 babe.today
+||highwebmedia.com^$xhr,important
+
+! 2020-09-01 blacked.com
+||www.blacked.com/cdn-cgi/challenge-platform/*$important
+||blacked.com/cdn-cgi/*/trace/*$important
+
+! 2020-09-03 pornstarapex.com
+||pornstarapex.com/uoelaj.cgi$important
+||pornstarapex.com/default.html?*$important
+||pornstarapex.com/tarcim.cgi$document,important
+||pornstarapex.com/*.cgi$document,important
+
+! 2020-09-03 1ts18.top
+! https://www.mypdns.org/T1028
+||p.1ts18.top/pu.php$important
+
+! 2020-09-03 pornfreemovies.pro
+||pornfreemovies.pro/gallery.php$important
+
 ! 2020-09-01 dirtynudeteens.net
 ! https://www.mypdns.org/T1308
 ||www.dirtynudeteens.net/*/out.php$important
