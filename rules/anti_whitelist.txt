@@ -2,7 +2,6 @@
 ! https://github.com/easylist/easylist/commit/e94a84b1d11e3eccc9ad7d6f8de7f9f21a075727#diff-6adfdb5479a01e1387e7d053ca44b6abR155
 marketdino.pl,mediaexpert.leszczynscy.pl,pajarito.de#@#.fb-container$badfilter
 
-
 ! https://github.com/easylist/easylist/commit/74734bc7a8af596c853a656770ca0bc9d0ac244f
 ! Addition to https://github.com/spirillen/ublockorigin-rules/commit/65d43f48cdb30b48328a2b84bbcf357175f4dfce
 bccnapoli.it,thetechsutra.com#@#.cp-overlay$badfilter
@@ -23,6 +22,10 @@ bccnapoli.it,thetechsutra.com#@#.cp-overlay$badfilter
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27609
 @@||googletagmanager.com/gtm.js$domain=imgur.com,badfilter
 @@||googletagmanager.com/gtag/js$domain=malwaretips.com$badfilter
+
+! https://github.com/easylist/easylist/issues/6000
+! https://github.com/easylist/easylist/commit/2f754d09614a3ef468a7caa9dd912aecd14c5c8c#diff-8fcbbab33f6615b09fa4dd283697bb4bR164
+@@||googletagmanager.com/gtag/js$script,domain=ally.com|anchor.fm|foxnews.com|gamespot.com|m.putlocker.how|neighborhoodpostcards.com|playphrase.me|ryanair.com,badfilter
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/26975
 @@||googletagmanager.com/gtm.js$domain=programme-tv.net$badfilter
