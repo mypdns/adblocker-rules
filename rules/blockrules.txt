@@ -1,3 +1,77 @@
+!||notebookcheck.*^$script,1p,important
+!/ads.v*.js?v=*$important
+!/ads.v5.js?v=3$important
+
+! 7/4/2020 https://www.imagefruit.com
+www.imagefruit.com###layer
+
+! 7/18/2020 rarbgaccessed.org
+||dyncdn.me/static/20/js/showads.js$script,important
+||dyncdn.me/static/20/js/expla95.js$script,important
+
+! 2020-08-13 https://www.imdb.com
+www.imdb.com##.videoPreview--autoPlaybackOnce.videoPreview
+
+! 2020-08-16 rarbgaccess.org
+||statsy.net^$important
+||dyncdn.me/static/20/js/scrollspy.min.js$script,important
+
+! 2020-08-16 3g2upl4pq6kufc4m.onion
+||3g2upl4pq6kufc4m.onion/t/*$important
+||3g2upl4pq6kufc4m.onion/public/$third-party
+||3g2upl4pq6kufc4m.onion/m.js?*^cb=ddg_spice_amazon^
+3g2upl4pq6kufc4m.onion##.highlight_sponsored
+
+! 2020-08-23 https://www.bittorrent.com
+www.bittorrent.com##.consent-banner-animation-enter-done
+
+! 2020-09-01 aninding-branship.com
+||aninding-branship.com^$important
+
+! 2020-09-01 roxxiebubbles.com
+||roxxiebubbles.com/jspopunder2.js$script,important
+
+fuck8.us###direct, #gohub:remove()
+fuck8.us##^#direct, #gohub
+fuck8.us##+js(nostif, , 5000)
+fuck8.us##+js(acis, , gohub)
+
+! 5/24/2020 https://www.hetzner.com
+www.hetzner.com##.hidden-xs.hidden-sm.footer-main-section > .container > div.row:nth-of-type(2)
+
+! 5/29/2020 https://www.reck.dk
+www.reck.dk##.smush-notice.notice
+www.reck.dk##.wds-report > .sui-upsell-row
+
+! 6/22/2020 youtube.com
+@@||youtube-ui.l.google.com^$stylesheet,domain=youtube.com,badfilter,important
+
+! 7/15/2020 https://duckduckgo.com
+duckduckgo.com###m2-0
+
+! 7/20/2020 https://svscomics.com
+svscomics.com##.regi
+
+! 8/4/2020 https://www.techradar.com
+www.techradar.com##.region_above_ad.region_redirect_popup
+
+! 2020-08-17 start.me
+||whatismylocale.start.me^$important
+
+! 2020-08-30 https://python3.guide
+python3.guide##.clearfix.sharer-buttons-toolbar
+python3.guide##p:nth-of-type(8)
+python3.guide##p:nth-of-type(12)
+
+! 2020-09-08 tits-guru.com
+||tits-guru.com/*/istripper*.js$script,important
+
+! 2020-09-08 https://homemadegirlsporn.com
+||homemadegirlsporn.com/safu/safu.php$image
+
+! 2020-09-08 https://www.playboy.com
+www.playboy.com##.css-1idyg5c
+
 ! 2020-08-31 https://www.iobit.com
 www.iobit.com###db7new
 
