@@ -1,3 +1,2 @@
-python-abp
-python>=3.8.5
+python-abp>=0.2.0
 wheel
