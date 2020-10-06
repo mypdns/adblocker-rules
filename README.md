@@ -17,8 +17,8 @@ How to write filters
 * `$empty`: Results in a fake empty page being loaded, instead of an error page.
 
 
-## Url to source
-https://help.eyeo.com/en/adblockplus/how-to-write-filters
+## Source URI's
+How to write filters: <https://help.eyeo.com/en/adblockplus/how-to-write-filters>
 
 [Click here to activate in adBlockPlus](https://subscribe.adblockplus.org/?location=https://spirillen.github.io/ublockorigin-rules/blockrules.txt&title=My%20Privacy%20DNS)
 
