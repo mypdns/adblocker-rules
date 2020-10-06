@@ -34,4 +34,4 @@
 %include ublockorigin-rules:rules/MetArtNetwork.txt%
 
 !---------------------- Anti Whitelist by Yuki2718 ---------------------!
-%include ublockorigin-rules:thirdparties/Yuki2718/ublock-anti-whitelist.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/anti-allowlist.txt%
