@@ -1,10 +1,8 @@
 # contents
 
-.. contents::
-
 How to write filters
 --------------------
-[Howto? block whitlisted spyware](https://github.com/easylist/easylist/issues/4529)
+Howto? [block whitlisted spyware](https://github.com/easylist/easylist/issues/4529)
 
 @DandelionSprout have written this: [](https://github.com/DandelionSprout/adfilt/blob/master/Wiki/SyntaxMeaningsThatAreActuallyHumanReadable.md#blocking) but a few axamples would be greate
 

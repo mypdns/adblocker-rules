@@ -19,14 +19,19 @@ www.imagefruit.com###layer
 
 ! 7/18/2020 rarbgaccessed.org
 ||dyncdn.me/static/20/js/showads.js$script,important
-||dyncdn.me/static/20/js/expla95.js$script,important
+||dyncdn.me/static/20/js/expla*.js$script,important
+
+! 2020-08-16 rarbgaccess.org
+! https://github.com/easylist/easylist/issues/5749
+! https://www.mypdns.org/T957
+||statsy.net^$important
+||dyncdn.me/static/20/js/scrollspy.min.js$script,important
 
 ! 2020-08-13 https://www.imdb.com
 www.imdb.com##.videoPreview--autoPlaybackOnce.videoPreview
 
-! 2020-08-16 rarbgaccess.org
-||statsy.net^$important
-||dyncdn.me/static/20/js/scrollspy.min.js$script,important
+! 7/15/2020 https://duckduckgo.com
+duckduckgo.com###m2-0
 
 ! 2020-08-16 3g2upl4pq6kufc4m.onion
 ||3g2upl4pq6kufc4m.onion/t/*$important
@@ -43,11 +48,6 @@ www.bittorrent.com##.consent-banner-animation-enter-done
 ! 2020-09-01 roxxiebubbles.com
 ||roxxiebubbles.com/jspopunder2.js$script,important
 
-fuck8.us###direct, #gohub:remove()
-fuck8.us##^#direct, #gohub
-fuck8.us##+js(nostif, , 5000)
-fuck8.us##+js(acis, , gohub)
-
 ! 5/24/2020 https://www.hetzner.com
 www.hetzner.com##.hidden-xs.hidden-sm.footer-main-section > .container > div.row:nth-of-type(2)
 
@@ -57,9 +57,6 @@ www.reck.dk##.wds-report > .sui-upsell-row
 
 ! 6/22/2020 youtube.com
 @@||youtube-ui.l.google.com^$stylesheet,domain=youtube.com,badfilter,important
-
-! 7/15/2020 https://duckduckgo.com
-duckduckgo.com###m2-0
 
 ! 7/20/2020 https://svscomics.com
 svscomics.com##.regi
@@ -75,123 +72,22 @@ python3.guide##.clearfix.sharer-buttons-toolbar
 python3.guide##p:nth-of-type(8)
 python3.guide##p:nth-of-type(12)
 
-! 2020-09-08 tits-guru.com
-||tits-guru.com/*/istripper*.js$script,important
-
-! 2020-09-08 https://homemadegirlsporn.com
-||homemadegirlsporn.com/safu/safu.php$image
-
-! 2020-09-08 https://www.playboy.com
-www.playboy.com##.css-1idyg5c
-
 ! 2020-08-31 https://www.iobit.com
 www.iobit.com###db7new
-
-! 2020-09-01 https://urlgalleries.net
-urlgalleries.net###ifrm
-urlgalleries.net##table:nth-of-type(9)
-
-! 2020-09-01 https://adult.urlgalleries.net
-adult.urlgalleries.net##tr:nth-of-type(68) > td > table
-
-! 2020-09-01 babe.today
-||highwebmedia.com^$xhr,important
-
-! 2020-09-01 blacked.com
-||www.blacked.com/cdn-cgi/challenge-platform/*$important
-||blacked.com/cdn-cgi/*/trace/*$important
-
-! 2020-09-03 pornstarapex.com
-||pornstarapex.com/uoelaj.cgi$important
-||pornstarapex.com/default.html?*$important
-||pornstarapex.com/tarcim.cgi$document,important
-||pornstarapex.com/*.cgi$document,important
-
-! 2020-09-03 1ts18.top
-! https://www.mypdns.org/T1028
-||p.1ts18.top/pu.php$important
-
-! 2020-09-03 pornfreemovies.pro
-||pornfreemovies.pro/gallery.php$important
-
-! 2020-09-01 dirtynudeteens.net
-! https://www.mypdns.org/T1308
-||www.dirtynudeteens.net/*/out.php$important
-
-! 2020-09-01 schoolgirlsexpics.com
-! https://www.mypdns.org/T1307
-||www.schoolgirlsexpics.com/tracker/*$important
-||www.schoolgirlpussypics.com/*/site.html$important
-
-! 2020-09-01 18-21yo.com
-! https://www.mypdns.org/T1306
-||www.18-21yo.com/trace/site.html$important
-
-
-! 2020-09-01 allfeetlinks.com
-! https://www.mypdns.org/T1305
-||www.allfeetlinks.com/thumb.php$important
-
-! 2020-09-01 icfcdn.com
-! https://www.mypdns.org/T1297
-||icfcdn.com^$xhr,important
-
-! 2020-08-19 actionjav.com
-||platform.twitter.com/widgets.js$script,important
-
-! 2020-08-19 avwend.com
-||mixdrop.co/js/ads.js$important
-
-! 2020-08-19 beautiful-bodies.com
-||beautiful-bodies.com/*.mp4$media,important
 
 ! 2020-08-20 thetechsutra.com
 ||thetechsutra.com/wp-content/cache/*$script,important
 ||thetechsutra.com/cdn-cgi/scripts/*/cloudflare-static/email-decode.min.js$script,important
 
-! 2020-08-14 hentaisexuality.com
-||hentaisexuality.com/out.php$important
-
-! 2020-08-14 3dsextales.icu
-||3dsextales.icu/out.php$important
-
-! 2020-08-14 greentoons.club
-||greentoons.club/out.php$important
-||greentoons.club/outback.php$important
-
 ! 2020-08-14 erogames.com
 ||recaptcha.net^$important
 @@||recaptcha.net/recaptcha/$badfilter
-
-! 2020-08-14 https://gogirls18.com
-gogirls18.com##[href^="/show.php"]
-
-! 2020-08-14 freeteenpussypic.com
-||24log.fr^
 
 ! 2020-08-15 sky.com
 @@||analytics.global.sky.com/sky-tags$badfilter
 
 ! 2020-08-15 bbc.co.uk
 @@||bbci.co.uk^*/cookie-library.min.js$badfilter
-
-! 2020-08-15 e-hentai.tube
-||vkcache.com^3p
-||vkcache.com^$important
-@@/fuckadblock.$script,1p,badfilter
-
-! 2020-08-15 hentaibedta.net
-||discordapp.com^$important
-||discord.com^$important
-
-! 2020-08-15 hentaiser.com
-||hentaiser.com/stats.php$important
-
-! 2020-08-15 https://85tube.com
-||static.javhd.com/sb/$image
-
-! 2020-08-14 smallteenpussy.com
-||nichehit.net^$important
 
 ! 2020-10-06 https://github.com
 github.com##.hx_cookie-banner--show
@@ -211,22 +107,21 @@ github.com##.js-notice.position-absolute.Popover
 ! 08/08/2020 github.com
 ||alive.github.com^$websocket,important
 
-! https://github.com/easylist/easylist/issues/5749
-! https://www.mypdns.org/T957
-! 7/18/2020 rarbgaccessed.org
-||dyncdn.me/static/20/js/showads.js$script,important
-||dyncdn.me/static/20/js/expla95.js$script,important
-
-! https://github.com/uBlockOrigin/uAssets/issues/7609
-wikibious.com##+js(aopr, disable_copy)
-wikibious.com##+js(aopw, document.oncontextmenu)
-wikibious.com##.unselectable,html:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
-
 ! https://www.mypdns.org/T941
 ! 6/28/2020 github.com
 ||live.github.com/_luau/*$websocket,important
 ||live.github.com/_ws/*$websocket,important
 ||github.com/_ws$xhr,important
+
+! 6/9/2020 https://github.com
+github.com##.col-3.box-shadow-medium.right-0.top-0.Popover.mr-3.mt-6.d-lg-block.d-none
+
+@@||github.com^$generichide,badfilter
+
+! https://github.com/uBlockOrigin/uAssets/issues/7609
+wikibious.com##+js(aopr, disable_copy)
+wikibious.com##+js(aopw, document.oncontextmenu)
+wikibious.com##.unselectable,html:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
 
 ! 6/19/2020 https://www.ouedkniss.com
 ! Appendix to https://github.com/easylist/easylist/pull/5507
@@ -235,54 +130,7 @@ www.ouedkniss.com###page_interstitiel
 ! https://github.com/uBlockOrigin/uAssets/issues/5648
 /ads.v*.js?v=*$important
 
-! 6/9/2020 https://github.com
-github.com##.col-3.box-shadow-medium.right-0.top-0.Popover.mr-3.mt-6.d-lg-block.d-none
-
-@@||github.com^$generichide,badfilter
-
 @@||googletagmanager.com/gtm.js$domain=imgur.com,badfilter
-
-! 10/08/2020 perfecttitspics.com
-||/advertise.js$script,important
-
-! 10/08/2020 pornharvest.com
-||nichedlinks.com/hop/hop.php$important
-
-! 10/08/2020 newextra.com
-||newextra.com/ndfh.cgi$important
-
-! 10/08/2020 vagina.nl
-||vagina.nl/fish-hooks/fetch.json$xhr,important
-
-! 10/08/2020 wichspornos.com
-||delivery.pcon.space/cpanel/c.php$script,important
-||fabrouter.com/cpanel/*$script,important
-
-! 10/08/2020 darkworldbynight.com
-||darkworldbynight.com/?_dwr/interface/PageCounterDWR.js$script
-||darkworldbynight.com/?system/resource/js/dynclicks.js$script
-
-! 10/08/2020 freefuckmovies.pro
-||freefuckmovies.pro/gallery.php$important
-
-! 10/08/2020 pornstarapex.com
-||pornstarapex.com/default.html$important
-||pornstarapex.com/*.cgi$important
-||pornstarapex.com/ojzy.cgi$important
-||pornstarapex.com/lgjhvg.cgi$important
-||pornstarapex.com/ljchioi.cgi$document,important
-||pornstarapex.com/irh.cgi$important
-||pornstarapex.com/atatewf.cgi$important
-
-
-! 8/10/2020 1ts18.top
-||s.1ts18.top/4bfb8d4d$important
-
-! 8/10/2020 eroticgirlpics.com
-||eroticgirlpics.com/gallery.php$document,important
-
-! 8/10/2020 18teenslut.com
-||18teenslut.com/gallery.php$document,important
 
 ! 08/06/2020 https://www.whois.com
 www.whois.com##.promoblurb-container
@@ -306,45 +154,21 @@ bitbucket.org##div.atlaskit-portal:nth-of-type(1) > .hCTpf.sc-gzVnrw > .hHLyWY.s
 ! 18/07/2020 https://bitbucket.org
 bitbucket.org##.cjMOOK.styledFlagGroup-sc-1dirlpz-0
 
-! 21/07/2020 https://passion-hd.com
-passion-hd.com##.mt-xl-2.mt-1.mb-xl-3.mb-2.d-lg-block.d-none
-passion-hd.com##.payment-popup.popup3.epoch-box
-passion-hd.com##footer
-
 ! 26/07/2020 msecnd.net
+! https://www.mypdns.org/T724
 ||msecnd.net/script/raptor-2.1.0.js$important
 
 ! 04/08/2020 erobodio.ru
 ||maps.yandex.net^$important
 
-! 08/08/2020 harley-quinn-nude.com
-||wordpress.harley-quinn-nude.com/wp-content/plugins/share-this-image/*$script,important
-
-! 08/08/2020 pornhub.com
-||ci.phncdn.com/www-static/js/promo-banner.js$script,important
-
-! 7/14/2020 https://www.teamskeet.com
-www.teamskeet.com##.promo-bar-contents
-
-! 7/26/2020 porn.com
-||ajax.googleapis.com^$important
-
 ! 8/3/2020 postnord.com
 ||googleapis.com^$important
-
 
 ! 3/25/2020 https://www.howtoforge.com
 www.howtoforge.com##.bsa-apiads
 
-! 4/12/2020 http://en.1cam.webcam
-1cam.webcam##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
-1cam.webcam##.fancybox-overlay-fixed.fancybox-overlay
-
 ! 4/25/2020 https://rarbgaccess.org
 ||22pixx.xyz^$image
-
-! 5/23/2020 https://healthyceleb.com
-healthyceleb.com##.code-block-5.code-block
 
 ! 6/2/2020 huffingtonpost.ca
 ||uplynk.com^$xhr
@@ -359,10 +183,6 @@ www.sha2sslchecker.com##[src="/images/BottomBanner.gif"]
 www.sha2sslchecker.com##[src="/images/TopBanner.gif"]
 www.sha2sslchecker.com##.f-right
 
-
-! 5/17/2020 https://celebmasta.com
-##[href^="https://hornygirlhere.com/"]
-
 ! 5/18/2020 https://askubuntu.com
 askubuntu.com###noscript-warning
 
@@ -372,22 +192,12 @@ serverfault.com###noscript-warning
 ! 5/22/2020 https://centminmod.com
 centminmod.com##.section-title > .col-md-9
 
-! 5/23/2020 https://www.babepedia.com
-||www.babepedia.com/pics/Jeana%20Turner_thumb.jpg$image
-www.babepedia.com##canvas:nth-of-type(2)
-
 ! 5/26/2020 nabble.com
 ||powerdns.13854.n7.nabble.com/trk0.js$script,1p
 ||powerdns.13854.n7.nabble.com/trk5.js$script
 
 ! 5/26/2020 http://henrik.dk
 henrik.dk##div.box_sponsor02
-
-! 5/26/2020 https://www.mrskin.com
-www.mrskin.com###access_modal
-www.mrskin.com###skod-container
-www.mrskin.com##.bg-white.featured-scene-description-container > .text-center
-www.mrskin.com##.col-xs-12.col-sm-8.col-md-4
 
 ! 6/2/2020 https://shop.westerndigital.com
 shop.westerndigital.com##div.ng-scope.md\:h-auto.h-full.flex.relative.flex-col.lg\:cols-3.xs\:cols-4.cols-6:nth-of-type(3)
@@ -398,51 +208,11 @@ www.pricerunner.dk##._3YnaHq5Pmy
 ! 6/9/2020 https://bitbucket.org
 bitbucket.org##.ei693ry6.css-kigghj
 
-! 5/29/2020 https://www.babes.com
-www.babes.com##.dLQauY.sc-1mhpkp8-0 > .lenLl.sc-1xljrhb-0
-
 ! https://www.mypdns.org/T915
 ||hcaptcha.com^$important
 
 ! 05/06/2020 https://linuxize.com
 linuxize.com##.pt-12.lg\:top-16.lg\:sticky.lg\:relative.lg\:block.-mt-12.flex-col.flex
-
-! 12/04/2020 sexandsubmission.com
-||cdnp.kink.com/assets/static-pages/landing-pages/withwatermark.mp4
-
-! 12/04/2020 sexmomsex.com
-||www.sexmomsex.com/xtube.php$document
-
-! 12/04/2020 sexteenageporn.com
-||worldtraffic.trade^
-
-! 12/04/2020 shinyjapaneseporn.com
-||www.shinyjapaneseporn.com/xtube.php$document
-
-! 12/04/2020 drivepornvideos.com
-||www.drivepornvideos.com/xtube.php
-
-! 13/04/2020 animal-sex-movie.biz
-/tp/out.php
-
-! 13/04/2020 animepornfilm.com
-/xtube.php
-
-! 13/04/2020 animeporn.pro
-||www.animeporn.pro/xtube.php
-/xtube.php$document
-
-! 13/04/2020 anime-studio.org
-||free.cartoon-valley.in/dtr/sheduler.php
-||x-terrarium.com/movies/sheduler.php
-||freeadultpics.info/tube/sheduler.php
-||anime.boomthumb.com/tube/sheduler.php
-
-! 13/04/2020 https://www.arab-sex-pics.com
-www.arab-sex-pics.com###index1bannerdesktop
-
-! 13/04/2020 https://asambleabenidorm2019.com
-asambleabenidorm2019.com##div.ads.video-block.item
 
 ! 27/04/2020 https://developers.redhat.com
 developers.redhat.com##.general-promo.category-promo-section
@@ -478,11 +248,8 @@ www.nytimes.com##.e1x0szx60.css-xdenu8.expanded-dock.expanded.shown.gdpr
 
 ! 25/05/2020 https://www.gitkraken.com
 !www.gitkraken.com###PureChatWidget
-||purechat.com
+||purechat.com^important
 !||widgetapi.purechat.com^$xhr
-
-! 29/05/2020 https://www.babes.com
-www.babes.com##div.lbVJTw.sc-1mhpkp8-3:nth-of-type(9)
 
 ! 01/06/2020 https://rapidapi.com
 rapidapi.com##.boxzilla-bottom-left-container.boxzilla-container
@@ -501,10 +268,9 @@ www.proshop.dk##.site-content-table-footer.pull-right.col-sm-9 > .site-row-margi
 www.proshop.dk##.site-campaigns-area > .site-row-margin-top-small.row
 
 ! 01/06/2020 https://www.paradoxplaza.com
-www.paradoxplaza.com###cookies-info
 www.paradoxplaza.com###disablingDiv
 www.paradoxplaza.com###cookies-info
-www.paradoxplaza.com###cookies-info
+###cookies-info
 
 ! 01/06/2020 https://www.pricerunner.dk
 www.pricerunner.dk##._3YnaHq5Pmy
@@ -576,20 +342,11 @@ gitlab.com##.js-recovery-settings-callout.gl-alert-warning.gl-alert
 ||www.fsphhbsklawjs.com^
 https://padsabz.com/5b/11/ec/5b11ec577f7ab76d9e3bf5af286eda00.js
 
-! 2/11/2020 https://www.porndaa.com
-www.porndaa.com##.col-md-8 > div:nth-of-type(1)
-www.porndaa.com##div.well:nth-of-type(5)
-
 ##.push-subscription-prompt
 
 ! 2/11/2020 https://www.imdb.com
 www.imdb.com##.page-grid.hero.ipc-page-grid--bias-left.ipc-page-grid > .ipc-page-grid__item--span-3.ipc-page-grid__item
 www.imdb.com##div.page-grid.ipc-page-grid--bias-left.ipc-page-grid:nth-of-type(3)
-
-! 2/12/2020 https://redgifs.com
-redgifs.com##.visible.type1.pro-cta
-redgifs.com##.popover.signup-call-to-action
-redgifs.com##.visible.type6.pro-cta
 
 ! 2/13/2020 https://myshiptracking.com
 myshiptracking.com##.rt_alerts
@@ -601,10 +358,6 @@ github.com##.js-notifications-list-protip.text-gray.flex-items-center.d-flex
 
 ! 2/18/2020 https://linux-audit.com
 linux-audit.com###content > .clearfix.entry
-
-! 2/19/2020 https://xhamster.com
-xhamster.com##.dyltv-container
-xhamster.com##div.related-container:nth-of-type(3)
 
 ! 2/19/2020 https://www.scnsrc.me
 www.scnsrc.me##[href="https://www.scnsrc.me/linksnappy-review-special-offer/"]
@@ -619,23 +372,6 @@ en.wikipedia.org###mw-anon-edit-warning
 www.faaborg-sejlklub.dk##.banner-overlay
 www.faaborg-sejlklub.dk###banner-area-wrapper
 
-! 3/3/2020 https://www.sexsrc.com
-www.sexsrc.com##div.well:nth-of-type(5)
-www.sexsrc.com##.col-md-8 > div:nth-of-type(1)
-
-! 3/3/2020 https://forums.sexyandfunny.com
-forums.sexyandfunny.com##table:nth-of-type(4) > tbody > tr > td:nth-of-type(1) > .tborder
-forums.sexyandfunny.com##[src="https://www.sexyandfunny.com/featuredmediaSFF.php"]
-forums.sexyandfunny.com##div > table:nth-of-type(3) > tbody > tr > td:nth-of-type(1)
-
-! 3/4/2020 https://www.sex.com
-www.sex.com##[src="https://dat1.its-up.com/zone/12150/"]
-www.sex.com###container > .text-center
-
-! 3/4/2020 https://www.celebritymoviearchive.com
-www.celebritymoviearchive.com##.notification
-www.celebritymoviearchive.com##.wrpr > div:nth-of-type(2)
-
 ! 3/5/2020 https://netflixtechblog.com
 netflixtechblog.com##.tn.tm.tl.tk.tj.ti.th.tg.tf.te.td.tc.tb.ta.sz.sy.sx.sw.sv.su.st.ss.sr.sq.sp.so.sn.sm.sl.sk.sj.al.si.jv.t.s
 
@@ -643,63 +379,8 @@ netflixtechblog.com##.tn.tm.tl.tk.tj.ti.th.tg.tf.te.td.tc.tb.ta.sz.sy.sx.sw.sv.s
 www.wikia.org##.rxbhWIyq7zN9DBsGKihO9._1qTFYU2AttM0QuKykrEq1
 www.wikia.org##body > div:nth-of-type(3)
 
-! 3/11/2020 https://www.pornhub.com
-www.pornhub.com###videoSearchResult > .alpha
-www.pornhub.com##.clearfix.xc6lhd4nney0780v
-
-! 3/15/2020 https://www.youporn.com
-www.youporn.com###adblock_tooltip
-www.youporn.com##.promo-message
-www.youporn.com##.swyp > [href="/swyp"]
-www.youporn.com##.channelRow.row
-
-! 3/15/2020 https://xhamster.com
-xhamster.com##.premium-overlay
-
 ! 3/15/2020 https://pastebin.com
 pastebin.com###float-box-frame
-
-! 4/11/2020 https://www.livesex.com
-www.livesex.com###overlay-container
-
-! 4/12/2020 http://de.1cam.webcam
-1cam.webcam##.fancybox-overlay-fixed.fancybox-overlay
-1cam.webcam##.fancybox-skin
-1cam.webcam##.__give_away.bc_popalert
-1cam.webcam##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
-1cam.webcam##.fancybox-overlay-fixed.fancybox-overlay
-
-##.fancybox-overlay-fixed.fancybox-overlay
-##.fancybox-skin
-##.__give_away.bc_popalert
-##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
-##.fancybox-overlay-fixed.fancybox-overlay
-
-! 4/13/2020 http://animal-lovers.net
-animal-lovers.net##[href="http://beastsexstars.net"] > .aligncenter
-animal-lovers.net##.p-topBarController
-
-! 4/13/2020 hot-animal-porn.biz
-/tp/out.php$document
-
-! 4/13/2020 animalsex.online
-/scj/cgi/out.php
-
-! 12/04/2020 sexandsubmission.com
-||cdnp.kink.com/assets/static-pages/landing-pages/withwatermark.mp4
-
-! 12/04/2020 sexmomsex.com
-||www.sexmomsex.com/xtube.php$document
-/xtube.php$document
-
-! 12/04/2020 sexteenageporn.com
-||worldtraffic.trade^
-
-! 12/04/2020 shinyjapaneseporn.com
-||www.shinyjapaneseporn.com/xtube.php$document
-
-! 09/01/2020 metart.com
-||nsimg.*^$important
 
 ! 16/01/2020 https://www.fullrate.dk
 www.fullrate.dk##.page__social
@@ -709,18 +390,6 @@ github.com##.js-banner.border-gray-light.border.rounded-1.text-center.p-4.conten
 
 ! 24/01/2020 https://www.cyberciti.biz
 www.cyberciti.biz###blocker7a1003a
-
-! 26/01/2020 https://www.free-porn-teen.com
-www.free-porn-teen.com###index1bannerdesktop
-
-! 26/01/2020 fullporn.online
-||noproblfr.com^
-
-! 26/01/2020 porngays.pro
-||www.porngays.pro/func.js$script
-
-! 26/01/2020 http://girlmature.com
-girlmature.com##[href^="../cgi-bin/at3/out.cgi"]
 
 ! https://github.com/easylist/easylist/pull/4799
 /ab_fl.js$script
@@ -732,10 +401,6 @@ duckduckgo.com##.js-ia-modules.ia-modules
 ##[href^="https://www.amazon.com"]
 ##[href^="https://twitter.com"]
 
-! 03/02/2020 wetmeets.com
-||i.wetmeets.com/media/exit-new/*
-||i.wetmeets.com/cookie/*$script
-
 ! 04/02/2020 https://gitguys.com
 gitguys.com##.td_block_template_1.td_uid_54_5e397b5fe9cbb_rand.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap
 
@@ -745,72 +410,14 @@ unix.stackexchange.com###noscript-warning
 ! 10/02/2020 https://www.imdb.com
 www.imdb.com###pagecontent > .ab_widget
 
-! 10/02/2020 https://www.porndaa.com
-www.porndaa.com##div.well:nth-of-type(5)
-www.porndaa.com##.col-md-8 > div:nth-of-type(1)
-
-! 10/02/2020 https://imagetwist.com
-imagetwist.com##.container-fluid
-
-! 11/02/2020 https://www.pornhub.com
-www.pornhub.com##.sectionWrapper > .sectionWrapper
-
 ! 22/03/2020 https://www.cloudbooklet.com
 www.cloudbooklet.com##.wp-block-group
 
 ! 30/03/2020 https://ipaddressguide.com
 ipaddressguide.com##.text-center.col-md-3
 
-! 11/04/2020 direct-webcams.com
-||direct-webcams.com/api/metrics$xhr
-||direct-webcams.com/api/events$xhr
-
-! 11/04/2020 ecvision.info
-||ecvision.info/img/*$image
-
-! 11/04/2020 firecams.com
-||statsd-wc.hwtool.net/timing/*
-
-! 11/04/2020 hothouse.com
-||cloudfront.net/slickadd.min.js$script
-
-! 11/04/2020 ferame.com
-||ferame.com^$ping
-
-! 11/04/2020 javhd.com
-||javhd.com^$ping
-
-! 12/04/2020 https://mipr.info
-mipr.info##.fogyk > div.wuqaw:nth-of-type(5)
-mipr.info##.fogyk > div.wuqaw:nth-of-type(1)
-mipr.info##.fuciged.fizezo.funadar
-mipr.info##.fogyk > div.wuqaw:nth-of-type(3)
-mipr.info##.fogyk > div.wuqaw:nth-of-type(7)
-
-! 12/04/2020 mmcams.com
-||hybridclient.naiadsystems.com/api/v2/*$xhr
-
 ! 12/04/2020 gitkraken.com
 ||trackingcheckinapi2-prod.spvyig3fxm.us-east-2.elasticbeanstalk.com^$xhr
-
-! 12/04/2020 https://mylesbianporn.com
-mylesbianporn.com##.promotionboxBlock.visible-lg.visible-md.promotionbox.video-list-ads
-
-! 12/04/2020 nastypornpics.com
-||a.bestcontentprogram.top/loader
-
-! 12/04/2020 newjapanesexxx.com
-||www.newjapanesexxx.com/js/functions.js$script
-
-! 12/04/2020 realyoungsex.com
-||www.realyoungsex.com/js/active.js$script
-
-! 12/04/2020 fuqporn.pro
-||/?id=podlivtest88.com
-
-! 12/04/2020 trustyfine.com
-||trustyfine.com^
-
 
 /^https?:\/\/([a-z0-9]{8,10}\.)?[a-z0-9]{5,14}\.(com|bid|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
 /^https?:\/\/[a-z0-9]{5,14}\.(com|bid|online|top|club)\/[0-9a-f]{32}\/invoke.js$/$script,third-party
@@ -942,30 +549,13 @@ www.digitalocean.com###newsletter-signup-dialog
 !voegl.bmw
 ###LayerArea
 
-! 1/19/2020 http://thefappening.news
-##[href="http://thefappening.news/banned-red.php"]
-thefappening.news##.entry-content > div
-
-! 1/19/2020 https://thefappening.xyz
-thefappening.xyz##.headline.text-center
-
 ! 1/20/2020 https://linuxize.com
 !linuxize.com
 ###ez-cookie-dialog-wrapper
 
-! 1/22/2020 https://celebjihad.com
-celebjihad.com##[href^="https://go.hpyrdr.com/"]
-
 ! 1/23/2020 https://www.techjunkie.com
 techjunkie.com##.fixed-sidebar-fire-tv
 ||techjunkie.com/wp-content/themes/techjunkie/js/bioep.min.js
-
-! 1/19/2020 https://thefappening.xyz
-thefappening.xyz##.headline.text-center
-
-! 1/19/2020 http://thefappening.news
-thefappening.news##.entry-content > div
-##[href="http://thefappening.news/banned-red.php"]
 
 ! https://github.com/easylist/easylist/commit/38cf2f6112770f9cc86707ac90a0ee2beaade0b3
 ||x-link.pl^$third-party
@@ -1026,25 +616,7 @@ gitlab.com##.prepend-top-10.append-bottom-20.banner-non-empty-state.banner-callo
 bitbucket.org###id_is_private_group
 ! 12/5/2019 https://gitlab.com
 gitlab.com###promote_repository_features
-! 12/6/2019 https://www.8muses.com
-www.8muses.com##a.t-hover.c-tile:nth-of-type(12) > .image
-www.8muses.com##a.t-hover.c-tile:nth-of-type(24) > .image
-www.8muses.com##a.t-hover.c-tile:nth-of-type(36)
-www.8muses.com##a.t-hover.c-tile:nth-of-type(36) > .image
-www.8muses.com##a.t-hover.c-tile:nth-of-type(4) > .image
-www.8muses.com##a.t-hover.c-tile:nth-of-type(46)
-www.8muses.com##a.t-hover.c-tile:nth-of-type(46) > .image
-www.8muses.com##a.t-hover.c-tile:nth-of-type(55)
-www.8muses.com##a.t-hover.c-tile:nth-of-type(55) > .image
-www.8muses.com##a.t-hover.c-tile:nth-of-type(64)
-www.8muses.com##a.t-hover.c-tile:nth-of-type(64) > .image
-www.8muses.com##a.t-hover.c-tile:nth-of-type(79)
-www.8muses.com##a.t-hover.c-tile:nth-of-type(79) > .image
-! 12/28/2019 https://www.8muses.com
-www.8muses.com##a.t-hover.c-tile:nth-of-type(12)
-www.8muses.com##a.t-hover.c-tile:nth-of-type(23)
-www.8muses.com##a.t-hover.c-tile:nth-of-type(32)
-www.8muses.com##a.t-hover.c-tile:nth-of-type(47)
+
 ! 12/8/2019 https://www.imdb.com
 www.imdb.com###sidebar
 ! 1/9/2020 https://www.imdb.com
@@ -1069,13 +641,12 @@ www.imdb.com##.recently-viewed
 !www.imdb.com##div.article:nth-of-type(1)
 !www.imdb.com##li.zgFV3U-XECrqVQnyDbx2B.ipc-inline-list__item:nth-of-type(2)
 !www.imdb.com##li.zgFV3U-XECrqVQnyDbx2B.ipc-inline-list__item:nth-of-type(3)
-! 12/10/2019 https://celebjihad.com
-celebjihad.com##.theme_article.sidebar_increase
-celebjihad.com##[href^="https://go.celebjihad.live/smartpop/"]
+
 ! 12/11/2019 https://en.oui.sncf
 en.oui.sncf###cookie-policy-popin > div:nth-of-type(2)
 en.oui.sncf##.vsc__lightbox__container
 en.oui.sncf##.vsc__noFocus.vsc__lightbox--survey.vsc__lightbox
+
 ! 12/12/2019 https://www.theatlantic.com
 www.theatlantic.com##.qc-cmp-showing.qc-cmp-ui-container
 
@@ -1100,9 +671,9 @@ github.com##.rounded-2.border.p-4.mb-6.mx-auto.signup-prompt
 ||collector.githubapp.com^
 ||github.com/_private/browser/stats
 
-
 ||google.com^*recaptcha/$badfilter,frame
 ||google.com^*recaptcha/$important
+
 ! 12/27/2019 https://www.elgiganten.dk
 www.elgiganten.dk##.cookie-info-layer
 ! 12/28/2019 https://gitlab.com
@@ -1123,46 +694,24 @@ gitlab.com##.popover-body
 ||www.pinterest.com/resource/ContextLogResource/$xhr
 ||www.pinterest.com/resource/StatsLogResource/$xhr
 ||www.pinterest.com/resource/UserRegisterTrackActionResource/$xhr
+
 ! 1/6/2020 https://www.information.dk
 www.information.dk##.field-label-hidden.field-type-ds.field-name-non-subscriber-ad-article.field.paywall-box
 www.information.dk##div.omega.alpha.grid-12.panel-panel:nth-of-type(4)
+
 ! 1/6/2020 http://news.discoverynetworks.dk
 news.discoverynetworks.dk###navbar-primary
+
 ! 1/7/2020 https://conversion-rate-experts.com
 conversion-rate-experts.com##.cookie-consent-bar
+
 ! 1/7/2020 https://sourceforge.net
 sourceforge.net###mirror
 sourceforge.net###newsletter-floating
+
 ! 1/9/2020 https://www.amazon.com
 www.amazon.com##.nav-flyout.nav-coreFlyout.glow-toaster-slot-default.glow-toaster-theme-default.glow-toaster.a-section
-! 09/12/2019 http://www.erotica.xxx
-/banners/*$image,domain=www.erotica.xxx
-! 09/12/2019 https://videoporno-gratuite.fr
-!||videoporno-gratuite.fr/meyer.php$image
-/meyer.php$image
-! 09/12/2019 flortestobb.com
-||www.flortestobb.com/landers/
-! 09/12/2019 https://csaladi-porno.com
-###erotikusmodalbox
-##.show.fade.modal-backdrop
-! 09/12/2019 https://pornovideo.szex.hu
-pornovideo.szex.hu###\31 8kapu
-pornovideo.szex.hu##.in.fade.modal-backdrop
-||/ad_track.js$script
-! 09/12/2019 pornovideo.szex.hu
-||ads.exoclick.com/ad_track.js$script^$important
-! 09/12/2019 https://szexfilmek-ingyen.hu
-!||szexfilmek-ingyen.hu
-/frodo.php$image
-! 09/12/2019 https://szexkepek.net
-###\31 8kapu
-##.in.fade.modal-backdrop
-||szexkepek.net/webfile.php$image
-! 09/12/2019 https://tini-porno.com
-tini-porno.com###\31 8kapu
-tini-porno.com###text-2 > div.textwidget:nth-of-type(1)
-tini-porno.com##.hidden-sm.sidebar.col-sm-4
-tini-porno.com##.in.fade.modal-backdrop
+
 
 ! 01/12/2019 https://gitlab.com
 gitlab.com##.flash-alert
@@ -1228,118 +777,78 @@ www.youtube.com###main
 ##noscript-warning
 ! 10/23/2019 ekstrabladet.dk
 ||consent.dk^
-! 10/30/2019 http://18teens.pro
-18teens.pro###topbar
-!18teens.pro##.ad-on-video
-##.ad-on-video
-18teens.pro##div.mexu-bns-bl:nth-of-type(4)
-18teens.pro##div.mexu-bns-bl:nth-of-type(6)
+
 ! 11/3/2019 https://gitlab.com
 gitlab.com##.rounded.flash-notice.flash-content
 ! 11/15/2019 https://gitlab.com
 gitlab.com##.flash-notice
-! 11/4/2019 http://freeteenmovs.pro
-freeteenmovs.pro###topbar
-! 11/4/2019 https://hentai-paradise.fr
-hentai-paradise.fr###theEnd
-hentai-paradise.fr##.reveal-overlay
-! 11/4/2019 http://hentaisexuality.com
-!hentaisexuality.com###popwindow
-##popwindow
-! 11/4/2019 http://horse-fucking.com
-!horse-fucking.com###popwindow
-! 11/4/2019 livefreecamx.com
-||ssl-ccstatic.highwebmedia.com/CACHE/js/$script
-!###.overlay
-##.overlay
+
 ! 11/4/2019 https://www.denic.de
 www.denic.de##.notification--bottom.notification--acknowledge.notification--notice.notification.teaser
-! 11/4/2019 https://nakedgirls.org
-!nakedgirls.org###dclm_modal_screen
-!nakedgirls.org###dclm_modal_content
-! 11/4/2019 nakedgirls.org
-||nakedgirls.org/wp-content/cache/min/1/9fcd011c46522a73b34f64eb7ca6b479.js$script
-! 11/4/2019 http://nakedgirls.pw
-nakedgirls.pw##.adHomePage
-nakedgirls.pw##.plugrush.centered
-! 11/4/2019 http://nakedwomenweb.com
-nakedwomenweb.com##canvas:nth-of-type(2)
-! 11/4/2019 http://www.nextpics.com
-www.nextpics.com##.\<b\>19\<\/b\>\<br.line.on.\<b\>\/var\/www\/damplips\/data\/www\/nextpics\.com\/wp-content\/themes\/vlog-v5\/ssi\/warning18\.php\<\/b\>.in.message_cookie.index\:.Undefined.\<b\>Notice\<\/b\>\:.\/\>.\<br.cookie-message
-www.nextpics.com##.popup
-! 11/4/2019 http://petiteteenmovs.pro
-!petiteteenmovs.pro###topbar
-##topbar
-! 11/4/2019 https://pornshui.com
-||pornshui.com/tf/cron.php$subdocument
-! 11/4/2019 http://sexual-teens.com
-sexual-teens.com##div.container-fluid:nth-of-type(2) > .text-center.mobile-thumbs > a[href^="go.php"]:nth-of-type(2)
-! 11/4/2019 truepurenudism.com
-||truepurenudism.com/counter.js$script
-||truepurenudism.com/scripts/$script
-! 11/4/2019 https://the-sex.me
-the-sex.me###disclaimer
-the-sex.me##.thumb-ad
-! 11/4/2019 https://www.xgaytube.tv
-www.xgaytube.tv##.active.js-random-link-item.js-menu-random.b-main-nav__link--mi.b-main-nav__link
-! 11/4/2019 http://youngsexpics.com
-youngsexpics.com##.partridge
-! 11/4/2019 youngsexpics.com
-||youngsexpics.com/esuvmisa$xhr
-||youngsexpics.com/trmdvjik/
-||youngsexpics.com/trmdvjik/cron.php$xhr
-! 11/4/2019 freelatinapics.com
-||bnstats.js$script
-||freelatinapics.com/lsvd/cron.php$xhr
-||lab.blackpics.net/iframe.php$subdocument
-||www.freelatinapics.com/lsvd/check.php
+
 ! 11/4/2019 https://www.hostwinds.com
 www.hostwinds.com###heateor_ss_browser_popup_bg
 www.hostwinds.com##.all-services
 ||www.hostwinds.com/guide/wp-content/plugins/super-socializer/images/close.png$image
 ||www.hostwinds.com/guide/wp-content/plugins/super-socializer/images/transparent_bg.png$image
+
 ! 10/20/2019 By krystian3w at https://gitlab.com/my-privacy-dns/matrix/matrix/issues/182#note_223460116
 /^https?:\/\/(.*\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{5,22}[0-9]{1,8}\.(agency|icu|life|live)\//$document,domain=agency|icu|life|live
+
 ! 10/20/2019 https://www.reddit.com
 www.reddit.com##div.SubredditVars-r-pihole:nth-of-type(3)
+
 ! 10/20/2019 https://www.nytimes.com
 www.nytimes.com##.e1x0szx60.css-1uqnipt.expanded-dock.expanded.shown.gdpr
+
 ! 10/19/2019 http://magnet2torrent.me
 magnet2torrent.me##li:nth-of-type(2)
+
 ! 10/19/2019 thefappeningblog.com
 bluehouse.is###customForm
 bluehouse.is###PopupOverLay_WA_0
 ||google.com/recaptcha/$important,script
 ||player.pulsemediatv.com^$third-party,$domain=~bwin.sport
 !||api.cxense.com/public/widget/data?$script
+
 ! 10/12/2019 https://gitbook.com/
 ||googleapis.com^$important
+
 ! 10/12/2019 https://taenk.dk/
 ||cookieinformation.com^
+
 ! 10/10/2019 https://www.wired.com
 www.wired.com##.paywall-bar--expanded.paywall-bar-failsafe
 www.wired.com##.paywall-bar__expanded
 www.wired.com##.show-social-box.persistent-aside--align-left.persistent-aside
+
 ! 10/9/2019 https://duckduckgo.com
 duckduckgo.com##div.detail__pane:nth-of-type(2) > .detail__inner > .detail__body > .detail__body__content.c-detail > .c-detail__more > [href^="https://www.youtube.com/results"]
+
 ! 10/9/2019 dr.dk/
 ||www.dr.dk/DR.Common.Banner.Ads/$xmlhttprequest
 ||www.dr.dk/drWebStat/$script
+
 ! 10/9/2019 https://www.dr.dk
 !www.dr.dk###CybotCookiebotDialogBodyUnderlay
 !www.dr.dk###CybotCookiebotDialog
-! 10/9/2019 dr.dk
-||cookiebot.com^$script
-! 10/9/2019 https://www.extremetech.com
-www.extremetech.com###_evidon-background
-www.extremetech.com###_evidon-banner
-www.extremetech.com###_evidon-barrier-wrapper
-! 10/10/2019 https://www.kino.dk
-www.kino.dk###sliding-popup
+
 ! 10/12/2019 dr.dk
 ||adobedtm.com/
 ||cookiebot.com^
 ||www.dr.dk/drwebstat/
+
+! 10/9/2019 dr.dk
+||cookiebot.com^$script
+
+! 10/9/2019 https://www.extremetech.com
+www.extremetech.com###_evidon-background
+www.extremetech.com###_evidon-banner
+www.extremetech.com###_evidon-barrier-wrapper
+
+! 10/10/2019 https://www.kino.dk
+www.kino.dk###sliding-popup
+
 ! 10/13/2019 digst.dk
 ||digst.dk/proxy.gba$first-party,xmlhttprequest
 ! 10/13/2019 ft.dk
@@ -1400,10 +909,12 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 !||cdn.polyfill.io/v2/*$script
 ||fonts.googleapis.com^$stylesheet
 ||polyfill.io^$third-party
+
 ! 10/9/2019 https://github.com
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/6
 github.com##.mt-3.flash-warn.flash
 github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
+
 ! 10/13/2019 tv2.dk
 ||adobedtm.com^$script
 ||facebook.net^$script
@@ -1413,6 +924,7 @@ github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
 ||tv2a.dk/oil/$script
 ||tv2login.dk/api/login/v1/users/current/consents$xmlhttprequest
 ||tv2net.zendesk.com^$script
+
 ! 11/10/2019 https://www.youtube.com
 youtube.com###contentWrapper > .ytd-popup-container.style-scope
 youtube.com###subscribe-button
