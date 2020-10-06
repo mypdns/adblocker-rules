@@ -1,3 +1,15 @@
+! 2020-09-09 https://www.bundesregierung.de
+www.bundesregierung.de##.bpa-white.bpa-module-supplement.bpa-module.bpa-cookie-banner
+
+! 2020-10-05 soeberg.dk
+||chatbot.com^$important
+||/wp-content/plugins/q2w3-fixed-widget/*$important
+||/wp-content/plugins/popup-builder/*$important
+soeberg.dk###sgpb-popup-dialog-main-div-wrapper
+soeberg.dk##.sgpb-popup-overlay.sgpb-popup-overlay-2139.sgpb-theme-1-overlay
+||livechatinc.com^$important
+||soeberg.dk/wp-content/themes/soeberg/js/custom_scripts.js$script,important
+
 !||notebookcheck.*^$script,1p,important
 !/ads.v*.js?v=*$important
 !/ads.v5.js?v=3$important
@@ -180,6 +192,13 @@ gogirls18.com##[href^="/show.php"]
 
 ! 2020-08-14 smallteenpussy.com
 ||nichehit.net^$important
+
+! 2020-10-06 https://github.com
+github.com##.hx_cookie-banner--show
+github.com##.js-cookie-consent-banner
+github.com##.hx_cookie-banner--show.js-cookie-consent-banner
+github.com##.js-cookie-consent-preferences-link-container
+github.com##.js-cookie-consent-banner
 
 ! 12/08/2020 https://github.com
 github.com##.js-notice.MarketplaceAnnouncement.flash-full.flash
