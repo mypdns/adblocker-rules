@@ -1,23 +1,30 @@
 os: linux
 dist: focal
-
-sudo: false
 language: python
 python:
   - "3.8"
+
+git:
+  depth: 3
+
+sudo: false
+
 install:
-#- python3 -m pip install --no-cache-dir --upgrade git+https://github.com/adblockplus/python-abp
-- python3 -m pip install -r requirements.txt
+  - python3 -m pip install -r requirements.txt
+
 branches:
   only:
   - master
+
 notifications:
   email: false
+
 script:
-#- bash ./update-3rdparties.sh
-- flrender -i ublockorigin-rules=. ublockorigin-rules.template _public/blockrules.txt
+  - flrender -i ublockorigin-rules=. ublockorigin-rules.template _public/blockrules.txt
+
 after_success:
-- bash ./travis/deploy.sh
+  - bash ./travis/deploy.sh
+
 env:
   global:
   - TZ: CEST
