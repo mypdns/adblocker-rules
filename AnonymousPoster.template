@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Spirillen's – Adblock Rules
-! Expires: 1 hours
+! Expires: 1 day
 !
 ! List url: 
 ! https://github.com/spirillen/ublockorigin-rules/blockrules.txt
@@ -9,8 +9,7 @@
 ! https://github.com/spirillen/ublockorigin-rules/blob/master/LICENSE
 ! Homepage: https://github.com/spirillen/ublockorigin-rules/
 !
-! Please report any unblocked content or problems by email or in our
-! Issue board.
+! Please report any unblocked content or problems on our Issue board.
 ! GitHub issues:
 ! - https://github.com/spirillen/ublockorigin-rules/issues
 ! GitHub merge request:
@@ -22,14 +21,17 @@
 !------------------- General advert blocking filters -------------------!
 %include ublockorigin-rules:rules/blockrules.txt%
 
-!------------------- MetArt Networking blocking filters ----------------!
-%include ublockorigin-rules:rules/MetArtNetwork.txt%
-
 !------------------------ White List -----------------------------------!
 %include ublockorigin-rules:rules/whitelist.txt%
 
 !------------------------ Anti White -----------------------------------!
 %include ublockorigin-rules:rules/anti_whitelist.txt%
+
+!------------------- Adult Annoyance blocking filters ----------------!
+%include ublockorigin-rules:rules/Adult_Annoyance.txt%
+
+!------------------- MetArt Networking blocking filters ----------------!
+%include ublockorigin-rules:rules/MetArtNetwork.txt%
 
 !---------------------- Anti Whitelist by Yuki2718 ---------------------!
 %include ublockorigin-rules:thirdparties/Yuki2718/ublock-anti-whitelist.txt%
