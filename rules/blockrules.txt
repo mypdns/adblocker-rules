@@ -1,3 +1,9 @@
+! https://mabanque.bnpparibas/
+! https://github.com/easylist/easylist/issues/6110
+###nextoutils_gestionCookies
+###cookiesPopin
+###nextoutils_gestionCookies ~ .popin-cache
+
 ! 2020-09-09 https://www.bundesregierung.de
 www.bundesregierung.de##.bpa-white.bpa-module-supplement.bpa-module.bpa-cookie-banner
 
