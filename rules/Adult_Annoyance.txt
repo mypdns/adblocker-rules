@@ -1,0 +1,16 @@
+! 6/4/2020 youseeporn.com
+@@||www.youseeporn.com^$font,1p
+
+! 2020-09-08 http://www.pornhub.net.co
+www.pornhub.net.co##center
+www.pornhub.net.co##.video-block-happy
+www.pornhub.net.co###widget-videos-block-4 > .video-loop > .no-gutters.row > .col-xl-6.col-lg-6.col-md-6.col-12.order-xl-1.order-lg-1.order-md-1.order-sm-1.order-1
+
+! 2020-09-08 https://pornoscraper.com
+||*/safu/safu.php$image
+
+! 2020-09-09 viptube.com
+||cnt.viptube.com/counter/*$image,important
+
+! 2020-09-09 https://younggirlsfreeporn.com
+younggirlsfreeporn.com##div.thumb:nth-of-type(3)
