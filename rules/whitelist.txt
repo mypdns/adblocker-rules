@@ -19,3 +19,6 @@
 @@wyciwyg-scheme
 @@yspmedia-web.gitlab.io
 ~hub.filterlists.com#@#.btn-social
+
+! 2020-10-06 travis-ci.com
+@@||pusher.com^$xhr,domain=travis-ci.com
