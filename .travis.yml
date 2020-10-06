@@ -14,7 +14,7 @@ branches:
 notifications:
   email: false
 script:
-- bash ./update-3rdparties.sh
+#- bash ./update-3rdparties.sh
 - flrender -i ublockorigin-rules=. AnonymousPoster.template _public/blockrules.txt
 after_success:
 - bash ./travis/deploy.sh
