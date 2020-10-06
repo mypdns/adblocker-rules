@@ -4,7 +4,7 @@ dist: focal
 sudo: false
 language: python
 python:
-  - "3.8.5"
+  - "3.8"
 install:
 #- python3 -m pip install --no-cache-dir --upgrade git+https://github.com/adblockplus/python-abp
 - python3 -m pip install -r requirements.txt
