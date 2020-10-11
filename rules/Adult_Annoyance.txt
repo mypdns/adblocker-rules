@@ -1,3 +1,54 @@
+! 2020-09-01 dirtynudeteens.net
+! https://www.mypdns.org/T1326
+||www.dirtynudeteens.net/*/out.php$important
+||www.dirtynudeteens.net/xxx/out.php$important
+
+! 2020-09-01 thumb18.com
+! https://www.mypdns.org/T1728
+||www.thumb18.com/mpm/site.html$important
+
+! 2020-09-01 schoolgirlsexpics.com
+! https://www.mypdns.org/T1307
+||www.schoolgirlsexpics.com/tracker/*$important
+||www.schoolgirlpussypics.com/*/site.html$important
+
+! 2020-09-02 metartnetwork.com
+! https://www.mypdns.org/T1327
+||www.metartnetwork.com^$websocket,important
+||metartnetwork.com^$websocket,important
+
+! 2020-10-07 nudeplaymates.net
+! https://www.mypdns.org/T1536
+||nudeplaymates.net/tf*.js$script,important
+nudeplaymates.net##center
+
+! 2020-10-07 playboy-galleries.com
+! https://www.mypdns.org/T1539
+||playboy-galleries.com/tf*.js$script,important
+||playboy-galleries.com/tf*/*.mp4$media,important
+
+! 2020-09-09 http://kinkymarie.com
+! https://www.mypdns.org/T1458
+kinkymarie.com###text-3
+
+! 2020-10-08 amateurdumbfucks.com
+! https://www.mypdns.org/T1575
+||purewebpower.net^$important
+
+
+! 2020-10-07 teendreams.com
+! https://www.mypdns.org/T1548
+||myallaccesspass.com/exit-popup/*$script,important
+||teendreams.com/exit-popup/*$important
+
+! 2020-10-08 https://www.transsexualbarebacking.com
+! https://www.mypdns.org/T1576
+transsexualbarebacking.com##div.graybox
+
+! 2020-10-08 cumlovers.net
+! https://www.mypdns.org/T1577
+||lotzadollars.com^$script,important
+
 ! 6/4/2020 youseeporn.com
 @@||www.youseeporn.com^$font,1p
 
