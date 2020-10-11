@@ -37,12 +37,6 @@ bccnapoli.it,thetechsutra.com#@#.cp-overlay$badfilter
 ! https://github.com/AdguardTeam/AdguardFilters/issues/26975
 @@||googletagmanager.com/gtm.js$domain=programme-tv.net$badfilter
 
-! line.me - menu buttons not working
-@@||google-analytics.com/plugins/ua/linkid.js$domain=line.me$badfilter
-
-!+ NOT_PLATFORM(windows, mac, android, ext_chromium, ext_edge)
-@@||cdn.optimizely.com/public/$script,domain=nytimes.com$badfilter
-
 ! https://github.com/AdguardTeam/AdguardFilters/issues/29236
 @@||googletagmanager.com/gtm.js$domain=superesportes.com.br$badfilter
 
@@ -57,6 +51,15 @@ bccnapoli.it,thetechsutra.com#@#.cp-overlay$badfilter
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27312
 @@||googletagmanager.com/gtm.js$domain=cinemaximum.com.tr$badfilter
+
+https://github.com/easylist/easylist/pull/6131/files
+@@||googletagmanager.com/gtm.js$domain=action.com|ads.spotify.com|adsoup.com|aim.steelseries.com|airasia.com|asus.com|bhaskar.com|broadcom.com|bsa-whitelabel.com|chipotle.com|complex.com|computerworlduk.com|coolermaster.com|cyclingnews.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|fortune.com|foxnews.com|gamepix.com|git-tower.com|google.com|health2000.co.nz|insideevs.com|itv.com|jobs.net|keygames.com|magicjack.com|moviefone.com|nestio.com|newsarama.com|newsy.com|nfl.com|nytimes.com|onesignal.com|optus.com.au|overwatchleague.com|poliigon.com|porsche.com|realestate.co.nz|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|scotsman.com|sixflags.com|starbucks.ca|support.amd.com|talktalk.co.uk|techradar.com|theta.tv|toto.co.jp|toysrus.ca|trademe.nz|usmagazine.com|weightwatchers.com|woodlanddirect.com|wwe.com,badfilter
+
+! line.me - menu buttons not working
+@@||google-analytics.com/plugins/ua/linkid.js$domain=line.me$badfilter
+
+!+ NOT_PLATFORM(windows, mac, android, ext_chromium, ext_edge)
+@@||cdn.optimizely.com/public/$script,domain=nytimes.com$badfilter
 
 ! https://github.com/easylist/easylist/commit/fedd2b71f993c929b8ba39b35f8e1adf82919259
 @@||stabila.com/bundles/marketingsuite/css/cookie-bar.css$badfilter
@@ -76,10 +79,6 @@ radiolodz.pl##.share_icons
 @@||cookielaw.org/consent/$xmlhttprequest,badfilter
 @@||isgprivacy.cbsi.com/dist/optanon.js$script,badfilter
 @@||cookielaw.org/scripttemplates/$script,domain=eurogamer.net|zdnet.com,badfilter
-
-! https://github.com/easylist/easylist/pull/5444
-@@||googletagmanager.com/gtm.js$script,domain=cdon.fi|como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi
-@@||kiwi45.leiki.com/focus/$script,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi
 
 ! unknown commit
 @@/wp-content/plugins/akismet/*$script,1p,domain=~gaytube.com|~pornhub.com|~pornhubthbh7ap3u.onion|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com,badfilter
@@ -114,8 +113,7 @@ mehilainen.fi##div[class*="CookieConsent"]
 ! https://github.com/spirillen/dns-rpz-integration/issues/17#issuecomment-647053231
 /cookie-banner$domain=bbc.com,important
 
-! https://github.com/easylist/easylist/pull/5450
-@@||googletagmanager.com/gtm.js$script,domain=cdon.fi|como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi|veho.fi,badfilter
+
 
 ! https://github.com/easylist/easylist/issues/5453; would permit tracking
 @@||24tv.ua/assets/tv24/images/transparent-pixel.png$image,~third-party,badfilter
