@@ -1,3 +1,59 @@
+! 2020-10-08 evilhentai.com
+! https://www.mypdns.org/T1582
+||www.evilhentai.com/adt*.js$script,important
+
+
+! 2020-10-08 https://www.redtube.com
+! https://www.mypdns.org/T1426
+www.redtube.com###block_hottest_videos_by_country > .oruyr3jjndlt9dcvw
+
+! 2020-10-08 https://www.redtube.com.br
+! https://www.mypdns.org/T1427
+www.redtube.com.br###block_hottest_videos_by_country > .a68aw
+
+! 2020-10-10 http://www.sexual-babes.com (TrackWare)
+! https://www.mypdns.org/T1620
+!www.sexual-babes.com##a[href^="go.php"]
+!! Example of several domains for one CSS rule
+!! zooweekly.com.au,zybez.net##.ad
+sexual-babes.com##a[href^="go.php"]
+
+! 2020-10-10 http://zzbabes.com
+! https://www.mypdns.org/T1632
+zzbabes.com##.zzpro
+||zzbabes.com/nb/*
+
+! 2020-10-08 https://www.hegre.com
+! https://www.mypdns.org/T1334
+!www.hegre.com##.dialogs
+hegre.com##.promo-board-wrapper
+hegre.com##.overflow
+hegre.com##.white-on-black
+hegre.com##.dialogs > .fixed-dialog-overlay.hidden
+hegre.com##.dialogs > .stay-in-touch-dialog.white-dialog.fixed-dialog.hidden
+
+! 2020-10-10 mysexgames.com
+! https://www.mypdns.org/T1647
+||cloudflare.com/cdn-cgi/scripts/*/cloudflare-static/rocket-loader.min.js$script,important
+
+! 2020-10-10 https://www.hdpornos.net
+! https://www.mypdns.org/T1702
+www.hdpornos.net##.size-300x250.vjs-overlay
+||chatintr.com/widget?affiliateId=1$subdocument
+www.hdpornos.net###special9
+
+! 2020-10-10 https://www.spermguzzlingmilfs.com
+! https://www.mypdns.org/T1655
+www.spermguzzlingmilfs.com###disclaimer
+
+! 2020-10-10 nudogram.com
+! https://www.mypdns.org/T1678
+||trawahdh2hd8nbvy09.com^$important
+
+! 2020-10-08 pornoscraper.com
+! https://www.mypdns.org/T1446
+||pornoscraper.com/safu/safu.php$script,important
+
 ! 2020-09-01 dirtynudeteens.net
 ! https://www.mypdns.org/T1326
 ||www.dirtynudeteens.net/*/out.php$important
