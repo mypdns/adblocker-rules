@@ -669,7 +669,7 @@ github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-3.col-lg-3.col-md-3.c
 ! 24/11/2019 https://github.com
 github.com##.box-shadow-large.Box.mt-6.p-3.text-left.Popover-message--large.Popover-message--top-left.Popover-message
 github.com##.box-shadow-large.Box.p-4.left-0.Popover-message--top-left.Popover-message--large.Popover-message
-##.flash-error.flash-full.flash
+!##.flash-error.flash-full.flash
 ! 14/12/2019 https://github.com
 github.com##.p-2.border-bottom.js-notice
 ! 10/19/2019 https://github.com
