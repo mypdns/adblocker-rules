@@ -1,3 +1,8 @@
+! https://www.mypdns.org/T1736
+! https://github.com/easylist/easylist/issues/6128
+! https://github.com/easylist/easylist/commit/383f7b07e39f24db34591b4365943e6dbca16a70
+@@||analytics.amplitude.com^$~third-party,badfilter
+
 ! https://github.com/easylist/easylist/pull/6064
 tennisassa.fi#@#.cookie-monster$badfilter
 
