@@ -1,3 +1,7 @@
+! https://github.com/easylist/easylist/issues/6126
+! https://github.com/easylist/easylist/commit/e2a028ebbb548d20f88daa36cbfeb3a15729f755
+@@||gstatic.com^*/firebase-analytics.js$script,domain=999.md|audiomack.com|foreignaffairs.com|games.com|google.com,badfilter
+
 ! https://www.mypdns.org/T1736
 ! https://github.com/easylist/easylist/issues/6128
 ! https://github.com/easylist/easylist/commit/383f7b07e39f24db34591b4365943e6dbca16a70
