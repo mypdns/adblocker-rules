@@ -1,3 +1,8 @@
+! 2020-10-16 https://hclips.com
+! https://www.mypdns.org/T1872
+hclips.com##.video-page__content > .right
+hclips.com##.video-page__item
+
 ! 2020-10-16 https://www.xgaytube.tv
 ! https://www.mypdns.org/T1861
 xgaytube.tv##.ae-player__itv
