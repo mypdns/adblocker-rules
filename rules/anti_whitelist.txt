@@ -1,3 +1,7 @@
+! Fanboy’s Enhanced Tracking List
+! freelatinapics.com https://www.mypdns.org/T1852
+@@/advertise.js$script,badfilter
+
 ! https://github.com/easylist/easylist/issues/6127
 ! https://github.com/easylist/easylist/commit/539394e32c9024f0d87568b74d6e5af78a68c659
 @@||9cdn.net^*/js/tracking/$script,domain=nine.com.au
