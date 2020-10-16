@@ -3,8 +3,9 @@
 ||www.evilhentai.com/adt*.js$script,important
 
 ! 2020-10-13 https://www.xfantasy.com
-www.xfantasy.com##.overlay-container
-www.xfantasy.com##.faux-applet-sidebar
+! https://www.mypdns.org/T1763
+xfantasy.com##.overlay-container
+xfantasy.com##.faux-applet-sidebar
 
 ! 2020-10-13 javlibrary.com
 ||javlibrary.com/cdn-cgi/challenge-platform/*$xhr,important
@@ -20,8 +21,9 @@ www.xfantasy.com##.faux-applet-sidebar
 
 ! 2020-10-16 realteenbeauty.com
 ! https://www.mypdns.org/T1846
-||www.realteenbeauty.com/js/*$script,important
-||www.realteenbeauty.com/teen.php$important
+||realteenbeauty.com/js/*$script,important
+||realteenbeauty.com/teen.php$important
+||realteenbeauty.comd/count.php$important
 
 ! 2020-10-08 https://www.redtube.com
 ! https://www.mypdns.org/T1426
