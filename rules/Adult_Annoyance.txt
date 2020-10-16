@@ -1,3 +1,7 @@
+! 2020-10-16 https://www.xgaytube.tv
+! https://www.mypdns.org/T1861
+xgaytube.tv##.ae-player__itv
+
 ! 2020-10-08 evilhentai.com
 ! https://www.mypdns.org/T1582
 ||www.evilhentai.com/adt*.js$script,important
