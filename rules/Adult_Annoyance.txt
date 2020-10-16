@@ -8,6 +8,10 @@ hclips.com##.___it0fepigs8dm1s
 ! https://www.mypdns.org/T1869
 ||oldporn69.net/common-js/exit/*$important
 
+! 2020-10-16 http://www.classic-porn.me
+! https://www.mypdns.org/T1866
+classic-porn.me##[href^="/lets"]
+
 ! 2020-10-16 https://www.xgaytube.tv
 ! https://www.mypdns.org/T1861
 xgaytube.tv##.ae-player__itv
