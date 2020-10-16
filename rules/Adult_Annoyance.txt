@@ -274,6 +274,7 @@ gogirls18.com##[href^="/show.php"]
 ||/advertise.js$script,domain=freelatinapics.com,important
 
 ! 10/08/2020 pornharvest.com
+! https://www.mypdns.org/T1834
 ||nichedlinks.com/hop/hop.php$important
 
 ! 10/08/2020 newextra.com
@@ -284,10 +285,21 @@ gogirls18.com##[href^="/show.php"]
 ||vagina.nl/fish-hooks/fetch.json$xhr,important
 
 ! 10/08/2020 wichspornos.com
+! https://www.mypdns.org/T1862
 ||delivery.pcon.space/cpanel/c.php$script,important
 ||fabrouter.com/cpanel/*$script,important
 
+! https://www.mypdns.org/T1890
+! https://github.com/easylist/easylist/issues/6201
+movie.momo-net.com###overlay
+
+! 2020-10-11 seeteenvideos.com
+! https://www.mypdns.org/T1718
+! https://www.mypdns.org/T559
+||palmtube.net^$script,important
+
 ! 10/08/2020 darkworldbynight.com
+! https://www.mypdns.org/T1040
 ||darkworldbynight.com/?_dwr/interface/PageCounterDWR.js$script
 ||darkworldbynight.com/?system/resource/js/dynclicks.js$script
 
@@ -299,6 +311,7 @@ gogirls18.com##[href^="/show.php"]
 ! https://www.mypdns.org/T1345
 ||pornstarapex.com/default.html$important
 ||pornstarapex.com/*.cgi$important
+||/d/link.php$important
 ||pornstarapex.com/ojzy.cgi$important
 ||pornstarapex.com/lgjhvg.cgi$important
 ||pornstarapex.com/ljchioi.cgi$document,important
