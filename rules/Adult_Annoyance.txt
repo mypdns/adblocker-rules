@@ -271,7 +271,7 @@ gogirls18.com##[href^="/show.php"]
 ||nichehit.net^$important
 
 ! 10/08/2020 perfecttitspics.com
-||/advertise.js$script,important
+||/advertise.js$script,domain=freelatinapics.com,important
 
 ! 10/08/2020 pornharvest.com
 ||nichedlinks.com/hop/hop.php$important
