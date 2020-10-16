@@ -173,7 +173,10 @@ adult.urlgalleries.net##tr:nth-of-type(68) > td > table
 ||blacked.com/cdn-cgi/*/trace/*$important
 
 ! 2020-09-03 pornstarapex.com
+! https://www.mypdns.org/T1345
+! https://github.com/easylist/easylist/issues/6200
 ||pornstarapex.com/uoelaj.cgi$important
+||pornstarapex.com/*.cgi$important
 ||pornstarapex.com/default.html?*$important
 ||pornstarapex.com/tarcim.cgi$document,important
 ||pornstarapex.com/*.cgi$document,important
