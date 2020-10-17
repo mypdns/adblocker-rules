@@ -1,8 +1,8 @@
 ! 2020-10-16 https://hclips.com
 ! https://www.mypdns.org/T1872
-hclips.com##.video-page__content > .right
-hclips.com##.video-page__item
-hclips.com##.___it0fepigs8dm1s
+!hclips.com##.video-page__content > .right
+!hclips.com##.video-page__item
+hclips.com##.video-page__
 hclips.com,txxx.com###und_ban
 hclips.com,txxx.com##.chan_banner
 
