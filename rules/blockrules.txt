@@ -1,6 +1,11 @@
 ! https://github.com/easylist/easylist/commit/60434964db271744939b38032ea0017642df7689
 ||pusher.com^$third-party
 
+! 2020-10-17 lesnumeriques.com
+! https://www.mypdns.org/T1371
+||privacy-center.org^$important
+
+
 ! https://mabanque.bnpparibas/
 ! https://github.com/easylist/easylist/issues/6110
 ###nextoutils_gestionCookies
