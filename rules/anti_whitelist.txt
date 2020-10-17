@@ -125,10 +125,6 @@ mages.sprinklecontent.com/270/170/$image,domain=como.fi|episodi.fi|fum.fi|infern
 @@||widgets.spklw.com/v1/data/$xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|rytmi.com|soundi.fi|tilt.fi,badfilter
 @@||widgets.sprinklecontent.com/v2/$script,xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|rytmi.com|soundi.fi|tilt.fi,badfilter
 
-! https://github.com/easylist/easylist/pull/5581
-! mehilainen.fi#@#div[class*="CookieConsent"]$badfilter
-mehilainen.fi##div[class*="CookieConsent"]
-
 ! https://github.com/ryanbr/fanboy-adblock/issues/1372
 ! https://github.com/spirillen/dns-rpz-integration/issues/17#issuecomment-647053231
 /cookie-banner$domain=bbc.com,important
