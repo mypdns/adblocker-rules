@@ -287,12 +287,13 @@ gogirls18.com##[href^="/show.php"]
 
 ! 10/08/2020 wichspornos.com
 ! https://www.mypdns.org/T1862
+wichspornos.com##.tf-sp
 ||delivery.pcon.space/cpanel/c.php$script,important
 ||fabrouter.com/cpanel/*$script,important
 
 ! https://www.mypdns.org/T1890
 ! https://github.com/easylist/easylist/issues/6201
-movie.momo-net.com###overlay
+deviantclip.com,movie.momo-net.com###overlay
 
 ! 2020-10-11 seeteenvideos.com
 ! https://www.mypdns.org/T1718
