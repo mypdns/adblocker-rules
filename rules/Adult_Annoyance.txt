@@ -1,3 +1,30 @@
+! 2020-10-18 vipnudesexygirls.com
+! https://www.mypdns.org/T1905
+||cloudflare.com/ajax/libs/fastclick/*/fastclick.min.js$script,important
+
+! 2020-10-18 porndude.me
+! https://www.mypdns.org/T1923
+! https://www.mypdns.org/T1924
+||tx.cdnjs.work^$important
+
+! 2020-10-19 librateam.net
+! https://www.mypdns.org/T1978
+||librateam.net/click/*$important
+
+! 2020-10-19 1ts17.top
+! https://www.mypdns.org/T1979
+||1ts17.top^$important
+||1ts17.top/pu.php$important
+
+! 2020-10-19 sexo24.com
+! https://www.mypdns.org/T1981
+||www.sexo24.com/?p$important
+
+! 2020-10-19 xnx-hardcore.com
+! https://www.mypdns.org/T1984
+/matomo/*$script,important
+/piwik.php$script,important
+
 ! 2020-10-16 https://hclips.com
 ! https://www.mypdns.org/T1872
 hclips.com##.video-page__content > .right
