@@ -120,6 +120,8 @@ github.com##.js-notice.MarketplaceAnnouncement.flash-full.flash
 github.com##.js-notice.position-absolute.Popover
 ! 08/08/2020 github.com
 ||alive.github.com^$websocket,important
+$webrtc,domain=github.com
+$xmlhttprequest,domain=github.com,important
 
 ! https://www.mypdns.org/T941
 ! 6/28/2020 github.com
