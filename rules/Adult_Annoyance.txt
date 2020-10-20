@@ -1,3 +1,17 @@
+! 2020-10-20 tubepornhot.com
+! https://www.mypdns.org/T2024
+||tubepornhot.com^$popup,important
+
+! 2020-10-20 xxxfree.pro
+! https://www.mypdns.org/search/query/cXCYCWfSZUEr/#R
+! https://www.mypdns.org/T1983
+||traffictrade.pro^$xhr,important
+
+! 2020-10-20 https://www.redgifs.com
+! https://www.mypdns.org/T979
+www.redgifs.com##.toast-notification--pro-cta.toast-notification
+www.redgifs.com##.visible.type3.pro-cta
+
 ! 2020-10-18 vipnudesexygirls.com
 ! https://www.mypdns.org/T1905
 ||cloudflare.com/ajax/libs/fastclick/*/fastclick.min.js$script,important
