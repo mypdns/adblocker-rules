@@ -13,7 +13,7 @@
 ###nextoutils_gestionCookies ~ .popin-cache
 
 ! 2020-09-09 https://www.bundesregierung.de
-www.bundesregierung.de##.bpa-white.bpa-module-supplement.bpa-module.bpa-cookie-banner
+bundesregierung.de##.bpa-white.bpa-module-supplement.bpa-module.bpa-cookie-banner
 
 ! 2020-10-05 soeberg.dk
 ||chatbot.com^$important
@@ -29,7 +29,7 @@ soeberg.dk##.sgpb-popup-overlay.sgpb-popup-overlay-2139.sgpb-theme-1-overlay
 !/ads.v5.js?v=3$important
 
 ! 7/4/2020 https://www.imagefruit.com
-www.imagefruit.com###layer
+imagefruit.com###layer
 
 ! 7/18/2020 rarbgaccessed.org
 ||dyncdn.me/static/20/js/showads.js$script,important
@@ -42,7 +42,7 @@ www.imagefruit.com###layer
 ||dyncdn.me/static/20/js/scrollspy.min.js$script,important
 
 ! 2020-08-13 https://www.imdb.com
-www.imdb.com##.videoPreview--autoPlaybackOnce.videoPreview
+imdb.com##.videoPreview--autoPlaybackOnce.videoPreview
 
 ! 7/15/2020 https://duckduckgo.com
 duckduckgo.com###m2-0
@@ -54,7 +54,7 @@ duckduckgo.com###m2-0
 3g2upl4pq6kufc4m.onion##.highlight_sponsored
 
 ! 2020-08-23 https://www.bittorrent.com
-www.bittorrent.com##.consent-banner-animation-enter-done
+bittorrent.com##.consent-banner-animation-enter-done
 
 ! 2020-09-01 aninding-branship.com
 ||aninding-branship.com^$important
@@ -63,11 +63,11 @@ www.bittorrent.com##.consent-banner-animation-enter-done
 ||roxxiebubbles.com/jspopunder2.js$script,important
 
 ! 5/24/2020 https://www.hetzner.com
-www.hetzner.com##.hidden-xs.hidden-sm.footer-main-section > .container > div.row:nth-of-type(2)
+hetzner.com##.hidden-xs.hidden-sm.footer-main-section > .container > div.row:nth-of-type(2)
 
 ! 5/29/2020 https://www.reck.dk
-www.reck.dk##.smush-notice.notice
-www.reck.dk##.wds-report > .sui-upsell-row
+reck.dk##.smush-notice.notice
+reck.dk##.wds-report > .sui-upsell-row
 
 ! 6/22/2020 youtube.com
 @@||youtube-ui.l.google.com^$stylesheet,domain=youtube.com,badfilter,important
@@ -76,7 +76,7 @@ www.reck.dk##.wds-report > .sui-upsell-row
 svscomics.com##.regi
 
 ! 8/4/2020 https://www.techradar.com
-www.techradar.com##.region_above_ad.region_redirect_popup
+techradar.com##.region_above_ad.region_redirect_popup
 
 ! 2020-08-17 start.me
 ||whatismylocale.start.me^$important
@@ -87,7 +87,7 @@ python3.guide##p:nth-of-type(8)
 python3.guide##p:nth-of-type(12)
 
 ! 2020-08-31 https://www.iobit.com
-www.iobit.com###db7new
+iobit.com###db7new
 
 ! 2020-08-20 thetechsutra.com
 ||thetechsutra.com/wp-content/cache/*$script,important
@@ -142,7 +142,7 @@ wikibious.com##.unselectable,html:style(-webkit-touch-callout: default !importan
 
 ! 6/19/2020 https://www.ouedkniss.com
 ! Appendix to https://github.com/easylist/easylist/pull/5507
-www.ouedkniss.com###page_interstitiel
+ouedkniss.com###page_interstitiel
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5648
 /ads.v*.js?v=*$important
@@ -150,9 +150,9 @@ www.ouedkniss.com###page_interstitiel
 @@||googletagmanager.com/gtm.js$domain=imgur.com,badfilter
 
 ! 08/06/2020 https://www.whois.com
-www.whois.com##.promoblurb-container
-www.whois.com##.slides-container
-www.whois.com##.chiclet_wph
+whois.com##.promoblurb-container
+whois.com##.slides-container
+whois.com##.chiclet_wph
 
 ! 15/06/2020 https://bitbucket.org
 bitbucket.org##div.atlaskit-portal:nth-of-type(1) > .lmzGgl.sc-gipzik > .cGINmZ.sc-Rmtcm
@@ -182,7 +182,7 @@ bitbucket.org##.cjMOOK.styledFlagGroup-sc-1dirlpz-0
 ||googleapis.com^$important
 
 ! 3/25/2020 https://www.howtoforge.com
-www.howtoforge.com##.bsa-apiads
+howtoforge.com##.bsa-apiads
 
 ! 4/25/2020 https://rarbgaccess.org
 ||22pixx.xyz^$image
@@ -193,12 +193,12 @@ www.howtoforge.com##.bsa-apiads
 ||adobedtm.com^$important
 
 ! 6/7/2020 spillemyndigheden.dk
-||www.spillemyndigheden.dk^$script,1p
+||spillemyndigheden.dk^$script,1p
 
 ! 6/19/2020 https://www.sha2sslchecker.com
-www.sha2sslchecker.com##[src="/images/BottomBanner.gif"]
-www.sha2sslchecker.com##[src="/images/TopBanner.gif"]
-www.sha2sslchecker.com##.f-right
+sha2sslchecker.com##[src="/images/BottomBanner.gif"]
+sha2sslchecker.com##[src="/images/TopBanner.gif"]
+sha2sslchecker.com##.f-right
 
 ! 5/18/2020 https://askubuntu.com
 askubuntu.com###noscript-warning
@@ -220,7 +220,7 @@ henrik.dk##div.box_sponsor02
 shop.westerndigital.com##div.ng-scope.md\:h-auto.h-full.flex.relative.flex-col.lg\:cols-3.xs\:cols-4.cols-6:nth-of-type(3)
 
 ! 6/2/2020 https://www.pricerunner.dk
-www.pricerunner.dk##._3YnaHq5Pmy
+pricerunner.dk##._3YnaHq5Pmy
 
 ! 6/9/2020 https://bitbucket.org
 bitbucket.org##.ei693ry6.css-kigghj
@@ -235,7 +235,7 @@ linuxize.com##.pt-12.lg\:top-16.lg\:sticky.lg\:relative.lg\:block.-mt-12.flex-co
 developers.redhat.com##.general-promo.category-promo-section
 
 ! 27/04/2020 https://www.reck.dk
-www.reck.dk##.updated
+reck.dk##.updated
 
 ! 28/04/2020 https://gitlab.com
 gitlab.com##.d-flex.js-broadcast-notification-100719.broadcast-notification-message
@@ -254,17 +254,17 @@ tecadmin.net###custom_html-3
 community.spiceworks.com##.join-login-alt--six-second.join-login-alt.join-login-wrapper
 
 ! 13/05/2020 https://www.tecmint.com
-www.tecmint.com##.link-overlay
-www.tecmint.com###quickiebarpro
+tecmint.com##.link-overlay
+tecmint.com###quickiebarpro
 
 ! 17/05/2020 https://gitlab.com
 gitlab.com##.js-recovery-settings-callout.gl-alert-warning.gl-alert
 
 ! 24/05/2020 https://www.nytimes.com
-www.nytimes.com##.e1x0szx60.css-xdenu8.expanded-dock.expanded.shown.gdpr
+nytimes.com##.e1x0szx60.css-xdenu8.expanded-dock.expanded.shown.gdpr
 
 ! 25/05/2020 https://www.gitkraken.com
-!www.gitkraken.com###PureChatWidget
+!gitkraken.com###PureChatWidget
 ||purechat.com^important
 !||widgetapi.purechat.com^$xhr
 
@@ -273,35 +273,35 @@ rapidapi.com##.boxzilla-bottom-left-container.boxzilla-container
 rapidapi.com##p:nth-of-type(16)
 
 ! 01/06/2020 https://www.edbpriser.dk
-www.edbpriser.dk###product-listing-8
-www.edbpriser.dk##.d-md-block.d-none.sidebar-module-container
+edbpriser.dk###product-listing-8
+edbpriser.dk##.d-md-block.d-none.sidebar-module-container
 
 ! 01/06/2020 https://www.computersalg.dk
-www.computersalg.dk##div.BannerZoneMain
+computersalg.dk##div.BannerZoneMain
 
 ! 01/06/2020 https://www.proshop.dk
-www.proshop.dk##.hidden-sm.hidden-xs
-www.proshop.dk##.site-content-table-footer.pull-right.col-sm-9 > .site-row-margin-top-small.row
-www.proshop.dk##.site-campaigns-area > .site-row-margin-top-small.row
+proshop.dk##.hidden-sm.hidden-xs
+proshop.dk##.site-content-table-footer.pull-right.col-sm-9 > .site-row-margin-top-small.row
+proshop.dk##.site-campaigns-area > .site-row-margin-top-small.row
 
 ! 01/06/2020 https://www.paradoxplaza.com
-www.paradoxplaza.com###disablingDiv
-www.paradoxplaza.com###cookies-info
+paradoxplaza.com###disablingDiv
+paradoxplaza.com###cookies-info
 ###cookies-info
 
 ! 01/06/2020 https://www.pricerunner.dk
-www.pricerunner.dk##._3YnaHq5Pmy
+pricerunner.dk##._3YnaHq5Pmy
 
 ! 03/06/2020 https://www.imagefap.com
-www.imagefap.com##td.mnu0:nth-of-type(21)
+imagefap.com##td.mnu0:nth-of-type(21)
 
 ! 4/14/2020 https://www.sythe.org
-www.sythe.org###logoBlock > .pageWidth > .pageContent > div:nth-of-type(1)
+sythe.org###logoBlock > .pageWidth > .pageContent > div:nth-of-type(1)
 
 ! 4/16/2020 https://www.reck.dk
-www.reck.dk##.is-upgrade-premium.has-call-to-action.jitm-banner.jitm-card
-www.reck.dk##.wpmudev-recommended-plugins
-www.reck.dk##.updated
+reck.dk##.is-upgrade-premium.has-call-to-action.jitm-banner.jitm-card
+reck.dk##.wpmudev-recommended-plugins
+reck.dk##.updated
 
 ! 4/17/2020 https://bitbucket.org
 bitbucket.org##.upgrade-banner-container
@@ -310,14 +310,14 @@ bitbucket.org##.upgrade-banner-container
 stackoverflow.com##.js-theme-selector.bs-md.z-active.overflow-hidden.theme-selector
 
 ! 4/18/2020 https://www.tecmint.com
-www.tecmint.com###text-28
-www.tecmint.com###text-27
-www.tecmint.com###text-29
-www.tecmint.com###attachment_10255
-www.tecmint.com##.post-format
-www.tecmint.com##.after-post-box
-www.tecmint.com##.entry-inner > div:nth-of-type(10)
-www.tecmint.com###attachment_10195
+tecmint.com###text-28
+tecmint.com###text-27
+tecmint.com###text-29
+tecmint.com###attachment_10255
+tecmint.com##.post-format
+tecmint.com##.after-post-box
+tecmint.com##.entry-inner > div:nth-of-type(10)
+tecmint.com###attachment_10195
 
 ! 4/18/2020 https://duckduckgo.com
 duckduckgo.com##.badge-link--newsletter.badge-link--thumbnail.js-badge-link.badge-link--serp.badge-link
@@ -326,26 +326,26 @@ duckduckgo.com##.badge-link--newsletter.badge-link--thumbnail.js-badge-link.badg
 github.com##.mb-3.js-details-container.Details.border-black-fade.Box-row--yellow.Box
 
 ! 4/23/2020 https://www.zytrax.com
-!www.zytrax.com##.adv
+!zytrax.com##.adv
 ##.adv
 
 ! 4/26/2020 https://www.deviantart.com
-www.deviantart.com##._1fo9J
+deviantart.com##._1fo9J
 
 ! 4/28/2020 https://www.eonline.com
-www.eonline.com##.featherlight
+eonline.com##.featherlight
 
 ! 5/1/2020 https://www.cyberciti.biz
-www.cyberciti.biz###text-384338391
+cyberciti.biz###text-384338391
 
 ! 5/1/2020 https://www.linuxquestions.org
-www.linuxquestions.org##td.page:nth-of-type(1) > table.tborder:nth-of-type(3)
+linuxquestions.org##td.page:nth-of-type(1) > table.tborder:nth-of-type(3)
 
 ! 5/9/2020 https://www.kingston.com
-www.kingston.com###email-signup-modal
+kingston.com###email-signup-modal
 
 ! 5/9/2020 https://www.tecmint.com
-www.tecmint.com###quickiebarpro
+tecmint.com###quickiebarpro
 
 ! 5/17/2020 https://gitlab.com
 gitlab.com##.js-recovery-settings-callout.gl-alert-warning.gl-alert
@@ -355,15 +355,15 @@ gitlab.com##.js-recovery-settings-callout.gl-alert-warning.gl-alert
 
 /^https?:\/\/([a-z0-9]{8,10}\.)?[a-z0-9]{5,14}\.(com|bid|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
 /^https?:\/\/[a-z0-9]{5,14}\.(com|bid|online|top|club)\/[0-9a-f]{32}\/invoke.js$/$script,third-party
-||www.porndaa.com/sw.js$1p
-||www.fsphhbsklawjs.com^
+||porndaa.com/sw.js$1p
+||fsphhbsklawjs.com^
 https://padsabz.com/5b/11/ec/5b11ec577f7ab76d9e3bf5af286eda00.js
 
 ##.push-subscription-prompt
 
 ! 2/11/2020 https://www.imdb.com
-www.imdb.com##.page-grid.hero.ipc-page-grid--bias-left.ipc-page-grid > .ipc-page-grid__item--span-3.ipc-page-grid__item
-www.imdb.com##div.page-grid.ipc-page-grid--bias-left.ipc-page-grid:nth-of-type(3)
+imdb.com##.page-grid.hero.ipc-page-grid--bias-left.ipc-page-grid > .ipc-page-grid__item--span-3.ipc-page-grid__item
+imdb.com##div.page-grid.ipc-page-grid--bias-left.ipc-page-grid:nth-of-type(3)
 
 ! 2/13/2020 https://myshiptracking.com
 myshiptracking.com##.rt_alerts
@@ -377,7 +377,7 @@ github.com##.js-notifications-list-protip.text-gray.flex-items-center.d-flex
 linux-audit.com###content > .clearfix.entry
 
 ! 2/19/2020 https://www.scnsrc.me
-www.scnsrc.me##[href="https://www.scnsrc.me/linksnappy-review-special-offer/"]
+scnsrc.me##[href="https://www.scnsrc.me/linksnappy-review-special-offer/"]
 
 ! 2/21/2020 https://meta.wikimedia.org
 meta.wikimedia.org###mw-anon-edit-warning
@@ -386,27 +386,27 @@ meta.wikimedia.org###mw-anon-edit-warning
 en.wikipedia.org###mw-anon-edit-warning
 
 ! 2/22/2020 https://www.faaborg-sejlklub.dk
-www.faaborg-sejlklub.dk##.banner-overlay
+faaborg-sejlklub.dk##.banner-overlay
 www.faaborg-sejlklub.dk###banner-area-wrapper
 
 ! 3/5/2020 https://netflixtechblog.com
 netflixtechblog.com##.tn.tm.tl.tk.tj.ti.th.tg.tf.te.td.tc.tb.ta.sz.sy.sx.sw.sv.su.st.ss.sr.sq.sp.so.sn.sm.sl.sk.sj.al.si.jv.t.s
 
 ! 3/5/2020 https://www.wikia.org
-www.wikia.org##.rxbhWIyq7zN9DBsGKihO9._1qTFYU2AttM0QuKykrEq1
-www.wikia.org##body > div:nth-of-type(3)
+wikia.org##.rxbhWIyq7zN9DBsGKihO9._1qTFYU2AttM0QuKykrEq1
+wikia.org##body > div:nth-of-type(3)
 
 ! 3/15/2020 https://pastebin.com
 pastebin.com###float-box-frame
 
 ! 16/01/2020 https://www.fullrate.dk
-www.fullrate.dk##.page__social
+fullrate.dk##.page__social
 
 ! 22/01/2020 https://github.com
 github.com##.js-banner.border-gray-light.border.rounded-1.text-center.p-4.content
 
 ! 24/01/2020 https://www.cyberciti.biz
-www.cyberciti.biz###blocker7a1003a
+cyberciti.biz###blocker7a1003a
 
 ! https://github.com/easylist/easylist/pull/4799
 /ab_fl.js$script
@@ -425,10 +425,10 @@ gitguys.com##.td_block_template_1.td_uid_54_5e397b5fe9cbb_rand.td-a-rec-img.td-a
 unix.stackexchange.com###noscript-warning
 
 ! 10/02/2020 https://www.imdb.com
-www.imdb.com###pagecontent > .ab_widget
+imdb.com###pagecontent > .ab_widget
 
 ! 22/03/2020 https://www.cloudbooklet.com
-www.cloudbooklet.com##.wp-block-group
+cloudbooklet.com##.wp-block-group
 
 ! 30/03/2020 https://ipaddressguide.com
 ipaddressguide.com##.text-center.col-md-3
@@ -438,19 +438,19 @@ ipaddressguide.com##.text-center.col-md-3
 
 /^https?:\/\/([a-z0-9]{8,10}\.)?[a-z0-9]{5,14}\.(com|bid|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
 /^https?:\/\/[a-z0-9]{5,14}\.(com|bid|online|top|club)\/[0-9a-f]{32}\/invoke.js$/$script,third-party
-||www.porndaa.com/sw.js$1p
-||www.fsphhbsklawjs.com^
+||porndaa.com/sw.js$1p
+||fsphhbsklawjs.com^
 https://padsabz.com/5b/11/ec/5b11ec577f7ab76d9e3bf5af286eda00.js
 
 ! 2/6/2020 https://www.rosehosting.com
-www.rosehosting.com##.active.essb-followme-bottom.essb-followme
+rosehosting.com##.active.essb-followme-bottom.essb-followme
 www.rosehosting.com##.cc-color-override-469092766.cc-left.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-floating.cc-window
 
 ! 2/6/2020 https://www.roskildebib.dk
-www.roskildebib.dk###sliding-popup
-www.roskildebib.dk##[href^="https://www.roskildebib.dk/nyheder/ebiblioteket/filmstriben"]
-www.roskildebib.dk##.js-ding-webtrekk-processed.node-ding-campaign-plus.node
-www.roskildebib.dk##.pane-serendipity-ting-object.panel-pane > .panel-pane-inner
+roskildebib.dk###sliding-popup
+roskildebib.dk##[href^="https://www.roskildebib.dk/nyheder/ebiblioteket/filmstriben"]
+roskildebib.dk##.js-ding-webtrekk-processed.node-ding-campaign-plus.node
+roskildebib.dk##.pane-serendipity-ting-object.panel-pane > .panel-pane-inner
 
 ! 2/7/2020 https://roxette.se
 roxette.se###cff_124117970984196_2902756323120333 > .cff-meta-wrap
@@ -465,10 +465,10 @@ sn.dk##[href="https://sn.peytzmail.com/f/subscribe/tilmeldingsside-halsnaes"]
 ##.cookie_container
 
 ! 2/5/2020 http://www.sejlsport.dk
-www.sejlsport.dk##.cc-color-override-43623614.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+sejlsport.dk##.cc-color-override-43623614.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 
 ! 2/5/2020 https://www.fuglsangvvs.dk
-!www.fuglsangvvs.dk
+!fuglsangvvs.dk
 ###cookie_box
 
 ! 2/5/2020 https://bornholm.info
@@ -480,47 +480,47 @@ www.sejlsport.dk##.cc-color-override-43623614.cc-bottom.cc-theme-block.cc-type-i
 ##.eksCookieContainer
 
 ! 2/5/2020 https://www.scanboat.com
-www.scanboat.com##.margin-tb-25.row
+scanboat.com##.margin-tb-25.row
 
 ! 2/5/2020 https://www.botenbank.nl
-!www.botenbank.nl
+!botenbank.nl
 ###cookieConsentForm33
 
 ! 2/5/2020 https://www.schipveiling.nl
-!www.schipveiling.nl
+!schipveiling.nl
 ###catapult-cookie-bar
-www.schipveiling.nl###spu-8513
-www.schipveiling.nl###spu-bg-8513
+schipveiling.nl###spu-8513
+schipveiling.nl###spu-bg-8513
 
 ! 2/5/2020 https://www.scanboat.com
-www.scanboat.com##.margin-b-50.details__social > ul > li:nth-of-type(2)
-www.scanboat.com##.margin-b-50.details__social > ul > li:nth-of-type(4)
-www.scanboat.com##.details__related.row
+scanboat.com##.margin-b-50.details__social > ul > li:nth-of-type(2)
+scanboat.com##.margin-b-50.details__social > ul > li:nth-of-type(4)
+scanboat.com##.details__related.row
 
 ! 1/26/2020 https://www.edbpriser.dk
-www.edbpriser.dk##.cc-color-override-2046284562.cc-top.cc-theme-classic.cc-type-opt-in.cc-banner.cc-window
+edbpriser.dk##.cc-color-override-2046284562.cc-top.cc-theme-classic.cc-type-opt-in.cc-banner.cc-window
 
 ! 1/26/2020 https://www.av-cables.dk
-!www.av-cables.dk
+!av-cables.dk
 ##.trustpilot.grid-x
 
 ! 1/26/2020 https://www.hifiklubben.dk
-www.hifiklubben.dk###dixa-iframe-wrapper
-www.hifiklubben.dk##.bf2019-global-msg
-www.hifiklubben.dk##.taggedBanner.bgRed.contentSection
+hifiklubben.dk###dixa-iframe-wrapper
+hifiklubben.dk##.bf2019-global-msg
+hifiklubben.dk##.taggedBanner.bgRed.contentSection
 
 ! 1/26/2020 https://www.dba.dk
 ||guide.dba.dk/widget/article/$subdocument
-www.dba.dk###RelatedListingsByExternalId
-www.dba.dk###TopGalleryFeature
-www.dba.dk##.save-search-agent.save-search
-www.dba.dk##.save-search-feedback
-www.dba.dk###srp-tabs
+dba.dk###RelatedListingsByExternalId
+dba.dk###TopGalleryFeature
+dba.dk##.save-search-agent.save-search
+dba.dk##.save-search-feedback
+dba.dk###srp-tabs
 ! 1/26/2020 https://www.dba.dk
-www.dba.dk##.foot > .container > .row-fluid > .span3
+dba.dk##.foot > .container > .row-fluid > .span3
 
 ! 1/26/2020 https://www.whathifi.com
-!www.whathifi.com
+!whathifi.com
 ##.newsletter-signup.box
 
 ! 1/20/2020 https://duckduckgo.com
@@ -530,10 +530,10 @@ duckduckgo.com##.js-ia-modules.ia-modules
 
 ! 1/27/2020 https://www.hifiklubben.dk
 ||files.hifiklubben.com/UI/dummy.png$image
-www.hifiklubben.dk##.ms-container
+hifiklubben.dk##.ms-container
 
 ! 1/28/2020 https://www.storyvillerecords.com
-!www.storyvillerecords.com
+!storyvillerecords.com
 ###cookieConsent
 
 ! 1/29/2020 blackpics.net
@@ -541,8 +541,8 @@ www.hifiklubben.dk##.ms-container
 ||log.ebonybooty.pics^
 
 ! 2/1/2020 https://www.gumtree.com
-www.gumtree.com##.fixed-bottom.gdpr-banner.notification
-www.gumtree.com##.right
+gumtree.com##.fixed-bottom.gdpr-banner.notification
+gumtree.com##.right
 
 ! 2/2/2020 https://en.wikipedia.org
 !en.wikipedia.org###siteNotice
@@ -555,8 +555,8 @@ wikipedia.org###siteNotice
 ###consent_disclaimer
 
 ! 2/4/2020 https://www.digitalocean.com
-www.digitalocean.com##._panel_1nv7e_1
-www.digitalocean.com###newsletter-signup-dialog
+digitalocean.com##._panel_1nv7e_1
+digitalocean.com###newsletter-signup-dialog
 
 ! 2/5/2020 https://dnslytics.com
 !dnslytics.com
@@ -597,9 +597,9 @@ gitlab.com##.mb-2.flash-notice
 ! 31/12/2019 https://members.metart.com
 !members.metart.com##.custom-hover-cams.hidden-xs.hidden-sm.hidden-md > .pull-left
 ! 01/01/2020 https://www.fullrate.dk
-www.fullrate.dk##.callme-popunder
-www.fullrate.dk##[href="/mit-fullrate"]
-||www.fullrate.dk/selvbetjening/res/img/ny-mfr_banner.jpg$image
+fullrate.dk##.callme-popunder
+fullrate.dk##[href="/mit-fullrate"]
+||fullrate.dk/selvbetjening/res/img/ny-mfr_banner.jpg$image
 ! 01/01/2020 https://gitlab.com
 gitlab.com##.gl-banner.js-autodevops-banner
 ! https://github.com/easylist/easylist/pull/4663/files
@@ -616,7 +616,7 @@ sihteeriopisto.co##.mfp-inline-holder.mfp-container
 sihteeriopisto.co##.mfp-ready.mfp-fade.mfp-auto-cursor.mfp-wrap
 sihteeriopisto.co##.mfp-ready.mfp-fade.mfp-bg
 ! 12/2/2019 https://www.mechbunny.com
-www.mechbunny.com##.cookieWarningBox
+mechbunny.com##.cookieWarningBox
 ! 12/2/2019 https://hub.docker.com
 hub.docker.com##.styles__wrapper___EX-Nj
 ! 12/2/2019 https://bitbucket.org
@@ -626,7 +626,7 @@ gitlab.com##.flash-alert
 ! 12/2/2019 https://duckduckgo.com
 duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--fadein.badge-link--top.badge-link
 ! 12/2/2019 adexplode.pw
-||www.adexplode.pw^
+||adexplode.pw^
 ! 12/4/2019 https://gitlab.com
 gitlab.com##.prepend-top-10.append-bottom-20.banner-non-empty-state.banner-callout.js-autodevops-banner
 ! 12/4/2019 https://bitbucket.org
@@ -635,29 +635,29 @@ bitbucket.org###id_is_private_group
 gitlab.com###promote_repository_features
 
 ! 12/8/2019 https://www.imdb.com
-www.imdb.com###sidebar
+imdb.com###sidebar
 ! 1/9/2020 https://www.imdb.com
-!www.imdb.com###maindetails_center_bottom > div.article:nth-of-type(1)
-!www.imdb.com###maindetails_sidebar_bottom
-www.imdb.com###title-social-sharing-widget
-www.imdb.com###titleDidYouKnow
-!www.imdb.com###titleFAQ
-www.imdb.com###title_completed_pro_link
-www.imdb.com##._1eKbSAFyeJgUyBUy2VbcS_.imdb-footer__logo
-www.imdb.com##._2-iNNCFskmr4l2OFN2DRsf.imdb-footer__copyright
-!www.imdb.com##._27tI4dkp5ppErr-0Cga4Dw.ipc-inline-list
-www.imdb.com##._2Wc8yXs8SzGv7TVS-oOmhT.imdb-footer__socials
-www.imdb.com##.contribute.article
-!www.imdb.com##.iTQkiJ.sc-kgoBCf.navbar__user._3x17Igk9XRXcaKrcG3_MXQ
-!www.imdb.com##.imdb-header__watchlist-button.RWCCJ.sc-kpOJdX
-!www.imdb.com##.primary_ribbon
-www.imdb.com##.recently-viewed
-!www.imdb.com##.star-rating-button > button
-!www.imdb.com##.uc-add-wl.uc-add-wl--not-in-wl.uc-add-wl-button
-!www.imdb.com##a.quicklink:nth-of-type(4)
-!www.imdb.com##div.article:nth-of-type(1)
-!www.imdb.com##li.zgFV3U-XECrqVQnyDbx2B.ipc-inline-list__item:nth-of-type(2)
-!www.imdb.com##li.zgFV3U-XECrqVQnyDbx2B.ipc-inline-list__item:nth-of-type(3)
+!imdb.com###maindetails_center_bottom > div.article:nth-of-type(1)
+!imdb.com###maindetails_sidebar_bottom
+imdb.com###title-social-sharing-widget
+imdb.com###titleDidYouKnow
+!imdb.com###titleFAQ
+imdb.com###title_completed_pro_link
+imdb.com##._1eKbSAFyeJgUyBUy2VbcS_.imdb-footer__logo
+imdb.com##._2-iNNCFskmr4l2OFN2DRsf.imdb-footer__copyright
+!imdb.com##._27tI4dkp5ppErr-0Cga4Dw.ipc-inline-list
+imdb.com##._2Wc8yXs8SzGv7TVS-oOmhT.imdb-footer__socials
+imdb.com##.contribute.article
+!imdb.com##.iTQkiJ.sc-kgoBCf.navbar__user._3x17Igk9XRXcaKrcG3_MXQ
+!imdb.com##.imdb-header__watchlist-button.RWCCJ.sc-kpOJdX
+!imdb.com##.primary_ribbon
+imdb.com##.recently-viewed
+!imdb.com##.star-rating-button > button
+!imdb.com##.uc-add-wl.uc-add-wl--not-in-wl.uc-add-wl-button
+!imdb.com##a.quicklink:nth-of-type(4)
+!imdb.com##div.article:nth-of-type(1)
+!imdb.com##li.zgFV3U-XECrqVQnyDbx2B.ipc-inline-list__item:nth-of-type(2)
+!imdb.com##li.zgFV3U-XECrqVQnyDbx2B.ipc-inline-list__item:nth-of-type(3)
 
 ! 12/11/2019 https://en.oui.sncf
 en.oui.sncf###cookie-policy-popin > div:nth-of-type(2)
@@ -665,7 +665,7 @@ en.oui.sncf##.vsc__lightbox__container
 en.oui.sncf##.vsc__noFocus.vsc__lightbox--survey.vsc__lightbox
 
 ! 12/12/2019 https://www.theatlantic.com
-www.theatlantic.com##.qc-cmp-showing.qc-cmp-ui-container
+theatlantic.com##.qc-cmp-showing.qc-cmp-ui-container
 
 ! 2/5/2020 https://github.com
 !github.com##.js-notice.mb-4
@@ -692,29 +692,29 @@ github.com##.rounded-2.border.p-4.mb-6.mx-auto.signup-prompt
 ||google.com^*recaptcha/$important
 
 ! 12/27/2019 https://www.elgiganten.dk
-www.elgiganten.dk##.cookie-info-layer
+elgiganten.dk##.cookie-info-layer
 ! 12/28/2019 https://gitlab.com
 gitlab.com##.gl-banner.js-autodevops-banner
 ! 12/28/2019 https://www.fullrate.dk
-www.fullrate.dk##.callme-popunder__background
+fullrate.dk##.callme-popunder__background
 ! 12/28/2019 https://www.power.dk
-!www.power.dk###cookie-notification
+!power.dk###cookie-notification
 ###cookie-notification
 ! 12/28/2019 https://www.power.se
-!www.power.se###cookie-notification
+!power.se###cookie-notification
 ! 1/1/2020 https://gitlab.com
 gitlab.com##.popover-body
 ! 1/4/2020 pinterest.com
 ||accountkit.com$script
-||www.pinterest.com/resource/$xhr
-||www.pinterest.com/resource/ActivateExperimentResource/$xhr
-||www.pinterest.com/resource/ContextLogResource/$xhr
-||www.pinterest.com/resource/StatsLogResource/$xhr
-||www.pinterest.com/resource/UserRegisterTrackActionResource/$xhr
+||pinterest.com/resource/$xhr
+||pinterest.com/resource/ActivateExperimentResource/$xhr
+||pinterest.com/resource/ContextLogResource/$xhr
+||pinterest.com/resource/StatsLogResource/$xhr
+||pinterest.com/resource/UserRegisterTrackActionResource/$xhr
 
 ! 1/6/2020 https://www.information.dk
-www.information.dk##.field-label-hidden.field-type-ds.field-name-non-subscriber-ad-article.field.paywall-box
-www.information.dk##div.omega.alpha.grid-12.panel-panel:nth-of-type(4)
+information.dk##.field-label-hidden.field-type-ds.field-name-non-subscriber-ad-article.field.paywall-box
+information.dk##div.omega.alpha.grid-12.panel-panel:nth-of-type(4)
 
 ! 1/6/2020 http://news.discoverynetworks.dk
 news.discoverynetworks.dk###navbar-primary
@@ -727,7 +727,7 @@ sourceforge.net###mirror
 sourceforge.net###newsletter-floating
 
 ! 1/9/2020 https://www.amazon.com
-www.amazon.com##.nav-flyout.nav-coreFlyout.glow-toaster-slot-default.glow-toaster-theme-default.glow-toaster.a-section
+amazon.com##.nav-flyout.nav-coreFlyout.glow-toaster-slot-default.glow-toaster-theme-default.glow-toaster.a-section
 
 
 ! 01/12/2019 https://gitlab.com
@@ -747,7 +747,7 @@ bitbucket.org###id_is_private_group
 ###accept-cookies
 ##.product-suggest
 ! 11/11/2019 https://www.thesslstore.com
-www.thesslstore.com##.open.slide-out-div
+thesslstore.com##.open.slide-out-div
 ! 17/11/2019 https://blog.heckel.io
 blog.heckel.io###sidebar_second_ad
 ! 11/28/2019 https://bestlovesexdoll.com
@@ -768,7 +768,7 @@ en.bab.la##div.teaser-wrapper:nth-of-type(6)
 ! Googles recaptcha.net
 ||recaptcha.net^
 ! 11/19/2019 https://www.clickcease.com
-!www.clickcease.com###cookies-alert
+!clickcease.com###cookies-alert
 ##cookies-alert
 ! 11/22/2019 https://blogspot.com
 !blogspot.com###cookieChoiceInfo
@@ -780,12 +780,12 @@ linuxconfig.org##div.g-grid:nth-of-type(2) > .size-100.g-block > .g-content
 linuxconfig.org##div.size-25.g-block:nth-of-type(1)
 linuxconfig.org##div.size-25.g-block:nth-of-type(2) > .g-content > div.moduletable:nth-of-type(1)
 ! 11/14/2019 https://www.manualslib.com
-!www.manualslib.com###cookie-alert
+!manualslib.com###cookie-alert
 ##cookie-alert
 ! 11/14/2019 https://www.bowerswilkins.com
 ##.eu-cookie-compliance-content
 ! 10/22/2019 https://www.youtube.com
-www.youtube.com###main
+youtube.com###main
 ||youtube-nocookie.com/api/stats/ads?
 ||youtube-nocookie.com/api/stats/watchtime?
 ||youtube.com/api/stats/watchtime?
@@ -801,22 +801,22 @@ gitlab.com##.rounded.flash-notice.flash-content
 gitlab.com##.flash-notice
 
 ! 11/4/2019 https://www.denic.de
-www.denic.de##.notification--bottom.notification--acknowledge.notification--notice.notification.teaser
+denic.de##.notification--bottom.notification--acknowledge.notification--notice.notification.teaser
 
 ! 11/4/2019 https://www.hostwinds.com
-www.hostwinds.com###heateor_ss_browser_popup_bg
-www.hostwinds.com##.all-services
-||www.hostwinds.com/guide/wp-content/plugins/super-socializer/images/close.png$image
-||www.hostwinds.com/guide/wp-content/plugins/super-socializer/images/transparent_bg.png$image
+hostwinds.com###heateor_ss_browser_popup_bg
+hostwinds.com##.all-services
+||hostwinds.com/guide/wp-content/plugins/super-socializer/images/close.png$image
+||hostwinds.com/guide/wp-content/plugins/super-socializer/images/transparent_bg.png$image
 
 ! 10/20/2019 By krystian3w at https://gitlab.com/my-privacy-dns/matrix/matrix/issues/182#note_223460116
 /^https?:\/\/(.*\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{5,22}[0-9]{1,8}\.(agency|icu|life|live)\//$document,domain=agency|icu|life|live
 
 ! 10/20/2019 https://www.reddit.com
-www.reddit.com##div.SubredditVars-r-pihole:nth-of-type(3)
+reddit.com##div.SubredditVars-r-pihole:nth-of-type(3)
 
 ! 10/20/2019 https://www.nytimes.com
-www.nytimes.com##.e1x0szx60.css-1uqnipt.expanded-dock.expanded.shown.gdpr
+nytimes.com##.e1x0szx60.css-1uqnipt.expanded-dock.expanded.shown.gdpr
 
 ! 10/19/2019 http://magnet2torrent.me
 magnet2torrent.me##li:nth-of-type(2)
@@ -835,36 +835,36 @@ bluehouse.is###PopupOverLay_WA_0
 ||cookieinformation.com^
 
 ! 10/10/2019 https://www.wired.com
-www.wired.com##.paywall-bar--expanded.paywall-bar-failsafe
-www.wired.com##.paywall-bar__expanded
-www.wired.com##.show-social-box.persistent-aside--align-left.persistent-aside
+wired.com##.paywall-bar--expanded.paywall-bar-failsafe
+wired.com##.paywall-bar__expanded
+wired.com##.show-social-box.persistent-aside--align-left.persistent-aside
 
 ! 10/9/2019 https://duckduckgo.com
 duckduckgo.com##div.detail__pane:nth-of-type(2) > .detail__inner > .detail__body > .detail__body__content.c-detail > .c-detail__more > [href^="https://www.youtube.com/results"]
 
 ! 10/9/2019 dr.dk/
-||www.dr.dk/DR.Common.Banner.Ads/$xmlhttprequest
-||www.dr.dk/drWebStat/$script
+||dr.dk/DR.Common.Banner.Ads/$xmlhttprequest
+||dr.dk/drWebStat/$script
 
 ! 10/9/2019 https://www.dr.dk
-!www.dr.dk###CybotCookiebotDialogBodyUnderlay
-!www.dr.dk###CybotCookiebotDialog
+!dr.dk###CybotCookiebotDialogBodyUnderlay
+!dr.dk###CybotCookiebotDialog
 
 ! 10/12/2019 dr.dk
 ||adobedtm.com/
 ||cookiebot.com^
-||www.dr.dk/drwebstat/
+||dr.dk/drwebstat/
 
 ! 10/9/2019 dr.dk
 ||cookiebot.com^$script
 
 ! 10/9/2019 https://www.extremetech.com
-www.extremetech.com###_evidon-background
-www.extremetech.com###_evidon-banner
-www.extremetech.com###_evidon-barrier-wrapper
+extremetech.com###_evidon-background
+extremetech.com###_evidon-banner
+extremetech.com###_evidon-barrier-wrapper
 
 ! 10/10/2019 https://www.kino.dk
-www.kino.dk###sliding-popup
+kino.dk###sliding-popup
 
 ! 10/13/2019 digst.dk
 ||digst.dk/proxy.gba$first-party,xmlhttprequest
@@ -873,12 +873,12 @@ www.kino.dk###sliding-popup
 ||s.ytimg.com^$domain=www.ft.dk
 ||typekit.net^$domain=www.ft.dk
 ! 10/18/2019 https://www.crowdstrike.com
-www.crowdstrike.com###optInMessage-new
-www.crowdstrike.com###optinmessagebg
+crowdstrike.com###optInMessage-new
+crowdstrike.com###optinmessagebg
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/5
 ||pingtopingsrv*.life^
 ! 29/07/2019 https://www.systutorials.com
-www.systutorials.com###ez-cookie-dialog-wrapper
+systutorials.com###ez-cookie-dialog-wrapper
 ||google.*^
 ||googletagservices.*^
 ! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/2
