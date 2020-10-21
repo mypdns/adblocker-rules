@@ -119,17 +119,9 @@ supercomfysleep.com##.normal_social:style(visibility: hidden !important;)
 ! https://github.com/easylist/easylist/issues/6119
 @@||apis.google.com/js/platform.js$domain=9gag.com|corrupt-a-file.net|crello.com|discogs.com|dubox.com|duolingo.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|prntscr.com|sato.fi,badfilter
 
-! https://github.com/easylist/easylist/pull/5583
-mages.sprinklecontent.com/270/170/$image,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|rytmi.com|soundi.fi|tilt.fi,badfilter
-@@||proxy.strossle.it/proxy.html$subdocument,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|rytmi.com|soundi.fi|tilt.fi,badfilter
-@@||widgets.spklw.com/v1/data/$xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|rytmi.com|soundi.fi|tilt.fi,badfilter
-@@||widgets.sprinklecontent.com/v2/$script,xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|rytmi.com|soundi.fi|tilt.fi,badfilter
-
 ! https://github.com/ryanbr/fanboy-adblock/issues/1372
 ! https://github.com/spirillen/dns-rpz-integration/issues/17#issuecomment-647053231
 /cookie-banner$domain=bbc.com,important
-
-
 
 ! https://github.com/easylist/easylist/issues/5453; would permit tracking
 @@||24tv.ua/assets/tv24/images/transparent-pixel.png$image,~third-party,badfilter
