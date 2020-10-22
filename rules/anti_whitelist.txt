@@ -1,3 +1,6 @@
+! https://www.mypdns.org/T2323
+@@||pubmatic.com/adserver/*showad.js$script,badfilter
+
 ! https://github.com/easylist/easylist/issues/5596
 ! https://www.mypdns.org/T2320
 @@/wp-content/*/1x1.trans.gif$image,1p,badfilter
