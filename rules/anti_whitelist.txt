@@ -1,3 +1,7 @@
+! https://github.com/easylist/easylist/issues/5596
+! https://www.mypdns.org/T2320
+@@/wp-content/*/1x1.trans.gif$image,1p,badfilter
+
 ! Fanboy’s Enhanced Tracking List
 ! freelatinapics.com https://www.mypdns.org/T1852
 @@/advertise.js$script,badfilter
