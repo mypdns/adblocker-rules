@@ -24,7 +24,7 @@
 @@||amplitude.com/libs/amplitude-$script,domain=loom.com,badfilter
 
 ! https://github.com/easylist/easylist/pull/6064
-tennisassa.fi#@#.cookie-monster$badfilter
+tennisassa.fi#@#.cookie-monster,badfilter
 
 ! https://github.com/easylist/easylist/blob/5286c506b71a27093b45b233283620bce518291f/fanboy-addon/fanboy_annoyance_allowlist_general_hide.txt#L48
 ! https://github.com/spirillen/ublockorigin-rules/commit/10a2df535d978888e6965defe371fa6356b43f5c#commitcomment-42257563
@@ -32,11 +32,11 @@ tennisassa.fi#@#.cookie-monster$badfilter
 
 ! https://github.com/ryanbr/fanboy-adblock/issues/1401
 ! https://github.com/easylist/easylist/commit/e94a84b1d11e3eccc9ad7d6f8de7f9f21a075727#diff-6adfdb5479a01e1387e7d053ca44b6abR155
-marketdino.pl,mediaexpert.leszczynscy.pl,pajarito.de#@#.fb-container$badfilter
+marketdino.pl,mediaexpert.leszczynscy.pl,pajarito.de#@#.fb-container,badfilter
 
 ! https://github.com/easylist/easylist/commit/74734bc7a8af596c853a656770ca0bc9d0ac244f
 ! Addition to https://github.com/spirillen/ublockorigin-rules/commit/65d43f48cdb30b48328a2b84bbcf357175f4dfce
-bccnapoli.it,thetechsutra.com#@#.cp-overlay$badfilter
+bccnapoli.it,thetechsutra.com#@#.cp-overlay,badfilter
 
 ! uBlock filters – Unbreak
 @@||youtube-ui.l.google.com^$subdocument,badfilter
