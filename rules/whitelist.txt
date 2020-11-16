@@ -22,3 +22,4 @@
 
 ! 2020-10-06 travis-ci.com
 @@||pusher.com^$xhr,domain=travis-ci.com
+@@||ws.pusherapp.com/app/*$websocket,domain=travis-ci.com
