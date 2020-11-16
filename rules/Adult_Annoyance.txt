@@ -122,11 +122,6 @@ redgifs.com##.visible.type3.pro-cta
 ! https://www.mypdns.org/T1981
 ||sexo24.com/?p$important
 
-! 2020-10-19 xnx-hardcore.com
-! https://www.mypdns.org/T1984
-/matomo/*$script,important
-/piwik.php$script,important
-
 ! 2020-10-16 https://hclips.com
 ! https://www.mypdns.org/T1872
 hclips.com##.video-page__content > .right
@@ -261,7 +256,6 @@ kinkymarie.com###text-3
 ! https://www.mypdns.org/T1575
 ||purewebpower.net^$important
 
-
 ! 2020-10-07 teendreams.com
 ! https://www.mypdns.org/T1548
 ||myallaccesspass.com/exit-popup/*$script,important
@@ -283,8 +277,8 @@ pornhub.net.co##center
 pornhub.net.co##.video-block-happy
 pornhub.net.co###widget-videos-block-4 > .video-loop > .no-gutters.row > .col-xl-6.col-lg-6.col-md-6.col-12.order-xl-1.order-lg-1.order-md-1.order-sm-1.order-1
 
-! 2020-09-08 https://pornoscraper.com
-||*/safu/safu.php$image
+! 2020-09-08 https://pornoscraper.com, https://www.mypdns.org/T1446
+/safu/safu.php$image,domain=pornoscraper.com
 
 ! 2020-09-09 viptube.com
 ||cnt.viptube.com/counter/*$image,important
@@ -541,20 +535,13 @@ babes.com##.dLQauY.sc-1mhpkp8-0 > .lenLl.sc-1xljrhb-0
 ||drivepornvideos.com/xtube.php
 
 ! 2020-11-14 animeporn.xyz
-/out.php$document,important
-
-! 4/13/2020 hot-animal-porn.biz, https://www.mypdns.org/T2751
-/tp/out.php$document
+/out.php$document,important,domain=animeporn.xyz,hot-animal-porn.biz
 
 ! 13/04/2020 animal-sex-movie.biz, https://www.mypdns.org/T2743
-/tp/out.php
+!/tp/out.php,domain=hot-animal-porn.biz
 
 ! 13/04/2020 animepornfilm.com, https://www.mypdns.org/T2744
 /xtube.php
-
-! 13/04/2020 animeporn.pro, https://www.mypdns.org/T2745
-||animeporn.pro/xtube.php
-/xtube.php$document
 
 ! 13/04/2020 anime-studio.org, https://www.mypdns.org/T2701
 ||free.cartoon-valley.in/dtr/sheduler.php ! https://www.mypdns.org/T2703
