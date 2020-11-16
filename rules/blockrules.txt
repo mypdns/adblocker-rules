@@ -1,3 +1,6 @@
+! 2020-11-16 glokta.info, https://www.mypdns.org/T2882
+||glokta.info^$important
+
 ! 2020-11-16 camayan.com, https://www.mypdns.org/T2873
 ||camayan.com^$important
 
