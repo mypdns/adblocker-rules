@@ -244,3 +244,25 @@ power.fi###cookie-notification#cookie-notification
 ! https://github.com/uBlockOrigin/uAssets/issues/6344
 bluehouse.is###PopupOverLay_WA_0
 bluehouse.is###customForm
+
+! blockadblock.com
+@@|https://$script,3p,domain=blockadblock.com,badfilter
+@@|https://$script,3p,domain=blockadblock.com,badfilter
+@@|https://$script,3p,domain=blockadblock.com,badfilter
+@@|https://$script,3p,domain=blockadblock.com,badfilter
+@@|https://$script,3p,domain=blockadblock.com,badfilter
+@@/adservice.*.js?domain=$script,badfilter
+@@/adservice.*.js?domain=$script,badfilter
+@@|https://$script,3p,domain=blockadblock.com,badfilter
+@@|https://$script,3p,domain=blockadblock.com,badfilter
+@@/blockadblock.$script,domain=blockadblock.com,badfilter
+@@|https://$script,3p,domain=blockadblock.com,badfilter
+@@|https://$script,3p,domain=blockadblock.com,badfilter
+@@|https://$script,3p,domain=blockadblock.com,badfilter
+@@|https://$script,3p,domain=blockadblock.com,badfilter
+@@/blockadblock.$script,domain=blockadblock.com,badfilter
+@@/adservice.*.js?domain=$script,badfilter
+@@/adservice.*.js?domain=$script,badfilter
+@@|https://$script,3p,domain=blockadblock.com,badfilter
+@@|https://$script,3p,domain=blockadblock.com,badfilter
+@@|https://$script,3p,domain=blockadblock.com,badfilter
