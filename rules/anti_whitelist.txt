@@ -40,6 +40,7 @@ bccnapoli.it,thetechsutra.com#@#.cp-overlay,badfilter
 
 ! uBlock filters – Unbreak
 @@||youtube-ui.l.google.com^$subdocument,badfilter
+@@||youtube-ui.l.google.com^$stylesheet,domain=youtube.com,badfilter,important
 
 ! https://www.mypdns.org/T1266
 ! Anti whitelist from EasyList. Unknow contributor

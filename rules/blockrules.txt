@@ -92,9 +92,6 @@ hetzner.com##.hidden-xs.hidden-sm.footer-main-section > .container > div.row:nth
 reck.dk##.smush-notice.notice
 reck.dk##.wds-report > .sui-upsell-row
 
-! 6/22/2020 youtube.com
-@@||youtube-ui.l.google.com^$stylesheet,domain=youtube.com$badfilter,important
-
 ! 7/20/2020 https://svscomics.com
 svscomics.com##.regi
 
