@@ -13,13 +13,16 @@
 ! https://github.com/easylist/easylist/commit/60434964db271744939b38032ea0017642df7689
 ||pusher.com^$third-party
 
-! 2020-10-17 lesnumeriques.com
-! https://www.mypdns.org/T1371
+! 2020-10-17 lesnumeriques.com, https://www.mypdns.org/T1371
 ||privacy-center.org^$important
 
+! 2020-10-26 heydouga.com, https://www.mypdns.org/T2123
+/cookie_accessor.min.js$script,important
 
-! https://mabanque.bnpparibas/
-! https://github.com/easylist/easylist/issues/6110
+! 2020-10-29 asiancamsters.com, https://www.mypdns.org/T2444
+||sqs.us-east-1.amazonaws.com^$important
+
+! https://mabanque.bnpparibas/, https://github.com/easylist/easylist/issues/6110
 ###nextoutils_gestionCookies
 ###cookiesPopin
 ###nextoutils_gestionCookies ~ .popin-cache

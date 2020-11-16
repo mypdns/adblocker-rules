@@ -16,64 +16,51 @@ joyourself.com,liveprivates.com,lsawards.com,maturescam.com,mycams.com,mytrannyc
 joyourself.com,liveprivates.com,lsawards.com,maturescam.com,mycams.com,mytrannycams.com,livesexasian.com,cameraboys.com,livesex.com##.mc_overlay_top_bar
 ||jaws.dditscdn.com^$websocket,important
 
+! 2020-10-22 http://www.18virginsex.com
+18virginsex.com##.warning_modal-show.warning_modal-fade.warning_modal
 
 ! 2020-10-26 18andabuse.com
 ! https://www.mypdns.org/T2275
 ||bang.com^$popup,important
 ||18andabuse.com^$popup,important
 
-! 2020-10-29 asiancamsters.com
-||sqs.us-east-1.amazonaws.com^$important
-
-! 2020-11-02 https://www.dxlive.com
-! https://www.mypdns.org/T2068
+! 2020-11-02 https://www.dxlive.com, https://www.mypdns.org/T2068
 dxlive.com##.age_display
 
-! 2020-11-02 https://stripchat.com
-! https://www.mypdns.org/T1699
+! 2020-11-02 https://stripchat.com, ! https://www.mypdns.org/T1699
 stripchat.com##.visitors-agreement-modal.stripchat.modal-wrapper.full-cover
 
-! 2020-11-04 https://hellmoms.com
-! https://www.mypdns.org/T2537
+! 2020-11-04 https://hellmoms.com, https://www.mypdns.org/T2537
 hellmoms.com##.bnnrs-player
 
-! 2020-11-04 https://xcum.com
-! https://www.mypdns.org/T2536
+! 2020-11-04 https://xcum.com, https://www.mypdns.org/T2536
 xcum.com##.bnnrs-player
 
-! 2020-11-04 alphaporno.com
-! https://www.mypdns.org/T2533
+! 2020-11-04 alphaporno.com, https://www.mypdns.org/T2533
 alphaporno.com##.desktop-banner.block-banner
 ||alphaporno.com/adframe.js$script,important
 
-! 2020-11-04 titkino.net
-! https://www.mypdns.org/T2560
+! 2020-11-04 titkino.net, https://www.mypdns.org/T2560
 ||bladswetis.com$script,important
 
-! 2020-11-10 thecandidbay.com
-! https://www.mypdns.org/T2586
+! 2020-11-10 thecandidbay.com, https://www.mypdns.org/T2586
 ||evoload.io/ads.js$script,important
 ||thecandidbay.com/wp-content/plugins/simple-banner/*$script,important
 
-! 2020-11-10 stripst.com
-! https://www.mypdns.org/T1049
+! 2020-11-10 stripst.com, https://www.mypdns.org/T1049
 ||stripst.com^$important
 
-! 2020-11-10 https://xhamster2.com
-! https://www.mypdns.org/T2590
+! 2020-11-10 https://xhamster2.com, https://www.mypdns.org/T2590
 xhamster2.com##.wiz-banner
 xhamster2.com##.wiz-spa.wiz-spb
 
-! 2020-11-13 incesthope.com
-! https://www.mypdns.org/T2705
+! 2020-11-13 incesthope.com, https://www.mypdns.org/T2705
 ||statsanalitic.net^$important
 
-! 2020-11-13 ardentmums.com
-! https://www.mypdns.org/T2722
+! 2020-11-13 ardentmums.com, https://www.mypdns.org/T2722
 ||ardentmums.com/go$important
 
-! 2020-11-14 https://hellporno.net
-! https://www.mypdns.org/T2726
+! 2020-11-14 https://hellporno.net, https://www.mypdns.org/T2726
 hellporno.net##.bnnrs-player
 hellporno.net##.desktop-banner.block-banner
 hellporno.net###inp_iframe-ht-native-under-player-6x1
@@ -529,6 +516,8 @@ mrskin.com###access_modal
 mrskin.com###skod-container
 mrskin.com##.bg-white.featured-scene-description-container > .text-center
 mrskin.com##.col-xs-12.col-sm-8.col-md-4
+! 2020-11-14 https://www.mrskin.com
+mrskin.com##.so-parallax
 
 ! 5/29/2020 https://www.babes.com, https://www.mypdns.org/T1415
 babes.com##.dLQauY.sc-1mhpkp8-0 > .lenLl.sc-1xljrhb-0
@@ -547,6 +536,12 @@ babes.com##.dLQauY.sc-1mhpkp8-0 > .lenLl.sc-1xljrhb-0
 
 ! 12/04/2020 drivepornvideos.com, https://www.mypdns.org/T2742
 ||drivepornvideos.com/xtube.php
+
+! 2020-11-14 animeporn.xyz
+/out.php$document,important
+
+! 4/13/2020 hot-animal-porn.biz, https://www.mypdns.org/T2751
+/tp/out.php$document
 
 ! 13/04/2020 animal-sex-movie.biz, https://www.mypdns.org/T2743
 /tp/out.php
@@ -613,9 +608,6 @@ livesex.com###overlay-container
 ! 4/13/2020 http://animal-lovers.net, https://www.mypdns.org/T2749
 animal-lovers.net##[href="http://beastsexstars.net"] > .aligncenter ! https://www.mypdns.org/T2750
 animal-lovers.net##.p-topBarController
-
-! 4/13/2020 hot-animal-porn.biz, https://www.mypdns.org/T2751
-/tp/out.php$document
 
 ! 4/13/2020 animalsex.online, https://www.mypdns.org/T2752
 /scj/cgi/out.php
