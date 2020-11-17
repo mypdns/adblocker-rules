@@ -67,7 +67,16 @@ imagefruit.com###layer
 ! 2020-08-13 https://www.imdb.com
 imdb.com##.videoPreview--autoPlaybackOnce.videoPreview
 
-! 7/15/2020 https://duckduckgo.com
+! 7/15/2020 https://duckduckgo.com, https://www.mypdns.org/T2844
+||duckduckgo.com/?q=$elemhide
+||duckduckgo.com^*^q=$elemhide
+||duckduckgo.com/lite$elemhide
+||duckduckgo.com/html$elemhide
+||duckduckgo.com/share/spice/amazon/$domain=duckduckgo.com
+||duckduckgo.com/m.js?$domain=duckduckgo.com
+duckduckgo.com##.at-bottom.t-m.related-searches
+duckduckgo.com##.footer
+duckduckgo.com###m1-0
 duckduckgo.com###m2-0
 
 ! 2020-08-16 3g2upl4pq6kufc4m.onion
