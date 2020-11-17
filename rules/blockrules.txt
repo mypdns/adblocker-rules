@@ -75,6 +75,7 @@ imdb.com##.videoPreview--autoPlaybackOnce.videoPreview
 ||duckduckgo.com/share/spice/amazon/$domain=duckduckgo.com
 ||duckduckgo.com/m.js?$domain=duckduckgo.com
 duckduckgo.com##.at-bottom.t-m.related-searches
+duckduckgo.com##.js-module--videos.module--carousel-videos.module--carousel.module
 duckduckgo.com##.footer
 duckduckgo.com###m1-0
 duckduckgo.com###m2-0
