@@ -55,6 +55,7 @@ bccnapoli.it,thetechsutra.com#@#.cp-overlay,badfilter
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27609
 @@||googletagmanager.com/gtm.js$domain=imgur.com,badfilter
 @@||googletagmanager.com/gtag/js$domain=malwaretips.com$badfilter
+@@||googletagmanager.com/gtm.js$domain=mediamarkt.de,badfilter
 
 ! https://github.com/easylist/easylist/issues/6000
 ! https://github.com/easylist/easylist/commit/2f754d09614a3ef468a7caa9dd912aecd14c5c8c#diff-8fcbbab33f6615b09fa4dd283697bb4bR164
