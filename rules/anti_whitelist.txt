@@ -1,3 +1,6 @@
+! pornhost.com https://www.mypdns.org/T3133
+@@||traffichaus.com^*/banner-ad.js$badfilter
+
 ! https://www.mypdns.org/T2323
 @@||pubmatic.com/adserver/*showad.js$script,badfilter
 
