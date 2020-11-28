@@ -1,3 +1,9 @@
+! thegay.com, https://github.com/easylist/easylist/pull/6531
+##.iRx9_wrt
+||thegay.com/gagra/
+thegay.com,txxx.com##.fiioed
+thegay.com##.video-page__content > .right
+
 ! 2020-11-16 animehentaivideo.com, https://www.mypdns.org/T2883
 ||animehentaivideo.com/f_animehentaivideo.com.js$script,important
 
