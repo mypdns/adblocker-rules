@@ -511,16 +511,10 @@ babes.com##.dLQauY.sc-1mhpkp8-0 > .lenLl.sc-1xljrhb-0
 ||cdnp.kink.com/assets/static-pages/landing-pages/withwatermark.mp4 ! https://www.mypdns.org/T2739
 
 ! 12/04/2020 sexmomsex.com, https://www.mypdns.org/T2740
-||sexmomsex.com/xtube.php$document
+/xtube.php$document,domain=sexmomsex.com|shinyjapaneseporn.com|drivepornvideos.com|animepornfilm.com|sexmomsex.com|shinyjapaneseporn.com,important
 
 ! 12/04/2020 sexteenageporn.com, https://www.mypdns.org/T1929
 ||worldtraffic.trade^ ! https://www.mypdns.org/T557
-
-! 12/04/2020 shinyjapaneseporn.com, https://www.mypdns.org/T2741
-||shinyjapaneseporn.com/xtube.php$document
-
-! 12/04/2020 drivepornvideos.com, https://www.mypdns.org/T2742
-||drivepornvideos.com/xtube.php
 
 ! 2020-11-28 https://animalpornstudio.com
 /js/popper.min.js$script,domain=animalpornstudio.com,important
@@ -534,8 +528,6 @@ babes.com##.dLQauY.sc-1mhpkp8-0 > .lenLl.sc-1xljrhb-0
 ! 13/04/2020 animal-sex-movie.biz, https://www.mypdns.org/T2743
 /tp/out.php
 
-! 13/04/2020 animepornfilm.com, https://www.mypdns.org/T2744
-/xtube.php
 
 ! 13/04/2020 anime-studio.org, https://www.mypdns.org/T2701
 ||free.cartoon-valley.in/dtr/sheduler.php ! https://www.mypdns.org/T2703
@@ -599,15 +591,8 @@ animal-lovers.net##.p-topBarController
 ! 12/04/2020 sexandsubmission.com,https://www.mypdns.org/T2738
 ||cdnp.kink.com/assets/static-pages/landing-pages/withwatermark.mp4 ! https://www.mypdns.org/T2739
 
-! 12/04/2020 sexmomsex.com, https://www.mypdns.org/T2740
-||sexmomsex.com/xtube.php$document
-/xtube.php$document
-
 ! 12/04/2020 sexteenageporn.com, https://www.mypdns.org/T1929
 ||worldtraffic.trade^ ! https://www.mypdns.org/T557
-
-! 12/04/2020 shinyjapaneseporn.com, https://www.mypdns.org/T2741
-||shinyjapaneseporn.com/xtube.php$document
 
 ! 3/3/2020 https://www.sexsrc.com, https://www.mypdns.org/T2753
 sexsrc.com##div.well:nth-of-type(5)
