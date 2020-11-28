@@ -540,8 +540,14 @@ babes.com##.dLQauY.sc-1mhpkp8-0 > .lenLl.sc-1xljrhb-0
 ! 12/04/2020 drivepornvideos.com, https://www.mypdns.org/T2742
 ||drivepornvideos.com/xtube.php
 
+! 2020-11-28 https://animalpornstudio.com
+/js/popper.min.js$script,domain=animalpornstudio.com,important
+
+! 2020-11-28 https://horse-sex.xyz
+||horse-sex.xyz/?x=1688.4052.$document,important
+
 ! 2020-11-14 animeporn.xyz
-/out.php$document,domain=animeporn.xyz|hot-animal-porn.biz,important
+/out.php$document,domain=animeporn.xyz|hot-animal-porn.biz|horse-sex.xyz|freeanimalporn.xyz,important
 
 ! 13/04/2020 animal-sex-movie.biz, https://www.mypdns.org/T2743
 /tp/out.php
