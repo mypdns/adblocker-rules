@@ -225,11 +225,6 @@ spermguzzlingmilfs.com###disclaimer
 ! https://www.mypdns.org/T1446
 ||pornoscraper.com/safu/safu.php$script,important
 
-! 2020-09-01 dirtynudeteens.net
-! https://www.mypdns.org/T1326
-||dirtynudeteens.net/*/out.php$important
-||dirtynudeteens.net/xxx/out.php$important
-
 ! 2020-09-01 thumb18.com
 ! https://www.mypdns.org/T1728
 ||thumb18.com/mpm/site.html$important
@@ -336,10 +331,6 @@ adult.urlgalleries.net##tr:nth-of-type(68) > td > table
 ! 2020-09-03 pornfreemovies.pro
 ||pornfreemovies.pro/gallery.php$important
 
-! 2020-09-01 dirtynudeteens.net
-! https://www.mypdns.org/T1308
-||dirtynudeteens.net/*/out.php$important
-
 ! 2020-09-01 schoolgirlsexpics.com
 ! https://www.mypdns.org/T1307
 ||schoolgirlsexpics.com/tracker/*$important
@@ -369,17 +360,8 @@ adult.urlgalleries.net##tr:nth-of-type(68) > td > table
 ! https://www.mypdns.org/T1168
 ||beautiful-bodies.com/*.mp4$media,important
 
-! 2020-08-14 hentaisexuality.com
-! https://www.mypdns.org/T1060
-||hentaisexuality.com/out.php$important
-
-! 2020-08-14 3dsextales.icu
-! https://www.mypdns.org/T2729
-||3dsextales.icu/out.php$important
-
 ! 2020-08-14 greentoons.club
 ! https://www.mypdns.org/T2730
-||greentoons.club/out.php$important
 ||greentoons.club/outback.php$important
 
 ! 2020-08-14 https://gogirls18.com
@@ -547,7 +529,7 @@ babes.com##.dLQauY.sc-1mhpkp8-0 > .lenLl.sc-1xljrhb-0
 ||horse-sex.xyz/?x=1688.4052.$document,important
 
 ! 2020-11-14 animeporn.xyz
-/out.php$document,domain=animeporn.xyz|hot-animal-porn.biz|horse-sex.xyz|freeanimalporn.xyz,important
+/out.php$document,domain=animeporn.xyz|hot-animal-porn.biz|horse-sex.xyz|freeanimalporn.xyz|hentaisexuality.com|3dsextales.icu|greentoons.club|dirtynudeteens.net,important
 
 ! 13/04/2020 animal-sex-movie.biz, https://www.mypdns.org/T2743
 /tp/out.php
