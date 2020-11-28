@@ -1,3 +1,12 @@
+! 2020-11-25 https://clearcode.pl
+||piwik.pro^$important
+
+! 2020-11-25 https://piwikpro.de
+||piwikpro.de^$important
+
+! 2020-11-25 https://www.facebook.com
+www.facebook.com##.cxgpxx05 > div > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
+
 ! 2020-10-19 xnx-hardcore.com
 ! https://www.mypdns.org/T1984
 /matomo/*$script,important
