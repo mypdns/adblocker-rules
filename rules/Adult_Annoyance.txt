@@ -578,8 +578,8 @@ livesex.com###overlay-container
 animal-lovers.net##[href="http://beastsexstars.net"] > .aligncenter
 animal-lovers.net##.p-topBarController
 
-! 4/13/2020 animalsex.online, https://www.mypdns.org/T2752
-/scj/cgi/out.php
+! 4/13/2020 animalsex.online, https://www.mypdns.org/T2752 SmartCJ.com scripts
+/scj/*$domain=animal-porn-xxx.com|animalsex.online,important
 
 ! 12/04/2020 sexandsubmission.com,https://www.mypdns.org/T2738
 ||cdnp.kink.com/assets/static-pages/landing-pages/withwatermark.mp4 ! https://www.mypdns.org/T2739
