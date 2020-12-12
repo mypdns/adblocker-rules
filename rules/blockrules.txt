@@ -3,7 +3,6 @@ www.fcomputer.dk##.pull-left.cookie-popup
 
 ! 2020-12-12 https://bibliotek.dk
 /eu_cookie_compliance.js$script,important
-bibliotek.dk###sliding-popup
 
 ! 2020-11-05 https://duckduckgo.com
 duckduckgo.com###m1-0
@@ -533,7 +532,7 @@ rosehosting.com##.active.essb-followme-bottom.essb-followme
 www.rosehosting.com##.cc-color-override-469092766.cc-left.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-floating.cc-window
 
 ! 2/6/2020 https://www.roskildebib.dk
-roskildebib.dk###sliding-popup
+roskildebib.dk,kino.dk,bibliotek.dk###sliding-popup
 roskildebib.dk##[href^="https://www.roskildebib.dk/nyheder/ebiblioteket/filmstriben"]
 roskildebib.dk##.js-ding-webtrekk-processed.node-ding-campaign-plus.node
 roskildebib.dk##.pane-serendipity-ting-object.panel-pane > .panel-pane-inner
@@ -952,9 +951,6 @@ duckduckgo.com##div.detail__pane:nth-of-type(2) > .detail__inner > .detail__body
 extremetech.com###_evidon-background
 extremetech.com###_evidon-banner
 extremetech.com###_evidon-barrier-wrapper
-
-! 10/10/2019 https://www.kino.dk
-kino.dk###sliding-popup
 
 ! 10/13/2019 digst.dk
 ||digst.dk/proxy.gba$first-party,xmlhttprequest
