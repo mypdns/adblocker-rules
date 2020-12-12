@@ -1,3 +1,50 @@
+! 2020-12-11 https://www.fcomputer.dk
+www.fcomputer.dk##.pull-left.cookie-popup
+
+! 2020-12-12 https://bibliotek.dk
+/eu_cookie_compliance.js$script,important
+bibliotek.dk###sliding-popup
+
+! 2020-11-05 https://duckduckgo.com
+duckduckgo.com###m1-0
+
+! 2020-11-21 elgiganten.dk
+||assets.queue-it.net/elkjobnordic/integrationconfig/javascript/queueclientConfig.js$script,important
+||queue-it.net^$important
+
+! 2020-11-25 https://www.krak.dk
+www.krak.dk##.promotionLink
+
+! 2020-12-03 https://ubuntu.com
+ubuntu.com##.cookie-policy
+
+||anymad.com^
+
+! 2020-11-22 https://github.com
+! 2020-09-02 github.com
+||github.com/_alive$xhr,important
+github.com##.js-notice.Popover
+
+! 2020-09-15 https://www.reck.dk
+www.reck.dk##.frash-notice-email.frash-notice.notice
+
+! 2020-09-25 https://www.mechbunny.com
+www.mechbunny.com##div.col-half.col.spec-col:nth-of-type(2)
+
+! 2020-09-09 https://themezee.com
+themezee.com###boxzilla-57913
+themezee.com###footer-about-section
+themezee.com##.boxzilla-newsletter.boxzilla-bottom-right.boxzilla-57913.boxzilla
+
+! 2020-11-29 https://wct.link
+||wct.link^$important
+
+! 2020-11-24 https://validate.perfdrive.com
+||perfdrive.com^$important
+
+! 2020-11-24 https://www.babeimpact.com
+||googleusercontent.com^$important
+
 ! 2020-11-25 https://clearcode.pl
 ||piwik.pro^$important
 

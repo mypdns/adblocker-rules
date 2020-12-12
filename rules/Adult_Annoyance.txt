@@ -1,3 +1,56 @@
+! 2020-10-20 smartcj.com
+||smartcj.com^$important
+
+! 2020-10-20 1ts18.top
+||1ts18.top^$important
+
+! 2020-10-20 tubepornbase.com
+||tubepornbase.com/psterfn/cgi/out.php$document,important
+
+! 2020-10-20 http://tubepornbase.com
+tubepornbase.com##.go-to
+
+! 2020-11-14 https://www.hothouse.com
+www.hothouse.com##.cc-color-override--1773375467.cc-left.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+
+! 2020-11-14 mylesbianporn.com
+/api/rest/v1_mobileAds$1p,important
+
+! 2020-12-04 https://xhamster.desi
+xhamster.desi##.wiu-aspa.wiu-aspb
+xhamster.desi##.wiu-aspot-container.wiu-aplayer
+
+! 2020-12-05 https://www.sex.com
+www.sex.com###slideAd
+
+! 2020-11-28 https://animal-porn-xxx.com
+/js/popper.min.js$important
+
+! 2020-11-28 https://www.analxxxvideo.com
+||analxxxvideo.com/app.js$script,important
+
+! 2020-11-28 https://www.japansporno.com
+/functions.js$script
+!,domain=japansporno.com
+
+||qfjherc.com^
+||clerrrep.com^
+
+! 2020-11-29 https://www.analpics.pro
+||zendplace.pro/api/v3/content$xhr,important
+
+! 2020-11-29 https://zoomobileporn.com
+||zoomobileporn.com/zm.js$script,important
+
+! 2020-11-29 https://zoo-tube8.com
+||zoo-tube8.com/zt8.js$script,important
+
+! 2020-11-29 https://free-xxx-free.com
+||free-xxx-free.com/ch.php$important
+
+! 2020-11-29 https://amakings.com
+amakings.com##.promotionboxBlock.visible-lg.visible-md.promotionbox.video-list-ads
+
 ! 2020-11-29 https://www.analpics.pro, https://www.mypdns.org/T3190
 ||zendplace.pro/api/v3/content$xhr,important
 
@@ -240,6 +293,9 @@ spermguzzlingmilfs.com###disclaimer
 ! 2020-09-02 metartnetwork.com
 ! https://www.mypdns.org/T1327
 ||metartnetwork.com^$websocket,important
+! 2020-12-02 https://www.metart.com
+metart.com##.ksTqjS.sc-cJSrbW
+
 
 ! 2020-10-07 nudeplaymates.net
 ! https://www.mypdns.org/T1536

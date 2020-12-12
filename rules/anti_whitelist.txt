@@ -52,6 +52,8 @@ bccnapoli.it,thetechsutra.com#@#.cp-overlay,badfilter
 @@||adf.ly/static/image/$image,1p,badfilter
 @@||adf.ly^$generichide,badfilter
 
+@@||googletagmanager.com/gtm.js$domain=imgur.com,badfilter
+
 ! AdGuard ANTI Tracking Protection
 ! Seriously?? whitelist any googletagmanager.com??
 ! Why do you even bother trying to make a "Tracking Protection"
