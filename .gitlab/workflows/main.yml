@@ -1,4 +1,4 @@
-name: Launch a new test
+name: Deploy new rules
 on:
   push:
     branches:
@@ -8,7 +8,7 @@ on:
       - "master"
 
 env:
-  GIT_NAME: "${{ github.actor }}"
+  GIT_NAME: "${{ secrets.GIT_NAME }}"
   GIT_EMAIL: "${{ secrets.GIT_EMAIL }}"
   GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
@@ -54,15 +54,3 @@ jobs:
           publish_branch: gh-pages
           allow_empty_commit: true
           force_orphan: true
-
-      # - name: Commit changes
-      #   run: |
-      #     git config --local user.email "$GIT_EMAIL"
-      #     git config --local user.name "$GIT_NAME"
-      #     git commit -m "Release $(git --git-dir ../.git rev-parse --short HEAD)" -a
-
-      # - name: Push changes
-      #   uses: ad-m/github-push-action@master
-      #   with:
-      #     github_token: ${{ secrets.GITHUB_TOKEN }}
-      #     branch: ${{ github.ref }}
