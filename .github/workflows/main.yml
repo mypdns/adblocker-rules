@@ -42,9 +42,9 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      # - name: Render the rules
-      #   run: |
-      #     flrender -i ublockorigin-rules=. ublockorigin-rules.template _public/blockrules.txt
+      - name: Render the rules
+        run: |
+          flrender -i ublockorigin-rules=. ublockorigin-rules.template _public/blockrules.txt
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
