@@ -30,7 +30,6 @@ jobs:
         name: Clone repository
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
-          fetch-depth: 3
 
       - name: Set up Python ${{ matrix.python_version }}
         uses: actions/setup-python@v2
