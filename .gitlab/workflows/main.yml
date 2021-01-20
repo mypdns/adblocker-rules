@@ -13,7 +13,7 @@ env:
   GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
 jobs:
-  BuildRules:
+  buildrules:
     name: Trigger action
     runs-on: "${{ matrix.os }}"
 
@@ -23,13 +23,14 @@ jobs:
         python_version:
           - "3.9.1"
         os:
-          - ubuntu-latest
+          - ubuntu-20.04
 
     steps:
       - uses: actions/checkout@v2
         name: Clone repository
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
+          fetch-depth: 5
 
       - name: Set up Python ${{ matrix.python_version }}
         uses: actions/setup-python@v2
