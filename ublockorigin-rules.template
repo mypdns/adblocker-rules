@@ -15,23 +15,23 @@
 ! GitHub merge request:
 ! - https://github.com/spirillen/ublockorigin-rules/pulls
 ! Email:
-! None
+!   - None
 ! Description: 
 !
 !------------------- General advert blocking filters -------------------!
 %include ublockorigin-rules:rules/blockrules.txt%
 
-!------------------------ White List -----------------------------------!
+!------------------------------ White List -----------------------------!
 %include ublockorigin-rules:rules/whitelist.txt%
 
-!------------------------ Anti White -----------------------------------!
+!------------------------------ Anti White -----------------------------!
 %include ublockorigin-rules:rules/anti_whitelist.txt%
 
-!------------------- Adult Annoyance blocking filters ----------------!
+!------------------- Adult Annoyance blocking filters ------------------!
 %include ublockorigin-rules:rules/Adult_Annoyance.txt%
 
 !------------------- MetArt Networking blocking filters ----------------!
 %include ublockorigin-rules:rules/MetArtNetwork.txt%
 
-!---------------------- Anti Whitelist by Yuki2718 ---------------------!
+!--------------------- Anti Whitelist by @Yuki2718 ---------------------!
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/anti-allowlist.txt%

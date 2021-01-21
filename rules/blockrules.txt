@@ -1,8 +1,112 @@
+! 2020-10-11 https://pypi.org
+pypi.org##.js-stick-to-top.stick-to-top
+
+! 2020-11-17 https://www.ripoffreport.com
+ripoffreport.com###live-popover
+ripoffreport.com##.action-bar.row
+
+! 2020-11-20 https://www.hottystop.com
+hottystop.com##canvas
+
+! 2020-12-31 https://www.osboxes.org
+osboxes.org##.__b-popup1__
+osboxes.org##.pps-h-auto-px.pps-w-50-\%.pps-has-border.pps-popup
+
+! 2020-11-09 https://www.bilbasen.dk
+www.bilbasen.dk##.clearfix.row
+www.bilbasen.dk##.vip-finance.section
+www.bilbasen.dk###top-content
+
+! 2021-01-02 https://teklager.se
+teklager.se##div.row:nth-of-type(8)
+
+! 2021-01-02 https://www.pfsense.org
+pfsense.org###callout-banner
+
+! 2021-01-15 https://www.shellvoide.com
+shellvoide.com###popup-wallpaper
+shellvoide.com###popup-subscribe
+
+! 2020-10-20 busty.pl
+||stat.webmedia.pl^$important
+
+! 2020-11-10 ftvmagic.com
+||strongcapitalads.ga^$important
+
+! 2020-11-15 pornforall.net
+||nzhfk.com^$important
+
+! 2020-11-21 https://danskespil.dk
+danskespil.dk###ensModalWrapper
+
+! 2020-11-21 https://coop.dk
+coop.dk##.rr-Top-Slider.row
+
+! 2020-11-22 https://pixiv.kurocore.com
+||analytics.kurocore.com^$important
+
+! 2020-11-12 keekass.com
+||/contents/advertisement/*$important
+
+! 2020-11-11 pornsexer.com
+||werdictbot.com^$important
+||rdrceting.com^$important
+
+! 2020-11-26 https://kodi.expert
+kodi.expert##.elementor-cta
+kodi.expert##.ae-bg-gallery-type-default.elementor-section-height-default.elementor-section-boxed.elementor-element-3937190e.elementor-element.elementor-inner-section.elementor-section.has_ae_slider
+
+! 2020-11-26 https://koditips.com
+koditips.com##.grid-parent.tablet-grid-25.grid-25.is-right-sidebar.sidebar.widget-area
+koditips.com##div.aawp:nth-of-type(1)
+koditips.com##.aawp-product--horizontal.aawp-product
+koditips.com##div:nth-of-type(4)
+
+! 2020-11-16 Kodi build-in spyware
+||mb3admin.com^$important
+
+! 2020-11-28 https://www.dubox.com
+||dubox.com/api/analytics$important
+
+! 2021-01-15 https://subscene.com
+/cdn-cgi/images/trace/*$important
+/cdn-cgi/challenge-platform/*$script,important
+
+! 2021-01-15 https://rarbgaccess.org
+||dyncdn.me/static/20/img/loading_flat.gif$image,important
+
+! 2021-01-15 https://www.imdb.com
+!www.imdb.com##.banner-container
+##.banner-container
+
+! 2021-01-19 https://cyph.app
+||api.cyph.com/analytics/collect$xhr,important
+
+! 2020-10-06 https://news2.x-itm.com
+news2.x-itm.com###twp-ticker-slider
+
+! 2020-10-07 https://computingforgeeks.com
+computingforgeeks.com###ezmobfooter
+computingforgeeks.com##.ezoic-ad-adaptive.adtester-container-106.adtester-container.large-leaderboard-1.ezoic-ad
+computingforgeeks.com##.adtester-container-111.adtester-container.medrectangle-4.ezoic-ad
+
+! 2020-11-15 eff.org
+||anon-stats.eff.org^$important
+
+! 2021-01-11 https://www.educba.com
+www.educba.com##.code-block-17.code-block
+
+! 2021-01-19 https://www.instagram.com
+www.instagram.com##.Yx5HN.RnEpo
+
+! 2021-01-15 https://www.hiper.dk
+www.hiper.dk##.products-show-call-me
+
 ! https://github.com/ryanbr/fanboy-adblock/issues/1448
 ||youtube.com/embed/$3p,frame,redirect=click2load.html
 
 ! 2020-12-11 https://www.fcomputer.dk
-www.fcomputer.dk##.pull-left.cookie-popup
+fcomputer.dk##.pull-left.cookie-popup
 
 ! 2020-12-12 https://bibliotek.dk
 /eu_cookie_compliance.js$script,important
@@ -15,23 +119,29 @@ duckduckgo.com###m1-0
 ||queue-it.net^$important
 
 ! 2020-11-25 https://www.krak.dk
-www.krak.dk##.promotionLink
+krak.dk##.promotionLink
 
 ! 2020-12-03 https://ubuntu.com
 ubuntu.com##.cookie-policy
+ubuntu.com##.p-card
 
 ||anymad.com^
 
 ! 2020-11-22 https://github.com
-! 2020-09-02 github.com
 ||github.com/_alive$xhr,important
 github.com##.js-notice.Popover
+github.com##.rounded-1.signup-prompt-bg
+github.com##.js-notice.Popover
+github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-lg-5.pr-md-4.pr-3.col-lg-3.col-md-3.col-12.team-left-column
 
 ! 2020-09-15 https://www.reck.dk
-www.reck.dk##.frash-notice-email.frash-notice.notice
+reck.dk##.frash-notice-email.frash-notice.notice
+reck.dk##.is-dismissible.settings-error.notice-warning.notice
+reck.dk###blc-sidebar
+reck.dk##.is-dismissible.notice.notice-info.wt_cli_review_request
 
 ! 2020-09-25 https://www.mechbunny.com
-www.mechbunny.com##div.col-half.col.spec-col:nth-of-type(2)
+mechbunny.com##div.col-half.col.spec-col:nth-of-type(2)
 
 ! 2020-09-09 https://themezee.com
 themezee.com###boxzilla-57913
@@ -54,7 +164,7 @@ themezee.com##.boxzilla-newsletter.boxzilla-bottom-right.boxzilla-57913.boxzilla
 ||piwikpro.de^$important
 
 ! 2020-11-25 https://www.facebook.com
-www.facebook.com##.cxgpxx05 > div > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
+facebook.com##.cxgpxx05 > div > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
 
 ! 2020-10-19 xnx-hardcore.com
 ! https://www.mypdns.org/T1984
@@ -81,6 +191,7 @@ www.facebook.com##.cxgpxx05 > div > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
 
 ! 2020-10-17 lesnumeriques.com, https://www.mypdns.org/T1371
 ||privacy-center.org^$important
+hclips.com##.video-page__
 
 ! 2020-10-26 heydouga.com, https://www.mypdns.org/T2123
 /cookie_accessor.min.js$script,important
@@ -475,7 +586,7 @@ en.wikipedia.org###mw-anon-edit-warning
 
 ! 2/22/2020 https://www.faaborg-sejlklub.dk
 faaborg-sejlklub.dk##.banner-overlay
-www.faaborg-sejlklub.dk###banner-area-wrapper
+faaborg-sejlklub.dk###banner-area-wrapper
 
 ! 3/5/2020 https://netflixtechblog.com
 netflixtechblog.com##.tn.tm.tl.tk.tj.ti.th.tg.tf.te.td.tc.tb.ta.sz.sy.sx.sw.sv.su.st.ss.sr.sq.sp.so.sn.sm.sl.sk.sj.al.si.jv.t.s
@@ -532,7 +643,7 @@ https://padsabz.com/5b/11/ec/5b11ec577f7ab76d9e3bf5af286eda00.js
 
 ! 2/6/2020 https://www.rosehosting.com
 rosehosting.com##.active.essb-followme-bottom.essb-followme
-www.rosehosting.com##.cc-color-override-469092766.cc-left.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-floating.cc-window
+rosehosting.com##.cc-color-override-469092766.cc-left.cc-bottom.cc-theme-classic.cc-type-opt-in.cc-floating.cc-window
 
 ! 2/6/2020 https://www.roskildebib.dk
 roskildebib.dk,kino.dk,bibliotek.dk###sliding-popup
@@ -874,6 +985,9 @@ linuxconfig.org##div.size-25.g-block:nth-of-type(2) > .g-content > div.moduletab
 ##.eu-cookie-compliance-content
 ! 10/22/2019 https://www.youtube.com
 youtube.com###main
+www.youtube.com##.ytd-app.style-scope:nth-of-type(1) > .ytd-popup-container.style-scope
+www.youtube.com###dialog
+
 ||youtube-nocookie.com/api/stats/ads?
 ||youtube-nocookie.com/api/stats/watchtime?
 ||youtube.com/api/stats/watchtime?
