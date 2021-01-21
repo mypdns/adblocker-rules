@@ -47,10 +47,18 @@ jobs:
           flrender -i ublockorigin-rules=. ublockorigin-rules.template _public/blockrules.txt
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        run: |
+          cd _public
+          git init
+          git add -A
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Release $(git --git-dir ../.git rev-parse --short HEAD)"
+
+      - name: Force push to destination branch
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          publish_branch: gh-pages
-          allow_empty_commit: true
-          force_orphan: true
+          branch: gh-pages
+          force: true
+          directory: _public
