@@ -1,3 +1,24 @@
+! 2020-12-24 https://www.brazzers.com
+||contentdef.com/P1TOUR/ZZ/promos/christmas/pc/catfish.png$image
+
+##[href^="https://srv.dropkickmedia.com/"]
+||primecurves.com/sponsors/
+
+! https://www.mypdns.org/T2898
+||dropkickmedia.com^
+
+! 2021-01-12 https://www.metrolyrics.com
+www.metrolyrics.com###lyrics-body-text > div > .driver-related > .related-container
+www.metrolyrics.com###lyrics-body-text > div > .driver-related
+
+! 2021-01-18 https://fastspeed.dk
+fastspeed.dk###flowsPopup
+
+! 2021-01-27 https://winaero.com
+winaero.com##.ramain-top
+##div.gadsense-ad
+winaero.com/idx.php
+
 ! 2020-10-11 https://pypi.org
 pypi.org##.js-stick-to-top.stick-to-top
 
@@ -987,6 +1008,10 @@ linuxconfig.org##div.size-25.g-block:nth-of-type(2) > .g-content > div.moduletab
 youtube.com###main
 www.youtube.com##.ytd-app.style-scope:nth-of-type(1) > .ytd-popup-container.style-scope
 www.youtube.com###dialog
+
+! 2020-12-23 https://www.youtube.com
+www.youtube.com###consent-bump > .ytd-consent-bump-lightbox.style-scope
+www.youtube.com##ytd-popup-container.ytd-app.style-scope
 
 ||youtube-nocookie.com/api/stats/ads?
 ||youtube-nocookie.com/api/stats/watchtime?
