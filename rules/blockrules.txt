@@ -1,6 +1,7 @@
 ! https://github.com/easylist/easylist/issues/7081
 ##.entry-affiliate
 ##span > strong > [href^="http://www.restoro.com/includes/route.php"]
+##[href^="https://www.restoro.com/includes/route.php"]
 
 ! 2020-12-24 https://www.brazzers.com
 ||contentdef.com/P1TOUR/ZZ/promos/christmas/pc/catfish.png$image
