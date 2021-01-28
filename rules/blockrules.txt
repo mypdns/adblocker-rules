@@ -984,8 +984,13 @@ blog.heckel.io###sidebar_second_ad
 en.bab.la##.magazine.teaser
 en.bab.la##div.teaser-wrapper:nth-of-type(5)
 en.bab.la##div.teaser-wrapper:nth-of-type(6)
+
 ! 11/24/2019 casacherda.nl
-||/wp-content/plugins/google-analytics-for-wordpress/$script
+/wp-content/plugins/google-analytics-for-wordpress/$script
+
+! https://lecourrier-du-soir.com/
+/wp-content/plugins/uk-cookie-consent/*$script,important
+
 ! YET ANOTHER HUGE FAILURE of TREAT from EasyLst
 ! @@||cam4.*/ads/directory/$1p,xmlhttprequest,domain=~gaytube.com|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com
 ||cam4.*/ads/directory/$1p,xmlhttprequest
