@@ -52,42 +52,24 @@ bccnapoli.it,thetechsutra.com#@#.cp-overlay,badfilter
 @@||adf.ly/static/image/$image,1p,badfilter
 @@||adf.ly^$generichide,badfilter
 
-@@||googletagmanager.com/gtm.js$domain=imgur.com,badfilter
 
 ! AdGuard ANTI Tracking Protection
 ! Seriously?? whitelist any googletagmanager.com??
 ! Why do you even bother trying to make a "Tracking Protection"
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27586
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27609
-@@||googletagmanager.com/gtm.js$domain=imgur.com,badfilter
 @@||googletagmanager.com/gtag/js$domain=malwaretips.com,badfilter
-@@||googletagmanager.com/gtm.js$domain=mediamarkt.de,badfilter
 
 ! https://github.com/easylist/easylist/issues/6000
 ! https://github.com/easylist/easylist/commit/2f754d09614a3ef468a7caa9dd912aecd14c5c8c#diff-8fcbbab33f6615b09fa4dd283697bb4bR164
 @@||googletagmanager.com/gtag/js$script,domain=ally.com|anchor.fm|foxnews.com|gamespot.com|m.putlocker.how|neighborhoodpostcards.com|playphrase.me|ryanair.com,badfilter
 
-! https://github.com/AdguardTeam/AdguardFilters/issues/26975
-@@||googletagmanager.com/gtm.js$domain=programme-tv.net$badfilter
-
-! https://github.com/AdguardTeam/AdguardFilters/issues/29236
-@@||googletagmanager.com/gtm.js$domain=superesportes.com.br$badfilter
-
-! https://github.com/AdguardTeam/AdguardFilters/issues/30291
-@@||googletagmanager.com/gtm.js$domain=jbc.be$badfilter
-
-! https://github.com/AdguardTeam/AdguardFilters/issues/25373
-@@||googletagmanager.com/gtm.js$domain=fooda.com$badfilter
-
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27402, https://github.com/easylist/easylist/pull/6464
 @@||google-analytics.com/cx/api.js$domain=pcloud.com$badfilter
 @@||google-analytics.com/analytics.js$domain=afternic.com|allmusic.com|amctv.com|anchor.fm|bebo.com|beinsports.com|bennysva.com|blastingnews.com|ch10.co.il|cliphunter.com|daemon-tools.cc|desigual.com|easyjet.com|firehousesubs.com|gamepix.com|greentoe.com|health2000.co.nz|housing.wisc.edu|infogr.am|jackbox.tv|jobs.net|keygames.com|m.timesofindia.com|manowthaimordialloc.com.au|maxiclimber.com|orbitum.com|pluto.tv|pure.com|rebtel.com|sbnation.com|sci2.tv|seatgeek.com|stitcher.com|support.amd.com|tagheuer.com.au|tracking.narvar.com|tv10play.se|tv3play.se|tv6play.se|tv8play.se|video.pbs.org|vox.com|vpnster.com|weather.gov|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg|www.google.com,badfilter
 
-! https://github.com/AdguardTeam/AdguardFilters/issues/27312
-@@||googletagmanager.com/gtm.js$domain=cinemaximum.com.tr$badfilter
-
-! https://github.com/easylist/easylist/pull/6131/files
-@@||googletagmanager.com/gtm.js$domain=action.com|ads.spotify.com|adsoup.com|aim.steelseries.com|airasia.com|asus.com|bhaskar.com|broadcom.com|bsa-whitelabel.com|chipotle.com|complex.com|computerworlduk.com|coolermaster.com|cyclingnews.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|fortune.com|foxnews.com|gamepix.com|git-tower.com|google.com|health2000.co.nz|insideevs.com|itv.com|jobs.net|keygames.com|magicjack.com|moviefone.com|nestio.com|newsarama.com|newsy.com|nfl.com|nytimes.com|onesignal.com|optus.com.au|overwatchleague.com|poliigon.com|porsche.com|realestate.co.nz|rebtel.com|rockstargames.com|rollingstone.com|rozetka.com.ua|scotsman.com|sixflags.com|starbucks.ca|support.amd.com|talktalk.co.uk|techradar.com|theta.tv|toto.co.jp|toysrus.ca|trademe.nz|usmagazine.com|weightwatchers.com|woodlanddirect.com|wwe.com,badfilter
+! https://github.com/easylist/easylist/issues/7039
+@@||googletagmanager.com/gtm.js$domain=action.com|ads.spotify.com|adsoup.com|aim.steelseries.com|airasia.com|asus.com|bhaskar.com|broadcom.com|bsa-whitelabel.com|chipotle.com|complex.com|computerworlduk.com|coolermaster.com|cyclingnews.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|fortune.com|foxnews.com|gamepix.com|git-tower.com|google.com|gumtree.com|hbomax.com|health2000.co.nz|indy100.com|insideevs.com|itv.com|jobs.net|keygames.com|magicjack.com|medibank.com.au|moviefone.com|nestio.com|newsarama.com|newsletter.co.uk|newsy.com|nfl.com|nflgamepass.com|onesignal.com|optus.com.au|overwatchleague.com|pioneer.eu|poliigon.com|porsche.com|postable.com|readyrefresh.com|realestate.co.nz|rebtel.com|redbull.com|rockstargames.com|rollingstone.com|royalbank.com|rozetka.com.ua|scotsman.com|sixflags.com|starbucks.ca|support.amd.com|talktalk.co.uk|techradar.com|theta.tv|toto.co.jp|toysrus.ca|trademe.nz|usmagazine.com|weightwatchers.com|woodlanddirect.com|wwe.com,badfilter
 
 ! line.me - menu buttons not working
 @@||google-analytics.com/plugins/ua/linkid.js$domain=line.me$badfilter
