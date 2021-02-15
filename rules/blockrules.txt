@@ -1,3 +1,9 @@
+! A big thanks to @DandelionSprout in https://github.com/easylist/easylist/issues/7220
+! socket.io
+||images.opencollective.com^$domain=socket.io
+||socket.io/images/sponsors^$image
+socket.io###sponsors
+
 ! https://github.com/easylist/easylist/issues/7081
 ##.entry-affiliate
 ##span > strong > [href^="http://www.restoro.com/includes/route.php"]
