@@ -4,6 +4,35 @@
 ||socket.io/images/sponsors^$image
 socket.io###sponsors
 
+##.notifier-wrapper
+
+! 2021-02-02 https://fanart.tv
+fanart.tv##.container:nth-of-type(4)
+
+! 2021-02-10 https://www.devdungeon.com
+devdungeon.com##.col-sm-3
+devdungeon.com##.calendly-badge-widget
+devdungeon.com###block-block-15
+devdungeon.com###block-block-6
+devdungeon.com###block-block-14
+devdungeon.com###popdown
+devdungeon.com##.container.footer
+
+! 2021-01-23 https://community.platformio.org
+community.platformio.org##.container:nth-of-type(2)
+
+! 2021-01-18 reck.dk
+||d32wqyuo10o653.cloudfront.net/logo.png$image,important
+reck.dk###setting-error-tgmpa
+
+! 2020-12-12 https://hjbib.dk
+hjbib.dk###sliding-popup
+hjbib.dk##.external.ask-vopros-tab
+
+! 2020-12-24 https://www.cduniverse.com
+||cduniverse.com/images/promo/promo/popup-bg-ice.jpg$image
+cduniverse.com##.CenterWithJS.BigPopUp
+
 ! https://github.com/easylist/easylist/issues/7081
 ##.entry-affiliate
 ##span > strong > [href^="http://www.restoro.com/includes/route.php"]
@@ -19,8 +48,8 @@ socket.io###sponsors
 ||dropkickmedia.com^
 
 ! 2021-01-12 https://www.metrolyrics.com
-www.metrolyrics.com###lyrics-body-text > div > .driver-related > .related-container
-www.metrolyrics.com###lyrics-body-text > div > .driver-related
+metrolyrics.com###lyrics-body-text > div > .driver-related > .related-container
+metrolyrics.com###lyrics-body-text > div > .driver-related
 
 ! 2021-01-18 https://fastspeed.dk
 fastspeed.dk###flowsPopup
@@ -45,9 +74,9 @@ osboxes.org##.__b-popup1__
 osboxes.org##.pps-h-auto-px.pps-w-50-\%.pps-has-border.pps-popup
 
 ! 2020-11-09 https://www.bilbasen.dk
-www.bilbasen.dk##.clearfix.row
-www.bilbasen.dk##.vip-finance.section
-www.bilbasen.dk###top-content
+bilbasen.dk##.clearfix.row
+bilbasen.dk##.vip-finance.section
+bilbasen.dk###top-content
 
 ! 2021-01-02 https://teklager.se
 teklager.se##div.row:nth-of-type(8)
@@ -97,7 +126,7 @@ koditips.com##div:nth-of-type(4)
 ! 2020-11-16 Kodi build-in spyware
 ||mb3admin.com^$important
 
-! 2020-11-28 https://www.dubox.com
+! 2020-11-28 https://dubox.com
 ||dubox.com/api/analytics$important
 
 ! 2021-01-15 https://subscene.com
@@ -108,7 +137,7 @@ koditips.com##div:nth-of-type(4)
 ||dyncdn.me/static/20/img/loading_flat.gif$image,important
 
 ! 2021-01-15 https://www.imdb.com
-!www.imdb.com##.banner-container
+!imdb.com##.banner-container
 ##.banner-container
 
 ! 2021-01-19 https://cyph.app
@@ -126,13 +155,13 @@ computingforgeeks.com##.adtester-container-111.adtester-container.medrectangle-4
 ||anon-stats.eff.org^$important
 
 ! 2021-01-11 https://www.educba.com
-www.educba.com##.code-block-17.code-block
+educba.com##.code-block-17.code-block
 
 ! 2021-01-19 https://www.instagram.com
-www.instagram.com##.Yx5HN.RnEpo
+instagram.com##.Yx5HN.RnEpo
 
 ! 2021-01-15 https://www.hiper.dk
-www.hiper.dk##.products-show-call-me
+hiper.dk##.products-show-call-me
 
 ! https://github.com/ryanbr/fanboy-adblock/issues/1448
 ||youtube.com/embed/$3p,frame,redirect=click2load.html
@@ -145,6 +174,8 @@ fcomputer.dk##.pull-left.cookie-popup
 
 ! 2020-11-05 https://duckduckgo.com
 duckduckgo.com###m1-0
+! 2021-02-10 https://duckduckgo.com
+duckduckgo.com##.js-feedback-btn-wrap
 
 ! 2020-11-21 elgiganten.dk
 ||assets.queue-it.net/elkjobnordic/integrationconfig/javascript/queueclientConfig.js$script,important
@@ -165,6 +196,8 @@ github.com##.js-notice.Popover
 github.com##.rounded-1.signup-prompt-bg
 github.com##.js-notice.Popover
 github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-lg-5.pr-md-4.pr-3.col-lg-3.col-md-3.col-12.team-left-column
+! 2021-02-15 https://github.com
+||github.com/socket-worker-*.js$script,important
 
 ! 2020-09-15 https://www.reck.dk
 reck.dk##.frash-notice-email.frash-notice.notice
@@ -1022,12 +1055,12 @@ linuxconfig.org##div.size-25.g-block:nth-of-type(2) > .g-content > div.moduletab
 ##.eu-cookie-compliance-content
 ! 10/22/2019 https://www.youtube.com
 youtube.com###main
-www.youtube.com##.ytd-app.style-scope:nth-of-type(1) > .ytd-popup-container.style-scope
-www.youtube.com###dialog
+youtube.com##.ytd-app.style-scope:nth-of-type(1) > .ytd-popup-container.style-scope
+youtube.com###dialog
 
 ! 2020-12-23 https://www.youtube.com
-www.youtube.com###consent-bump > .ytd-consent-bump-lightbox.style-scope
-www.youtube.com##ytd-popup-container.ytd-app.style-scope
+youtube.com###consent-bump > .ytd-consent-bump-lightbox.style-scope
+youtube.com##ytd-popup-container.ytd-app.style-scope
 
 ||youtube-nocookie.com/api/stats/ads?
 ||youtube-nocookie.com/api/stats/watchtime?
