@@ -1,19 +1,27 @@
 ! 3danimeworld.com | metrotoons.com
 /Vbanner/*$important,domain=3danimeworld.com|metrotoons.com
 
+! 2021-02-08 http://www.18pornhd.com
+18pornhd.com##.download_text
+18pornhd.com##div#friends
+18pornhd.com###toplist4
+18pornhd.com##table:nth-of-type(3)
+18pornhd.com##table:nth-of-type(2)
+18pornhd.com##td > .d
+
 ! 2021-02-15 https://pornvideoq.com
 pornvideoq.com##.video-aside
 pornvideoq.com###AJEiEYjeft
 pornvideoq.com###nUWzSskocb
 
 ! 2021-02-15 https://www.fakestube.com
-www.fakestube.com##p:nth-of-type(1)
-www.fakestube.com##p:nth-of-type(2)
-www.fakestube.com##[href^="https://go.stripchat.com/"]
-www.fakestube.com##p:nth-of-type(4)
-www.fakestube.com##p:nth-of-type(3)
-www.fakestube.com###footer > .container > .row
-www.fakestube.com###custom_html-2 > .custom-html-widget.textwidget > [href]
+fakestube.com##p:nth-of-type(1)
+fakestube.com##p:nth-of-type(2)
+fakestube.com##[href^="https://go.stripchat.com/"]
+fakestube.com##p:nth-of-type(4)
+fakestube.com##p:nth-of-type(3)
+fakestube.com###footer > .container > .row
+fakestube.com###custom_html-2 > .custom-html-widget.textwidget > [href]
 
 ! 2021-02-15 http://www.3danimeworld.com
 3danimeworld.com##center > [href^="/trade/out.php"]
@@ -26,6 +34,9 @@ www.fakestube.com###custom_html-2 > .custom-html-widget.textwidget > [href]
 3dsexgames.biz###cint > [href^="trade/out.php"]
 3dsexgames.biz##.vertical > a[href^="trade/out.php"]
 3dsexgames.biz##td#cint > table > tbody > tr > td > [href^="trade/out.php"]
+
+! 2021-02-09 http://hosinojun.web.fc2.com
+hosinojun.web.fc2.com###fc2_bottom_bnr
 
 ! 2021-01-17 https://www.sortporn.com
 sortporn.com###player_add
@@ -57,7 +68,7 @@ theporn.cc##.right-player-container.pull-right
 /view/popup$important,domain=motherless.com
 
 ! 2020-12-13 https://www.mofos.com
-www.mofos.com##div.iIdwbz.sc-1mhpkp8-3:nth-of-type(7)
+mofos.com##div.iIdwbz.sc-1mhpkp8-3:nth-of-type(7)
 ||assets-land-ht.contentdef.com/P1TOUR/MF/mf_default_v0/catfish/pc/catfish.png$image
 ||assets-land-ht.contentdef.com/P1TOUR/MF/mf_default_v0/catfish/pc/catfish.png$image
 ||assets-land-ht.contentdef.com/*/catfish/pc/catfish.png$image
@@ -73,17 +84,17 @@ xnxx-deutsch.com##div#sgpb-popup-dialog-main-div-wrapper.sgpb-popup-dialog-main-
 
 
 ! 2020-11-10 https://www.sexxcommunity.com
-www.sexxcommunity.com##div.ons-form.ng-isolate-scope.body > .ng-valid.ng-pristine.box
+sexxcommunity.com##div.ons-form.ng-isolate-scope.body > .ng-valid.ng-pristine.box
 
 ! 2020-11-10 https://www.fakehub.com
-www.fakehub.com###root > .leHiKi.sc-1mhpkp8-1 > div.iIdwbz.sc-1mhpkp8-3
+fakehub.com###root > .leHiKi.sc-1mhpkp8-1 > div.iIdwbz.sc-1mhpkp8-3
 
 ! 2020-11-10 https://www.faketaxi.com
-www.faketaxi.com###root > .leHiKi.sc-1mhpkp8-1 > div.iIdwbz.sc-1mhpkp8-3
+faketaxi.com###root > .leHiKi.sc-1mhpkp8-1 > div.iIdwbz.sc-1mhpkp8-3
 
 ! 2020-11-10 http://www.teenmegaworld.net
-www.teenmegaworld.net##.warning-page
-www.teenmegaworld.net##.cookie
+teenmegaworld.net##.warning-page
+teenmegaworld.net##.cookie
 
 ! 2020-11-11 https://lustcinema.com
 lustcinema.com##.tablet\:h-91.tablet\:w-152.shadow-primary-brand-lg.m-auto.newsletter-modal-bg.w-full.items-center.tablet\:flex-row.flex-col.flex
@@ -102,7 +113,7 @@ bbw-chan.nl###Gw1nePSgkkxcbDPDWmTJQNaDpcmRRp
 ||negyuk.com^$script,important
 
 ! 2020-11-15 http://www.animepornfilm.com
-www.animepornfilm.com##.imbar
+animepornfilm.com##.imbar
 
 ! 2020-11-22 https://cum-shows.net
 cum-shows.net##center
@@ -126,7 +137,7 @@ brazzers3x.la,brazzers3x.me,brazzers3x.com###invideo_wrapper
 tubepornbase.com##.go-to
 
 ! 2020-11-14 https://www.hothouse.com
-www.hothouse.com##.cc-color-override--1773375467.cc-left.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+hothouse.com##.cc-color-override--1773375467.cc-left.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
 
 ! 2020-11-14 mylesbianporn.com
 /api/rest/v1_mobileAds$1p,important
@@ -136,7 +147,7 @@ xhamster.desi##.wiu-aspa.wiu-aspb
 xhamster.desi##.wiu-aspot-container.wiu-aplayer
 
 ! 2020-12-05 https://www.sex.com
-www.sex.com###slideAd
+sex.com###slideAd
 
 ! 2020-11-28 https://animal-porn-xxx.com
 /js/popper.min.js$important

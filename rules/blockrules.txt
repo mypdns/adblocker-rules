@@ -18,6 +18,44 @@ devdungeon.com###block-block-14
 devdungeon.com###popdown
 devdungeon.com##.container.footer
 
+! 2021-02-09 https://www.finito.fc2.com
+/count/daycount.cgi$important
+/rank/html/rank.gif$image,important
+||finito-web.net/banner/*$subdocument,important
+||finito.fc2.com/finito.gif$image,important
+
+! 2021-02-09 https://sexyphotos.blog6.fc2.com
+||infotop.jp^$important
+
+! 2021-02-09 https://2w3e.blog23.fc2.com
+||shinobi.jp^$important
+
+! 2021-02-09 http://error.fc2.com
+!error.fc2.com##.banner
+##.banner
+
+! 2021-02-09 https://okkisokuho.com
+||ad-nex.com^$important
+
+! 2021-02-09 https://r18gazoumatome.blog.fc2.com
+||buzama.com^$important
+
+! 2021-02-09 https://sexyphotos.blog6.fc2.com
+||cashback.ne.jp^$important
+
+! 2021-02-09 https://todaysfreemovies.blog31.fc2.com
+||inran.biz^$important
+
+! 2021-02-14 https://sexhihi.org
+/adsmb.js$script,important
+
+! 2021-02-08 http://aomizuan.sakura.ne.jp
+!sakura.ne.jp##.mainBanner
+##.mainBanner
+
+! 2020-12-23 https://twitter.com
+twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1867qdf.r-1in3vh1.r-1ihkh82.css-1dbjc4n:nth-of-type(6)
+
 ! 2021-01-23 https://community.platformio.org
 community.platformio.org##.container:nth-of-type(2)
 
