@@ -1,3 +1,6 @@
+! https://github.com/easylist/easylist/pull/6990
+-google-tag-manager.$script
+
 ! https://github.com/easylist/easylist/pull/7010
 .gif?*&stat=
 
