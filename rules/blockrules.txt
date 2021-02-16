@@ -1,3 +1,6 @@
+! https://github.com/easylist/easylist/pull/7010
+.gif?*&stat=
+
 ! A big thanks to @DandelionSprout in https://github.com/easylist/easylist/issues/7220
 ! socket.io
 ||images.opencollective.com^$domain=socket.io
