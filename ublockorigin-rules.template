@@ -35,3 +35,6 @@
 
 !--------------------- Anti Whitelist by @Yuki2718 ---------------------!
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/anti-allowlist.txt%
+
+!------------------ webannoyances by @yourduskquibbles -----------------!
+%include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
