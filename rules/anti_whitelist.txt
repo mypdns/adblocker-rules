@@ -1,3 +1,6 @@
+! https://github.com/easylist/easylist/issues/6978
+@@||jsdelivr.net/npm/sharer.js$badfilter
+
 ! https://github.com/easylist/easylist/issues/6710
 @@||unilad.co.uk^$generichide,badfilter
 @@||adsafeprotected.com/vans-adapter-google-ima.js$domain=unilad.co.uk,badfilter
