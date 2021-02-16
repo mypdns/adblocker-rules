@@ -35,3 +35,10 @@ Then
 is a valid filter, it disables the allowlist only on abc.com.
 
 See the dialog at <https://github.com/spirillen/ublockorigin-rules/commit/c01ba1a5a0d73a89c911ab11d1322631fe3d0540>
+
+## External Sources
+@Yuki2718 [/adblock](https://github.com/Yuki2718/adblock)
+@yourduskquibbles [/webannoyances](https://github.com/yourduskquibbles/webannoyances)
+
+## Tanks
+Thanks to @Yuki2718, @THEtomaso, @krystian3w and everyone else who is spreading the knowledge of how rules should be made :smiley:
