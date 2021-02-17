@@ -36,10 +36,6 @@ devdungeon.com##.container.footer
 ! 2021-02-09 https://2w3e.blog23.fc2.com
 ||shinobi.jp^$important
 
-! 2021-02-09 http://error.fc2.com
-!error.fc2.com##.banner
-##.banner
-
 ! 2021-02-09 https://okkisokuho.com
 ||ad-nex.com^$important
 

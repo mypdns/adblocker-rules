@@ -167,7 +167,7 @@ power.fi###cookie-notification#cookie-notification
 @@||192.168.*/privacy_policy.js$~third-party,badfilter
 
 ! https://github.com/easylist/easylist/issues/5545
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=tv.rakuten.co.jp,badfilter
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp|farfeshplus.com|klix.ba|locipo.jp|nettavisen.no|niusdiario.es|rtlnieuws.nl|sportsport.ba|tbs.co.jp|tv.rakuten.co.jp|tver.jp|vlive.tv|webdunia.com|wtk.pl,badfilter
 @@||pubads.g.doubleclick.net/gampad/ads*tv.rakuten.co.jp$xhr,domain=imasdk.googleapis.com,badfilter
 
 ! https://github.com/easylist/easylist/pull/5560

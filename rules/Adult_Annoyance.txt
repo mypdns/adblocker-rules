@@ -759,12 +759,6 @@ livesex.com###overlay-container
 1cam.webcam##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
 1cam.webcam##.fancybox-overlay-fixed.fancybox-overlay
 
-##.fancybox-overlay-fixed.fancybox-overlay
-##.fancybox-skin
-##.__give_away.bc_popalert
-##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
-##.fancybox-overlay-fixed.fancybox-overlay
-
 ! 4/13/2020 http://animal-lovers.net, https://www.mypdns.org/T2749, https://www.mypdns.org/T2750
 animal-lovers.net##[href="http://beastsexstars.net"] > .aligncenter
 animal-lovers.net##.p-topBarController
@@ -954,7 +948,6 @@ tini-porno.com##.in.fade.modal-backdrop
 ! 10/30/2019 http://18teens.pro
 18teens.pro###topbar
 !18teens.pro##.ad-on-video
-##.ad-on-video
 18teens.pro##div.mexu-bns-bl:nth-of-type(4)
 18teens.pro##div.mexu-bns-bl:nth-of-type(6)
 
@@ -975,7 +968,6 @@ hentai-paradise.fr##.reveal-overlay
 ! 11/4/2019 livefreecamx.com
 ||ssl-ccstatic.highwebmedia.com/CACHE/js/$script
 !###.overlay
-##.overlay
 
 ! 11/4/2019 https://nakedgirls.org
 !nakedgirls.org###dclm_modal_screen
