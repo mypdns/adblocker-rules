@@ -2,7 +2,7 @@
 ! Title: Spirillen's – Adblock Rules
 ! Expires: 1 hour
 !
-! List url: 
+! List url:
 ! https://github.com/spirillen/ublockorigin-rules/blockrules.txt
 !
 ! License:
@@ -16,7 +16,14 @@
 ! - https://github.com/spirillen/ublockorigin-rules/pulls
 ! Email:
 !   - None
-! Description: 
+! Description: This list is originally thought as a private project
+! Between two friends @spirillen and @AnonymousPoster
+! But it have come to our attention that other are using it as well and
+! That is nice to see, if you have any fixes, rules or just some decent
+! clean-up of rules, you are most welcome to participate.
+!
+! Versus any other project I participates to, this is more lazy and
+! >>If it smells like a fish, it's probably a fish<<
 !
 !------------------- General advert blocking filters -------------------!
 %include ublockorigin-rules:rules/blockrules.txt%
@@ -30,8 +37,8 @@
 !------------------- Adult Annoyance blocking filters ------------------!
 %include ublockorigin-rules:rules/Adult_Annoyance.txt%
 
-!------------------- MetArt Networking blocking filters ----------------!
-%include ublockorigin-rules:rules/MetArtNetwork.txt%
+!----------------------- Genral Global rules filters -------------------!
+%include ublockorigin-rules:rules/css_general_hide.txt%
 
 !--------------------- Anti Whitelist by @Yuki2718 ---------------------!
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/anti-allowlist.txt%
