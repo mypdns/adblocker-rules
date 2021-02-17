@@ -14,3 +14,6 @@
 ##popwindow
 
 ##.banner
+
+! https://github.com/easylist/easylist/pull/6968
+###push-notifications
