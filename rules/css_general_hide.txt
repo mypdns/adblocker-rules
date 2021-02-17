@@ -17,3 +17,6 @@
 
 ! https://github.com/easylist/easylist/pull/6968
 ###push-notifications
+
+! https://github.com/easylist/easylist/pull/6933
+##.ad.leaderboard
