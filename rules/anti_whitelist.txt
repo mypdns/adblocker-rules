@@ -1,3 +1,10 @@
+@@||ad.atown.jp/adserver/$domain=ad.atown.jp,badfilter
+||ad.atown.jp^
+@@||ads.instacart.com/admin/$~third-party,badfilter
+||ads.instacart.com^
+@@||ads.viralize.tv/player/$third-party,xmlhttprequest,badfilter
+||ads.viralize.tv^
+
 ! https://github.com/easylist/easylist/issues/6978
 @@||jsdelivr.net/npm/sharer.js$badfilter
 
