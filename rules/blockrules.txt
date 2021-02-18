@@ -10,7 +10,7 @@
 ||socket.io/images/sponsors^$image
 socket.io###sponsors
 
-##.notifier-wrapper
+/fingerprint2.min.js$script,important
 
 ! 2021-02-02 https://fanart.tv
 fanart.tv##.container:nth-of-type(4)

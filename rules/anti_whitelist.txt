@@ -5,6 +5,9 @@
 @@||ads.viralize.tv/player/$third-party,xmlhttprequest,badfilter
 ||ads.viralize.tv^
 
+! https://github.com/easylist/easylist/issues/6862
+@@||polfan.pl/*/fingerprint2.min.js$script,~third-party,badfilter
+
 ! https://github.com/easylist/easylist/issues/6978
 @@||jsdelivr.net/npm/sharer.js$badfilter
 

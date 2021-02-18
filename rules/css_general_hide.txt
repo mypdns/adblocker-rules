@@ -20,3 +20,5 @@
 
 ! https://github.com/easylist/easylist/pull/6933
 ##.ad.leaderboard
+
+##.notifier-wrapper
