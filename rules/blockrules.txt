@@ -1,3 +1,20 @@
+! 2021-02-18 https://trustpulse.com
+trustpulse.com##.Campaign__innerWrapper.birmingham-c-wrapper
+trustpulse.com##.Campaign--css.CampaignType--popup.Campaign.birmingham-campaign
+trustpulse.com###tp-7bQQ18cB-holder
+trustpulse.com##.tp-widget--compact.tp-bottom-left.tp-widget--rounded.tp-widget-container
+
+
+! 2021-02-08 https://simcast.com
+||parklogic.com^$important
+
+! 2021-02-09 https://asianxxxtv.com
+!||fwtrck.com^$important
+/vast-im.js$script,important
+
+! 2021-02-11 https://stripe.com
+/SentryInstance-$important
+
 ! https://github.com/easylist/easylist/pull/6990
 -google-tag-manager.$script
 
@@ -57,6 +74,17 @@ devdungeon.com##.container.footer
 ! 2021-02-08 http://aomizuan.sakura.ne.jp
 !sakura.ne.jp##.mainBanner
 ##.mainBanner
+
+! 2021-01-30 https://subscene.com
+subscene.com##.details
+!subscene.com##[href^="https://widget.watchmondo.com/home/redirectto"]
+##a[href^="https://widget.watchmondo.com/home/redirectto"]
+
+! 2021-01-30 https://rarbg2021.org
+rarbg2021.org##.lista > tbody > tr > td > table > tbody > tr > td
+
+! 2021-01-30 https://rarbgaccessed.org
+rarbgaccessed.org##.lista > tbody > tr > td > table
 
 ! 2020-12-23 https://twitter.com
 twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1867qdf.r-1in3vh1.r-1ihkh82.css-1dbjc4n:nth-of-type(6)
@@ -182,6 +210,10 @@ koditips.com##div:nth-of-type(4)
 ! 2021-01-15 https://www.imdb.com
 !imdb.com##.banner-container
 ##.banner-container
+! 2021-02-03 https://www.imdb.com
+imdb.com##div.odd.list_item > .info > .wtw-option-standalone
+imdb.com##div.even.list_item > .info > .wtw-option-standalone > span > .mini-watchbox > .promoted-watch-ad-link.promoted-watch-ad.mini-watchbox__primary-button--description.mini-watchbox__primary-button
+imdb.com##div.even.list_item > .info > .wtw-option-standalone > span > .mini-watchbox > .buybox__modal.mini-watchbox__moreoptions > .ipc-icon--more-horiz.ipc-icon
 
 ! 2021-01-19 https://cyph.app
 ||api.cyph.com/analytics/collect$xhr,important
@@ -362,6 +394,10 @@ duckduckgo.com###m2-0
 ||3g2upl4pq6kufc4m.onion/public/$third-party
 ||3g2upl4pq6kufc4m.onion/m.js?*^cb=ddg_spice_amazon^
 3g2upl4pq6kufc4m.onion##.highlight_sponsored
+! 2021-02-03 https://3g2upl4pq6kufc4m.onion
+3g2upl4pq6kufc4m.onion##li.zcm__item:nth-of-type(6)
+3g2upl4pq6kufc4m.onion##li.zcm__item:nth-of-type(5)
+3g2upl4pq6kufc4m.onion##li.zcm__item:nth-of-type(4)
 
 ! 2020-08-23 https://www.bittorrent.com
 bittorrent.com##.consent-banner-animation-enter-done
@@ -1066,6 +1102,9 @@ blog.heckel.io###sidebar_second_ad
 en.bab.la##.magazine.teaser
 en.bab.la##div.teaser-wrapper:nth-of-type(5)
 en.bab.la##div.teaser-wrapper:nth-of-type(6)
+
+! 2021-02-13 https://kitsu.io
+||google-analytics.com^$important
 
 ! 11/24/2019 casacherda.nl
 /wp-content/plugins/google-analytics-for-wordpress/$script

@@ -1,3 +1,10 @@
+! 2021-02-14 https://asian.streamate.com
+asian.streamate.com##.c0136
+
+! 2021-01-31 https://www.littleasians.com
+www.littleasians.com##.formwrapper.col-md-12.col-lg-4.col-12
+www.littleasians.com##.video-description > .join-link
+
 ! 3danimeworld.com | metrotoons.com
 /Vbanner/*$important,domain=3danimeworld.com|metrotoons.com
 
@@ -37,6 +44,26 @@ fakestube.com###custom_html-2 > .custom-html-widget.textwidget > [href]
 
 ! 2021-02-09 http://hosinojun.web.fc2.com
 hosinojun.web.fc2.com###fc2_bottom_bnr
+
+! 2021-01-31 https://www.freebunker.com
+www.freebunker.com###layer
+
+! 2021-01-31 https://www.pornbus.org
+www.pornbus.org###layer
+
+! 2021-01-31 https://brattysis.com
+brattysis.com##.hidden-tablet.hidden-phone.hover-join-form
+
+! 2021-01-30 https://myfamilypies.com
+myfamilypies.com##.hover-join
+myfamilypies.com##.watch-page-video-container > .container-fluid
+
+! 2021-01-30 https://www.18eighteen.com
+www.18eighteen.com##.promo-half_off
+
+! 2021-01-30 https://www.littleasians.com
+www.littleasians.com##.sub-footer
+www.littleasians.com##.formwrapper.col-md-12.col-lg-4.col-12
 
 ! 2021-01-17 https://www.sortporn.com
 sortporn.com###player_add
