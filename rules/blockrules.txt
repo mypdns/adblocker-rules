@@ -48,6 +48,9 @@ devdungeon.com##.container.footer
 ! 2021-02-09 https://todaysfreemovies.blog31.fc2.com
 ||inran.biz^$important
 
+! https://github.com/easylist/easylist/pull/6886
+||fc2.com/share/js/gdpr/
+
 ! 2021-02-14 https://sexhihi.org
 /adsmb.js$script,important
 
