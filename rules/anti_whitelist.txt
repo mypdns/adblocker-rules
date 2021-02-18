@@ -132,7 +132,7 @@ supercomfysleep.com##.normal_social:style(visibility: hidden !important;)
 ! https://github.com/easylist/easylist/issues/5577
 ! https://github.com/easylist/easylist/commit/fc2791b199167dab80232510982e9c10218d33ab
 ! https://github.com/easylist/easylist/issues/6119
-@@||apis.google.com/js/platform.js$domain=9gag.com|corrupt-a-file.net|coursehero.com|crello.com|discogs.com|dubox.com|duolingo.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|prntscr.com|sato.fi,badfilter
+@@||apis.google.com/js/platform.js$domain=9gag.com|corrupt-a-file.net|coursehero.com|crello.com|discogs.com|dubox.com|duolingo.com|febbit.com|gazeta.uz|id.logi.com|jakdojade.pl|kroger.com|moshi.com|oasgames.com|olx.pl|olx.ro|passeidireto.com|prntscr.com|sato.fi|typewriter.at,badfilter
 
 ! https://github.com/ryanbr/fanboy-adblock/issues/1372
 ! https://github.com/spirillen/dns-rpz-integration/issues/17#issuecomment-647053231
