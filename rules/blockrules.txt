@@ -1,9 +1,11 @@
+https://github.com/easylist/easylist/pull/6748
+/udf-event-track
+
 ! 2021-02-18 https://trustpulse.com
 trustpulse.com##.Campaign__innerWrapper.birmingham-c-wrapper
 trustpulse.com##.Campaign--css.CampaignType--popup.Campaign.birmingham-campaign
 trustpulse.com###tp-7bQQ18cB-holder
 trustpulse.com##.tp-widget--compact.tp-bottom-left.tp-widget--rounded.tp-widget-container
-
 
 ! 2021-02-08 https://simcast.com
 ||parklogic.com^$important
