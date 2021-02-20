@@ -20,6 +20,9 @@ trustpulse.com##.tp-widget--compact.tp-bottom-left.tp-widget--rounded.tp-widget-
 ! https://github.com/easylist/easylist/pull/6990
 -google-tag-manager.$script
 
+! https://github.com/easylist/easylist/pull/6744
+/google-universal-analytics-
+
 ! https://github.com/easylist/easylist/pull/7010
 .gif?*&stat=
 
@@ -1090,20 +1093,20 @@ bitbucket.org##.success.fadeout.shadowed.closeable.aui-message
 bitbucket.org###id_is_private_group
 ! 09/12/2019 dprtb.com
 ||dprtb.com/click
-! 11/28/2019 https://bestlovesexdoll.com
-!bestlovesexdoll.com###accept-cookies
-!bestlovesexdoll.com##.product-suggest
-###accept-cookies
-##.product-suggest
+
 ! 11/11/2019 https://www.thesslstore.com
 thesslstore.com##.open.slide-out-div
+
 ! 17/11/2019 https://blog.heckel.io
 blog.heckel.io###sidebar_second_ad
-! 11/28/2019 https://bestlovesexdoll.com
+
+! 11/28/2019 https://bestlovesexdoll.com https://www.mypdns.org/T3801
 !bestlovesexdoll.com##.halo-modal.wrapper-newsletter
 ##.halo-modal.wrapper-newsletter
-! 11/28/2019 bestlistofporn.com
-||bestlistofporn.com/wp-content/plugins/google-analytics-for-wordpress/$script
+!bestlovesexdoll.com###accept-cookies
+!bestlovesexdoll.com##.product-suggest
+
+
 ! 11/28/2019 https://en.bab.la
 en.bab.la##.magazine.teaser
 en.bab.la##div.teaser-wrapper:nth-of-type(5)
@@ -1112,8 +1115,9 @@ en.bab.la##div.teaser-wrapper:nth-of-type(6)
 ! 2021-02-13 https://kitsu.io
 ||google-analytics.com^$important
 
-! 11/24/2019 casacherda.nl
-/wp-content/plugins/google-analytics-for-wordpress/$script
+! 11/28/2019 bestlistofporn.com https://www.mypdns.org/T3799
+! 11/24/2019 casacherda.nl https://www.mypdns.org/T3800
+/google-analytics-for-wordpress/$script
 
 ! https://lecourrier-du-soir.com/
 /wp-content/plugins/uk-cookie-consent/*$script,important
