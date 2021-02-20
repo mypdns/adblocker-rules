@@ -21,7 +21,15 @@
 ! https://github.com/easylist/easylist/pull/6933
 ##.ad.leaderboard
 
+##.layout__sidebar-ad-1
+##.layout__sidebar-ad-2
+##.layout__sidebar-ad-3
+##.layout__sidebar-ad-mobile
+
 ##.notifier-wrapper
+
+##.post__inarticle-ad-template-mobile
+##.sticky-ad-target
 
 ##div[class^="ad_unit_below"]
 ##div[class^="ad_unit_header"]
