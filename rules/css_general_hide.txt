@@ -22,3 +22,5 @@
 ##.ad.leaderboard
 
 ##.notifier-wrapper
+
+###cookie.notice
