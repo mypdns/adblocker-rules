@@ -1,7 +1,8 @@
-! tuberel.com
+! tuberel.com https://www.mypdns.org/T3804
 ||tuberel.com/*.php
 
-
+! tubev.sex https://www.mypdns.org/T3805
+||tubev.sex/static/js/abb.js
 
 ! pornj.com https://www.mypdns.org/T3803
 ||pornj.com/gabril/
