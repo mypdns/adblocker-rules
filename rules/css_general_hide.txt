@@ -24,3 +24,6 @@
 ##.notifier-wrapper
 
 ###cookie.notice
+
+##div[class^="ad_unit_below"]
+##div[class^="ad_unit_header"]
