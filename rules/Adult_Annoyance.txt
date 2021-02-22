@@ -1,3 +1,6 @@
+! 2021-02-22 https://tubeteensporn.com
+/renderer/renderer.js$script,important
+
 ! tuberel.com https://www.mypdns.org/T3804
 ||tuberel.com/*.php
 
