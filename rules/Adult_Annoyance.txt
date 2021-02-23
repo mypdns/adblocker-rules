@@ -392,11 +392,9 @@ xfantasy.com##.faux-applet-sidebar
 ! https://www.mypdns.org/T1840
 ||smutty.xyz/pop.js$script,important
 
-! 2020-10-16 realteenbeauty.com
-! https://www.mypdns.org/T1846
+! 2020-10-16 realteenbeauty.com, https://www.mypdns.org/T1846
 ||realteenbeauty.com/js/*$script,important
-/teen.php,domain=18teenslut.com|realteenbeauty.com,$important
-||realteenbeauty.comd/count.php$important
+/teen.php$document,important,domain=18teenslut.com|realteenbeauty.com|teenasspussy.com
 
 ! 2020-10-08 https://www.redtube.com
 ! https://www.mypdns.org/T1426
