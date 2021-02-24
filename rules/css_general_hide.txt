@@ -1,3 +1,6 @@
+! https://github.com/easylist/easylist/pull/6607
+##.component-ads-by-google
+
 ##.popup-consent
 ##.fancybox-overlay-fixed.fancybox-overlay
 ##.fancybox-skin
