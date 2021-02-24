@@ -39,3 +39,4 @@
 ##.notice-cookies
 ###accept-cookies
 ##.product-suggest
+##.CookieAcceptance
