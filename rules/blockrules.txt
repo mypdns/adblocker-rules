@@ -1,3 +1,6 @@
+! https://www.mypdns.org/T3667
+||redirect-ads.com^
+
 ! getalltraffic.com
 ||getalltraffic.com^$important
 
