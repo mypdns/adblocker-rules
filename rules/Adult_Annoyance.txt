@@ -1,3 +1,7 @@
+! 2021-02-26 https://www1.myhdjav.net, https://www.mypdns.org/T3934
+! https://github.com/easylist/easylist/pull/6888
+!myhdjav.net##.player-sidebar
+
 ! 2021-02-22 https://tubeteensporn.com https://www.mypdns.org/T3820
 /renderer/renderer.js$script,important
 
