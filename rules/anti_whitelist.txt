@@ -1,6 +1,10 @@
 ! AdGuard Annoyances
 @@||stats.hprofits.com/advertisement.js,badfilter
 
+! https://github.com/easylist/easylist/issues/7290, https://www.mypdns.org/T3826
+@@||privacy-mgmt.com^$domain=bold.dk,badfilter
+@@||sp-prod.net/wrapperMessagingWithoutDetection.js$domain=bold.dk,badfilter
+
 ! https://github.com/easylist/easylist/issues/6882
 microsoft.com#@##ms-cookie-banner$badfilter
 
