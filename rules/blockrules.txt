@@ -1,5 +1,6 @@
 ! clarity.ms, https://www.mypdns.org/T3678
 ||clarity.ms^
+||clarity.microsoft.com^
 
 ! https://www.mypdns.org/T3667
 ||redirect-ads.com^
