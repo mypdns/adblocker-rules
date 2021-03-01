@@ -1,3 +1,12 @@
+! CopyRight
+! https://www.mypdns.org/p/Spirillen/
+! Lisence:
+! https://github.com/spirillen/ublockorigin-rules/blob/0b9bf5a3a5072dbfc302ca2aa2489f08f76ce7a7/LICENSE
+!
+! If you copy any of these rules into any other filter,
+! witch would be very welcomed, You will also add a link to the related
+! issues on https://www.mypdns.org/ in your Merge Request.
+
 ! clarity.ms, https://www.mypdns.org/T3678
 ||clarity.ms^
 ||clarity.microsoft.com^

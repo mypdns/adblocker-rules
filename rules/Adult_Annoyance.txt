@@ -1,3 +1,12 @@
+! CopyRight
+! https://www.mypdns.org/p/Spirillen/
+! Lisence:
+! https://github.com/spirillen/ublockorigin-rules/blob/0b9bf5a3a5072dbfc302ca2aa2489f08f76ce7a7/LICENSE
+!
+! If you copy any of these rules into any other filter,
+! witch would be very welcomed, You will also add a link to the related
+! issues on https://www.mypdns.org/ in your Merge Request.
+
 ! 2021-03-01 https://www.viptube.com, https://www.mypdns.org/T1449
 viptube.com##.drt-sponsor-block
 viptube.com##.partner_text_link
@@ -5,6 +14,9 @@ viptube.com###spot_video_partner_banner
 viptube.com##.footer_adv
 viptube.com##div.stem_related.stem:nth-of-type(4)
 
+! 2021-02-18 https://pornolab.net, https://www.mypdns.org/T3740
+pornolab.net##.tCenter
+pornolab.net##.bypass-alert
 
 ! 2021-02-18 https://www.zteenporn.com, https://www.mypdns.org/T3736
 zteenporn.com##.ad_txt
