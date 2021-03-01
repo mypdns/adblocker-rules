@@ -1,3 +1,10 @@
+! 2021-03-01 https://www.viptube.com, https://www.mypdns.org/T1449
+viptube.com##.drt-sponsor-block
+viptube.com##.partner_text_link
+viptube.com###spot_video_partner_banner
+viptube.com##.footer_adv
+viptube.com##div.stem_related.stem:nth-of-type(4)
+
 ! 2021-02-26 https://www1.myhdjav.net, https://www.mypdns.org/T3934
 ! https://github.com/easylist/easylist/pull/6888
 !myhdjav.net##.player-sidebar
