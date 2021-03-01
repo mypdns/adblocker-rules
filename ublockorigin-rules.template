@@ -32,6 +32,9 @@
 !------- General advert blocking filters ------------------------------!
 %include ublockorigin-rules:rules/blockrules.txt%
 
+!------- Panic List ---------------------------------------------------!
+%include ublockorigin-rules:rules/panic.txt%
+
 !------- White List ---------------------------------------------------!
 %include ublockorigin-rules:rules/whitelist.txt%
 
