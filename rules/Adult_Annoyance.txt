@@ -5,6 +5,13 @@ viptube.com###spot_video_partner_banner
 viptube.com##.footer_adv
 viptube.com##div.stem_related.stem:nth-of-type(4)
 
+
+! 2021-02-18 https://www.zteenporn.com, https://www.mypdns.org/T3736
+zteenporn.com##.ad_txt
+zteenporn.com##.mask
+zteenporn.com##.footer-promo
+zteenporn.com##.pause-block
+
 ! 2021-02-26 https://www1.myhdjav.net, https://www.mypdns.org/T3934
 ! https://github.com/easylist/easylist/pull/6888
 !myhdjav.net##.player-sidebar
