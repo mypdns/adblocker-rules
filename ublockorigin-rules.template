@@ -16,6 +16,10 @@
 ! - https://github.com/spirillen/ublockorigin-rules/pulls
 ! Email:
 !   - None
+! CopyRight:
+!   - https://www.mypdns.org/p/Spirillen/
+!   - The individual lists maintainers
+!
 ! Description: This list is originally thought as a private project
 ! Between two friends @spirillen and @AnonymousPoster
 ! But it have come to our attention that other are using it as well and
@@ -25,23 +29,44 @@
 ! Versus any other project I participates to, this is more lazy and
 ! >>If it smells like a fish, it's probably a fish<<
 !
-!------------------- General advert blocking filters -------------------!
+!------- General advert blocking filters ------------------------------!
 %include ublockorigin-rules:rules/blockrules.txt%
 
-!------------------------------ White List -----------------------------!
+!------- White List ---------------------------------------------------!
 %include ublockorigin-rules:rules/whitelist.txt%
 
-!------------------------------ Anti White -----------------------------!
+!------- Anti White ---------------------------------------------------!
 %include ublockorigin-rules:rules/anti_whitelist.txt%
 
-!------------------- Adult Annoyance blocking filters ------------------!
+!------- Adult Annoyance blocking filters -----------------------------!
 %include ublockorigin-rules:rules/Adult_Annoyance.txt%
 
-!----------------------- Genral Global rules filters -------------------!
+!------- Genral Global rules filters ----------------------------------!
 %include ublockorigin-rules:rules/css_general_hide.txt%
 
-!--------------------- Anti Whitelist by @Yuki2718 ---------------------!
+!------- Anti Whitelist by @Yuki2718 ----------------------------------!
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/anti-allowlist.txt%
 
-!------------------ webannoyances by @yourduskquibbles -----------------!
+!------- webannoyances by @yourduskquibbles ---------------------------!
 %include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt%
+
+!------- Ad Placeholder by @yourduskquibbles --------------------------!
+%include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/ad_placeholders.txt%
+
+!------- Cookie Filters by @yourduskquibbles --------------------------!
+%include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/cookie_filters.txt%
+
+!------- Floating Annoyances by @yourduskquibbles ---------------------!
+%include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/floating_filters.txt%
+
+!------- Generic Filters by @yourduskquibbles -------------------------!
+%include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/generic_filters.txt%
+
+!------- Modal Overlay by @yourduskquibbles ---------------------------!
+%include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/modal_filters.txt%
+
+!------- Newsletter by @yourduskquibbles ------------------------------!
+%include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/newsletter_filters.txt%
+
+!------- Social Filters by @yourduskquibbles --------------------------!
+%include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/social_filters.txt%
