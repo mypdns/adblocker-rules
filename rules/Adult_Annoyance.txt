@@ -7,6 +7,10 @@
 ! witch would be very welcomed, You will also add a link to the related
 ! issues on https://www.mypdns.org/ in your Merge Request.
 
+!vipergirls.to, https://www.mypdns.org/T4144
+popcode*.js$domain=vipergirls.to
+
+
 ! 2021-03-01 https://www.viptube.com, https://www.mypdns.org/T1449
 viptube.com##.drt-sponsor-block
 viptube.com##.partner_text_link
