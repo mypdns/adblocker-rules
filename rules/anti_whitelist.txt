@@ -7,6 +7,9 @@
 ! witch would be very welcomed, You will also add a link to the related
 ! issues on https://www.mypdns.org/ in your Merge Request.
 
+! https://kainpopoy.com, https://www.mypdns.org/T4189
+@@&publisher_code=$popup,domain=voe.sx,badfilter
+
 ! AdGuard Annoyances
 @@||stats.hprofits.com/advertisement.js,badfilter
 
