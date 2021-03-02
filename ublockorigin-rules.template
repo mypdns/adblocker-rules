@@ -60,7 +60,7 @@
 %include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/cookie_filters.txt%
 
 !------- Floating Annoyances by @yourduskquibbles ---------------------!
-%include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/floating_filters.txt%
+!%include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/floating_filters.txt%
 
 !------- Generic Filters by @yourduskquibbles -------------------------!
 %include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/generic_filters.txt%
