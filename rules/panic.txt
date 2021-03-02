@@ -8,7 +8,3 @@
 ! issues on https://www.mypdns.org/ in your commit message.
 !
 ! This list is to override temporary issues within external lists
-
-! https://github.com/yourduskquibbles/webannoyances/issues/290
-github.com##.gh-header .gh-header-shadow.box-shadow, .gh-header .sticky-content, .is-placeholder, .is-stuck + .toolbar-shadow, .is-stuck .diffbar .show-if-stuck, .is-stuck.gh-header-sticky.top-0.js-sticky-offset-scroll.js-sticky, .pr-toolbar-shadow, .toolbar-shadow, .user-profile-sticky-bar,badfilter
-github.com##.is-stuck.js-position-sticky.js-sticky.pr-toolbar, .js-sticky.js-sticky-offset-scroll.top-0.gh-header-sticky.is-stuck, .pagehead, .position-sticky.mt-4, .rgh-sticky-sidebar.discussion-sidebar:style(position: static !important;),badfilter
