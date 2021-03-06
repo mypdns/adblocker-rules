@@ -1,6 +1,6 @@
 ! CopyRight
 ! https://www.mypdns.org/p/Spirillen/
-! Lisence:
+! Licence:
 ! https://github.com/spirillen/ublockorigin-rules/blob/0b9bf5a3a5072dbfc302ca2aa2489f08f76ce7a7/LICENSE
 !
 ! If you copy any of these rules into any other filter,
