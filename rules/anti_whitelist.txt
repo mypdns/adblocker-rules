@@ -7,6 +7,10 @@
 ! witch would be very welcomed, You will also add a link to the related
 ! issues on https://www.mypdns.org/ in your commit message.
 
+! yomovies.mx
+@@||yandexcdn.com^$script,1p,badfilter
+@@||yandexcdn.com^$generichide,badfilter
+
 ! https://kainpopoy.com, https://www.mypdns.org/T4189
 @@&publisher_code=$popup,domain=voe.sx,badfilter
 
