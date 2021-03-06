@@ -10,7 +10,7 @@
 ! yomovies.mx
 ||yandexcdn.com/js/*$script,important
 ||a.watchomovies.com^
-||a.speedostream.com^
+speedostream.com##+js(aost, Object.getOwnPropertyDescriptor, /^/)
 
 
 ! clarity.ms, https://www.mypdns.org/T3678
