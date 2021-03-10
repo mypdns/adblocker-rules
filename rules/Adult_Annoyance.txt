@@ -304,8 +304,9 @@ joyourself.com,liveprivates.com,lsawards.com,maturescam.com,mycams.com,mytrannyc
 18virginsex.com##.warning_modal-show.warning_modal-fade.warning_modal
 
 ! 2020-10-26 18andabuse.com
-! https://www.mypdns.org/T2275
+! https://www.mypdns.org/T2275, https://www.mypdns.org/T2364
 ||bang.com^$popup,important
+bang.com##.top-announcement-wrapper
 ||18andabuse.com^$popup,important
 
 ! 2020-11-02 https://www.dxlive.com, https://www.mypdns.org/T2068
