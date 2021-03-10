@@ -7,6 +7,23 @@
 ! witch would be very welcomed, You will also add a link to the related
 ! issues on https://www.mypdns.org/ in your commit message.
 
+! Notice, The following ruleset, WILL bring the site down from fully function
+adultdvdempire.com##.well.pricing-container.container
+adultdvdempire.com##.sticky-tagline
+adultdvdempire.com##.btn-success.btn
+adultdvdempire.com###nav-unlimited
+adultdvdempire.com##.main-nav
+adultdvdempire.com###UserOptions
+adultdvdempire.com###site-nav-account
+adultdvdempire.com##.beacon
+adultdvdempire.com##.site_footer
+adultdvdempire.com##.nav-cart
+adultdvdempire.com##.in.fade.modal
+
+
+adultdvd.com###popup-box
+adultdvd.com##td > [href="sale_50off_slee.html"]
+
 !vipergirls.to, https://www.mypdns.org/T4144
 popcode*.js$domain=vipergirls.to
 
@@ -1102,6 +1119,10 @@ alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,g
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.live-girls.more-girls
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.page-content > div:nth-of-type(3)
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.upgrade-strip
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.guest-panel
+sexart.com##.dTlKOF.sc-kmASHI.container.content > div > div > .panels.man-ui
+sexart.com##.bQeYRl.sc-eLgOdN
+
 ! 09/10/2019 https://v2.metart.com
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.col-xs-12.col-sm-12.col-md-12.col-lg-4
 ! 18/10/2019 https://v2.metart.com
@@ -1114,6 +1135,7 @@ v2.metart.com##.modal.fade
 ##.page-content > div:nth-of-type(3)
 ##.upgrade-strip
 /api/location$xmlhttprequest
+/api/tracking
 /api/upgradable-sites$xmlhttprequest,domain=alsscan.com|domai.com|eroticbeauty.com|errotica-archives.com|eternaldesire.com|goddessnudes.com|live.tv|lovehairy.com|metart..com|metart.com|rylskyart.com|sexart.com|stunning18.com|thelifeerotic.com|vivthomas.com
 /media/promotions/
 /sw.js$script
