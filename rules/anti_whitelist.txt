@@ -209,8 +209,8 @@ power.fi###cookie-notification#cookie-notification
 ! https://github.com/easylist/easylist/commit/3ec21e55ace2027b52cd69ef73002cd374d8344c#diff-3034fb5f835bb84b82df3927c7048308R10
 @@||192.168.*/privacy_policy.js$~third-party,badfilter
 
-! https://github.com/easylist/easylist/issues/5545
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp|farfeshplus.com|klix.ba|locipo.jp|nettavisen.no|niusdiario.es|rtlnieuws.nl|sportsport.ba|tbs.co.jp|tv.rakuten.co.jp|tver.jp|vlive.tv|webdunia.com|wtk.pl,badfilter
+! https://github.com/easylist/easylist/issues/7431
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp|farfeshplus.com|filmweb.pl|klix.ba|locipo.jp|maharashtratimes.com|nettavisen.no|niusdiario.es|rtlnieuws.nl|sportsport.ba|tbs.co.jp|tv-asahi.co.jp|tv.rakuten.co.jp|tver.jp|video.tv-tokyo.co.jp|vlive.tv|webdunia.com|wtk.pl,badfilter
 @@||pubads.g.doubleclick.net/gampad/ads*tv.rakuten.co.jp$xhr,domain=imasdk.googleapis.com,badfilter
 
 ! https://github.com/easylist/easylist/pull/5560
