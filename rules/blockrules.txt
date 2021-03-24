@@ -7,6 +7,18 @@
 ! witch would be very welcomed, You will also add a link to the related
 ! issues on https://www.mypdns.org/ in your commit message.
 
+! 2021-03-23 https://pastebin.com
+pastebin.com##.page
+pastebin.com##.h_800.share
+
+! 2021-03-24 http://warframe-builder.com
+warframe-builder.com###overlay
+warframe-builder.com###popup-compte
+
+! 2021-02-18 https://www.dmm.co.jp
+dmm.co.jp###id_top_disclaimer_parent
+||cn.dap.dmm.co.jp^$important
+
 /noui/eventlogger.js
 /noui/StatProvider.js
 
@@ -523,7 +535,7 @@ github.com##.js-notice.position-absolute.Popover
 
 ! 6/9/2020 https://github.com
 github.com##.col-3.box-shadow-medium.right-0.top-0.Popover.mr-3.mt-6.d-lg-block.d-none
-
+github.com##.js-header-promo-hide
 @@||github.com^$generichide,badfilter
 
 ! https://github.com/uBlockOrigin/uAssets/issues/7609
