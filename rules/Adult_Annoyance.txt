@@ -27,6 +27,8 @@ adultdvd.com##td > [href="sale_50off_slee.html"]
 !vipergirls.to, https://www.mypdns.org/T4144
 popcode*.js$domain=vipergirls.to
 
+||porncore.net/*.php
+porncore.net##div[id^="_"][style="margin:10px;height:200px;width:800px;"]
 
 ! 2021-03-01 https://www.viptube.com, https://www.mypdns.org/T1449
 viptube.com##.drt-sponsor-block
