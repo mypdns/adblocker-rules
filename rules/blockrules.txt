@@ -7,6 +7,9 @@
 ! witch would be very welcomed, You will also add a link to the related
 ! issues on https://www.mypdns.org/ in your commit message.
 
+/noui/eventlogger.js
+/noui/StatProvider.js
+
 ! yomovies.mx
 ||yandexcdn.com/js/*$script,important
 ||a.watchomovies.com^
