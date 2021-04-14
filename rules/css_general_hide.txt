@@ -4,8 +4,7 @@ cyberciti.biz##.adsbygoogle
 ##.alignright:has(.adsbygoogle)
 
 ! 2021-01-15 https://www.imdb.com
-!imdb.com##.banner-container
-##.banner-container
+imdb.com##.banner-container
 
 ##.popup-consent
 ##.fancybox-overlay-fixed.fancybox-overlay
