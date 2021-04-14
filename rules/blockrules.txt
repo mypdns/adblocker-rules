@@ -168,10 +168,6 @@ twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-1867qdf.r-1in3vh1.r-1ih
 ! 2021-01-23 https://community.platformio.org
 community.platformio.org##.container:nth-of-type(2)
 
-! 2021-01-18 reck.dk
-||d32wqyuo10o653.cloudfront.net/logo.png$image,important
-reck.dk###setting-error-tgmpa
-
 ! 2020-12-12 https://hjbib.dk
 hjbib.dk###sliding-popup
 hjbib.dk##.external.ask-vopros-tab
@@ -283,11 +279,6 @@ koditips.com##div:nth-of-type(4)
 ! 2021-01-15 https://rarbgaccess.org
 ||dyncdn.me/static/20/img/loading_flat.gif$image,important
 
-! 2021-02-03 https://www.imdb.com
-imdb.com##div.odd.list_item > .info > .wtw-option-standalone
-imdb.com##div.even.list_item > .info > .wtw-option-standalone > span > .mini-watchbox > .promoted-watch-ad-link.promoted-watch-ad.mini-watchbox__primary-button--description.mini-watchbox__primary-button
-imdb.com##div.even.list_item > .info > .wtw-option-standalone > span > .mini-watchbox > .buybox__modal.mini-watchbox__moreoptions > .ipc-icon--more-horiz.ipc-icon
-
 ! 2021-01-19 https://cyph.app
 ||api.cyph.com/analytics/collect$xhr,important
 
@@ -299,7 +290,7 @@ computingforgeeks.com###ezmobfooter
 computingforgeeks.com##.ezoic-ad-adaptive.adtester-container-106.adtester-container.large-leaderboard-1.ezoic-ad
 computingforgeeks.com##.adtester-container-111.adtester-container.medrectangle-4.ezoic-ad
 
-! 2020-11-15 eff.org
+! 2020-11-15 eff.org, https://www.mypdns.org/T2840
 ||anon-stats.eff.org^$important
 
 ! 2021-01-11 https://www.educba.com
@@ -320,11 +311,6 @@ fcomputer.dk##.pull-left.cookie-popup
 ! 2020-12-12 https://bibliotek.dk
 /eu_cookie_compliance.js$script,important
 
-! 2020-11-05 https://duckduckgo.com
-duckduckgo.com###m1-0
-! 2021-02-10 https://duckduckgo.com
-duckduckgo.com##.js-feedback-btn-wrap
-
 ! 2020-11-21 elgiganten.dk
 ||assets.queue-it.net/elkjobnordic/integrationconfig/javascript/queueclientConfig.js$script,important
 ||queue-it.net^$important
@@ -338,20 +324,47 @@ ubuntu.com##.p-card
 
 ||anymad.com^
 
-! 2020-11-22 https://github.com
+! https://www.mypdns.org/T941
+! 2020-10-06 https://github.com
+||alive.github.com^$websocket,important
 ||github.com/_alive$xhr,important
-github.com##.js-notice.Popover
-github.com##.rounded-1.signup-prompt-bg
-github.com##.js-notice.Popover
-github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-lg-5.pr-md-4.pr-3.col-lg-3.col-md-3.col-12.team-left-column
+||github.com/_ws$xhr,important
 ||github.com/socket-worker-*.js$script,important
+||live.github.com/_luau/*$websocket,important
+||live.github.com/_ws/*$websocket,important
+github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-lg-5.pr-md-4.pr-3.col-lg-3.col-md-3.col-12.team-left-column
+github.com##.col-3.box-shadow-medium.right-0.top-0.Popover.mr-3.mt-6.d-lg-block.d-none
+github.com##.hx_cookie-banner--show
+github.com##.hx_cookie-banner--show.js-cookie-consent-banner
+github.com##.js-cookie-consent-banner
+github.com##.js-cookie-consent-preferences-link-container
+github.com##.js-header-promo-hide
+github.com##.js-notice.MarketplaceAnnouncement.flash-full.flash
+github.com##.js-notice.Popover
+github.com##.js-notice.mb-4
+github.com##.js-notice.position-absolute.Popover
+github.com##.js-notifications-list-protip.text-gray.flex-items-center.d-flex
 github.com##.js-unwatch-suggestions.js-notice.flash
+github.com##.mb-3.js-details-container.Details.border-black-fade.Box-row--yellow.Box
+github.com##.rounded-1.signup-prompt-bg
+! Seems to brake internal features
+!$webrtc,domain=github.com
+!$xmlhttprequest,domain=alive.github.com,important
+@@||github.com^$generichide,badfilter
 
 ! 2020-09-15 https://www.reck.dk
 reck.dk##.frash-notice-email.frash-notice.notice
 reck.dk##.is-dismissible.settings-error.notice-warning.notice
 reck.dk###blc-sidebar
 reck.dk##.is-dismissible.notice.notice-info.wt_cli_review_request
+reck.dk##.smush-notice.notice
+reck.dk##.wds-report > .sui-upsell-row
+reck.dk##.updated
+||d32wqyuo10o653.cloudfront.net/logo.png$image,important
+reck.dk###setting-error-tgmpa
+reck.dk##.is-upgrade-premium.has-call-to-action.jitm-banner.jitm-card
+reck.dk##.wpmudev-recommended-plugins
+reck.dk##.updated
 
 ! 2020-09-25 https://www.mechbunny.com
 mechbunny.com##div.col-half.col.spec-col:nth-of-type(2)
@@ -361,19 +374,19 @@ themezee.com###boxzilla-57913
 themezee.com###footer-about-section
 themezee.com##.boxzilla-newsletter.boxzilla-bottom-right.boxzilla-57913.boxzilla
 
-! 2020-11-29 https://wct.link
+! 2020-11-29 https://wct.link, https://www.mypdns.org/T3205
 ||wct.link^$important
 
-! 2020-11-24 https://validate.perfdrive.com
+! 2020-11-24 https://validate.perfdrive.com, https://www.mypdns.org/T3018
 ||perfdrive.com^$important
 
 ! 2020-11-24 https://www.babeimpact.com
 ||googleusercontent.com^$important
 
-! 2020-11-25 https://clearcode.pl
+! 2020-11-25 https://clearcode.pl, https://www.mypdns.org/T3058
 ||piwik.pro^$important
 
-! 2020-11-25 https://piwikpro.de
+! 2020-11-25 https://piwikpro.de, https://www.mypdns.org/T3061
 ||piwikpro.de^$important
 
 ! 2020-11-25 https://www.facebook.com
@@ -385,7 +398,7 @@ facebook.com##.cxgpxx05 > div > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
 /matomo/*$script,important
 /piwik.php$script,important
 /matomo.js$domain=~github.com,badfilter
-/matomo.js$script
+/matomo.js$script,important
 /matomo/*$domain=~github.com|~matomo.org|~wordpress.org,badfilter
 
 ! 2020-11-16 glokta.info, https://www.mypdns.org/T2882
@@ -422,7 +435,7 @@ hclips.com##.video-page__
 ###nextoutils_gestionCookies ~ .popin-cache
 
 ! 2020-09-09 https://www.bundesregierung.de
-bundesregierung.de##.bpa-white.bpa-module-supplement.bpa-module.bpa-cookie-banner
+bundesregierung.de##.bpa-cookie-banner
 
 ! 2020-10-05 soeberg.dk
 ||chatbot.com^$important
@@ -450,55 +463,78 @@ imagefruit.com###layer
 ||statsy.net^$important
 ||dyncdn.me/static/20/js/scrollspy.min.js$script,important
 
-! 2020-08-13 https://www.imdb.com
-imdb.com##.videoPreview--autoPlaybackOnce.videoPreview
-
 ! 7/15/2020 https://duckduckgo.com, https://www.mypdns.org/T2844
 ||duckduckgo.com/?q=$elemhide
-||duckduckgo.com^*^q=$elemhide
-||duckduckgo.com/lite$elemhide
 ||duckduckgo.com/html$elemhide
-||duckduckgo.com/share/spice/amazon/$domain=duckduckgo.com
+||duckduckgo.com/lite$elemhide
 ||duckduckgo.com/m.js?$domain=duckduckgo.com
-duckduckgo.com##.at-bottom.t-m.related-searches
-duckduckgo.com##.js-module--videos.module--carousel-videos.module--carousel.module
-duckduckgo.com##.footer
+||duckduckgo.com/share/spice/amazon/$domain=duckduckgo.com
+||duckduckgo.com^*^q=$elemhide
 duckduckgo.com###m1-0
 duckduckgo.com###m2-0
+duckduckgo.com##.related-searches
+duckduckgo.com##.footer
+duckduckgo.com##.js-feedback-btn-wrap
+duckduckgo.com##.module--carousel
+duckduckgo.com##.ia-modules
+duckduckgo.com##.js-ia-modules
+duckduckgo.com###organic-module
+duckduckgo.com##[href^="https://www.youtube.com/results"]
+duckduckgo.com##.js-video-privacy-leave
+! A very strict Google Prevention rule, Protecting you from accidetially to
+! becomming redirected to SpyWare by Google
+duckduckgo.com##[href^="https://www.youtube.com/watch"]
 
-! 2020-08-16 3g2upl4pq6kufc4m.onion
-||3g2upl4pq6kufc4m.onion/t/*$important
-||3g2upl4pq6kufc4m.onion/public/$third-party
-||3g2upl4pq6kufc4m.onion/m.js?*^cb=ddg_spice_amazon^
-3g2upl4pq6kufc4m.onion##.highlight_sponsored
 ! 2021-02-03 https://3g2upl4pq6kufc4m.onion
-3g2upl4pq6kufc4m.onion##li.zcm__item:nth-of-type(6)
-3g2upl4pq6kufc4m.onion##li.zcm__item:nth-of-type(5)
+||3g2upl4pq6kufc4m.onion^*^q=$elemhide
+||3g2upl4pq6kufc4m.onion/?q=$elemhide
+||3g2upl4pq6kufc4m.onion/html$elemhide
+||3g2upl4pq6kufc4m.onion/lite$elemhide
+||3g2upl4pq6kufc4m.onion/m.js?$domain=3g2upl4pq6kufc4m.onion
+||3g2upl4pq6kufc4m.onion/m.js?*^cb=ddg_spice_amazon^
+||3g2upl4pq6kufc4m.onion/public/$third-party
+||3g2upl4pq6kufc4m.onion/share/spice/amazon/$domain=3g2upl4pq6kufc4m.onion
+||3g2upl4pq6kufc4m.onion/t/*$important
+3g2upl4pq6kufc4m.onion###m1-0
+3g2upl4pq6kufc4m.onion###m2-0
+3g2upl4pq6kufc4m.onion###organic-module
+3g2upl4pq6kufc4m.onion##.footer
+3g2upl4pq6kufc4m.onion##.highlight_sponsored
+3g2upl4pq6kufc4m.onion##.ia-modules
+3g2upl4pq6kufc4m.onion##.js-feedback-btn-wrap
+3g2upl4pq6kufc4m.onion##.js-ia-modules
+3g2upl4pq6kufc4m.onion##.js-video-privacy-leave
+3g2upl4pq6kufc4m.onion##.module--carousel
+3g2upl4pq6kufc4m.onion##.related-searches
+3g2upl4pq6kufc4m.onion##[href^="https://www.youtube.com/results"]
 3g2upl4pq6kufc4m.onion##li.zcm__item:nth-of-type(4)
+3g2upl4pq6kufc4m.onion##li.zcm__item:nth-of-type(5)
+3g2upl4pq6kufc4m.onion##li.zcm__item:nth-of-type(6)
+
+! A very strict Google Prevention rule, Protecting you from accidetially to
+! becomming redirected to SpyWare by Google
+3g2upl4pq6kufc4m.onion##[href^="https://www.youtube.com/watch"]
 
 ! 2020-08-23 https://www.bittorrent.com
 bittorrent.com##.consent-banner-animation-enter-done
 
-! 2020-09-01 aninding-branship.com
+! 2020-09-01 aninding-branship.com, https://www.mypdns.org/T1317
 ||aninding-branship.com^$important
 
-! 2020-09-01 roxxiebubbles.com
+! 2020-09-01 roxxiebubbles.com, https://www.mypdns.org/T1324
 ||roxxiebubbles.com/jspopunder2.js$script,important
 
 ! 5/24/2020 https://www.hetzner.com
 hetzner.com##.hidden-xs.hidden-sm.footer-main-section > .container > div.row:nth-of-type(2)
 
-! 5/29/2020 https://www.reck.dk
-reck.dk##.smush-notice.notice
-reck.dk##.wds-report > .sui-upsell-row
-
 ! 7/20/2020 https://svscomics.com
 svscomics.com##.regi
 
 ! 8/4/2020 https://www.techradar.com
-techradar.com##.region_above_ad.region_redirect_popup
+techradar.com##.region_above_ad
+techradar.com##.region_redirect_popup
 
-! 2020-08-17 start.me
+! 2020-08-17 start.me, https://www.mypdns.org/T1134
 ||whatismylocale.start.me^$important
 
 ! 2020-08-30 https://python3.guide
@@ -513,47 +549,15 @@ iobit.com###db7new
 ||thetechsutra.com/wp-content/cache/*$script,important
 ||thetechsutra.com/cdn-cgi/scripts/*/cloudflare-static/email-decode.min.js$script,important
 
-! 2020-08-14 erogames.com
+! 2020-08-14 erogames.com, https://www.mypdns.org/T1062, https://www.mypdns.org/T1230
 ||recaptcha.net^$important
 @@||recaptcha.net/recaptcha/$badfilter
 
-! 2020-08-15 sky.com
+! 2020-08-15 sky.com, https://www.mypdns.org/T1094
 @@||analytics.global.sky.com/sky-tags$badfilter
 
 ! 2020-08-15 bbc.co.uk
 @@||bbci.co.uk^*/cookie-library.min.js$badfilter
-
-! 2020-10-06 https://github.com
-github.com##.hx_cookie-banner--show
-github.com##.js-cookie-consent-banner
-github.com##.hx_cookie-banner--show.js-cookie-consent-banner
-github.com##.js-cookie-consent-preferences-link-container
-github.com##.js-cookie-consent-banner
-
-! 12/08/2020 https://github.com
-github.com##.js-notice.MarketplaceAnnouncement.flash-full.flash
-
-! 2020-09-02 github.com
-||github.com/_alive$xhr,important
-
-! 26/07/2020 https://github.com
-github.com##.js-notice.position-absolute.Popover
-! 08/08/2020 github.com
-||alive.github.com^$websocket,important
-! Seems to brake internal features
-!$webrtc,domain=github.com
-!$xmlhttprequest,domain=alive.github.com,important
-
-! https://www.mypdns.org/T941
-! 6/28/2020 github.com
-||live.github.com/_luau/*$websocket,important
-||live.github.com/_ws/*$websocket,important
-||github.com/_ws$xhr,important
-
-! 6/9/2020 https://github.com
-github.com##.col-3.box-shadow-medium.right-0.top-0.Popover.mr-3.mt-6.d-lg-block.d-none
-github.com##.js-header-promo-hide
-@@||github.com^$generichide,badfilter
 
 ! https://github.com/uBlockOrigin/uAssets/issues/7609
 wikibious.com##+js(aopr, disable_copy)
@@ -577,39 +581,36 @@ whois.com##.chiclet_wph
 ! 15/06/2020 https://bitbucket.org
 bitbucket.org##div.atlaskit-portal:nth-of-type(1) > .lmzGgl.sc-gipzik > .cGINmZ.sc-Rmtcm
 bitbucket.org##.ei693ry6.css-kigghj
-
-! 29/06/2020 https://bitbucket.org
 bitbucket.org##div.atlaskit-portal:nth-of-type(1) > .bbgDmu.sc-bZQynM > .fHktW.sc-htoDjs
-
-! 04/07/2020 https://bitbucket.org
 bitbucket.org##div.atlaskit-portal:nth-of-type(1) > .hCTpf.sc-gzVnrw > .hHLyWY.sc-dnqmqq
+bitbucket.org##.cjMOOK.styledFlagGroup-sc-1dirlpz-0
+bitbucket.org##.upgrade-banner-container
+bitbucket.org##.success.fadeout.shadowed.closeable.aui-message
+bitbucket.org###id_is_private_group
 
 ! 08/07/2020 dandomain.dk
 ||gstaticadssl.l.google.com^$important
 ||fonts.gstatic.com^$important
 
-! 18/07/2020 https://bitbucket.org
-bitbucket.org##.cjMOOK.styledFlagGroup-sc-1dirlpz-0
-
-! 26/07/2020 msecnd.net
-! https://www.mypdns.org/T724
+! 26/07/2020 msecnd.net, https://www.mypdns.org/T724
 ||msecnd.net/script/raptor-2.1.0.js$important
 
 ! 04/08/2020 erobodio.ru
 ||maps.yandex.net^$important
 
-! 8/3/2020 postnord.com
+! 8/3/2020 postnord.com, https://www.mypdns.org/T68
 ||googleapis.com^$important
 
 ! 3/25/2020 https://www.howtoforge.com
 howtoforge.com##.bsa-apiads
 
-! 4/25/2020 https://rarbgaccess.org
+! 4/25/2020 https://rarbgaccess.org, https://www.mypdns.org/T1715
 ||22pixx.xyz^$image
 
-! 6/2/2020 huffingtonpost.ca
+! 6/2/2020 huffingtonpost.ca, https://www.mypdns.org/T721
 ||uplynk.com^$xhr
 
+! https://www.mypdns.org/T106
 ||adobedtm.com^$important
 
 ! 6/7/2020 spillemyndigheden.dk
@@ -642,9 +643,6 @@ shop.westerndigital.com##div.ng-scope.md\:h-auto.h-full.flex.relative.flex-col.l
 ! 6/2/2020 https://www.pricerunner.dk
 pricerunner.dk##._3YnaHq5Pmy
 
-! 6/9/2020 https://bitbucket.org
-bitbucket.org##.ei693ry6.css-kigghj
-
 ! https://www.mypdns.org/T915
 ||hcaptcha.com^$important
 
@@ -654,14 +652,8 @@ linuxize.com##.pt-12.lg\:top-16.lg\:sticky.lg\:relative.lg\:block.-mt-12.flex-co
 ! 27/04/2020 https://developers.redhat.com
 developers.redhat.com##.general-promo.category-promo-section
 
-! 27/04/2020 https://www.reck.dk
-reck.dk##.updated
-
 ! 28/04/2020 https://gitlab.com
 gitlab.com##.d-flex.js-broadcast-notification-100719.broadcast-notification-message
-
-! 07/05/2020 https://bitbucket.org
-bitbucket.org##.upgrade-banner-container
 
 ! 07/05/2020 https://serverfault.com
 serverfault.com###noscript-warning
@@ -718,14 +710,6 @@ imagefap.com##td.mnu0:nth-of-type(21)
 ! 4/14/2020 https://www.sythe.org
 sythe.org###logoBlock > .pageWidth > .pageContent > div:nth-of-type(1)
 
-! 4/16/2020 https://www.reck.dk
-reck.dk##.is-upgrade-premium.has-call-to-action.jitm-banner.jitm-card
-reck.dk##.wpmudev-recommended-plugins
-reck.dk##.updated
-
-! 4/17/2020 https://bitbucket.org
-bitbucket.org##.upgrade-banner-container
-
 ! 4/18/2020 https://stackoverflow.com
 stackoverflow.com##.js-theme-selector.bs-md.z-active.overflow-hidden.theme-selector
 
@@ -738,16 +722,6 @@ tecmint.com##.post-format
 tecmint.com##.after-post-box
 tecmint.com##.entry-inner > div:nth-of-type(10)
 tecmint.com###attachment_10195
-
-! 4/18/2020 https://duckduckgo.com
-duckduckgo.com##.badge-link--newsletter.badge-link--thumbnail.js-badge-link.badge-link--serp.badge-link
-
-! 4/19/2020 https://github.com
-github.com##.mb-3.js-details-container.Details.border-black-fade.Box-row--yellow.Box
-
-! 4/23/2020 https://www.zytrax.com
-!zytrax.com##.adv
-##.adv
 
 ! 4/26/2020 https://www.deviantart.com
 deviantart.com##._1fo9J
@@ -784,14 +758,24 @@ https://padsabz.com/5b/11/ec/5b11ec577f7ab76d9e3bf5af286eda00.js
 ! 2/11/2020 https://www.imdb.com
 imdb.com##.page-grid.hero.ipc-page-grid--bias-left.ipc-page-grid > .ipc-page-grid__item--span-3.ipc-page-grid__item
 imdb.com##div.page-grid.ipc-page-grid--bias-left.ipc-page-grid:nth-of-type(3)
+imdb.com###pagecontent > .ab_widget
+imdb.com###sidebar
+imdb.com###title-social-sharing-widget
+imdb.com###titleDidYouKnow
+imdb.com###title_completed_pro_link
+imdb.com##._1eKbSAFyeJgUyBUy2VbcS_.imdb-footer__logo
+imdb.com##._2-iNNCFskmr4l2OFN2DRsf.imdb-footer__copyright
+imdb.com##._2Wc8yXs8SzGv7TVS-oOmhT.imdb-footer__socials
+imdb.com##.contribute.article
+imdb.com##.recently-viewed
+imdb.com##div.odd.list_item > .info > .wtw-option-standalone
+imdb.com##div.even.list_item > .info > .wtw-option-standalone > span > .mini-watchbox > .promoted-watch-ad-link.promoted-watch-ad.mini-watchbox__primary-button--description.mini-watchbox__primary-button
+imdb.com##div.even.list_item > .info > .wtw-option-standalone > span > .mini-watchbox > .buybox__modal.mini-watchbox__moreoptions > .ipc-icon--more-horiz.ipc-icon
+imdb.com##.videoPreview--autoPlaybackOnce.videoPreview
 
 ! 2/13/2020 https://myshiptracking.com
 myshiptracking.com##.rt_alerts
 myshiptracking.com##div.ads_160_right.listbox:nth-of-type(3)
-
-! 2/16/2020 https://github.com
-github.com##.js-notice.mb-4
-github.com##.js-notifications-list-protip.text-gray.flex-items-center.d-flex
 
 ! 2/18/2020 https://linux-audit.com
 linux-audit.com###content > .clearfix.entry
@@ -819,9 +803,6 @@ wikia.org##body > div:nth-of-type(3)
 ! 3/15/2020 https://pastebin.com
 pastebin.com###float-box-frame
 
-! 16/01/2020 https://www.fullrate.dk
-fullrate.dk##.page__social
-
 ! 22/01/2020 https://github.com
 github.com##.js-banner.border-gray-light.border.rounded-1.text-center.p-4.content
 
@@ -830,9 +811,6 @@ cyberciti.biz###blocker7a1003a
 
 ! https://github.com/easylist/easylist/pull/4799
 /ab_fl.js$script
-
-! 28/01/2020 https://duckduckgo.com
-duckduckgo.com##.js-ia-modules.ia-modules
 
 ##[href^="https://www.facebook.com"]
 ##[href^="https://www.amazon.com"]
@@ -843,9 +821,6 @@ gitguys.com##.td_block_template_1.td_uid_54_5e397b5fe9cbb_rand.td-a-rec-img.td-a
 
 ! 05/02/2020 https://unix.stackexchange.com
 unix.stackexchange.com###noscript-warning
-
-! 10/02/2020 https://www.imdb.com
-imdb.com###pagecontent > .ab_widget
 
 ! 22/03/2020 https://www.cloudbooklet.com
 cloudbooklet.com##.wp-block-group
@@ -943,11 +918,6 @@ dba.dk##.foot > .container > .row-fluid > .span3
 !whathifi.com
 ##.newsletter-signup.box
 
-! 1/20/2020 https://duckduckgo.com
-duckduckgo.com###organic-module
-! 1/27/2020 https://duckduckgo.com
-duckduckgo.com##.js-ia-modules.ia-modules
-
 ! 1/27/2020 https://www.hifiklubben.dk
 ||files.hifiklubben.com/UI/dummy.png$image
 hifiklubben.dk##.ms-container
@@ -1039,45 +1009,17 @@ sihteeriopisto.co##.mfp-ready.mfp-fade.mfp-bg
 mechbunny.com##.cookieWarningBox
 ! 12/2/2019 https://hub.docker.com
 hub.docker.com##.styles__wrapper___EX-Nj
-! 12/2/2019 https://bitbucket.org
-bitbucket.org##.success.fadeout.shadowed.closeable.aui-message
+
 ! 12/2/2019 https://gitlab.com
 gitlab.com##.flash-alert
-! 12/2/2019 https://duckduckgo.com
-duckduckgo.com##.js-badge-link.ddg-extension-hide.badge-link--fadein.badge-link--top.badge-link
+
 ! 12/2/2019 adexplode.pw
 ||adexplode.pw^
 ! 12/4/2019 https://gitlab.com
 gitlab.com##.prepend-top-10.append-bottom-20.banner-non-empty-state.banner-callout.js-autodevops-banner
-! 12/4/2019 https://bitbucket.org
-bitbucket.org###id_is_private_group
+
 ! 12/5/2019 https://gitlab.com
 gitlab.com###promote_repository_features
-
-! 12/8/2019 https://www.imdb.com
-imdb.com###sidebar
-! 1/9/2020 https://www.imdb.com
-!imdb.com###maindetails_center_bottom > div.article:nth-of-type(1)
-!imdb.com###maindetails_sidebar_bottom
-imdb.com###title-social-sharing-widget
-imdb.com###titleDidYouKnow
-!imdb.com###titleFAQ
-imdb.com###title_completed_pro_link
-imdb.com##._1eKbSAFyeJgUyBUy2VbcS_.imdb-footer__logo
-imdb.com##._2-iNNCFskmr4l2OFN2DRsf.imdb-footer__copyright
-!imdb.com##._27tI4dkp5ppErr-0Cga4Dw.ipc-inline-list
-imdb.com##._2Wc8yXs8SzGv7TVS-oOmhT.imdb-footer__socials
-imdb.com##.contribute.article
-!imdb.com##.iTQkiJ.sc-kgoBCf.navbar__user._3x17Igk9XRXcaKrcG3_MXQ
-!imdb.com##.imdb-header__watchlist-button.RWCCJ.sc-kpOJdX
-!imdb.com##.primary_ribbon
-imdb.com##.recently-viewed
-!imdb.com##.star-rating-button > button
-!imdb.com##.uc-add-wl.uc-add-wl--not-in-wl.uc-add-wl-button
-!imdb.com##a.quicklink:nth-of-type(4)
-!imdb.com##div.article:nth-of-type(1)
-!imdb.com##li.zgFV3U-XECrqVQnyDbx2B.ipc-inline-list__item:nth-of-type(2)
-!imdb.com##li.zgFV3U-XECrqVQnyDbx2B.ipc-inline-list__item:nth-of-type(3)
 
 ! 12/11/2019 https://en.oui.sncf
 en.oui.sncf###cookie-policy-popin > div:nth-of-type(2)
@@ -1155,10 +1097,7 @@ gitlab.com##.flash-alert
 ! 06/11/2019 https://gitlab.com
 ##.prepend-top-10.append-bottom-20.banner-non-empty-state.banner-callout.js-autodevops-banner
 gitlab.com##.rounded.flash-alert.flash-content
-! 01/12/2019 https://bitbucket.org
-bitbucket.org##.success.fadeout.shadowed.closeable.aui-message
-! 09/10/2019 https://bitbucket.org
-bitbucket.org###id_is_private_group
+
 ! 09/12/2019 dprtb.com
 ||dprtb.com/click
 
@@ -1278,9 +1217,6 @@ bluehouse.is###PopupOverLay_WA_0
 wired.com##.paywall-bar--expanded.paywall-bar-failsafe
 wired.com##.paywall-bar__expanded
 wired.com##.show-social-box.persistent-aside--align-left.persistent-aside
-
-! 10/9/2019 https://duckduckgo.com
-duckduckgo.com##div.detail__pane:nth-of-type(2) > .detail__inner > .detail__body > .detail__body__content.c-detail > .c-detail__more > [href^="https://www.youtube.com/results"]
 
 ! 10/9/2019 dr.dk/
 ||dr.dk/DR.Common.Banner.Ads/$xmlhttprequest

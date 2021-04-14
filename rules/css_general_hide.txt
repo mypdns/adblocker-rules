@@ -33,6 +33,10 @@ cyberciti.biz##.adsbygoogle
 ! https://github.com/easylist/easylist/pull/6933
 ##.ad.leaderboard
 
+! 4/23/2020 https://www.zytrax.com
+!zytrax.com##.adv
+##.adv
+
 ##.layout__sidebar-ad-1
 ##.layout__sidebar-ad-2
 ##.layout__sidebar-ad-3
