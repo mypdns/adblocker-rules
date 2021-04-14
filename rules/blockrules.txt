@@ -283,9 +283,6 @@ koditips.com##div:nth-of-type(4)
 ! 2021-01-15 https://rarbgaccess.org
 ||dyncdn.me/static/20/img/loading_flat.gif$image,important
 
-! 2021-01-15 https://www.imdb.com
-!imdb.com##.banner-container
-##.banner-container
 ! 2021-02-03 https://www.imdb.com
 imdb.com##div.odd.list_item > .info > .wtw-option-standalone
 imdb.com##div.even.list_item > .info > .wtw-option-standalone > span > .mini-watchbox > .promoted-watch-ad-link.promoted-watch-ad.mini-watchbox__primary-button--description.mini-watchbox__primary-button
