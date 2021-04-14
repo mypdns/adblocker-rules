@@ -7,13 +7,17 @@
 ! witch would be very welcomed, You will also add a link to the related
 ! issues on https://www.mypdns.org/ in your commit message.
 
+! 2021-04-14 http://ancensored.com, https://www.mypdns.org/T1149
+ancensored.com##.register
+ancensored.com##.left
+ancensored.com##.blue
+
 ! 2021-04-12 https://linuxconfig.org
 linuxconfig.org##.custom
 
 ! 2021-04-12 https://hub.packtpub.com
 hub.packtpub.com##.td-pb-span4
 hub.packtpub.com###comments
-
 
 ! 2021-04-11 https://www.themoviedb.org
 themoviedb.org##.scroller.recommendations.panel
