@@ -47,6 +47,9 @@
 !------- Genral Global rules filters ----------------------------------!
 %include ublockorigin-rules:rules/css_general_hide.txt%
 
+!------- Fanboy's Enhanced Tracking List by @ryanbr -------------------!
+%include https://www.fanboy.co.nz/enhancedstats.txt%
+
 !------- Anti Whitelist by @Yuki2718 ----------------------------------!
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/anti-allowlist.txt%
 
