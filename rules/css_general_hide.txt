@@ -1,5 +1,11 @@
 ! https://github.com/easylist/easylist/pull/6607
 ##.component-ads-by-google
+cyberciti.biz##.adsbygoogle
+##.alignright:has(.adsbygoogle)
+
+! 2021-01-15 https://www.imdb.com
+!imdb.com##.banner-container
+##.banner-container
 
 ##.popup-consent
 ##.fancybox-overlay-fixed.fancybox-overlay
@@ -17,6 +23,9 @@
 ##popwindow
 
 ##.banner
+! 2021-03-25 https://file-converter-online.com
+!file-converter-online.com##.cc_banner-wrapper
+##.cc_banner-wrapper
 
 ! https://github.com/easylist/easylist/pull/6968
 ###push-notifications
@@ -44,6 +53,11 @@
 ##.product-suggest
 ##.CookieAcceptance
 
+! 2021-04-02 https://squid-users.squid-cache.narkive.com
+!squid-users.squid-cache.narkive.com###gdpr_overflow
+###gdpr_overflow
+!squid-users.squid-cache.narkive.com###gdpr_message
+###gdpr_message
 
 !!! Other Things in CSS like style !!!
 ##.mediaPlayerSponsored
