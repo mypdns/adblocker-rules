@@ -9,7 +9,6 @@
 @@||livesupport.hetzner.de/fonts/*$font,domain=www.hetzner.com
 
 @@about-scheme
-@@about.gitlab.com
 @@ccbill.metartmoney.com
 @@chrome-extension-scheme
 @@chrome-scheme
@@ -17,5 +16,4 @@
 @@opera-scheme
 @@vivaldi-scheme
 @@wyciwyg-scheme
-@@yspmedia-web.gitlab.io
 ~hub.filterlists.com#@#.btn-social

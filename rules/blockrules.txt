@@ -1,11 +1,23 @@
 ! CopyRight
 ! https://www.mypdns.org/p/Spirillen/
 ! Licence:
-! https://github.com/spirillen/ublockorigin-rules/blob/0b9bf5a3a5072dbfc302ca2aa2489f08f76ce7a7/LICENSE
+! https://github.com/spirillen/ublockorigin-rules/blob/master/LICENSE
 !
 ! If you copy any of these rules into any other filter,
 ! witch would be very welcomed, You will also add a link to the related
 ! issues on https://www.mypdns.org/ in your commit message.
+
+! 2021-04-12 https://linuxconfig.org
+linuxconfig.org##.custom
+
+! 2021-04-12 https://hub.packtpub.com
+hub.packtpub.com##.td-pb-span4
+hub.packtpub.com###comments
+
+
+! 2021-04-11 https://www.themoviedb.org
+themoviedb.org##.scroller.recommendations.panel
+themoviedb.org##.ott_offer
 
 ! 2021-03-25 https://file-converter-online.com
 file-converter-online.com##.cc_banner-wrapper
@@ -62,6 +74,9 @@ trustpulse.com##.Campaign__innerWrapper.birmingham-c-wrapper
 trustpulse.com##.Campaign--css.CampaignType--popup.Campaign.birmingham-campaign
 trustpulse.com###tp-7bQQ18cB-holder
 trustpulse.com##.tp-widget--compact.tp-bottom-left.tp-widget--rounded.tp-widget-container
+
+! 2021-02-13 http://scandalplanet.com
+scandalplanet.com###get-full-access
 
 ! 2021-02-08 https://simcast.com
 ||parklogic.com^$important
