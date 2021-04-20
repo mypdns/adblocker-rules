@@ -125,12 +125,22 @@ www.freebunker.com###layer
 ! 2021-01-31 https://www.pornbus.org
 www.pornbus.org###layer
 
-! 2021-01-31 https://brattysis.com
-brattysis.com##.hidden-tablet.hidden-phone.hover-join-form
-
-! 2021-01-30 https://myfamilypies.com
-myfamilypies.com##.hover-join
-myfamilypies.com##.watch-page-video-container > .container-fluid
+! brattysis.com: https://www.mypdns.org/T4388
+! myfamilypies.com: https://www.mypdns.org/T4389
+! princesscum.com: https://www.mypdns.org/T4390
+! nubiles-porn.com: https://www.mypdns.org/T4387
+brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hidden-tablet
+brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hidden-phone
+brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hover-join-form
+brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.form-join-buttons
+brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.form-join.row
+brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.form-join-horizontal
+brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.series-banner
+brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.header-banner
+brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hover-join
+brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hover-join-form
+brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hover-join
+brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.watch-page-video-container > .container-fluid
 
 ! 2021-01-30 https://www.18eighteen.com
 www.18eighteen.com##.promo-half_off
