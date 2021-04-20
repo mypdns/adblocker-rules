@@ -7,10 +7,20 @@
 ! witch would be very welcomed, You will also add a link to the related
 ! issues on https://www.mypdns.org/ in your commit message.
 
+! 2021-04-15 https://dennismungai.wordpress.com
+dennismungai.wordpress.com###cmp-app-container
+dennismungai.wordpress.com##.actnbr-has-follow
+
+! 2021-04-19 https://forum.tweak.dk
+forum.tweak.dk##.tweak-banner
+forum.tweak.dk##.partner_box
+
+! 2021-02-26 https://www.freshscat.com
+www.freshscat.com##.happy-sidebar
+
 ! 2021-02-28 https://idea4cash.com
 /reklamstore.js$script,important
 /blockadblock.js$script,important
-
 
 ! 2021-04-14 http://ancensored.com, https://www.mypdns.org/T1149
 ancensored.com##.register
@@ -61,7 +71,7 @@ speedostream.com##+js(aost, Object.getOwnPropertyDescriptor, /^/)
 ! https://www.mypdns.org/T3667
 ||redirect-ads.com^
 
-! getalltraffic.com
+! getalltraffic.com https://www.mypdns.org/T3851
 ||getalltraffic.com^$important
 
 ! 2021-02-23 https://teenasspussy.com https://www.mypdns.org/T3849
@@ -296,8 +306,6 @@ news2.x-itm.com###twp-ticker-slider
 
 ! 2020-10-07 https://computingforgeeks.com
 computingforgeeks.com###ezmobfooter
-computingforgeeks.com##.ezoic-ad-adaptive.adtester-container-106.adtester-container.large-leaderboard-1.ezoic-ad
-computingforgeeks.com##.adtester-container-111.adtester-container.medrectangle-4.ezoic-ad
 
 ! 2020-11-15 eff.org, https://www.mypdns.org/T2840
 ||anon-stats.eff.org^$important
@@ -348,33 +356,7 @@ ubuntu.com##.p-card
 
 ||anymad.com^
 
-! https://www.mypdns.org/T941
-! 2020-10-06 https://github.com
-||alive.github.com^$websocket,important
-||github.com/_alive$xhr,important
-||github.com/_ws$xhr,important
-||github.com/socket-worker-*.js$script,important
-||live.github.com/_luau/*$websocket,important
-||live.github.com/_ws/*$websocket,important
-github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-lg-5.pr-md-4.pr-3.col-lg-3.col-md-3.col-12.team-left-column
-github.com##.col-3.box-shadow-medium.right-0.top-0.Popover.mr-3.mt-6.d-lg-block.d-none
-github.com##.hx_cookie-banner--show
-github.com##.hx_cookie-banner--show.js-cookie-consent-banner
-github.com##.js-cookie-consent-banner
-github.com##.js-cookie-consent-preferences-link-container
-github.com##.js-header-promo-hide
-github.com##.js-notice.MarketplaceAnnouncement.flash-full.flash
-github.com##.js-notice.Popover
-github.com##.js-notice.mb-4
-github.com##.js-notice.position-absolute.Popover
-github.com##.js-notifications-list-protip.text-gray.flex-items-center.d-flex
-github.com##.js-unwatch-suggestions.js-notice.flash
-github.com##.mb-3.js-details-container.Details.border-black-fade.Box-row--yellow.Box
-github.com##.rounded-1.signup-prompt-bg
-! Seems to brake internal features
-!$webrtc,domain=github.com
-!$xmlhttprequest,domain=alive.github.com,important
-@@||github.com^$generichide,badfilter
+
 
 ! 2020-09-15 https://www.reck.dk
 reck.dk##.frash-notice-email.frash-notice.notice
@@ -496,18 +478,26 @@ imagefruit.com###layer
 ||duckduckgo.com^*^q=$elemhide
 duckduckgo.com###m1-0
 duckduckgo.com###m2-0
-duckduckgo.com##.related-searches
-duckduckgo.com##.footer
-duckduckgo.com##.js-feedback-btn-wrap
-duckduckgo.com##.module--carousel
-duckduckgo.com##.ia-modules
-duckduckgo.com##.js-ia-modules
+duckduckgo.com###m5-0
 duckduckgo.com###organic-module
-duckduckgo.com##[href^="https://www.youtube.com/results"]
+duckduckgo.com##.footer
+duckduckgo.com##.ia-modules
+duckduckgo.com##.js-feedback-btn-wrap
+duckduckgo.com##.js-ia-modules
+duckduckgo.com##.js-place-detail-directions
 duckduckgo.com##.js-video-privacy-leave
+duckduckgo.com##.module--carousel
+duckduckgo.com##.module__header__map
+duckduckgo.com##.module__toggle--map
+duckduckgo.com##.place-detail__attribution
+duckduckgo.com##.place-detail__cta-block
+duckduckgo.com##.related-searches
+duckduckgo.com##[href^="https://www.youtube.com/results"]
+
 ! A very strict Google Prevention rule, Protecting you from accidetially to
 ! becomming redirected to SpyWare by Google
 duckduckgo.com##[href^="https://www.youtube.com/watch"]
+
 
 ! 2021-02-03 https://3g2upl4pq6kufc4m.onion
 ||3g2upl4pq6kufc4m.onion^*^q=$elemhide
@@ -677,9 +667,6 @@ linuxize.com##.pt-12.lg\:top-16.lg\:sticky.lg\:relative.lg\:block.-mt-12.flex-co
 ! 27/04/2020 https://developers.redhat.com
 developers.redhat.com##.general-promo.category-promo-section
 
-! 28/04/2020 https://gitlab.com
-gitlab.com##.d-flex.js-broadcast-notification-100719.broadcast-notification-message
-
 ! 07/05/2020 https://serverfault.com
 serverfault.com###noscript-warning
 
@@ -693,9 +680,6 @@ community.spiceworks.com##.join-login-alt--six-second.join-login-alt.join-login-
 ! 13/05/2020 https://www.tecmint.com
 tecmint.com##.link-overlay
 tecmint.com###quickiebarpro
-
-! 17/05/2020 https://gitlab.com
-gitlab.com##.js-recovery-settings-callout.gl-alert-warning.gl-alert
 
 ! 24/05/2020 https://www.nytimes.com
 nytimes.com##.e1x0szx60.css-xdenu8.expanded-dock.expanded.shown.gdpr
@@ -737,6 +721,7 @@ sythe.org###logoBlock > .pageWidth > .pageContent > div:nth-of-type(1)
 
 ! 4/18/2020 https://stackoverflow.com
 stackoverflow.com##.js-theme-selector.bs-md.z-active.overflow-hidden.theme-selector
+stackoverflow.com##.ps-relative.js-freemium-cta
 
 ! 4/18/2020 https://www.tecmint.com
 tecmint.com###text-28
@@ -765,9 +750,6 @@ kingston.com###email-signup-modal
 
 ! 5/9/2020 https://www.tecmint.com
 tecmint.com###quickiebarpro
-
-! 5/17/2020 https://gitlab.com
-gitlab.com##.js-recovery-settings-callout.gl-alert-warning.gl-alert
 
 ! https://www.mypdns.org/T581
 ||quotes.com^
@@ -828,9 +810,6 @@ wikia.org##body > div:nth-of-type(3)
 ! 3/15/2020 https://pastebin.com
 pastebin.com###float-box-frame
 
-! 22/01/2020 https://github.com
-github.com##.js-banner.border-gray-light.border.rounded-1.text-center.p-4.content
-
 ! 24/01/2020 https://www.cyberciti.biz
 cyberciti.biz###blocker7a1003a
 
@@ -886,25 +865,6 @@ sn.dk##[href="https://sn.peytzmail.com/f/subscribe/tilmeldingsside-halsnaes"]
 
 ! 2/5/2020 http://www.sejlsport.dk
 sejlsport.dk##.cc-color-override-43623614.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
-
-! 2/5/2020 https://www.fuglsangvvs.dk
-!fuglsangvvs.dk
-###cookie_box
-
-! 2/5/2020 https://bornholm.info
-!bornholm.info
-##.cookie-box
-
-! 2/5/2020 https://datacvr.virk.dk
-!datacvr.virk.dk
-##.eksCookieContainer
-
-! 2/5/2020 https://www.scanboat.com
-scanboat.com##.margin-tb-25.row
-
-! 2/5/2020 https://www.botenbank.nl
-!botenbank.nl
-###cookieConsentForm33
 
 ! 2/5/2020 https://www.schipveiling.nl
 !schipveiling.nl
@@ -991,8 +951,22 @@ techjunkie.com##.fixed-sidebar-fire-tv
 
 ! https://github.com/easylist/easylist/commit/38cf2f6112770f9cc86707ac90a0ee2beaade0b3
 ||x-link.pl^$third-party
-! 18/12/2019 https://gitlab.com
+||gitlab.com/-/cable$websocket,important
+gitlab.com###promote_repository_features
+gitlab.com##.content-block.bordered-box
 gitlab.com##.content-block.landing.bordered-box
+gitlab.com##.d-flex.js-broadcast-notification-100719.broadcast-notification-message
+gitlab.com##.flash-alert
+gitlab.com##.flash-notice
+gitlab.com##.gl-banner.js-autodevops-banner
+gitlab.com##.js-recovery-settings-callout.gl-alert-warning.gl-alert
+gitlab.com##.mb-2.flash-notice
+gitlab.com##.popover-body
+gitlab.com##.prepend-top-10.append-bottom-20.banner-non-empty-state.banner-callout.js-autodevops-banner
+gitlab.com##.rounded.flash-alert.flash-content
+gitlab.com##.rounded.flash-notice.flash-content
+
+
 ! 19/12/2019 focus.de
 ||gstatic.com^
 ! 23/12/2019 poulnielsen.dk
@@ -1001,9 +975,6 @@ gitlab.com##.content-block.landing.bordered-box
 ||serviceagreement.omnicar.io^
 ! 23/12/2019 dr.dk
 !||sascdn.com^$third-party^$important
-! 31/12/2019 https://gitlab.com
-gitlab.com##.content-block.bordered-box
-gitlab.com##.mb-2.flash-notice
 ! 31/12/2019 https://members.metart.com
 !members.metart.com##div.custom-cams-container.row:nth-of-type(4) > .custom-cams.container
 ##.custom-beta-notice
@@ -1015,8 +986,7 @@ gitlab.com##.mb-2.flash-notice
 fullrate.dk##.callme-popunder
 fullrate.dk##[href="/mit-fullrate"]
 ||fullrate.dk/selvbetjening/res/img/ny-mfr_banner.jpg$image
-! 01/01/2020 https://gitlab.com
-gitlab.com##.gl-banner.js-autodevops-banner
+
 ! https://github.com/easylist/easylist/pull/4663/files
 ###accept-cookies
 torrentz2.eu,torrentz2.is##.NonToleratds
@@ -1035,16 +1005,8 @@ mechbunny.com##.cookieWarningBox
 ! 12/2/2019 https://hub.docker.com
 hub.docker.com##.styles__wrapper___EX-Nj
 
-! 12/2/2019 https://gitlab.com
-gitlab.com##.flash-alert
-
 ! 12/2/2019 adexplode.pw
 ||adexplode.pw^
-! 12/4/2019 https://gitlab.com
-gitlab.com##.prepend-top-10.append-bottom-20.banner-non-empty-state.banner-callout.js-autodevops-banner
-
-! 12/5/2019 https://gitlab.com
-gitlab.com###promote_repository_features
 
 ! 12/11/2019 https://en.oui.sncf
 en.oui.sncf###cookie-policy-popin > div:nth-of-type(2)
@@ -1054,34 +1016,55 @@ en.oui.sncf##.vsc__noFocus.vsc__lightbox--survey.vsc__lightbox
 ! 12/12/2019 https://www.theatlantic.com
 theatlantic.com##.qc-cmp-showing.qc-cmp-ui-container
 
-! 2/5/2020 https://github.com
-!github.com##.js-notice.mb-4
-! 12/16/2019 https://github.com
+! https://www.mypdns.org/T941
+! 2020-10-06 https://github.com
+||alive.github.com^$websocket,important
+||live.github.com/_luau/*$websocket,important
+||live.github.com/_ws/*$websocket,important
+||collector.githubapp.com^
+
 !github.com##.flash-notice.flash-full.flash
-! 1/8/2020 https://github.com
-github.com##.js-notice.mb-4.container-lg
-github.com##.protip
-github.com##.ws-normal.text-left.p-3.box-shadow-large.Box.Popover-message
-! 1/9/2020 https://github.com
+!github.com##.js-notice.mb-4
+@@||github.com^$generichide,badfilter
 github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-3.col-lg-3.col-md-3.col-12.team-left-column
-! 24/11/2019 https://github.com
+github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-lg-5.pr-md-4.pr-3.col-lg-3.col-md-3.col-12.team-left-column
 github.com##.box-shadow-large.Box.mt-6.p-3.text-left.Popover-message--large.Popover-message--top-left.Popover-message
 github.com##.box-shadow-large.Box.p-4.left-0.Popover-message--top-left.Popover-message--large.Popover-message
-github.com#@#.flash-error.flash-full.flash
-! 14/12/2019 https://github.com
+github.com##.col-3.box-shadow-medium.right-0.top-0.Popover.mr-3.mt-6.d-lg-block.d-none
+github.com##.hx_cookie-banner--show
+github.com##.hx_cookie-banner--show.js-cookie-consent-banner
+github.com##.js-banner.border-gray-light.border.rounded-1.text-center.p-4.content
+github.com##.js-cookie-consent-banner
+github.com##.js-cookie-consent-preferences-link-container
+github.com##.js-header-promo-hide
+github.com##.js-notice.MarketplaceAnnouncement.flash-full.flash
+github.com##.js-notice.Popover
+github.com##.js-notice.mb-4
+github.com##.js-notice.mb-4.container-lg
+github.com##.js-notice.position-absolute.Popover
+github.com##.js-notifications-list-protip.text-gray.flex-items-center.d-flex
+github.com##.js-unwatch-suggestions.js-notice.flash
+github.com##.mb-3.js-details-container.Details.border-black-fade.Box-row--yellow.Box
+github.com##.mt-3.flash-warn.flash
 github.com##.p-2.border-bottom.js-notice
-! 10/19/2019 https://github.com
+github.com##.protip
+github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
+github.com##.rounded-1.signup-prompt-bg
 github.com##.rounded-2.border.p-4.mb-6.mx-auto.signup-prompt
-||collector.githubapp.com^
+github.com##.ws-normal.text-left.p-3.box-shadow-large.Box.Popover-message
+github.com#@#.flash-error.flash-full.flash
+||github.com/_alive$xhr,important
 ||github.com/_private/browser/stats
+||github.com/_ws$xhr,important
+||github.com/socket-worker-*.js$script,important
+
 
 ||google.com^*recaptcha/$badfilter,frame
 ||google.com^*recaptcha/$important
 
 ! 12/27/2019 https://www.elgiganten.dk
 elgiganten.dk##.cookie-info-layer
-! 12/28/2019 https://gitlab.com
-gitlab.com##.gl-banner.js-autodevops-banner
+
 ! 12/28/2019 https://www.fullrate.dk
 fullrate.dk##.callme-popunder__background
 ! 12/28/2019 https://www.power.dk
@@ -1089,8 +1072,7 @@ fullrate.dk##.callme-popunder__background
 ###cookie-notification
 ! 12/28/2019 https://www.power.se
 !power.se###cookie-notification
-! 1/1/2020 https://gitlab.com
-gitlab.com##.popover-body
+
 ! 1/4/2020 pinterest.com
 ||accountkit.com$script
 ||pinterest.com/resource/$xhr
@@ -1117,11 +1099,7 @@ sourceforge.net###newsletter-floating
 amazon.com##.nav-flyout.nav-coreFlyout.glow-toaster-slot-default.glow-toaster-theme-default.glow-toaster.a-section
 
 
-! 01/12/2019 https://gitlab.com
-gitlab.com##.flash-alert
-! 06/11/2019 https://gitlab.com
 ##.prepend-top-10.append-bottom-20.banner-non-empty-state.banner-callout.js-autodevops-banner
-gitlab.com##.rounded.flash-alert.flash-content
 
 ! 09/12/2019 dprtb.com
 ||dprtb.com/click
@@ -1131,13 +1109,6 @@ thesslstore.com##.open.slide-out-div
 
 ! 17/11/2019 https://blog.heckel.io
 blog.heckel.io###sidebar_second_ad
-
-! 11/28/2019 https://bestlovesexdoll.com https://www.mypdns.org/T3801
-!bestlovesexdoll.com##.halo-modal.wrapper-newsletter
-##.halo-modal.wrapper-newsletter
-!bestlovesexdoll.com###accept-cookies
-!bestlovesexdoll.com##.product-suggest
-
 
 ! 11/28/2019 https://en.bab.la
 en.bab.la##.magazine.teaser
@@ -1166,8 +1137,7 @@ en.bab.la##div.teaser-wrapper:nth-of-type(6)
 ! 11/22/2019 https://blogspot.com
 !blogspot.com###cookieChoiceInfo
 ##cookiechoiceinfo
-! 11/6/2019 https://gitlab.com
-gitlab.com##.rounded.flash-alert.flash-content
+
 ! 11/12/2019 https://linuxconfig.org
 linuxconfig.org##div.g-grid:nth-of-type(2) > .size-100.g-block > .g-content
 linuxconfig.org##div.size-25.g-block:nth-of-type(1)
@@ -1189,10 +1159,6 @@ linuxconfig.org##div.size-25.g-block:nth-of-type(2) > .g-content > div.moduletab
 /ga_proxy.js$script
 /ga_xdcom.html
 
-! 11/3/2019 https://gitlab.com
-gitlab.com##.rounded.flash-notice.flash-content
-! 11/15/2019 https://gitlab.com
-gitlab.com##.flash-notice
 
 ! 11/4/2019 https://www.denic.de
 denic.de##.notification--bottom.notification--acknowledge.notification--notice.notification.teaser
@@ -1222,8 +1188,8 @@ bluehouse.is###PopupOverLay_WA_0
 ||player.pulsemediatv.com^$third-party,$domain=~bwin.sport
 !||api.cxense.com/public/widget/data?$script
 
-! 10/12/2019 https://gitbook.com/
 ||googleapis.com^$important
+||googleoptimize.com
 
 ! 10/12/2019 https://taenk.dk/
 ||cookieinformation.com^
@@ -1263,46 +1229,37 @@ extremetech.com###_evidon-barrier-wrapper
 ! 10/18/2019 https://www.crowdstrike.com
 crowdstrike.com###optInMessage-new
 crowdstrike.com###optinmessagebg
-! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/5
+
 ||pingtopingsrv*.life^
 ! 29/07/2019 https://www.systutorials.com
 systutorials.com###ez-cookie-dialog-wrapper
 ||google.*^
 ||googletagservices.*^
-! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/2
+
 dmi.dk##.add-container
 dmi.dk#?#.large-6:-abp-has(:scope > .section-1-ad)
-! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/3
+
 pornhub.com###menuItem4 > .js-topMenuLink
 pornhub.com###streamMateModel
 pornhub.com##.footer-title
 pornhub.com##.footerContentWrapper
+pornhub.com##.streamatesModelsContainer.sectionWrapper
+pornhub.com##h3
+
 sourceforge.net##.m-project-list.m-sidebar-widget
 sourceforge.net##.m-project-related-keywords.m-sidebar-widget
 sourceforge.net##.m-sidebar-compare.m-sidebar-widget
-pornhub.com##.streamatesModelsContainer.sectionWrapper
 sourceforge.net##aside.m-sidebar-widget:nth-of-type(3)
-pornhub.com##h3
+
 ||sailboatdata.com/storage/10163/Thunderstruck0918.jpg$image
 ! static.zdassets.com
 ||zdassets.com^$third-party
-! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/4
+
 translation.babylon-software.com###dimScreen
 translation.babylon-software.com##.pc-popup-new
 ! 10/2/2019 https://hub.filterlists.com
 hub.filterlists.com##.alert-info.alert.signup-cta
-##.social-controls
-##.social-count
-##.social-count-boxes
-##.social-count-wrap
-##.social-counter
-##.social-counter-man
-##.social-counter-metro
-##.social-counter-widget
-##.social-counter-wrap
-##.social-counter-wrapper
-##.social-counters
-##.social-counts-single
+
 /analytics/event
 /api/tracking/*
 /metrics/statsd/*
@@ -1315,11 +1272,6 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 ||fonts.googleapis.com^$stylesheet
 ||polyfill.io^$third-party
 
-! 10/9/2019 https://github.com
-! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/6
-github.com##.mt-3.flash-warn.flash
-github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
-
 ! 10/13/2019 tv2.dk
 ||adobedtm.com^$script
 ||facebook.net^$script
@@ -1329,6 +1281,5 @@ github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
 ||tv2a.dk/oil/$script
 ||tv2login.dk/api/login/v1/users/current/consents$xmlhttprequest
 ||tv2net.zendesk.com^$script
-
 
 ||magnet2torrent.me/html/pageindex.html

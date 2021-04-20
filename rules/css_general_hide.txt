@@ -6,14 +6,13 @@ cyberciti.biz##.adsbygoogle
 ! 2021-01-15 https://www.imdb.com
 imdb.com##.banner-container
 
-##.popup-consent
-##.fancybox-overlay-fixed.fancybox-overlay
-##.fancybox-skin
 ##.__give_away.bc_popalert
 ##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
 ##.fancybox-overlay-fixed.fancybox-overlay
 
 ##.ad-on-video
+
+itigic.com,computingforgeeks.com##.ezoic-ad
 
 ! 11/4/2019 livefreecamx.com
 ##.overlay
@@ -36,6 +35,8 @@ imdb.com##.banner-container
 !zytrax.com##.adv
 ##.adv
 
+cambb.xxx,chaturbate.com,gamcore.com,playboy.com,rampant.tv,sex.com,signbucks.com,tallermaintenancar.com,tehvids.com,uflash.tv,xcafe.com##.ad
+
 ##.layout__sidebar-ad-1
 ##.layout__sidebar-ad-2
 ##.layout__sidebar-ad-3
@@ -49,6 +50,19 @@ imdb.com##.banner-container
 ##div[class^="ad_unit_below"]
 ##div[class^="ad_unit_header"]
 
+##.social-controls
+##.social-count
+##.social-count-boxes
+##.social-count-wrap
+##.social-counter
+##.social-counter-man
+##.social-counter-metro
+##.social-counter-widget
+##.social-counter-wrap
+##.social-counter-wrapper
+##.social-counters
+##.social-counts-single
+
 !!! COOKIES !!!
 ###cookie.notice
 ##.notice-cookies
@@ -56,11 +70,35 @@ imdb.com##.banner-container
 ##.product-suggest
 ##.CookieAcceptance
 
+##.popup-consent
+##.fancybox-overlay-fixed.fancybox-overlay
+##.fancybox-skin
+
+
 ! 2021-04-02 https://squid-users.squid-cache.narkive.com
 !squid-users.squid-cache.narkive.com###gdpr_overflow
 ###gdpr_overflow
 !squid-users.squid-cache.narkive.com###gdpr_message
 ###gdpr_message
+
+! 2/5/2020 https://www.fuglsangvvs.dk
+!fuglsangvvs.dk
+###cookie_box
+
+! 2/5/2020 https://bornholm.info
+!bornholm.info
+##.cookie-box
+
+! 2/5/2020 https://datacvr.virk.dk
+!datacvr.virk.dk
+##.eksCookieContainer
+
+! 2/5/2020 https://www.scanboat.com
+scanboat.com##.margin-tb-25.row
+
+! 2/5/2020 https://www.botenbank.nl
+!botenbank.nl
+###cookieConsentForm33
 
 !!! Other Things in CSS like style !!!
 ##.mediaPlayerSponsored

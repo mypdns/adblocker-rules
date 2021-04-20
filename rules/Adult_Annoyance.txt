@@ -20,6 +20,37 @@ adultdvdempire.com##.site_footer
 adultdvdempire.com##.nav-cart
 adultdvdempire.com##.in.fade.modal
 
+! 2021-02-23 https://teenasspussy.com
+!/teen.php$important,domain=teenasspussy.com
+/teen.php$document,important,domain=18teenslut.com|realteenbeauty.com|teenasspussy.com
+/back$script,important,domain=teenasspussy.com
+/d/count.php^$document,important,domain=teenasspussy.com
+!||teenasspussy.com/d/count.php$important
+||pornstarapex.com^
+||teenasspussy.com$popup
+
+! 2021-04-20 https://www.kink.com
+||cdnp.kink.com/assets/promos
+||a.montlusa.top/loader$subdocument
+kink.com##.store
+kink.com##.product-tag-wrapper
+kink.com##.kink-store-section
+
+||uncn.jp^
+
+enf-cmnf.com,mrdeepfakes.com,rare-videos.net##.table
+||fnrrm2fn1njl1.com^
+||gomain2.pro^
+||bestcontentprogram.top^
+||sefsdvc.com^
+
+||alxbgo.com^$third-party
+
+! 2021-03-07 https://rarbgaccess.org
+||imgprime.com^$image
+
+! 2021-04-04 https://rarbgaccess.org
+||imgkings.com^$image
 
 adultdvd.com###popup-box
 adultdvd.com##td > [href="sale_50off_slee.html"]
@@ -58,6 +89,13 @@ zteenporn.com##.pause-block
 ! https://github.com/easylist/easylist/pull/6888
 !myhdjav.net##.player-sidebar
 
+! 2021-02-23 https://vrbtrans.com
+vrbtrans.com##.vrb_fb__wrapper
+
+! 2021-02-22 https://tubeteensporn.com
+/renderer/renderer.js$script,important
+@@||stats.hprofits.com/advertisement.js,badfilter
+
 ! 2021-02-22 https://tubeteensporn.com https://www.mypdns.org/T3820
 /renderer/renderer.js$script,important
 
@@ -73,12 +111,18 @@ zteenporn.com##.pause-block
 
 porn555.com,pornforrelax.com,sss.xxx,tuberel.com##.vda-item
 
+! 2021-02-18 https://www.dmm.com
+dmm.com###id_top_disclaimer_parent
+@@||dmm.com/p/general/$image,1p,badfilter
+||cn.dap.dmm.com^$important
+||i3.dmm.com^$important
+
 ! 2021-02-14 https://asian.streamate.com
 asian.streamate.com##.c0136
 
 ! 2021-01-31 https://www.littleasians.com
-www.littleasians.com##.formwrapper.col-md-12.col-lg-4.col-12
-www.littleasians.com##.video-description > .join-link
+littleasians.com##.formwrapper.col-md-12.col-lg-4.col-12
+littleasians.com##.video-description > .join-link
 
 ! 3danimeworld.com | metrotoons.com
 /Vbanner/*$important,domain=3danimeworld.com|metrotoons.com
@@ -121,10 +165,10 @@ fakestube.com###custom_html-2 > .custom-html-widget.textwidget > [href]
 hosinojun.web.fc2.com###fc2_bottom_bnr
 
 ! 2021-01-31 https://www.freebunker.com
-www.freebunker.com###layer
+freebunker.com###layer
 
 ! 2021-01-31 https://www.pornbus.org
-www.pornbus.org###layer
+pornbus.org###layer
 
 ! brattysis.com: https://www.mypdns.org/T4388
 ! myfamilypies.com: https://www.mypdns.org/T4389
@@ -132,23 +176,29 @@ www.pornbus.org###layer
 ! nubiles-porn.com: https://www.mypdns.org/T4387
 brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hidden-tablet
 brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hidden-phone
-brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hover-join-form
-brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.form-join-buttons
-brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.form-join.row
-brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.form-join-horizontal
+brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.header-banner-wrapper
+brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.watch-page-join-header
+brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.form-join
 brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.series-banner
 brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.header-banner
 brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hover-join
-brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hover-join-form
-brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hover-join
 brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.watch-page-video-container > .container-fluid
+brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.mx-2.btn-lg.btn-cta.btn
+
+! 2021-04-05 https://www.sislovesme.com
+sislovesme.com##.join-div
+sislovesme.com##.video-content > .video-description
+sislovesme.com##.formwrapper.col-md-12.col-lg-4.col-12
+sislovesme.com##.promo-bar-container
+sislovesme.com##.organic-footer
+/component.hydrate.js
 
 ! 2021-01-30 https://www.18eighteen.com
-www.18eighteen.com##.promo-half_off
+18eighteen.com##.promo-half_off
 
 ! 2021-01-30 https://www.littleasians.com
-www.littleasians.com##.sub-footer
-www.littleasians.com##.formwrapper.col-md-12.col-lg-4.col-12
+littleasians.com##.sub-footer
+littleasians.com##.formwrapper.col-md-12.col-lg-4.col-12
 
 ! 2021-01-17 https://www.sortporn.com
 sortporn.com###player_add
@@ -1132,7 +1182,7 @@ youngsexpics.com##.partridge
 
 ! 09/01/2020 metart.com
 ||nsimg.*^$important
-! https://gitlab.com/AnonymousPoster/ublockorigin-rules/issues/1
+
 ! 09/10/2019 metart.com
 /media/promotions/^domain=metart.com|metart.com|sexart.com|thelifeerotic.com|vivthomas.com|lovehairy.com|errotica-archives.com|domai.com|goddessnudes.com|eroticbeauty.com|alsscan.com|rylskyart.com|eternaldesire.com|stunning18.com|live.tv
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.container.content > div:nth-of-type(1) > div > .hidden-xs
