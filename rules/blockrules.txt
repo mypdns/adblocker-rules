@@ -7,6 +7,11 @@
 ! witch would be very welcomed, You will also add a link to the related
 ! issues on https://www.mypdns.org/ in your commit message.
 
+! 2021-02-28 https://idea4cash.com
+/reklamstore.js$script,important
+/blockadblock.js$script,important
+
+
 ! 2021-04-14 http://ancensored.com, https://www.mypdns.org/T1149
 ancensored.com##.register
 ancensored.com##.left
@@ -308,6 +313,21 @@ hiper.dk##.products-show-call-me
 
 ! https://github.com/ryanbr/fanboy-adblock/issues/1448
 ||youtube.com/embed/$3p,frame,redirect=click2load.html
+youtube.com###main
+youtube.com##.ytd-app.style-scope:nth-of-type(1) > .ytd-popup-container.style-scope
+youtube.com###dialog
+youtube.com###consent-bump > .ytd-consent-bump-lightbox.style-scope
+youtube.com##ytd-popup-container.ytd-app.style-scope
+youtube.com###contentWrapper > .ytd-popup-container.style-scope
+youtube.com###subscribe-button
+youtube.com##.size-small.style-suggestive.ytd-masthead.style-scope
+||youtube.com/api/stats/watchtime?
+youtube.com###comments
+youtube.com##ytd-horizontal-card-list-renderer
+youtube.com##.ytd-live-chat-frame
+
+||youtube-nocookie.com/api/stats/ads?
+||youtube-nocookie.com/api/stats/watchtime?
 
 ! 2020-12-11 https://www.fcomputer.dk
 fcomputer.dk##.pull-left.cookie-popup
@@ -501,6 +521,7 @@ duckduckgo.com##[href^="https://www.youtube.com/watch"]
 ||3g2upl4pq6kufc4m.onion/t/*$important
 3g2upl4pq6kufc4m.onion###m1-0
 3g2upl4pq6kufc4m.onion###m2-0
+3g2upl4pq6kufc4m.onion###m5-0
 3g2upl4pq6kufc4m.onion###organic-module
 3g2upl4pq6kufc4m.onion##.footer
 3g2upl4pq6kufc4m.onion##.highlight_sponsored
@@ -1156,18 +1177,8 @@ linuxconfig.org##div.size-25.g-block:nth-of-type(2) > .g-content > div.moduletab
 ##cookie-alert
 ! 11/14/2019 https://www.bowerswilkins.com
 ##.eu-cookie-compliance-content
-! 10/22/2019 https://www.youtube.com
-youtube.com###main
-youtube.com##.ytd-app.style-scope:nth-of-type(1) > .ytd-popup-container.style-scope
-youtube.com###dialog
 
-! 2020-12-23 https://www.youtube.com
-youtube.com###consent-bump > .ytd-consent-bump-lightbox.style-scope
-youtube.com##ytd-popup-container.ytd-app.style-scope
 
-||youtube-nocookie.com/api/stats/ads?
-||youtube-nocookie.com/api/stats/watchtime?
-||youtube.com/api/stats/watchtime?
 ! 10/23/2019 https://serverfault.com
 !serverfault.com###noscript-warning
 ##noscript-warning
@@ -1319,8 +1330,5 @@ github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
 ||tv2login.dk/api/login/v1/users/current/consents$xmlhttprequest
 ||tv2net.zendesk.com^$script
 
-! 11/10/2019 https://www.youtube.com
-youtube.com###contentWrapper > .ytd-popup-container.style-scope
-youtube.com###subscribe-button
-youtube.com##.size-small.style-suggestive.ytd-masthead.style-scope
+
 ||magnet2torrent.me/html/pageindex.html

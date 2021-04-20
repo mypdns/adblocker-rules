@@ -34,6 +34,7 @@ porncore.net##div[id^="_"][style="margin:10px;height:200px;width:800px;"]
 publicagent.com##div.iIdwbz.sc-1mhpkp8-3:nth-of-type(6)
 publicagent.com##.sc-1xljrhb-0
 publicagent.com##.lhnTNF.sc-1i2s1et-7
+publicagent.com##.kvhCIH.sc-1xljrhb-0
 publicagent.com##[href="/join"]
 
 ! 2021-03-01 https://www.viptube.com, https://www.mypdns.org/T1449
@@ -1140,8 +1141,9 @@ alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,g
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.upgrade-strip
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.guest-panel
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.helper
-sexart.com##.dTlKOF.sc-kmASHI.container.content > div > div > .panels.man-ui
-sexart.com##.bQeYRl.sc-eLgOdN
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.dTlKOF.sc-kmASHI.container.content > div > div > .panels.man-ui
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.bQeYRl.sc-eLgOdN
+
 
 ! 09/10/2019 https://v2.metart.com
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.col-xs-12.col-sm-12.col-md-12.col-lg-4
