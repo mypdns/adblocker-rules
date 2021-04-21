@@ -174,16 +174,17 @@ pornbus.org###layer
 ! myfamilypies.com: https://www.mypdns.org/T4389
 ! princesscum.com: https://www.mypdns.org/T4390
 ! nubiles-porn.com: https://www.mypdns.org/T4387
-brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hidden-tablet
-brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hidden-phone
-brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.header-banner-wrapper
-brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.watch-page-join-header
-brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.form-join
-brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.series-banner
-brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.header-banner
-brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hover-join
-brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.watch-page-video-container > .container-fluid
-brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.mx-2.btn-lg.btn-cta.btn
+detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hidden-tablet
+detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hidden-phone
+detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.header-banner-wrapper
+detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.watch-page-join-header
+detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.form-join
+detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.series-banner
+detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.header-banner
+detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hover-join
+detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.watch-page-video-container > .container-fluid
+detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.mx-2.btn-lg.btn-cta.btn
+detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.form-join-horizontal
 
 ! 2021-04-05 https://www.sislovesme.com
 sislovesme.com##.join-div
