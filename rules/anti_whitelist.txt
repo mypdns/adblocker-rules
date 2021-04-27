@@ -7,6 +7,9 @@
 ! witch would be very welcomed, You will also add a link to the related
 ! issues on https://www.mypdns.org/ in your commit message.
 
+! .adsbygoogle
+advancedrenamer.com,epicbundle.com,hs-exp.jp,korail.pe.kr,phcorner.net,willyoupressthebutton.com#@#.adsbygoogle,badfilter
+
 ! yomovies.mx
 @@||yandexcdn.com^$script,1p,badfilter
 @@||yandexcdn.com^$generichide,badfilter
