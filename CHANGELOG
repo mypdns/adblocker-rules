@@ -1,0 +1,11 @@
+Changelog
+
+This changelog is only used for "Major" changes to the list setup, like
+new files, sorting or including new external sources.
+
+03. May 2021
+  - Added a new list `rules/noise.txt` which is to remove all the noises
+    from a any webpage. Noise is useless junk that have nothing to do with
+    how @spirillen is using a website.
+
+    Do only use this list if you really don't care about breaking things.
