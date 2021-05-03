@@ -1,24 +1,31 @@
-! CopyRight
-! https://www.mypdns.org/p/Spirillen/
-! Licence:
-! https://github.com/spirillen/ublockorigin-rules/blob/master/LICENSE
+! List url:
+! https://github.com/spirillen/ublockorigin-rules/rules/Adult_Annoyance.txt
 !
-! If you copy any of these rules into any other filter,
-! witch would be very welcomed, You will also add a link to the related
-! issues on https://www.mypdns.org/ in your commit message.
+! License:
+! https://github.com/spirillen/ublockorigin-rules/blob/master/LICENSE
+! Homepage: https://github.com/spirillen/ublockorigin-rules/
+!
+! Please report any unblocked content or problems on the Issue board.
+! GitHub issues:
+! - https://github.com/spirillen/ublockorigin-rules/issues
+! GitHub merge request:
+! - https://github.com/spirillen/ublockorigin-rules/pulls
+! Email:
+!   - None
+! CopyRight:
+!   - https://www.mypdns.org/p/Spirillen/
+!   - The individual lists maintainers
 
-! Notice, The following ruleset, WILL bring the site down from fully function
-adultdvdempire.com##.well.pricing-container.container
-adultdvdempire.com##.sticky-tagline
-adultdvdempire.com##.btn-success.btn
-adultdvdempire.com###nav-unlimited
-adultdvdempire.com##.main-nav
-adultdvdempire.com###UserOptions
-adultdvdempire.com###site-nav-account
-adultdvdempire.com##.beacon
-adultdvdempire.com##.site_footer
-adultdvdempire.com##.nav-cart
-adultdvdempire.com##.in.fade.modal
+
+! 2021-04-21 https://www.shoplyfter.com
+shoplyfter.com##.join-iframe
+
+! 2021-04-01 https://www.teenfidelity.com
+teenfidelity.com##.promoBar
+teenfidelity.com##.is-small.is-success.hero
+teenfidelity.com##.p-0.section:nth-of-type(8)
+teenfidelity.com###navbar-tour > .is-size-4-widescreen.is-size-6.is-uppercase.navbar-end > .navbar-item:nth-of-type(2)
+teenfidelity.com##.page-break
 
 ! 2021-02-23 https://teenasspussy.com
 !/teen.php$important,domain=teenasspussy.com
@@ -122,7 +129,7 @@ asian.streamate.com##.c0136
 
 ! 2021-01-31 https://www.littleasians.com
 littleasians.com##.formwrapper.col-md-12.col-lg-4.col-12
-littleasians.com##.video-description > .join-link
+shoplyfter.com,littleasians.com##.join-link
 
 ! 3danimeworld.com | metrotoons.com
 /Vbanner/*$important,domain=3danimeworld.com|metrotoons.com
@@ -187,7 +194,7 @@ familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com
 familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.form-join-horizontal
 
 ! 2021-04-05 https://www.sislovesme.com
-sislovesme.com##.join-div
+sislovesme.com,shoplyfter.com##.join-div
 sislovesme.com##.video-content > .video-description
 sislovesme.com##.formwrapper.col-md-12.col-lg-4.col-12
 sislovesme.com##.promo-bar-container
@@ -376,7 +383,13 @@ joyourself.com,liveprivates.com,lsawards.com,maturescam.com,mycams.com,mytrannyc
 ! 2020-10-26 18andabuse.com
 ! https://www.mypdns.org/T2275, https://www.mypdns.org/T2364
 ||bang.com^$popup,important
+bang.com###globalAd
+bang.com###searchdropMenu
+bang.com###footer-wrapper
 bang.com##.top-announcement-wrapper
+bang.com##.topnav-nav.nav
+bang.com##.hidden-\@xs.col-md-5.col-sm-12
+
 ||18andabuse.com^$popup,important
 
 ! 2020-11-02 https://www.dxlive.com, https://www.mypdns.org/T2068

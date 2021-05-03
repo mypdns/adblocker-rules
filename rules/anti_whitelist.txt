@@ -1,11 +1,20 @@
-! CopyRight
-! https://www.mypdns.org/p/Spirillen/
-! Licence:
-! https://github.com/spirillen/ublockorigin-rules/blob/master/LICENSE
+! List url:
+! https://github.com/spirillen/ublockorigin-rules/rules/anti_whitelist.txt
 !
-! If you copy any of these rules into any other filter,
-! witch would be very welcomed, You will also add a link to the related
-! issues on https://www.mypdns.org/ in your commit message.
+! License:
+! https://github.com/spirillen/ublockorigin-rules/blob/master/LICENSE
+! Homepage: https://github.com/spirillen/ublockorigin-rules/
+!
+! Please report any unblocked content or problems on the Issue board.
+! GitHub issues:
+! - https://github.com/spirillen/ublockorigin-rules/issues
+! GitHub merge request:
+! - https://github.com/spirillen/ublockorigin-rules/pulls
+! Email:
+!   - None
+! CopyRight:
+!   - https://www.mypdns.org/p/Spirillen/
+!   - The individual lists maintainers
 
 ! .adsbygoogle
 advancedrenamer.com,epicbundle.com,hs-exp.jp,korail.pe.kr,phcorner.net,willyoupressthebutton.com#@#.adsbygoogle,badfilter

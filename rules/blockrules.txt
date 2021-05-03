@@ -1,11 +1,41 @@
-! CopyRight
-! https://www.mypdns.org/p/Spirillen/
-! Licence:
-! https://github.com/spirillen/ublockorigin-rules/blob/master/LICENSE
+! List url:
+! https://github.com/spirillen/ublockorigin-rules/rules/blockrules.txt
 !
-! If you copy any of these rules into any other filter,
-! witch would be very welcomed, You will also add a link to the related
-! issues on https://www.mypdns.org/ in your commit message.
+! License:
+! https://github.com/spirillen/ublockorigin-rules/blob/master/LICENSE
+! Homepage: https://github.com/spirillen/ublockorigin-rules/
+!
+! Please report any unblocked content or problems on the Issue board.
+! GitHub issues:
+! - https://github.com/spirillen/ublockorigin-rules/issues
+! GitHub merge request:
+! - https://github.com/spirillen/ublockorigin-rules/pulls
+! Email:
+!   - None
+! CopyRight:
+!   - https://www.mypdns.org/p/Spirillen/
+!   - The individual lists maintainers
+
+
+! 2021-04-29 https://www.reck.dk
+!www.reck.dk##a[href^="https://wpmudev.com/project/"]
+##a[href^="https://wpmudev.com/project/"]
+
+! 2021-04-29 https://haydenjames.io
+haydenjames.io##.hayden-inpost_top
+haydenjames.io##.hayden-inpost_bottom
+haydenjames.io###connect
+
+! 2021-04-24 https://www.filmpertutti.vision
+||disqus.com^$subdocument
+
+! 2021-04-24 https://www.aznude.com
+aznude.com##.recommended
+aznude.com##.random-links
+aznude.com##.watch-all-btn
+aznude.com##.increase-height
+aznude.com##footer
+
 
 ! 2021-04-15 https://dennismungai.wordpress.com
 dennismungai.wordpress.com###cmp-app-container
@@ -16,7 +46,7 @@ forum.tweak.dk##.tweak-banner
 forum.tweak.dk##.partner_box
 
 ! 2021-02-26 https://www.freshscat.com
-www.freshscat.com##.happy-sidebar
+freshscat.com##.happy-sidebar
 
 ! 2021-02-28 https://idea4cash.com
 /reklamstore.js$script,important
@@ -194,6 +224,7 @@ hjbib.dk##.external.ask-vopros-tab
 ! 2020-12-24 https://www.cduniverse.com
 ||cduniverse.com/images/promo/promo/popup-bg-ice.jpg$image
 cduniverse.com##.CenterWithJS.BigPopUp
+cduniverse.com###overlay-back-wholepage
 
 ! https://github.com/easylist/easylist/issues/7081
 ##.entry-affiliate
@@ -763,21 +794,21 @@ https://padsabz.com/5b/11/ec/5b11ec577f7ab76d9e3bf5af286eda00.js
 ##.push-subscription-prompt
 
 ! 2/11/2020 https://www.imdb.com
-imdb.com##.page-grid.hero.ipc-page-grid--bias-left.ipc-page-grid > .ipc-page-grid__item--span-3.ipc-page-grid__item
-imdb.com##div.page-grid.ipc-page-grid--bias-left.ipc-page-grid:nth-of-type(3)
-imdb.com###pagecontent > .ab_widget
+imdb.com##.ab_widget
 imdb.com###sidebar
 imdb.com###title-social-sharing-widget
 imdb.com###titleDidYouKnow
 imdb.com###title_completed_pro_link
-imdb.com##._1eKbSAFyeJgUyBUy2VbcS_.imdb-footer__logo
-imdb.com##._2-iNNCFskmr4l2OFN2DRsf.imdb-footer__copyright
-imdb.com##._2Wc8yXs8SzGv7TVS-oOmhT.imdb-footer__socials
+imdb.com##.promoted-watch-ad
+imdb.com##.imdb-footer__logo
+imdb.com##.imdb-footer__copyright
+imdb.com##.imdb-footer__socials
 imdb.com##.contribute.article
 imdb.com##.recently-viewed
-imdb.com##div.odd.list_item > .info > .wtw-option-standalone
-imdb.com##div.even.list_item > .info > .wtw-option-standalone > span > .mini-watchbox > .promoted-watch-ad-link.promoted-watch-ad.mini-watchbox__primary-button--description.mini-watchbox__primary-button
-imdb.com##div.even.list_item > .info > .wtw-option-standalone > span > .mini-watchbox > .buybox__modal.mini-watchbox__moreoptions > .ipc-icon--more-horiz.ipc-icon
+imdb.com##.wtw-option-standalone
+imdb.com##.promoted-watch-ad-link
+imdb.com##.promoted-watch-ad
+imdb.com##.buybox__modal
 imdb.com##.videoPreview--autoPlaybackOnce.videoPreview
 
 ! 2/13/2020 https://myshiptracking.com

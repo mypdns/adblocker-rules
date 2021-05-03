@@ -47,6 +47,9 @@
 !------- Genral Global rules filters ----------------------------------!
 %include ublockorigin-rules:rules/css_general_hide.txt%
 
+!------- Noise Filters ------------------------------------------------!
+%include ublockorigin-rules:rules/noise.txt%
+
 !------- Fanboy's Enhanced Tracking List by @ryanbr -------------------!
 %include https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/enhancedstats-addon.txt%
 

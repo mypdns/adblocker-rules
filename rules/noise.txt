@@ -1,0 +1,42 @@
+! List url:
+! https://github.com/spirillen/ublockorigin-rules/rules/noise.txt
+!
+! License:
+! https://github.com/spirillen/ublockorigin-rules/blob/master/LICENSE
+! Homepage: https://github.com/spirillen/ublockorigin-rules/
+!
+! Please report any unblocked content or problems on the Issue board.
+! GitHub issues:
+! - https://github.com/spirillen/ublockorigin-rules/issues
+! GitHub merge request:
+! - https://github.com/spirillen/ublockorigin-rules/pulls
+! Email:
+!   - None
+! CopyRight:
+!   - https://www.mypdns.org/p/Spirillen/
+!   - The individual lists maintainers
+
+imdb.com##.uc-add-wl-button-icon--add
+imdb.com###maindetails_sidebar_bottom
+imdb.com###prometer_container
+imdb.com##.titleReviewBar
+imdb.com##.imdb-footer
+imdb.com##.pro_logo_main_title
+
+! Notice, The following ruleset, WILL bring the site down from fully function
+adultdvdempire.com##.well
+adultdvdempire.com##.sticky-tagline
+adultdvdempire.com##.btn-success.btn
+adultdvdempire.com###nav-unlimited
+adultdvdempire.com##.main-nav
+adultdvdempire.com###UserOptions
+adultdvdempire.com###site-nav-account
+adultdvdempire.com##.beacon
+adultdvdempire.com##.site_footer
+adultdvdempire.com##.nav-cart
+adultdvdempire.com##.in.fade.modal
+adultdvdempire.com###signUpModal
+adultdvdempire.com##.pricing-container
+adultdvdempire.com##.sale
+adultdvdempire.com##.main-nav-container
+*Promo*.jpg$domain=adultdvdempire.com,image

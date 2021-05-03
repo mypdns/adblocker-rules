@@ -1,3 +1,24 @@
+! List url:
+! https://github.com/spirillen/ublockorigin-rules/rules/css_general_hide.txt
+!
+! License:
+! https://github.com/spirillen/ublockorigin-rules/blob/master/LICENSE
+! Homepage: https://github.com/spirillen/ublockorigin-rules/
+!
+! Please report any unblocked content or problems on the Issue board.
+! GitHub issues:
+! - https://github.com/spirillen/ublockorigin-rules/issues
+! GitHub merge request:
+! - https://github.com/spirillen/ublockorigin-rules/pulls
+! Email:
+!   - None
+! CopyRight:
+!   - https://www.mypdns.org/p/Spirillen/
+!   - The individual lists maintainers
+
+shoplyfter.com##.disclaimer-modal-wrapper
+
+
 ! https://github.com/easylist/easylist/pull/6607
 ##.component-ads-by-google
 cyberciti.biz##.adsbygoogle
@@ -11,6 +32,10 @@ imdb.com##.banner-container
 ##.fancybox-overlay-fixed.fancybox-overlay
 
 ##.ad-on-video
+
+haydenjames.io###advads_ad_widget-1
+haydenjames.io###advads_ad_widget-2
+haydenjames.io###advads_ad_widget-3
 
 itigic.com,computingforgeeks.com##.ezoic-ad
 
@@ -65,6 +90,8 @@ cambb.xxx,chaturbate.com,gamcore.com,playboy.com,rampant.tv,sex.com,signbucks.co
 
 !!! COOKIES !!!
 ###cookie.notice
+! has.dk###cookie-notice
+###cookie-notice
 ##.notice-cookies
 ###accept-cookies
 ##.product-suggest
@@ -74,6 +101,7 @@ cambb.xxx,chaturbate.com,gamcore.com,playboy.com,rampant.tv,sex.com,signbucks.co
 ##.fancybox-overlay-fixed.fancybox-overlay
 ##.fancybox-skin
 
+kadinlarkulubu.com##.notice--cookie
 
 ! 2021-04-02 https://squid-users.squid-cache.narkive.com
 !squid-users.squid-cache.narkive.com###gdpr_overflow
