@@ -812,6 +812,7 @@ imdb.com##.promoted-watch-ad-link
 imdb.com##.promoted-watch-ad
 imdb.com##.buybox__modal
 imdb.com##.videoPreview--autoPlaybackOnce.videoPreview
+imdb.com###bio_pro_link
 
 ! 2021-05-09 https://www.imdb.com, tracking, Ads
 ||media-amazon.com/images/*/imdbads/*$important
