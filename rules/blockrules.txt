@@ -860,7 +860,10 @@ cyberciti.biz###blocker7a1003a
 gitguys.com##.td_block_template_1.td_uid_54_5e397b5fe9cbb_rand.td-a-rec-img.td-a-rec-id-custom-spot.td-a-rec.td_block_wrap
 
 ! 05/02/2020 https://unix.stackexchange.com
-unix.stackexchange.com###noscript-warning
+!unix.stackexchange.com###noscript-warning
+! 2021-05-04 https://security.stackexchange.com
+!security.stackexchange.com###noscript-warning
+stackexchange.com###noscript-warning
 
 ! 22/03/2020 https://www.cloudbooklet.com
 cloudbooklet.com##.wp-block-group
