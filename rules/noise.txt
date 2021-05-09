@@ -25,6 +25,9 @@ imdb.com##.pro_logo_main_title
 imdb.com###add-photos-pro
 imdb.com###overview-middle
 imdb.com##.media-viewer__media-sheet
+! 2021-05-09 https://www.imdb.com (Image preloading of full gallery)
+! This one is added as BAD on very poor network connections
+||d1zcggttmijv1z.cloudfront.net^$script,important
 
 ! Notice, The following ruleset, WILL bring the site down from fully function
 adultdvdempire.com##.well
