@@ -50,6 +50,8 @@ itigic.com,computingforgeeks.com##.ezoic-ad
 !file-converter-online.com##.cc_banner-wrapper
 ##.cc_banner-wrapper
 
+nudography.com###BannerContainer
+
 ! https://github.com/easylist/easylist/pull/6968
 ###push-notifications
 
