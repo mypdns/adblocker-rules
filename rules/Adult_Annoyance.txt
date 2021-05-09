@@ -1057,11 +1057,12 @@ thefappening.news##.entry-content > div
 ! 1/19/2020 https://thefappening.xyz, https://www.mypdns.org/T2785
 thefappening.xyz##.headline.text-center
 
-! 1/22/2020 https://celebjihad.com, https://www.mypdns.org/T2787
+! https://celebjihad.com, https://www.mypdns.org/T2787
 celebjihad.com##[href^="https://go.hpyrdr.com/"]
-! 12/10/2019 https://celebjihad.com
 celebjihad.com##.theme_article.sidebar_increase
 celebjihad.com##[href^="https://go.celebjihad.live/smartpop/"]
+celebjihad.com##center
+celebjihad.com##.post_text_area > table
 
 ! 12/6/2019 https://www.8muses.com, https://www.mypdns.org/T1749
 8muses.com##a.t-hover.c-tile:nth-of-type(12) > .image
