@@ -811,6 +811,11 @@ imdb.com##.promoted-watch-ad
 imdb.com##.buybox__modal
 imdb.com##.videoPreview--autoPlaybackOnce.videoPreview
 
+! 2021-05-09 https://www.imdb.com, tracking, Ads
+||media-amazon.com/images/*/imdbads/*$important
+||media-amazon.com/images/*/imdb/images-*/android-mobile-*.png$important
+||media-amazon.com/images/*/imdb/images-*/favicon*.png$important
+
 ! 2/13/2020 https://myshiptracking.com
 myshiptracking.com##.rt_alerts
 myshiptracking.com##div.ads_160_right.listbox:nth-of-type(3)

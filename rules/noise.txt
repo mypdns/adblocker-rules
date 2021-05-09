@@ -22,6 +22,8 @@ imdb.com###prometer_container
 imdb.com##.titleReviewBar
 imdb.com##.imdb-footer
 imdb.com##.pro_logo_main_title
+imdb.com###add-photos-pro
+imdb.com###overview-middle
 
 ! Notice, The following ruleset, WILL bring the site down from fully function
 adultdvdempire.com##.well
