@@ -33,6 +33,13 @@ imdb.com##.banner-container
 
 ##.ad-on-video
 
+20felezyab.com###banner-ad
+20felezyab.com##.ad-block
+
+21sextury.com,21sextreme.com##.Cms_PromoBanner
+21sextury.com,21sextreme.com##.Cms_CookieConsent
+21sextury.com,21sextreme.com##.Gamma_Component.base.Cms_CookieConsent
+
 haydenjames.io###advads_ad_widget-1
 haydenjames.io###advads_ad_widget-2
 haydenjames.io###advads_ad_widget-3
