@@ -16,6 +16,8 @@
 !   - https://www.mypdns.org/p/Spirillen/
 !   - The individual lists maintainers
 
+themoviedb.org##.actions
+
 imdb.com##.uc-add-wl-button-icon--add
 imdb.com###maindetails_sidebar_bottom
 imdb.com###prometer_container
