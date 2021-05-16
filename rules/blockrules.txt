@@ -69,6 +69,7 @@ hub.packtpub.com###comments
 ! 2021-04-11 https://www.themoviedb.org
 themoviedb.org##.scroller.recommendations.panel
 themoviedb.org##.ott_offer
+themoviedb.org##.play_trailer
 
 ! 2021-03-25 https://file-converter-online.com
 file-converter-online.com##.cc_banner-wrapper
