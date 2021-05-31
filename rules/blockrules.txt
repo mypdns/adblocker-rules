@@ -118,7 +118,7 @@ speedostream.com##+js(aost, Object.getOwnPropertyDescriptor, /^/)
 ! https://github.com/easylist/easylist/pull/6734
 /CookieConsentTracking-
 
-https://github.com/easylist/easylist/pull/6748
+! https://github.com/easylist/easylist/pull/6748
 /udf-event-track
 
 ! 2021-02-18 https://trustpulse.com
