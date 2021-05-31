@@ -75,6 +75,12 @@ microsoft.com#@##ms-cookie-banner$badfilter
 ! https://github.com/easylist/easylist/issues/6126
 ! https://github.com/easylist/easylist/commit/e2a028ebbb548d20f88daa36cbfeb3a15729f755
 @@||gstatic.com^*/firebase-analytics.js$script,domain=999.md|audiomack.com|foreignaffairs.com|games.com|google.com,badfilter
+@@||gstatic.com/*/notifications/logo/google-plus-$image,domain=google.com,badfilter
+@@||gstatic.com/chrome/webstore/images/share_$domain=google.com,badfilter
+@@||gstatic.com/images/branding/$image,badfilter
+@@||gstatic.com/productsearch/static/social/$domain=google.com,badfilter
+@@||gstatic.com^*/images/google-$domain=google.com,badfilter
+@@||gstatic.com^*/social/$image,domain=google.com,badfilter
 
 ! https://www.mypdns.org/T1736
 ! https://github.com/easylist/easylist/issues/6128
