@@ -230,6 +230,9 @@ power.fi###cookie-notification#cookie-notification
 ! https://github.com/easylist/easylist/issues/7431
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp|farfeshplus.com|filmweb.pl|klix.ba|locipo.jp|maharashtratimes.com|nettavisen.no|niusdiario.es|rtlnieuws.nl|sportsport.ba|tbs.co.jp|tv-asahi.co.jp|tv.rakuten.co.jp|tver.jp|video.tv-tokyo.co.jp|vlive.tv|webdunia.com|wtk.pl,badfilter
 @@||pubads.g.doubleclick.net/gampad/ads*tv.rakuten.co.jp$xhr,domain=imasdk.googleapis.com,badfilter
+@@||googleapis.com/gweb-uniblog-publish-prod/static/blog/images/google-$domain=blog.google,badfilter
+@@||googleapis.com/hiveweb/img/icon_facebook.svg$domain=hive.im,badfilter
+@@||googleapis.com/hiveweb/img/icon_google.svg$domain=hive.im,badfilter
 
 ! https://github.com/easylist/easylist/pull/5560
 @@||c.evidon.com/sitenotice/evidon-sitenotice-tag.js$script,domain=southparkstudios.nu,badfilter
@@ -291,6 +294,15 @@ power.fi###cookie-notification#cookie-notification
 @@||google.com^*recaptcha/$frame,badfilter
 ||google.com^*recaptcha/$important
 ||yastatic.net/share2/share.js$script,important
+
+@@||google.*-youtube.jpg,badfilter
+@@||google.*/gplus-64.png,badfilter
+@@||google.*/images/*/social/$image,~third-party,badfilter
+@@||google.*/images/google-$image,~third-party,badfilter
+@@||google.*/retailer_google.png,badfilter
+@@||google.com/analytics/images/*_social.png,badfilter
+@@||google.com/analytics/images/social.png,badfilter
+@@||google.com/js/platform.js$domain=hiphopwired.com|listenonrepeat.com|log84.de,badfilter
 
 ! Another big mistake from EasyList https://github.com/easylist/easylist/commit/c0efafdc218efa80cb12f42e424728924153c261#diff-9e00091554e8e64d830b74ad010e291dR102
 @@||mediaworld.it^*/GoogleTagManager.js?$badfilter
