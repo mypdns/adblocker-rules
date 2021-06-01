@@ -1068,6 +1068,10 @@ theatlantic.com##.qc-cmp-showing.qc-cmp-ui-container
 ||live.github.com/_luau/*$websocket,important
 ||live.github.com/_ws/*$websocket,important
 ||collector.githubapp.com^
+||github.com/_alive$xhr,important
+||github.com/_private/browser/stats
+||github.com/_ws$xhr,important
+||github.com/socket-worker-*.js$script,important
 
 !github.com##.flash-notice.flash-full.flash
 !github.com##.js-notice.mb-4
@@ -1099,11 +1103,7 @@ github.com##.rounded-1.signup-prompt-bg
 github.com##.rounded-2.border.p-4.mb-6.mx-auto.signup-prompt
 github.com##.ws-normal.text-left.p-3.box-shadow-large.Box.Popover-message
 github.com#@#.flash-error.flash-full.flash
-||github.com/_alive$xhr,important
-||github.com/_private/browser/stats
-||github.com/_ws$xhr,important
-||github.com/socket-worker-*.js$script,important
-
+github.com###sponsor-button-repo
 
 ||google.com^*recaptcha/$badfilter,frame
 ||google.com^*recaptcha/$important
