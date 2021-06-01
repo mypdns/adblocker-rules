@@ -16,6 +16,9 @@
 !   - https://www.mypdns.org/p/Spirillen/
 !   - The individual lists maintainers
 
+! https://www.mypdns.org/T4496, https://www.mypdns.org/T4497
+||webvisor.com^
+||webvisor.org^
 
 ! 2021-04-29 https://www.reck.dk
 !www.reck.dk##a[href^="https://wpmudev.com/project/"]
