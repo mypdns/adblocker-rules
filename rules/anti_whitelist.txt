@@ -180,8 +180,9 @@ radiolodz.pl##.share_icons
 ! https://github.com/easylist/easylist/pull/5386 yimg.* is all about tracking
 @@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.$script,domain=sports.yahoo.co.jp,badfilter
 
-! Based on, not from https://github.com/ryanbr/fanboy-adblock/issues/1375
-@@||geolocation.onetrust.com/cookieconsentpub/$script,badfilter
+! Based on, not from https://github.com/ryanbr/fanboy-adblock/issues/1375, https://www.mypdns.org/T943
+@@||geolocation.onetrust.com/cookieconsentpub/$script,domain=~cnbc.com,badfilter
+@@||onetrust.com/request/$xmlhttprequest,badfilter
 @@||cookielaw.org/consent/$xmlhttprequest,badfilter
 @@||isgprivacy.cbsi.com/dist/optanon.js$script,badfilter
 @@||cookielaw.org/scripttemplates/$script,domain=eurogamer.net|zdnet.com,badfilter
