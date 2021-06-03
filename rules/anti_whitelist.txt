@@ -113,6 +113,7 @@ bccnapoli.it,thetechsutra.com#@#.cp-overlay,badfilter
 @@||adf.ly/static/image/$image,1p,badfilter
 @@||adf.ly^$generichide,badfilter
 
+@@||googleadservices.com/pagead/conversion_async.js$script,domain=jp.square-enix.com,badfilter
 
 ! AdGuard ANTI Tracking Protection
 ! Seriously?? whitelist any googletagmanager.com??
@@ -126,31 +127,33 @@ bccnapoli.it,thetechsutra.com#@#.cp-overlay,badfilter
 @@||googletagmanager.com/gtm.js$domain=bunte.de|computerbild.de|finanzen.net|radiorur.de|saturn.at|sport1.de,badfilter
 @@||googletagmanager.com/gtm.js$domain=netcombo.com.br|saraiva.com.br|superesportes.com.br|tugatech.com.pt,badfilter
 @@||googletagmanager.com/gtm.js$domain=besplatka.ua|cdek.ru|sportmaster.ru|teddyfood.com,badfilter
+@@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|book.impress.co.jp|cyclestyle.net|kakuyomu.jp|sankei.com|ymobile.jp,badfilter
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27402, https://github.com/easylist/easylist/pull/6464
-@@||google-analytics.com/cx/api.js$domain=pcloud.com$badfilter
+@@||google-analytics.com/cx/api.js$domain=pcloud.com,badfilter
 @@||google-analytics.com/analytics.js$domain=afternic.com|allmusic.com|amctv.com|anchor.fm|bebo.com|beinsports.com|bennysva.com|blastingnews.com|ch10.co.il|cliphunter.com|daemon-tools.cc|desigual.com|easyjet.com|firehousesubs.com|gamepix.com|greentoe.com|health2000.co.nz|housing.wisc.edu|infogr.am|jackbox.tv|jobs.net|keygames.com|m.timesofindia.com|manowthaimordialloc.com.au|maxiclimber.com|orbitum.com|pluto.tv|pure.com|readyrefresh.com|rebtel.com|sbnation.com|sci2.tv|seatgeek.com|stitcher.com|support.amd.com|tagheuer.com.au|tracking.narvar.com|tv10play.se|tv3play.se|tv6play.se|tv8play.se|video.pbs.org|vox.com|vpnster.com|weather.gov|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg|www.google.com,badfilter
 @@||google-analytics.com/ga.js$domain=7digital.com|account.hirezstudios.com|aebn.net|aftonbladet.se|alatest.com|americanapparel.net|apps.facebook.com|asus.com|avast.com|babylon.com|bangbros.com|banshee.fm|billabong.com|billboard.com|bolha.com|bookadumpster.com|boostmobile.com|break.com|brobible.com|cinemassacre.com|comingsoon.net|dailyfreegames.com|donanimhaber.com|ehow.com|eonline.com|everydayhealth.com|expensify.com|filmweb.pl|fora.tv|fossil.com|foxsports.com.au|frequency.com|g4tv.com|gasbuddy.com|globaltv.com|google.com|gumtree.com.au|hoerzu.de|imageshack.us|intellicast.com|jetbrains.com|jobsite.co.uk|justjared.com|juxtapoz.com|kleinanzeigen.ebay.de|latimes.com|lemonfree.com|liptonicetea.com|logitech.com|lucasarts.com|mashable.com|maxcdn.com|medonet.pl|meetme.com|mevio.com|mommyish.com|newyorker.com|nme.com|nuts.co.uk|opendns.com|oyster.com|philips.com|photobucket.com|priceme.co.nz|priestville.org|salon.com|search.diy.com|seekingalpha.com|sundance.org|techbargains.com|tempe12.com|theblaze.com|thegrindstone.com|theweek.com|threatfire.com|timberland.com|tomshardware.com|tube8.com|tvunetworks.com|tweetgrid.com|umbro.com|weeworld.com|wonka.com|xda-developers.com|yellow.co.nz|youtube.com|zoo.org.au,badfilter
 @@||google-analytics.com/gtm/js$script,domain=curbed.com|eater.com|funnyordie.com|gumtree.com|mmafighting.com|mmamania.com|nflgamepass.com|polygon.com|racked.com|readyrefresh.com|reuters.com|riftherald.com|sbnation.com|theringer.com|theta.tv|toysrus.ca|vox.com,badfilter
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=lovehoney.co.uk|maxiclimber.com|opendns.com|openshift.com|vimeo.com|westernunion.at|westernunion.be|westernunion.ca|westernunion.ch|westernunion.cl|westernunion.co.jp|westernunion.co.nz|westernunion.co.uk|westernunion.co.za|westernunion.com|westernunion.com.au|westernunion.com.co|westernunion.com.hk|westernunion.com.my|westernunion.com.pe|westernunion.de|westernunion.fr|westernunion.ie|westernunion.it|westernunion.nl|westernunion.ph|westernunion.pl|westernunion.se|westernunion.sg,badfilter
-@@||google-analytics.com/plugins/ua/ec.js$script,domain=health2000.co.nz
-@@||google-analytics.com/analytics.js$domain=saturn.at|schweizerfleisch.ch
-@@||google-analytics.com/plugins/ua/ec.js$domain=saturn.at
-@@||google-analytics.com/analytics.js$domain=infoconso-multimedia.fr|viandesuisse.ch
-@@||google-analytics.com/analytics.js$domain=novatv.bg
-@@||google-analytics.com/analytics.js$domain=news.gamme.com.tw
-@@||google-analytics.com/analytics.js$domain=carnesvizzera.ch
-@@||google-analytics.com/analytics.js$domain=skaties.lv
-@@||google-analytics.com/analytics.js$domain=tv3play.no
-@@||google-analytics.com/urchin.js$domain=record.xl.pt
-@@||google-analytics.com/analytics.js$domain=nabortu.ru|poiskstroek.ru|rzd.ru|teddyfood.com
-@@||google-analytics.com/plugins/ua/ec.js$domain=teddyfood.com
-@@||google-analytics.com/analytics.js$domain=tradera.com|xxl.se
-@@||google-analytics.com/plugins/ua/ec.js$domain=xxl.se
-@@||google-analytics.com/analytics.js$domain=ligtv.com.tr
+@@||google-analytics.com/plugins/ua/ec.js$script,domain=health2000.co.nz,badfilter
+@@||google-analytics.com/analytics.js$domain=saturn.at|schweizerfleisch.ch,badfilter
+@@||google-analytics.com/plugins/ua/ec.js$domain=saturn.at,badfilter
+@@||google-analytics.com/analytics.js$domain=infoconso-multimedia.fr|viandesuisse.ch,badfilter
+@@||google-analytics.com/analytics.js$domain=novatv.bg,badfilter
+@@||google-analytics.com/analytics.js$domain=news.gamme.com.tw,badfilter
+@@||google-analytics.com/analytics.js$domain=carnesvizzera.ch,badfilter
+@@||google-analytics.com/analytics.js$domain=skaties.lv,badfilter
+@@||google-analytics.com/analytics.js$domain=tv3play.no,badfilter
+@@||google-analytics.com/urchin.js$domain=record.xl.pt,badfilter
+@@||google-analytics.com/analytics.js$domain=nabortu.ru|poiskstroek.ru|rzd.ru|teddyfood.com,badfilter
+@@||google-analytics.com/plugins/ua/ec.js$domain=teddyfood.com,badfilter
+@@||google-analytics.com/analytics.js$domain=tradera.com|xxl.se,badfilter
+@@||google-analytics.com/plugins/ua/ec.js$domain=xxl.se,badfilter
+@@||google-analytics.com/analytics.js$domain=ligtv.com.tr,badfilter
+
 
 !+ NOT_PLATFORM(windows, mac, android, ext_chromium, ext_edge)
-@@||cdn.optimizely.com/public/$script,domain=nytimes.com$badfilter
+@@||cdn.optimizely.com/public/$script,domain=nytimes.com,badfilter
 
 ! https://github.com/easylist/easylist/commit/fedd2b71f993c929b8ba39b35f8e1adf82919259
 @@||stabila.com/bundles/marketingsuite/css/cookie-bar.css$badfilter
