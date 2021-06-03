@@ -172,8 +172,9 @@ bccnapoli.it,thetechsutra.com#@#.cp-overlay,badfilter
 @@||googlesyndication.com/simgad/$image,domain=pccomponentes.com,badfilter
 @@||pagead2.googlesyndication.com/getconfig/sodar?$xmlhttprequest,domain=spiegel.de,badfilter
 
-!+ NOT_PLATFORM(windows, mac, android, ext_chromium, ext_edge)
-@@||cdn.optimizely.com/public/$script,domain=nytimes.com,badfilter
+! https://www.mypdns.org/T22
+@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com,badfilter
+@@||optimizely.com/datafiles/$domain=talktalk.co.uk,badfilter
 
 ! https://github.com/easylist/easylist/commit/fedd2b71f993c929b8ba39b35f8e1adf82919259
 @@||stabila.com/bundles/marketingsuite/css/cookie-bar.css$badfilter
