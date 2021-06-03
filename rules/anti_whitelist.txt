@@ -222,6 +222,10 @@ power.fi###cookie-notification#cookie-notification
 ||cxense.com^$important
 @@||scdn.cxense.com/cx.cce.js$domain=wpb.shueisha.co.jp,badfilter
 @@||scdn.cxense.com/cx.js$script,domain=cyclestyle.net,badfilter
+@@||api.cxense.com/document/search?$xmlhttprequest,domain=friday.kodansha.co.jp,badfilter
+@@||api.cxense.com/public/widget/data?$script,domain=wpb.shueisha.co.jp,badfilter
+@@||api.cxense.com/public/widget/data?$xmlhttprequest,domain=cyclestyle.net,badfilter
+@@||api.cxense.com/public/widget/data|$xmlhttprequest,domain=friday.kodansha.co.jp,badfilter
 @@||images.sprinklecontent.com/270/170/$image,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|rytmi.com|soundi.fi|tilt.fi,badfilter
 @@||widgets.sprinklecontent.com/v2/$script,xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|rytmi.com|soundi.fi|tilt.fi,badfilter
 
