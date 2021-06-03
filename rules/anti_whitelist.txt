@@ -220,6 +220,8 @@ power.fi###cookie-notification#cookie-notification
 
 ! https://github.com/easylist/easylist/pull/5445
 ||cxense.com^$important
+@@||scdn.cxense.com/cx.cce.js$domain=wpb.shueisha.co.jp,badfilter
+@@||scdn.cxense.com/cx.js$script,domain=cyclestyle.net,badfilter
 @@||images.sprinklecontent.com/270/170/$image,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|rytmi.com|soundi.fi|tilt.fi,badfilter
 @@||widgets.sprinklecontent.com/v2/$script,xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|rytmi.com|soundi.fi|tilt.fi,badfilter
 
