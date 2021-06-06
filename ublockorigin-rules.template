@@ -79,3 +79,6 @@
 
 !------- Social Filters by @yourduskquibbles --------------------------!
 %include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/social_filters.txt%
+
+!------- Fuck Fuckadblock by @bogachenko ------------------------------!
+%include https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt%
