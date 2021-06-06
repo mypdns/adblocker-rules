@@ -16,8 +16,9 @@
 !   - https://www.mypdns.org/p/Spirillen/
 !   - The individual lists maintainers
 
-! arc.io
+! arc.io, Thanks malware fuckers @gruns, @guanzo, @jon-biz and @whittlbc
 /arc-sw.js@important
+||arc.io/widget.min.js$script,important
 
 ! https://www.mypdns.org/T4496, https://www.mypdns.org/T4497
 ||webvisor.com^
