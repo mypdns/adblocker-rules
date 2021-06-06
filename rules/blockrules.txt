@@ -20,6 +20,8 @@
 /arc-sw.js@script,popup,important
 ||arc.io/widget.min.js$script,important
 
+||cdnjs.cloudflare.com/ajax/libs/odometer.js/*$script,important
+
 ! https://www.mypdns.org/T4496, https://www.mypdns.org/T4497
 ||webvisor.com^
 ||webvisor.org^
