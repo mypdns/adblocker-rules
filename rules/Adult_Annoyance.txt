@@ -16,6 +16,9 @@
 !   - https://www.mypdns.org/p/Spirillen/
 !   - The individual lists maintainers
 
+! 2021-06-06 https://rule34.xxx
+rule34.xxx##.horizontalFlexWithMargins
+
 ! 2021-05-31 https://tubepornstars.tv
 ||go.tubepornstars.tv/ftt2/*$script
 
@@ -781,7 +784,7 @@ gogirls18.com##[href^="/show.php"]
 
 ! 10/08/2020 perfecttitspics.com
 ! https://www.mypdns.org/T1853
-||/advertise.js$script,domain=freelatinapics.com,important
+||/advertise.js$script,domain=freelatinapics.com|nudeblackporn.com,important
 
 ! 10/08/2020 pornharvest.com
 ! https://www.mypdns.org/T1834
