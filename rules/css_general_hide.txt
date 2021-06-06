@@ -18,6 +18,8 @@
 
 shoplyfter.com##.disclaimer-modal-wrapper
 
+! 2021-06-02 https://freefaucet.io
+||/banners/*$domain=freefaucet.io,generichide
 
 ! https://github.com/easylist/easylist/pull/6607
 ##.component-ads-by-google
