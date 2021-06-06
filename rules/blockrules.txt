@@ -17,7 +17,7 @@
 !   - The individual lists maintainers
 
 ! arc.io, Thanks malware fuckers @gruns, @guanzo, @jon-biz and @whittlbc
-/arc-sw.js@script,important
+/arc-sw.js@script,popup,important
 ||arc.io/widget.min.js$script,important
 
 ! https://www.mypdns.org/T4496, https://www.mypdns.org/T4497
