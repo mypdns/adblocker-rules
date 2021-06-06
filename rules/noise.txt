@@ -27,6 +27,13 @@ imdb.com##.pro_logo_main_title
 imdb.com###add-photos-pro
 imdb.com###overview-middle
 imdb.com##.media-viewer__media-sheet
+imdb.com###titleAwardsRanks
+imdb.com###titleVideoStrip
+imdb.com##.inline.see-more
+imdb.com##[href^="https://pro.imdb.com/"]
+imdb.com###titleFAQ
+imdb.com###titleUserReviewsTeaser
+
 ! 2021-05-09 https://www.imdb.com (Image preloading of full gallery)
 ! This one is added as BAD on very poor network connections
 ||d1zcggttmijv1z.cloudfront.net^$script,important
