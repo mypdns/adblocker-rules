@@ -1248,8 +1248,7 @@ wired.com##.show-social-box.persistent-aside--align-left.persistent-aside
 ! 10/9/2019 dr.dk/
 ||dr.dk/DR.Common.Banner.Ads/$xmlhttprequest
 ||dr.dk/drWebStat/$script
-!dr.dk###CybotCookiebotDialogBodyUnderlay
-!dr.dk###CybotCookiebotDialog
+dr.dk##.dre-read-more-link
 
 ! 10/12/2019 dr.dk
 ||adobedtm.com/
