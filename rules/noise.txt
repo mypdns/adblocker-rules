@@ -17,6 +17,7 @@
 !   - The individual lists maintainers
 
 themoviedb.org##.actions
+themoviedb.org##.recommendations
 
 imdb.com##.uc-add-wl-button-icon--add
 imdb.com###maindetails_sidebar_bottom

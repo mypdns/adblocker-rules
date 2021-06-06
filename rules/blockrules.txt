@@ -20,6 +20,13 @@
 ||webvisor.com^
 ||webvisor.org^
 
+! 2021-05-31 https://linuxhint.com
+linuxhint.com##.cpro-open
+
+! 2021-05-19 https://www.opensourceforu.com
+/feedburner.png$domain=www.opensourceforu.com,image
+www.opensourceforu.com##.author-box-wrap
+
 ! 2021-04-29 https://www.reck.dk
 !www.reck.dk##a[href^="https://wpmudev.com/project/"]
 ##a[href^="https://wpmudev.com/project/"]
