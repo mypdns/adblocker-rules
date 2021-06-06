@@ -16,6 +16,10 @@
 !   - https://www.mypdns.org/p/Spirillen/
 !   - The individual lists maintainers
 
+! 2021-06-06 https://kanako.store, https://www.mypdns.org/T4647
+||age-verification.hulkapps.com/hulk_age_verifier.js$script,important
+||kanako.store/cart.js$xhr,important
+
 ! 2021-06-06 https://rule34.xxx
 rule34.xxx##.horizontalFlexWithMargins
 
