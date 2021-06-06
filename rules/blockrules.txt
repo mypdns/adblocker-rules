@@ -17,8 +17,8 @@
 !   - The individual lists maintainers
 
 ! arc.io, Thanks malware fuckers @gruns, @guanzo, @jon-biz and @whittlbc
-/arc-sw.js@script,popup,important
-||arc.io/widget.min.js$script,important
+/arc-sw.js$important
+||arc.io/widget.min.js$important
 
 ||cdnjs.cloudflare.com/ajax/libs/odometer.js/*$script,important
 
