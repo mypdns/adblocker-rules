@@ -16,6 +16,13 @@
 !   - https://www.mypdns.org/p/Spirillen/
 !   - The individual lists maintainers
 
+! 2021-06-11 https://www.tube8.com
+www.tube8.com##[href^="https://livehdcams.com/"]
+
+! 2021-06-11 https://www.livehdcams.com
+www.livehdcams.com##.PayPalAgeGate-root-d0-0-2-76
+www.livehdcams.com##.HeroSpace-root-0-2-44
+
 ! 2021-06-06 https://kanako.store, https://www.mypdns.org/T4647
 ||age-verification.hulkapps.com/hulk_age_verifier.js$script,important
 ||kanako.store/cart.js$xhr,important

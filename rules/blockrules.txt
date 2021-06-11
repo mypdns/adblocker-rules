@@ -16,6 +16,9 @@
 !   - https://www.mypdns.org/p/Spirillen/
 !   - The individual lists maintainers
 
+! 2021-06-08 https://www.slant.co
+slant.co##.FAB-Floating
+
 ! arc.io, Thanks malware fuckers @gruns, @guanzo, @jon-biz and @whittlbc
 /arc-sw.js$important
 ||arc.io/widget.min.js$important
@@ -1148,7 +1151,10 @@ information.dk##div.omega.alpha.grid-12.panel-panel:nth-of-type(4)
 news.discoverynetworks.dk###navbar-primary
 
 ! 1/7/2020 https://conversion-rate-experts.com
-conversion-rate-experts.com##.cookie-consent-bar
+conversion-rate-experts.com,publisher.linkvertise.com##.cookie-consent-bar
+
+! 2021-06-06 https://publisher.linkvertise.com
+publisher.linkvertise.com##.js-cookie-consent
 
 ! 1/7/2020 https://sourceforge.net
 sourceforge.net###mirror
