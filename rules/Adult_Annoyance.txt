@@ -137,12 +137,10 @@ zteenporn.com##.pause-block
 ! 2021-02-23 https://vrbtrans.com
 vrbtrans.com##.vrb_fb__wrapper
 
-! 2021-02-22 https://tubeteensporn.com
-/renderer/renderer.js$script,important
+! 2021-02-22 https://tubeteensporn.com, https://www.mypdns.org/T3820
+/renderer/renderer.js$script,important,domain=tubeteensporn.com
 @@||stats.hprofits.com/advertisement.js,badfilter
 
-! 2021-02-22 https://tubeteensporn.com https://www.mypdns.org/T3820
-/renderer/renderer.js$script,important
 
 ! tuberel.com https://www.mypdns.org/T3804
 ||tuberel.com/*.php
