@@ -1,19 +1,21 @@
 ! List url:
-! https://github.com/spirillen/ublockorigin-rules/rules/Adult_Annoyance.txt
+! https://mypdns.org/my-external-stuff/ublockorigin-rules/-/tree/master/rules/Adult_Annoyance.txt
 !
 ! License:
-! https://github.com/spirillen/ublockorigin-rules/blob/master/LICENSE
-! Homepage: https://github.com/spirillen/ublockorigin-rules/
+! https://mypdns.org/spirillen/ublockorigin-rules/-/blob/master/LICENSEE
+! Homepage: https://mypdns.org/my-external-stuff/ublockorigin-rules/
 !
 ! Please report any unblocked content or problems on the Issue board.
 ! GitHub issues:
-! - https://github.com/spirillen/ublockorigin-rules/issues
-! GitHub merge request:
-! - https://github.com/spirillen/ublockorigin-rules/pulls
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/issues
+! Merge Request:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/-/merge_requests
 ! Email:
 !   - None
 ! CopyRight:
-!   - https://www.mypdns.org/p/Spirillen/
+!   - https://mypdns.org/spirillen
+!   - https://archive.mypdns.org/p/Spirillen/
+!   - https://github.com/spirillen
 !   - The individual lists maintainers
 
 ! 2021-06-11 https://www.tube8.com
@@ -553,8 +555,8 @@ xfantasy.com##.overlay-container
 xfantasy.com##.faux-applet-sidebar
 
 ! 2020-10-13 javlibrary.com
-||javlibrary.com/cdn-cgi/challenge-platform/*$xhr,important
-||javlibrary.com/cdn-cgi/images/trace/*$image,important
+||/cdn-cgi/challenge-platform/*$xhr,important,domain=blacked.com|javlibrary.com
+||/cdn-cgi/images/trace/*$image,important,domain=blacked.com|javlibrary.com
 
 ! 2020-10-14 hentaitube.biz
 ! https://www.mypdns.org/T1796
@@ -706,9 +708,6 @@ adult.urlgalleries.net##tr:nth-of-type(68) > td > table
 ! 2020-09-01 babe.today
 ||highwebmedia.com^$xhr,important
 
-! 2020-09-01 blacked.com
-||blacked.com/cdn-cgi/challenge-platform/*$important
-||blacked.com/cdn-cgi/*/trace/*$important
 
 ! 2020-09-03 pornstarapex.com
 ! https://www.mypdns.org/T1345

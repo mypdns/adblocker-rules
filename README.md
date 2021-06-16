@@ -9,7 +9,7 @@ Howto? [block whitlisted spyware](https://github.com/easylist/easylist/issues/45
 
 * `$badfilter`: Deactivates a resource-blocking entry, even if it is present in another list.
 * `$important`: Makes a resource-blocking entry take precedence over another whitelisting entry.
-* `$redirect`: Redirects resources to a neutered version that has been embedded in those extensions. Possible options are listed in 
+* `$redirect`: Redirects resources to a neutered version that has been embedded in those extensions. Possible options are listed in
     [this file](https://github.com/gorhill/uBlock/blob/master/src/js/redirect-engine.js)
     (AdGuard has a [slightly smaller selection](https://github.com/AdguardTeam/AdguardBrowserExtension/blob/master/Extension/lib/filter/rules/scriptlets/redirects.yml)).
 * `$empty`: Results in a fake empty page being loaded, instead of an error page.
@@ -34,7 +34,7 @@ Then
 ```
 is a valid filter, it disables the allowlist only on abc.com.
 
-See the dialog at <https://github.com/spirillen/ublockorigin-rules/commit/c01ba1a5a0d73a89c911ab11d1322631fe3d0540>
+See the dialog at <https://mypdns.org/my-external-stuff/ublockorigin-rules/commit/c01ba1a5a0d73a89c911ab11d1322631fe3d0540>
 
 ## External Sources
 @Yuki2718 [/adblock](https://github.com/Yuki2718/adblock)

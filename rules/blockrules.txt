@@ -1,19 +1,21 @@
 ! List url:
-! https://github.com/spirillen/ublockorigin-rules/rules/blockrules.txt
+! https://mypdns.org/my-external-stuff/ublockorigin-rules/-/tree/master/rules/blockrules.txt
 !
 ! License:
-! https://github.com/spirillen/ublockorigin-rules/blob/master/LICENSE
-! Homepage: https://github.com/spirillen/ublockorigin-rules/
+! https://mypdns.org/spirillen/ublockorigin-rules/-/blob/master/LICENSEE
+! Homepage: https://mypdns.org/my-external-stuff/ublockorigin-rules/
 !
 ! Please report any unblocked content or problems on the Issue board.
 ! GitHub issues:
-! - https://github.com/spirillen/ublockorigin-rules/issues
-! GitHub merge request:
-! - https://github.com/spirillen/ublockorigin-rules/pulls
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/issues
+! Merge Request:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/-/merge_requests
 ! Email:
 !   - None
 ! CopyRight:
-!   - https://www.mypdns.org/p/Spirillen/
+!   - https://mypdns.org/spirillen
+!   - https://archive.mypdns.org/p/Spirillen/
+!   - https://github.com/spirillen
 !   - The individual lists maintainers
 
 ! 2021-06-08 https://www.slant.co
@@ -344,9 +346,8 @@ koditips.com##div:nth-of-type(4)
 ! 2020-11-28 https://dubox.com
 ||dubox.com/api/analytics$important
 
-! 2021-01-15 https://subscene.com
-/cdn-cgi/images/trace/*$important
-/cdn-cgi/challenge-platform/*$script,important
+/cdn-cgi/images/trace/*$image
+/cdn-cgi/challenge-platform/*$script
 
 ! 2021-01-15 https://rarbgaccess.org
 ||dyncdn.me/static/20/img/loading_flat.gif$image,important

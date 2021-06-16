@@ -1,19 +1,21 @@
 ! List url:
-! https://github.com/spirillen/ublockorigin-rules/rules/anti_whitelist.txt
+! https://mypdns.org/my-external-stuff/ublockorigin-rules/-/tree/master/rules/anti_whitelist.txt
 !
 ! License:
-! https://github.com/spirillen/ublockorigin-rules/blob/master/LICENSE
-! Homepage: https://github.com/spirillen/ublockorigin-rules/
+! https://mypdns.org/spirillen/ublockorigin-rules/-/blob/master/LICENSEE
+! Homepage: https://mypdns.org/my-external-stuff/ublockorigin-rules/
 !
 ! Please report any unblocked content or problems on the Issue board.
 ! GitHub issues:
-! - https://github.com/spirillen/ublockorigin-rules/issues
-! GitHub merge request:
-! - https://github.com/spirillen/ublockorigin-rules/pulls
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/issues
+! Merge Request:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/-/merge_requests
 ! Email:
 !   - None
 ! CopyRight:
-!   - https://www.mypdns.org/p/Spirillen/
+!   - https://mypdns.org/spirillen
+!   - https://archive.mypdns.org/p/Spirillen/
+!   - https://github.com/spirillen
 !   - The individual lists maintainers
 
 ! https://cst.cstwpush.com/static/adManager.js, https://www.mypdns.org/T3437
@@ -96,7 +98,7 @@ microsoft.com#@##ms-cookie-banner$badfilter
 tennisassa.fi#@#.cookie-monster,badfilter
 
 ! https://github.com/easylist/easylist/blob/5286c506b71a27093b45b233283620bce518291f/fanboy-addon/fanboy_annoyance_allowlist_general_hide.txt#L48
-! https://github.com/spirillen/ublockorigin-rules/commit/10a2df535d978888e6965defe371fa6356b43f5c#commitcomment-42257563
+! https://mypdns.org/my-external-stuff/ublockorigin-rules/commit/10a2df535d978888e6965defe371fa6356b43f5c#commitcomment-42257563
 ##.grecaptcha-badge.grecaptcha-badge
 
 ! https://github.com/ryanbr/fanboy-adblock/issues/1401
@@ -104,7 +106,7 @@ tennisassa.fi#@#.cookie-monster,badfilter
 marketdino.pl,mediaexpert.leszczynscy.pl,pajarito.de#@#.fb-container,badfilter
 
 ! https://github.com/easylist/easylist/commit/74734bc7a8af596c853a656770ca0bc9d0ac244f
-! Addition to https://github.com/spirillen/ublockorigin-rules/commit/65d43f48cdb30b48328a2b84bbcf357175f4dfce
+! Addition to https://mypdns.org/my-external-stuff/ublockorigin-rules/commit/65d43f48cdb30b48328a2b84bbcf357175f4dfce
 bccnapoli.it,thetechsutra.com#@#.cp-overlay,badfilter
 
 ! uBlock filters – Unbreak
