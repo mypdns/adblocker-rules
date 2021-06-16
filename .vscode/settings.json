@@ -1,0 +1,6 @@
+{
+    "settings": {
+        "gitlab.instanceUrl": "https://mypdns.org",
+        "gitlab.showStatusBarLinks": true
+    }
+}
