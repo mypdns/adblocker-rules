@@ -20,6 +20,12 @@
 
 ! My Privacy DNS Domains
 @@||mypdns.org^
+! Thank you GitLab.com for spamming my domain despite I told you not to in the config
+mypdns.org##.promotion-callout
+mypdns.org##.gl-banner
+mypdns.org##.hide
+mypdns.org##.container-limited
+
 @@||mypdns.com^
 @@||matrix.rocks^
 @@||mypdns.cloud^
@@ -28,8 +34,12 @@
 @@||www.hetzner.com^$font,domain=www.hetzner.com
 @@||livesupport.hetzner.de/fonts/*$font,domain=www.hetzner.com
 
+! 2021-06-08 https://www.namesilo.com
+@@||www.namesilo.com/cdn-cgi/bm/cv/*$script,domain=www.namesilo.com
+@@||ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js$script,domain=www.namesilo.com
+@@||www.namesilo.com/cdn-cgi/bm/cv/*$xhr,domain=www.namesilo.com
+
 @@about-scheme
-@@ccbill.metartmoney.com
 @@chrome-extension-scheme
 @@chrome-scheme
 @@moz-extension-scheme

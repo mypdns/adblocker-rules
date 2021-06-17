@@ -29,18 +29,26 @@ cyberciti.biz##.adsbygoogle
 ##.alignright:has(.adsbygoogle)
 
 
+20felezyab.com##.ad-block
+
+!21sextury.com,21sextreme.com##.Cms_PromoBanner
+!21sextury.com,21sextreme.com##.Cms_CookieConsent
+!21sextury.com,21sextreme.com##.Gamma_Component.base.Cms_CookieConsent
+##.Cms_PromoBanner
+##.Cms_CookieConsent
+##.Gamma_Component.base.Cms_CookieConsent
+
+
+
+
 ##.__give_away.bc_popalert
 
 ##.ad-on-video
-
+!imdb.com##.banner-container
+##.banner-container
+##.ezoic-ad
 ##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
 ##.fancybox-overlay-fixed.fancybox-overlay
-
-! Testing global bloking related to
-! https://github.com/easylist/easylist/pull/8079
-! https://github.com/easylist/easylist/issues/8078
-##.happy-under-player
-##.happy-footer
 
 ! 11/4/2019 livefreecamx.com
 ##.overlay
@@ -53,7 +61,17 @@ cyberciti.biz##.adsbygoogle
 !file-converter-online.com##.cc_banner-wrapper
 ##.cc_banner-wrapper
 
-nudography.com###BannerContainer
+!haydenjames.io###advads_ad_widget-1
+!haydenjames.io###advads_ad_widget-2
+!haydenjames.io###advads_ad_widget-3
+###advads_ad_widget-1
+###advads_ad_widget-2
+###advads_ad_widget-3
+
+!20felezyab.com###banner-ad
+###banner-ad
+!nudography.com###BannerContainer
+###BannerContainer
 
 ! https://github.com/easylist/easylist/pull/6968
 ###push-notifications
@@ -106,19 +124,11 @@ cambb.xxx,chaturbate.com,gamcore.com,playboy.com,rampant.tv,sex.com,signbucks.co
 ##.fancybox-overlay-fixed.fancybox-overlay
 ##.fancybox-skin
 
-20felezyab.com###banner-ad
-20felezyab.com##.ad-block
 
-21sextury.com,21sextreme.com##.Cms_PromoBanner
-21sextury.com,21sextreme.com##.Cms_CookieConsent
-21sextury.com,21sextreme.com##.Gamma_Component.base.Cms_CookieConsent
-haydenjames.io###advads_ad_widget-1
-haydenjames.io###advads_ad_widget-2
-haydenjames.io###advads_ad_widget-3
-imdb.com##.banner-container
-itigic.com,computingforgeeks.com##.ezoic-ad
 
 kadinlarkulubu.com##.notice--cookie
+
+
 
 ! 2021-04-02 https://squid-users.squid-cache.narkive.com
 !squid-users.squid-cache.narkive.com###gdpr_overflow

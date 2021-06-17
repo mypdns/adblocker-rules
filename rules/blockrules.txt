@@ -18,6 +18,10 @@
 !   - https://github.com/spirillen
 !   - The individual lists maintainers
 
+! 2021-05-08 https://forum.opnsense.org
+||forum.opnsense.org/adds/$image
+forum.opnsense.org##.news
+
 ! 2021-06-08 https://www.slant.co
 slant.co##.FAB-Floating
 
@@ -1091,7 +1095,6 @@ theatlantic.com##.qc-cmp-showing.qc-cmp-ui-container
 ||github.com/socket-worker-*.js$script,important
 
 !github.com##.flash-notice.flash-full.flash
-!github.com##.js-notice.mb-4
 @@||github.com^$generichide,badfilter
 github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-3.col-lg-3.col-md-3.col-12.team-left-column
 github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-lg-5.pr-md-4.pr-3.col-lg-3.col-md-3.col-12.team-left-column
@@ -1104,11 +1107,13 @@ github.com##.js-banner.border-gray-light.border.rounded-1.text-center.p-4.conten
 github.com##.js-cookie-consent-banner
 github.com##.js-cookie-consent-preferences-link-container
 github.com##.js-header-promo-hide
-github.com##.js-notice.MarketplaceAnnouncement.flash-full.flash
-github.com##.js-notice.Popover
-github.com##.js-notice.mb-4
-github.com##.js-notice.mb-4.container-lg
-github.com##.js-notice.position-absolute.Popover
+! Had the next line running for about a week locally without braekage.
+github.com##.js-notice
+!github.com##.js-notice.mb-4
+!github.com##.js-notice.MarketplaceAnnouncement.flash-full.flash
+!github.com##.js-notice.mb-4.container-lg
+!github.com##.js-notice.Popover
+!github.com##.js-notice.position-absolute.Popover
 github.com##.js-notifications-list-protip.text-gray.flex-items-center.d-flex
 github.com##.js-unwatch-suggestions.js-notice.flash
 github.com##.mb-3.js-details-container.Details.border-black-fade.Box-row--yellow.Box
