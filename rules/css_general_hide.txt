@@ -25,7 +25,7 @@ shoplyfter.com##.disclaimer-modal-wrapper
 
 ! https://github.com/easylist/easylist/pull/6607
 ##.component-ads-by-google
-cyberciti.biz##.adsbygoogle
+xmodulo.com,cyberciti.biz##.adsbygoogle
 ##.alignright:has(.adsbygoogle)
 
 
@@ -120,6 +120,8 @@ cambb.xxx,chaturbate.com,gamcore.com,playboy.com,rampant.tv,sex.com,signbucks.co
 ##.product-suggest
 ##.CookieAcceptance
 
+! (scrolller.com)
+##.popup--dark
 ##.popup-consent
 ##.fancybox-overlay-fixed.fancybox-overlay
 ##.fancybox-skin
