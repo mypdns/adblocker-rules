@@ -120,7 +120,7 @@ dmm.co.jp###id_top_disclaimer_parent
 ||yandexcdn.com/js/*$script,important
 ||a.watchomovies.com^
 speedostream.com##+js(aost, Object.getOwnPropertyDescriptor, /^/)
-
+/yandex-metrica-watch/watch.js$script
 
 ! clarity.ms, https://www.mypdns.org/T3678
 ||clarity.ms^
