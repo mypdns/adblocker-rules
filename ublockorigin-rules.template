@@ -55,6 +55,9 @@
 !------- Fanboy's Enhanced Tracking List by @ryanbr -------------------!
 %include https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/enhancedstats-addon.txt%
 
+!------- Easylist Cookie List by @ryanbr ------------------------------!
+%include https://secure.fanboy.co.nz/fanboy-cookiemonster.txt%
+
 !------- Anti Whitelist by @Yuki2718 ----------------------------------!
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/anti-allowlist.txt%
 
@@ -84,3 +87,36 @@
 
 !------- Fuck Fuckadblock by @bogachenko ------------------------------!
 %include https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt%
+
+!------- AdGuard Base filter ------------------------------------------!
+%include https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt%
+
+!------- AdGuard Tracking Protection filter ---------------------------!
+%include https://filters.adtidy.org/extension/ublock/filters/3.txt%
+
+!------- Spam404 ------------------------------------------------------!
+%include https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt%
+
+!------- AdGuard Annoyances filter ------------------------------------!
+%include https://filters.adtidy.org/extension/ublock/filters/14.txt%
+
+!------- AdGuard Social Media filter ----------------------------------!
+%include https://filters.adtidy.org/extension/ublock/filters/4.txt%
+
+!------- Anti-Facebook List -------------------------------------------!
+%include https://secure.fanboy.co.nz/fanboy-antifacebook.txt%
+
+!------- Fanboy's Annoyance List (@ryanbr) ----------------------------!
+%include https://secure.fanboy.co.nz/fanboy-annoyance.txt%
+
+!------- Fanboy's Social Blocking List --------------------------------!
+%include https://easylist.to/easylist/fanboy-social.txt%
+
+!------- uBlock filters – Annoyances ----------------------------------!
+%include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt%
+
+!------- Dan Pollock --------------------------------------------------!
+%include https://someonewhocares.org/hosts/hosts%
+
+!------- Peter @pgl yoyo.org------------------------------------------!
+%include https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext%

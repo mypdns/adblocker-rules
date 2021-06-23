@@ -18,23 +18,27 @@ Howto? [block whitlisted spyware](https://github.com/easylist/easylist/issues/45
 ## Source URI's
 How to write filters: <https://help.eyeo.com/en/adblockplus/how-to-write-filters>
 
-[Click here to activate in adBlockPlus](https://subscribe.adblockplus.org/?location=https://spirillen.github.io/ublockorigin-rules/blockrules.txt&title=My%20Privacy%20DNS)
+[Click here to activate in adBlockPlus](abp:subscribe?location=https://my-external-stuff.github.io/ublockorigin-rules/blockrules.txt&title=My%20Privacy%20DNS)
 
 ## Webfront
-Our HTML front end is <https://spirillen.github.io/ublockorigin-rules/>
+Our HTML front end is <https://my-external-stuff.github.io/ublockorigin-rules/>
 
 ### badfilter example
 If the original rule was like
+
 ```
 @@/advertise.js$script,domain=abc.com|xyz.com
 ```
+
 Then
+
 ```
-@@/advertise.js$script,badfilter,domain=abc.com
+@@/advertise.js$script,domain=abc.com,badfilter
 ```
+
 is a valid filter, it disables the allowlist only on abc.com.
 
-See the dialog at <https://mypdns.org/my-external-stuff/ublockorigin-rules/commit/c01ba1a5a0d73a89c911ab11d1322631fe3d0540>
+See the dialog at <https://github.com/My-External-Stuff/ublockorigin-rules/commit/c01ba1a5a0d73a89c911ab11d1322631fe3d0540>
 
 ## External Sources
 @Yuki2718 [/adblock](https://github.com/Yuki2718/adblock)

@@ -6,6 +6,8 @@ on:
   pull_request:
     branches:
       - "master"
+  schedule:
+    - cron: '01 * * * *'
 
 env:
   GIT_NAME: "${{ secrets.GIT_NAME }}"
@@ -21,7 +23,7 @@ jobs:
       fail-fast: false
       matrix:
         python_version:
-          - "3.9.1"
+          - "3.9.5"
         os:
           - ubuntu-20.04
 
@@ -45,6 +47,9 @@ jobs:
       - name: Render the rules
         run: |
           flrender -i ublockorigin-rules=. ublockorigin-rules.template _public/blockrules.txt
+
+      - name: Filter rules with FOP.py
+        run: python FOP.py _public/
 
       - name: Deploy
         run: |
