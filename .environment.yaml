@@ -1,0 +1,8 @@
+name: uBlockOrigin
+dependencies:
+  - python=3.9.5
+  - pip
+  - pip:
+      - python-abp>=0.2.0
+      - black
+      - wheel

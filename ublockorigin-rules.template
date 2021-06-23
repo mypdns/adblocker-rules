@@ -56,7 +56,7 @@
 %include https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/enhancedstats-addon.txt%
 
 !------- Easylist Cookie List by @ryanbr ------------------------------!
-%include https://secure.fanboy.co.nz/fanboy-cookiemonster.txt%
+%include https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-cookiemonster.txt%
 
 !------- Anti Whitelist by @Yuki2718 ----------------------------------!
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/anti-allowlist.txt%
@@ -104,13 +104,13 @@
 %include https://filters.adtidy.org/extension/ublock/filters/4.txt%
 
 !------- Anti-Facebook List -------------------------------------------!
-%include https://secure.fanboy.co.nz/fanboy-antifacebook.txt%
+%include https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-antifacebook.txt%
 
 !------- Fanboy's Annoyance List (@ryanbr) ----------------------------!
-%include https://secure.fanboy.co.nz/fanboy-annoyance.txt%
+! %include https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-annoyance.txt%
 
 !------- Fanboy's Social Blocking List --------------------------------!
-%include https://easylist.to/easylist/fanboy-social.txt%
+!%include https://easylist.to/easylist/fanboy-social.txt%
 
 !------- uBlock filters – Annoyances ----------------------------------!
 %include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt%
