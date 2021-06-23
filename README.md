@@ -4,7 +4,8 @@ How to write filters
 --------------------
 Howto? [block whitlisted spyware](https://github.com/easylist/easylist/issues/4529)
 
-@DandelionSprout have written this: [](https://github.com/DandelionSprout/adfilt/blob/master/Wiki/SyntaxMeaningsThatAreActuallyHumanReadable.md#blocking) but a few axamples would be greate
+@DandelionSprout have written this: [](https://github.com/DandelionSprout/adfilt/blob/master/Wiki/SyntaxMeaningsThatAreActuallyHumanReadable.md#blocking)
+but a few examples would be greate
 
 
 * `$badfilter`: Deactivates a resource-blocking entry, even if it is present in another list.
@@ -42,7 +43,18 @@ See the dialog at <https://github.com/My-External-Stuff/ublockorigin-rules/commi
 
 ## External Sources
 @Yuki2718 [/adblock](https://github.com/Yuki2718/adblock)
+
 @yourduskquibbles [/webannoyances](https://github.com/yourduskquibbles/webannoyances)
 
+@ryanbr [fanboy-adblock](https://github.com/ryanbr/fanboy-adblock)
+
+@pgl [yoyo.org](https://pgl.yoyo.org/)
+
+@EasyList [easylist.to](https://easylist.to)
+
+And everyone else I've forgotten to mention here.
+Have a look in the [source list](/ublockorigin-rules.template)
+
 ## Tanks
-Thanks to @Yuki2718, @THEtomaso, @krystian3w and everyone else who is spreading the knowledge of how rules should be made :smiley:
+Thanks to @Yuki2718, @THEtomaso, @krystian3w and everyone else who is spreading
+the knowledge of how rules should be made :smiley:

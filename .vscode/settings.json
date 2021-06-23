@@ -1,7 +1,3 @@
 {
-    "python.pythonPath": "/$HOME/miniconda/envs/uBlockOrigin/bin/python",
-    "cSpell.words": [
-        "IDNA",
-        "eaaacxaskjhfsiudfi"
-    ]
+    "python.pythonPath": "/home/joakim/miniconda/envs/uBlockOrigin/bin/python"
 }
