@@ -18,8 +18,8 @@
 !   - https://github.com/spirillen
 !   - The individual lists maintainers
 
-! https://cst.cstwpush.com/static/adManager.js, https://www.mypdns.org/T3437
-! 2021-06-11 https://eo.glgporno.com, https://www.mypdns.org/T4691
+! https://cst.cstwpush.com/static/adManager.js, https://mypdns.org/T3437
+! 2021-06-11 https://eo.glgporno.com, https://mypdns.org/T4691
 ||cstwpush.com^$important
 
 ! .adsbygoogle
@@ -29,13 +29,13 @@ advancedrenamer.com,epicbundle.com,hs-exp.jp,korail.pe.kr,phcorner.net,willyoupr
 @@||yandexcdn.com^$script,1p,badfilter
 @@||yandexcdn.com^$generichide,badfilter
 
-! https://kainpopoy.com, https://www.mypdns.org/T4189
+! https://kainpopoy.com, https://mypdns.org/T4189
 @@&publisher_code=$popup,domain=voe.sx,badfilter
 
 ! AdGuard Annoyances
 @@||stats.hprofits.com/advertisement.js,badfilter
 
-! https://github.com/easylist/easylist/issues/7290, https://www.mypdns.org/T3826
+! https://github.com/easylist/easylist/issues/7290, https://mypdns.org/T3826
 @@||privacy-mgmt.com^$domain=bold.dk,badfilter
 @@||sp-prod.net/wrapperMessagingWithoutDetection.js$domain=bold.dk,badfilter
 
@@ -59,19 +59,19 @@ microsoft.com#@##ms-cookie-banner$badfilter
 @@||unilad.co.uk^$generichide,badfilter
 @@||adsafeprotected.com/vans-adapter-google-ima.js$domain=unilad.co.uk,badfilter
 
-! pornhost.com https://www.mypdns.org/T3133
+! pornhost.com https://mypdns.org/T3133
 @@||traffichaus.com^*/banner-ad.js$badfilter
 @@/ads/ads.js$script,badfilter
 
-! https://www.mypdns.org/T2323
+! https://mypdns.org/T2323
 @@||pubmatic.com/adserver/*showad.js$script,badfilter
 
 ! https://github.com/easylist/easylist/issues/5596
-! https://www.mypdns.org/T2320
+! https://mypdns.org/T2320
 @@/wp-content/*/1x1.trans.gif$image,1p,badfilter
 
 ! Fanboy’s Enhanced Tracking List
-! freelatinapics.com https://www.mypdns.org/T1852
+! freelatinapics.com https://mypdns.org/T1852
 @@/advertise.js$script,badfilter
 
 ! https://github.com/easylist/easylist/issues/6127
@@ -88,7 +88,7 @@ microsoft.com#@##ms-cookie-banner$badfilter
 @@||gstatic.com^*/images/google-$domain=google.com,badfilter
 @@||gstatic.com^*/social/$image,domain=google.com,badfilter
 
-! https://www.mypdns.org/T1736
+! https://mypdns.org/T1736
 ! https://github.com/easylist/easylist/issues/6128
 ! https://github.com/easylist/easylist/commit/383f7b07e39f24db34591b4365943e6dbca16a70
 @@||analytics.amplitude.com^$~third-party,badfilter
@@ -113,13 +113,13 @@ bccnapoli.it,thetechsutra.com#@#.cp-overlay,badfilter
 @@||youtube-ui.l.google.com^$subdocument,badfilter
 @@||youtube-ui.l.google.com^$stylesheet,domain=youtube.com,badfilter
 
-! https://www.mypdns.org/T1266
+! https://mypdns.org/T1266
 ! Anti whitelist from EasyList. Unknow contributor
 @@||adf.ly^$generichide,badfilter
 @@||adf.ly/static/image/$image,1p,badfilter
 @@||adf.ly^$generichide,badfilter
 
-! https://www.mypdns.org/T985
+! https://mypdns.org/T985
 @@||googleadservices.com/pagead/conversion_async.js$script,domain=zubizu.com,badfilter
 @@||www.googleadservices.*/aclk?$domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk|googleadservices.com,badfilter
 @@||googleadservices.com/pagead/conversion_async.js$script,domain=jp.square-enix.com,badfilter
@@ -129,7 +129,7 @@ bccnapoli.it,thetechsutra.com#@#.cp-overlay,badfilter
 ! Why do you even bother trying to make a "Tracking Protection"
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27586
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27609
-! https://www.mypdns.org/T3960
+! https://mypdns.org/T3960
 @@||googletagmanager.com/gtag/js$script,domain=uptobox.com|uptostream.com,badfilter
 @@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|m.putlocker.how|schwab.com,badfilter
 @@||googletagmanager.com/gtm.js$domain=atptour.com|bsa-whitelabel.com|chipotle.com|complex.com|crello.com|cyclingnews.com|easternbank.com|nflgamepass.com|pioneer.eu|royalbank.com|scotsman.com|trademe.co.nz,badfilter
@@ -151,7 +151,7 @@ bccnapoli.it,thetechsutra.com#@#.cp-overlay,badfilter
 @@||googletagmanager.com/gtm.js$script,domain=tn.com.ar,badfilter
 @@||googletagmanager.com/gtm.js?id=$domain=tradera.com|xxl.se,badfilter
 
-! https://www.mypdns.org/T2887
+! https://mypdns.org/T2887
 @@||google-analytics.com/analytics.js$domain=beinsports.com|jackbox.tv|tracking.narvar.com|westernunion.com,badfilter
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com,badfilter
 @@||google-analytics.com/analytics.js$domain=saturn.at|schweizerfleisch.ch,badfilter
@@ -169,7 +169,7 @@ bccnapoli.it,thetechsutra.com#@#.cp-overlay,badfilter
 @@||google-analytics.com/plugins/ua/ec.js$domain=xxl.se,badfilter
 @@||google-analytics.com/analytics.js$domain=ligtv.com.tr,badfilter
 
-! googlesyndication.com, https://www.mypdns.org/T2888
+! googlesyndication.com, https://mypdns.org/T2888
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=downloads.codefi.re|globaldjmix.com|nlfreevpn.com|oldapps.com|slideplayer.com|smallseotools.com|tampermonkey.net|thefreedictionary.com|windows7themes.net,badfilter
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=real-sports.jp|slideplayer.com|smallseotools.com|tampermonkey.net|thefreedictionary.com,badfilter
 @@||pagead2.googlesyndication.com/pagead/js/lidar.js$domain=convert-me.com|grammarist.com,badfilter
@@ -178,7 +178,7 @@ bccnapoli.it,thetechsutra.com#@#.cp-overlay,badfilter
 @@||googlesyndication.com/simgad/$image,domain=pccomponentes.com,badfilter
 @@||pagead2.googlesyndication.com/getconfig/sodar?$xmlhttprequest,domain=spiegel.de,badfilter
 
-! https://www.mypdns.org/T22
+! https://mypdns.org/T22
 @@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com,badfilter
 @@||optimizely.com/datafiles/$domain=talktalk.co.uk,badfilter
 
@@ -195,7 +195,7 @@ radiolodz.pl##.share_icons
 ! https://github.com/easylist/easylist/pull/5386 yimg.* is all about tracking
 @@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.$script,domain=sports.yahoo.co.jp,badfilter
 
-! Based on, not from https://github.com/ryanbr/fanboy-adblock/issues/1375, https://www.mypdns.org/T943
+! Based on, not from https://github.com/ryanbr/fanboy-adblock/issues/1375, https://mypdns.org/T943
 @@||geolocation.onetrust.com/cookieconsentpub/$script,domain=~cnbc.com,badfilter
 @@||onetrust.com/request/$xmlhttprequest,badfilter
 @@||cookielaw.org/consent/$xmlhttprequest,badfilter

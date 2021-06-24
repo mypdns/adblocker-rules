@@ -25,9 +25,12 @@ shoplyfter.com##.disclaimer-modal-wrapper
 
 ! https://github.com/easylist/easylist/pull/6607
 ##.component-ads-by-google
-xmodulo.com,cyberciti.biz##.adsbygoogle
+manjaro.site,websiteforstudents.com,xmodulo.com,cyberciti.biz##.adsbygoogle
 ##.alignright:has(.adsbygoogle)
+.adsbygoogle
 
+##.author-box
+linuxhint.com##.author-box
 
 20felezyab.com##.ad-block
 
@@ -38,9 +41,6 @@ xmodulo.com,cyberciti.biz##.adsbygoogle
 ##.Cms_CookieConsent
 ##.Gamma_Component.base.Cms_CookieConsent
 
-
-
-
 ##.__give_away.bc_popalert
 
 ##.ad-on-video
@@ -49,6 +49,9 @@ xmodulo.com,cyberciti.biz##.adsbygoogle
 ##.ezoic-ad
 ##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
 ##.fancybox-overlay-fixed.fancybox-overlay
+
+##.happy-under-player
+##.happy-footer
 
 ! 11/4/2019 livefreecamx.com
 ##.overlay
