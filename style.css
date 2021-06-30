@@ -1,0 +1,47 @@
+body {
+  background: url(background1.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-size: 100% 100%;
+  font-family: sans-serif;
+  margin: auto;
+  max-width: 1280px;
+  color: white;
+}
+
+.navbar {
+  background-color: #313236;
+  border-radius: 2px;
+  max-width: 100%;
+}
+
+.navbar a {
+  color: #aaa;
+  display: inline-block;
+  font-size: 15px;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: #0ef20e;
+}
+
+p {
+  margin: 5px 15px 15px 15px;
+}
+
+h1 {
+    margin-left: 15px;
+}
+
+a {
+  color: #0ef20e;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
