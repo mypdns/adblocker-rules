@@ -62,6 +62,9 @@ imdb.com###titleUserReviewsTeaser
 
 *Promo*.jpg$domain=adultdvdempire.com,image
 
+# Adware (chat) noice
+||solvemate.com^
+
 themoviedb.org##.actions
 themoviedb.org##.recommendations
 
