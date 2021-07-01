@@ -351,6 +351,8 @@ koditips.com##div:nth-of-type(4)
 ! 2020-11-28 https://dubox.com
 ||dubox.com/api/analytics$important
 
+! Analytics" and "FingerprintingInvasive" by CloudFlare
+/cdn-cgi/bm/cv/2172558837/api.js
 /cdn-cgi/images/trace/*$image
 /cdn-cgi/challenge-platform/*$script
 
