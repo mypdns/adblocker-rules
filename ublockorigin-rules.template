@@ -86,7 +86,8 @@
 %include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/social_filters.txt%
 
 !------- Fuck Fuckadblock by @bogachenko ------------------------------!
-%include https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt%
+! %include https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt%
+! this is clearly NOT TO BE TRUSTED...
 
 !------- AdGuard Base filter ------------------------------------------!
 %include https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt%
