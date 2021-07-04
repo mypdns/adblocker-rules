@@ -1147,9 +1147,8 @@ power.se,power.dk###cookie-notification
 ||pinterest.com/resource/UserRegisterTrackActionResource/$xhr
 
 ! 1/6/2020 https://www.information.dk
-information.dk##.masthead
-!information.dk##.field-label-hidden.field-type-ds.field-name-non-subscriber-ad-article.field.paywall-box
-!information.dk##div.omega.alpha.grid-12.panel-panel:nth-of-type(4)
+information.dk##^.masthead
+information.dk##[class^="masthead"]
 
 ! 1/6/2020 http://news.discoverynetworks.dk
 news.discoverynetworks.dk###navbar-primary
