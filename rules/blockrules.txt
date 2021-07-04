@@ -1096,6 +1096,8 @@ theatlantic.com##.qc-cmp-showing.qc-cmp-ui-container
 ||github.com/_private/browser/stats
 ||github.com/_ws$xhr,important
 ||github.com/socket-worker-*.js$script,important
+||github.githubassets.com/assets/socket-worker-*.js.*,important
+||github.githubassets.com/favicon.ico$image
 
 !github.com##.flash-notice.flash-full.flash
 @@||github.com^$generichide,badfilter
@@ -1112,11 +1114,6 @@ github.com##.js-cookie-consent-preferences-link-container
 github.com##.js-header-promo-hide
 ! Had the next line running for about a week locally without braekage.
 github.com##.js-notice
-!github.com##.js-notice.mb-4
-!github.com##.js-notice.MarketplaceAnnouncement.flash-full.flash
-!github.com##.js-notice.mb-4.container-lg
-!github.com##.js-notice.Popover
-!github.com##.js-notice.position-absolute.Popover
 github.com##.js-notifications-list-protip.text-gray.flex-items-center.d-flex
 github.com##.js-unwatch-suggestions.js-notice.flash
 github.com##.mb-3.js-details-container.Details.border-black-fade.Box-row--yellow.Box
@@ -1130,7 +1127,7 @@ github.com##.ws-normal.text-left.p-3.box-shadow-large.Box.Popover-message
 github.com#@#.flash-error.flash-full.flash
 github.com###sponsor-button-repo
 
-||google.com^*recaptcha/$badfilter,frame
+||google.com^*recaptcha/$frame,badfilter
 ||google.com^*recaptcha/$important
 
 ! 12/27/2019 https://www.elgiganten.dk
@@ -1139,10 +1136,7 @@ elgiganten.dk##.cookie-info-layer
 ! 12/28/2019 https://www.fullrate.dk
 fullrate.dk##.callme-popunder__background
 ! 12/28/2019 https://www.power.dk
-!power.dk###cookie-notification
-###cookie-notification
-! 12/28/2019 https://www.power.se
-!power.se###cookie-notification
+power.se,power.dk###cookie-notification
 
 ! 1/4/2020 pinterest.com
 ||accountkit.com$script
@@ -1153,8 +1147,9 @@ fullrate.dk##.callme-popunder__background
 ||pinterest.com/resource/UserRegisterTrackActionResource/$xhr
 
 ! 1/6/2020 https://www.information.dk
-information.dk##.field-label-hidden.field-type-ds.field-name-non-subscriber-ad-article.field.paywall-box
-information.dk##div.omega.alpha.grid-12.panel-panel:nth-of-type(4)
+information.dk##.masthead
+!information.dk##.field-label-hidden.field-type-ds.field-name-non-subscriber-ad-article.field.paywall-box
+!information.dk##div.omega.alpha.grid-12.panel-panel:nth-of-type(4)
 
 ! 1/6/2020 http://news.discoverynetworks.dk
 news.discoverynetworks.dk###navbar-primary
