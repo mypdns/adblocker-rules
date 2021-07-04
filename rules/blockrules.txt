@@ -1149,6 +1149,13 @@ power.se,power.dk###cookie-notification
 ! 1/6/2020 https://www.information.dk
 information.dk##^.masthead
 information.dk##[class^="masthead"]
+str8ongay.com##.alfa-promo
+information.dk##^.alpha.grid-12
+information.dk##.field-name-non-subscriber-ad-article
+information.dk##.field.paywall-box
+information.dk##.greyed-text
+information.dk##[class^="greyed-text"]
+
 
 ! 1/6/2020 http://news.discoverynetworks.dk
 news.discoverynetworks.dk###navbar-primary
