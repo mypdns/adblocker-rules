@@ -6,3 +6,4 @@ dependencies:
       - python-abp>=0.2.0
       - black
       - wheel
+      - mypdns
