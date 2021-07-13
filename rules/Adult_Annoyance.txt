@@ -601,7 +601,7 @@ hegre.com##.dialogs > .stay-in-touch-dialog.white-dialog.fixed-dialog.hidden
 
 ! 2020-10-10 mysexgames.com
 ! https://mypdns.org/T1647
-||cloudflare.com/cdn-cgi/scripts/*/cloudflare-static/rocket-loader.min.js$script,important
+||cloudflare.com/cdn-cgi/scripts/*/cloudflare-static/rocket-loader.min.js$script,domain=mysexgames.com
 
 ! 2020-10-10 https://www.hdpornos.net
 ! https://mypdns.org/T1702
