@@ -18,6 +18,11 @@
 !   - https://github.com/spirillen
 !   - The individual lists maintainers
 
+! Phishing https://mypdns.org/my-privacy-dns/matrix/-/issues/2113
+||kunestra.hr/.uk/
+
+||popcash.net^$important
+
 ! 2021-05-08 https://forum.opnsense.org
 ||forum.opnsense.org/adds/$image
 forum.opnsense.org##.news
