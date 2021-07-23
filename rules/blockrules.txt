@@ -1287,6 +1287,7 @@ wired.com##.show-social-box.persistent-aside--align-left.persistent-aside
 ||dr.dk/DR.Common.Banner.Ads/$xmlhttprequest
 ||dr.dk/drWebStat/$script
 dr.dk##.dre-read-more-link
+dr.dk##.dre-sticky-share-band
 
 ! 10/12/2019 dr.dk
 ||adobedtm.com/
