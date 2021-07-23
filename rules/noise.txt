@@ -73,6 +73,8 @@ twitch.tv##.community-highlight
 twitch.tv##.top-bar
 twitch.tv##.eXenLC
 twitch.tv##.gqzYpA
+twitch.tv##.headliner-ad
+twitch.tv##.front-page-carousel
 
 ! protonmail.com
 mail.protonmail.com##li.flex-item-noshrink:nth-of-type(1)
