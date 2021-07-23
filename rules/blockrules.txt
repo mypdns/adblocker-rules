@@ -1336,8 +1336,16 @@ sourceforge.net##aside.m-sidebar-widget:nth-of-type(3)
 ! static.zdassets.com
 ||zdassets.com^$third-party
 
+torlock.unblockit.uno##.wrn_txt3
+torlock.unblockit.uno##.wrn_txt2
+torlock.unblockit.uno##.wrn_txt
+torlock.unblockit.uno##.warn
+torlock.unblockit.uno##.warnIp
+
+
 translation.babylon-software.com###dimScreen
 translation.babylon-software.com##.pc-popup-new
+
 ! 10/2/2019 https://hub.filterlists.com
 hub.filterlists.com##.alert-info.alert.signup-cta
 
