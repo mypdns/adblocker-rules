@@ -446,6 +446,10 @@ themezee.com###boxzilla-57913
 themezee.com###footer-about-section
 themezee.com##.boxzilla-newsletter.boxzilla-bottom-right.boxzilla-57913.boxzilla
 
+! 2021-07-23 https://www.twitch.tv
+twitch.tv##.channel-panels-container
+twitch.tv##.prime-offers
+
 ! 2020-11-29 https://wct.link, https://mypdns.org/T3205
 ||wct.link^$important
 
