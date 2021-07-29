@@ -59,8 +59,7 @@ haydenjames.io##.hayden-inpost_top
 haydenjames.io##.hayden-inpost_bottom
 haydenjames.io###connect
 
-! 2021-04-24 https://www.filmpertutti.vision
-||disqus.com^$subdocument
+! A.
 
 ! 2021-04-24 https://www.aznude.com
 aznude.com##.recommended
@@ -69,10 +68,31 @@ aznude.com##.watch-all-btn
 aznude.com##.increase-height
 aznude.com##footer
 
+! 2021-04-14 http://ancensored.com, https://mypdns.org/T1149
+ancensored.com##.register
+ancensored.com##.left
+ancensored.com##.blue
+ancensored.com##.sextapeannounce
+ancensored.com##.live-block
+
+! B.
+! 2021-06-28 https://bobcares.com
+bobcares.com##.widget_text
+
+! C.
+
+cyberciti.biz##.tips_top_slot_1
+cyberciti.biz###blocker7a1003a
+cyberciti.biz###text-384338391
+
+! D.
 
 ! 2021-04-15 https://dennismungai.wordpress.com
 dennismungai.wordpress.com###cmp-app-container
 dennismungai.wordpress.com##.actnbr-has-follow
+
+! 2021-04-24 https://www.filmpertutti.vision
+||disqus.com^$subdocument
 
 element14.com##.e14-cookie-directive
 element14.com##.webinarPopup
@@ -87,19 +107,6 @@ freshscat.com##.happy-sidebar
 ! 2021-02-28 https://idea4cash.com
 /reklamstore.js$script,important
 /blockadblock.js$script,important
-
-! 2021-04-14 http://ancensored.com, https://mypdns.org/T1149
-ancensored.com##.register
-ancensored.com##.left
-ancensored.com##.blue
-ancensored.com##.sextapeannounce
-ancensored.com##.live-block
-
-
-
-cyberciti.biz##.tips_top_slot_1
-cyberciti.biz###blocker7a1003a
-cyberciti.biz###text-384338391
 
 ! 2021-04-12 https://linuxconfig.org
 linuxconfig.org##.custom
