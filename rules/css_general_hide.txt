@@ -42,6 +42,8 @@ linuxhint.com##.author-box
 ##.Gamma_Component.base.Cms_CookieConsent
 
 ##.__give_away.bc_popalert
+##.gl-align-items-center.gl-flex-direction-row.gl-display-flex
+##.gitlab-ee-license-banner
 
 ##.ad-on-video
 !imdb.com##.banner-container
@@ -96,7 +98,7 @@ cambb.xxx,chaturbate.com,gamcore.com,playboy.com,rampant.tv,sex.com,signbucks.co
 ##.notifier-wrapper
 
 ##.post__inarticle-ad-template-mobile
-##.sticky-ad-target
+##.promotion-issue-weight-sidebar-message
 
 ##div[class^="ad_unit_below"]
 ##div[class^="ad_unit_header"]
@@ -113,6 +115,7 @@ cambb.xxx,chaturbate.com,gamcore.com,playboy.com,rampant.tv,sex.com,signbucks.co
 ##.social-counter-wrapper
 ##.social-counters
 ##.social-counts-single
+##.sticky-ad-target
 
 !!! COOKIES !!!
 ###cookie.notice
