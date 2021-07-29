@@ -37,10 +37,13 @@ adultdvdempire.com##.pricing-container
 adultdvdempire.com##.sale
 adultdvdempire.com##.main-nav-container
 
+edbpriser.dk##.popular-now
+
 github.com###sponsor-button-repo
 
 imdb.com##.uc-add-wl-button-icon--add
 imdb.com##.banner--accent1
+imdb.com##.hero-media__watchlist
 imdb.com##.inline.see-more
 imdb.com##.media-viewer__media-sheet
 imdb.com##.titleReviewBar

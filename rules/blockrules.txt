@@ -45,10 +45,13 @@ linuxhint.com##.cpro-open
 
 ! 2021-05-19 https://www.opensourceforu.com
 /feedburner.png$domain=www.opensourceforu.com,image
-www.opensourceforu.com##.author-box-wrap
+opensourceforu.com##.author-box-wrap
+
+mxtoolbox.com##.in.fade.modal
+mxtoolbox.com###ctl00_ContentPlaceHolder1_panelPitch
 
 ! 2021-04-29 https://www.reck.dk
-!www.reck.dk##a[href^="https://wpmudev.com/project/"]
+!reck.dk##a[href^="https://wpmudev.com/project/"]
 ##a[href^="https://wpmudev.com/project/"]
 
 ! 2021-04-29 https://haydenjames.io
@@ -71,6 +74,9 @@ aznude.com##footer
 dennismungai.wordpress.com###cmp-app-container
 dennismungai.wordpress.com##.actnbr-has-follow
 
+element14.com##.e14-cookie-directive
+element14.com##.webinarPopup
+
 ! 2021-04-19 https://forum.tweak.dk
 forum.tweak.dk##.tweak-banner
 forum.tweak.dk##.partner_box
@@ -88,6 +94,12 @@ ancensored.com##.left
 ancensored.com##.blue
 ancensored.com##.sextapeannounce
 ancensored.com##.live-block
+
+
+
+cyberciti.biz##.tips_top_slot_1
+cyberciti.biz###blocker7a1003a
+cyberciti.biz###text-384338391
 
 ! 2021-04-12 https://linuxconfig.org
 linuxconfig.org##.custom
@@ -127,6 +139,9 @@ dmm.co.jp###id_top_disclaimer_parent
 speedostream.com##+js(aost, Object.getOwnPropertyDescriptor, /^/)
 /yandex-metrica-watch/watch.js$script
 /metrica/watch.js$script
+
+! https://mypdns.org/my-privacy-dns/issues/-/issues/3437
+||cstwpush.com^$important
 
 ! clarity.ms, https://mypdns.org/T3678
 ||clarity.ms^
@@ -233,6 +248,8 @@ devdungeon.com##.container.footer
 ! 2021-02-08 http://aomizuan.sakura.ne.jp
 !sakura.ne.jp##.mainBanner
 ##.mainBanner
+
+||x666.io^$important
 
 ! 2021-01-30 https://subscene.com
 subscene.com##.details
@@ -810,9 +827,6 @@ deviantart.com##._1fo9J
 ! 4/28/2020 https://www.eonline.com
 eonline.com##.featherlight
 
-! 5/1/2020 https://www.cyberciti.biz
-cyberciti.biz###text-384338391
-
 ! 5/1/2020 https://www.linuxquestions.org
 linuxquestions.org##td.page:nth-of-type(1) > table.tborder:nth-of-type(3)
 
@@ -843,6 +857,7 @@ imdb.com##.promoted-watch-ad
 imdb.com##.imdb-footer__logo
 imdb.com##.imdb-footer__copyright
 imdb.com##.imdb-footer__socials
+imdb.com##.ipc-page-grid__item--span-1
 imdb.com##.contribute.article
 imdb.com##.recently-viewed
 imdb.com##.wtw-option-standalone
@@ -886,9 +901,6 @@ wikia.org##body > div:nth-of-type(3)
 
 ! 3/15/2020 https://pastebin.com
 pastebin.com###float-box-frame
-
-! 24/01/2020 https://www.cyberciti.biz
-cyberciti.biz###blocker7a1003a
 
 ! https://github.com/easylist/easylist/pull/4799
 /ab_fl.js$script

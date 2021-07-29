@@ -27,16 +27,14 @@ shoplyfter.com##.disclaimer-modal-wrapper
 ##.component-ads-by-google
 manjaro.site,websiteforstudents.com,xmodulo.com,cyberciti.biz##.adsbygoogle
 ##.alignright:has(.adsbygoogle)
-.adsbygoogle
+##.adsbygoogle
+forextuner.com,itsupportwale.com,advancedrenamer.com,epicbundle.com,hs-exp.jp,korail.pe.kr,phcorner.net,willyoupressthebutton.com,itzgeek.com##.adsbygoogle
 
 ##.author-box
 linuxhint.com##.author-box
 
 20felezyab.com##.ad-block
 
-!21sextury.com,21sextreme.com##.Cms_PromoBanner
-!21sextury.com,21sextreme.com##.Cms_CookieConsent
-!21sextury.com,21sextreme.com##.Gamma_Component.base.Cms_CookieConsent
 ##.Cms_PromoBanner
 ##.Cms_CookieConsent
 ##.Gamma_Component.base.Cms_CookieConsent
@@ -44,16 +42,21 @@ linuxhint.com##.author-box
 ##.__give_away.bc_popalert
 ##.gl-align-items-center.gl-flex-direction-row.gl-display-flex
 ##.gitlab-ee-license-banner
+##.gl-line-height-20.gl-py-6.gl-px-8.gl-card
 
 ##.ad-on-video
 !imdb.com##.banner-container
 ##.banner-container
 ##.ezoic-ad
+##.ezfound
 ##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
 ##.fancybox-overlay-fixed.fancybox-overlay
 
 ##.happy-under-player
 ##.happy-footer
+
+! xxxymovies.com https://mypdns.org/my-privacy-dns/porn-records/-/issues/86
+##.ontopplayerad
 
 ! 11/4/2019 livefreecamx.com
 ##.overlay
@@ -116,6 +119,8 @@ cambb.xxx,chaturbate.com,gamcore.com,playboy.com,rampant.tv,sex.com,signbucks.co
 ##.social-counters
 ##.social-counts-single
 ##.sticky-ad-target
+##.supertool_ad_static
+
 
 !!! COOKIES !!!
 ###cookie.notice

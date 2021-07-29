@@ -18,32 +18,28 @@
 !   - https://github.com/spirillen
 !   - The individual lists maintainers
 
-! 2021-06-11 https://www.tube8.com
-www.tube8.com##[href^="https://livehdcams.com/"]
+! 1
+! https://mypdns.org/my-privacy-dns/porn-records/-/issues/171
+||18porno.tv/player/html.php$subdocument
 
 ! 2021-06-11 https://www.livehdcams.com
-www.livehdcams.com##.PayPalAgeGate-root-d0-0-2-76
-www.livehdcams.com##.HeroSpace-root-0-2-44
+livehdcams.com##.PayPalAgeGate-root-d0-0-2-76
+livehdcams.com##.HeroSpace-root-0-2-44
 
-! 2021-06-06 https://kanako.store, https://mypdns.org/T4647
+! 2021-06-06 https://kanako.store, https://mypdns.org/my-privacy-dns/issues/-/issues/4647
 ||age-verification.hulkapps.com/hulk_age_verifier.js$script,important
 ||kanako.store/cart.js$xhr,important
 
-! 2021-06-06 https://rule34.xxx
+! https://mypdns.org/my-privacy-dns/porn-records/-/issues/169
 rule34.xxx##.horizontalFlexWithMargins
 
-! 2021-05-31 https://tubepornstars.tv
+! https://mypdns.org/my-privacy-dns/issues/-/issues/4480
 ||go.tubepornstars.tv/ftt2/*$script
 
-! 2021-05-21 https://holed.com
-cum4k.com,passion-hd.com,holed.com,pornpros.com##.payment-popup
-cum4k.com,passion-hd.com,holed.com,pornpros.com##.epoch-box
-cum4k.com,passion-hd.com,holed.com,pornpros.com##.join
-cum4k.com,passion-hd.com,holed.com,pornpros.com##.t2019-button
-cum4k.com,passion-hd.com,holed.com,pornpros.com##.join-btn-massive
-cum4k.com,passion-hd.com,holed.com,pornpros.com###t2019-previews
-cum4k.com,passion-hd.com,holed.com,pornpros.com##.sale-special-container
-cum4k.com,passion-hd.com,holed.com,pornpros.com##.popup-content
+! https://mypdns.org/my-privacy-dns/porn-records/-/issues/97
+cockmeter.com##.aside-itempage-col
+cockmeter.com###upp_r
+
 
 
 ! 2021-05-20 https://familyxxx.com
@@ -54,8 +50,10 @@ familyxxx.com##.lastPadding
 bangbros.com##.payment-options-wrapper
 bangbros.com##.hidden-larger-tablet
 
-! 2021-05-15 https://www.18porno.tv
-||www.18porno.tv/player/html.php$subdocument
+! https://mypdns.org/my-privacy-dns/porn-records/-/issues/118
+bestwifeporn.com##.featured-carousel
+bestwifeporn.com##.bx-wrapper
+
 
 ! 2021-04-21 https://www.shoplyfter.com
 shoplyfter.com##.join-iframe
@@ -66,6 +64,9 @@ teenfidelity.com##.is-small.is-success.hero
 teenfidelity.com##.p-0.section:nth-of-type(8)
 teenfidelity.com###navbar-tour > .is-size-4-widescreen.is-size-6.is-uppercase.navbar-end > .navbar-item:nth-of-type(2)
 teenfidelity.com##.page-break
+
+! https://mypdns.org/my-privacy-dns/porn-records/-/issues/172
+tube8.com##[href^="https://livehdcams.com/"]
 
 ! 2021-02-23 https://teenasspussy.com
 !/teen.php$important,domain=teenasspussy.com
@@ -83,6 +84,25 @@ kink.com##.store
 kink.com##.product-tag-wrapper
 kink.com##.kink-store-section
 
+
+! M
+
+! N
+
+! 11/4/2019 https://nakedgirls.org
+!nakedgirls.org###dclm_modal_screen
+!nakedgirls.org###dclm_modal_content
+
+! 11/4/2019 nakedgirls.org
+||nakedgirls.org/wp-content/cache/min/1/9fcd011c46522a73b34f64eb7ca6b479.js$script
+! 11/4/2019 http://nakedgirls.pw
+nakedgirls.pw##.adHomePage
+nakedgirls.pw##.plugrush.centered
+
+! 11/4/2019 http://nakedwomenweb.com
+nakedwomenweb.com##canvas:nth-of-type(2)
+
+! O
 ||uncn.jp^
 
 enf-cmnf.com,mrdeepfakes.com,rare-videos.net##.table
@@ -102,11 +122,15 @@ enf-cmnf.com,mrdeepfakes.com,rare-videos.net##.table
 adultdvd.com###popup-box
 adultdvd.com##td > [href="sale_50off_slee.html"]
 
-!vipergirls.to, https://mypdns.org/T4144
+!vipergirls.to, https://mypdns.org/my-privacy-dns/issues/-/issues/4144
 popcode*.js$domain=vipergirls.to
 
 ||porncore.net/*.php
 porncore.net##div[id^="_"][style="margin:10px;height:200px;width:800px;"]
+
+! https://mypdns.org/my-privacy-dns/porn-records/-/issues/141
+pornwild.to##.table
+||pornwild.to/static/js/main.min.js?v=8.4$script
 
 ! 2021-04-04 https://www.publicagent.com
 publicagent.com##div.iIdwbz.sc-1mhpkp8-3:nth-of-type(6)
@@ -115,42 +139,42 @@ publicagent.com##.lhnTNF.sc-1i2s1et-7
 publicagent.com##.kvhCIH.sc-1xljrhb-0
 publicagent.com##[href="/join"]
 
-! 2021-03-01 https://www.viptube.com, https://mypdns.org/T1449
+! 2021-03-01 https://www.viptube.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1449
 viptube.com##.drt-sponsor-block
 viptube.com##.partner_text_link
 viptube.com###spot_video_partner_banner
 viptube.com##.footer_adv
 viptube.com##div.stem_related.stem:nth-of-type(4)
 
-! 2021-02-18 https://pornolab.net, https://mypdns.org/T3740
+! 2021-02-18 https://pornolab.net, https://mypdns.org/my-privacy-dns/issues/-/issues/3740
 pornolab.net##.tCenter
 pornolab.net##.bypass-alert
 
-! 2021-02-18 https://www.zteenporn.com, https://mypdns.org/T3736
+! 2021-02-18 https://www.zteenporn.com, https://mypdns.org/my-privacy-dns/issues/-/issues/3736
 zteenporn.com##.ad_txt
 zteenporn.com##.mask
 zteenporn.com##.footer-promo
 zteenporn.com##.pause-block
 
-! 2021-02-26 https://www1.myhdjav.net, https://mypdns.org/T3934
+! 2021-02-26 https://www1.myhdjav.net, https://mypdns.org/my-privacy-dns/issues/-/issues/3934
 ! https://github.com/easylist/easylist/pull/6888
 !myhdjav.net##.player-sidebar
 
 ! 2021-02-23 https://vrbtrans.com
 vrbtrans.com##.vrb_fb__wrapper
 
-! 2021-02-22 https://tubeteensporn.com, https://mypdns.org/T3820
+! 2021-02-22 https://tubeteensporn.com, https://mypdns.org/my-privacy-dns/issues/-/issues/3820
 /renderer/renderer.js$script,important,domain=tubeteensporn.com
 @@||stats.hprofits.com/advertisement.js,badfilter
 
 
-! tuberel.com https://mypdns.org/T3804
+! tuberel.com https://mypdns.org/my-privacy-dns/issues/-/issues/3804
 ||tuberel.com/*.php
 
-! tubev.sex https://mypdns.org/T3805
+! tubev.sex https://mypdns.org/my-privacy-dns/issues/-/issues/3805
 ||tubev.sex/static/js/abb.js
 
-! pornj.com https://mypdns.org/T3803
+! pornj.com https://mypdns.org/my-privacy-dns/issues/-/issues/3803
 ||pornj.com/gabril/
 /poppy/*$domain=hclips.com|hdzog.com|hotmovs.com|porn555.com|pornforrelax.com|pornj.com|pornl.com|pornq.com|puporn.com|see.xxx|shemalez.com|thegay.com|thegay.porn|tubepornclassic.com|tuberel.com|txxx.com|upornia.com|voyeurhit.com
 
@@ -215,10 +239,10 @@ freebunker.com###layer
 ! 2021-01-31 https://www.pornbus.org
 pornbus.org###layer
 
-! brattysis.com: https://mypdns.org/T4388
-! myfamilypies.com: https://mypdns.org/T4389
-! princesscum.com: https://mypdns.org/T4390
-! nubiles-porn.com: https://mypdns.org/T4387
+! brattysis.com: https://mypdns.org/my-privacy-dns/issues/-/issues/4388
+! myfamilypies.com: https://mypdns.org/my-privacy-dns/issues/-/issues/4389
+! princesscum.com: https://mypdns.org/my-privacy-dns/issues/-/issues/4390
+! nubiles-porn.com: https://mypdns.org/my-privacy-dns/issues/-/issues/4387
 daddyslilangel.com,familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hidden-tablet
 daddyslilangel.com,familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hidden-phone
 daddyslilangel.com,familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.header-banner-wrapper
@@ -284,8 +308,9 @@ mofos.com##div.iIdwbz.sc-1mhpkp8-3:nth-of-type(7)
 
 ||imgking.co^
 
-! 2020-11-10 sexybabegirls.com
-||x666.io^$important
+sexybabegirls.com###XXXGirls
+sexybabegirls.com###gatop
+
 
 ! 2020-11-10 http://xnxx-deutsch.com
 xnxx-deutsch.com##.sgpb-tada.sg-animated.sgpb-popup-dialog-main-div-theme-wrapper-1
@@ -351,10 +376,6 @@ hothouse.com##.cc-color-override--1773375467.cc-left.cc-bottom.cc-theme-classic.
 ! 2020-11-14 mylesbianporn.com
 /api/rest/v1_mobileAds$1p,important
 
-! 2020-12-04 https://xhamster.desi
-xhamster.desi##.wiu-aspa.wiu-aspb
-xhamster.desi##.wiu-aspot-container.wiu-aplayer
-
 ! 2020-12-05 https://www.sex.com
 sex.com###slideAd
 
@@ -386,7 +407,7 @@ sex.com###slideAd
 ! 2020-11-29 https://amakings.com
 amakings.com##.promotionboxBlock.visible-lg.visible-md.promotionbox.video-list-ads
 
-! 2020-11-29 https://www.analpics.pro, https://mypdns.org/T3190
+! 2020-11-29 https://www.analpics.pro, https://mypdns.org/my-privacy-dns/issues/-/issues/3190
 ||zendplace.pro/api/v3/content$xhr,important
 
 ! thegay.com, https://github.com/easylist/easylist/pull/6531
@@ -395,13 +416,13 @@ amakings.com##.promotionboxBlock.visible-lg.visible-md.promotionbox.video-list-a
 thegay.com,txxx.com##.fiioed
 thegay.com##.video-page__content > .right
 
-! 2020-11-16 animehentaivideo.com, https://mypdns.org/T2883
+! 2020-11-16 animehentaivideo.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2883
 ||animehentaivideo.com/f_animehentaivideo.com.js$script,important
 
-! AwEmpirer, https://mypdns.org/T1765, https://mypdns.org/T1766, https://mypdns.org/T2823, https://www.livejasmin.com
-! https://mypdns.org/T1767, https://mypdns.org/T2823, https://mypdns.org/T2824, https://mypdns.org/T2825
-! https://mypdns.org/T2826, https://mypdns.org/T2827, https://mypdns.org/T2828, https://mypdns.org/T2829
-! https://mypdns.org/T2830, https://mypdns.org/T2831
+! AwEmpirer, https://mypdns.org/my-privacy-dns/issues/-/issues/1765, https://mypdns.org/my-privacy-dns/issues/-/issues/1766, https://mypdns.org/my-privacy-dns/issues/-/issues/2823, https://www.livejasmin.com
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1767, https://mypdns.org/my-privacy-dns/issues/-/issues/2823, https://mypdns.org/my-privacy-dns/issues/-/issues/2824, https://mypdns.org/my-privacy-dns/issues/-/issues/2825
+! https://mypdns.org/my-privacy-dns/issues/-/issues/2826, https://mypdns.org/my-privacy-dns/issues/-/issues/2827, https://mypdns.org/my-privacy-dns/issues/-/issues/2828, https://mypdns.org/my-privacy-dns/issues/-/issues/2829
+! https://mypdns.org/my-privacy-dns/issues/-/issues/2830, https://mypdns.org/my-privacy-dns/issues/-/issues/2831
 livejasmin.com###react-container
 ||api-gateway.dditsadn.com^$xhr,important
 joyourself.com,liveprivates.com,lsawards.com,maturescam.com,mycams.com,mytrannycams.com,livesexasian.com,cameraboys.com,livesex.com##div.notifier-wrapper
@@ -420,7 +441,7 @@ joyourself.com,liveprivates.com,lsawards.com,maturescam.com,mycams.com,mytrannyc
 18virginsex.com##.warning_modal-show.warning_modal-fade.warning_modal
 
 ! 2020-10-26 18andabuse.com
-! https://mypdns.org/T2275, https://mypdns.org/T2364
+! https://mypdns.org/my-privacy-dns/issues/-/issues/2275, https://mypdns.org/my-privacy-dns/issues/-/issues/2364
 ||bang.com^$popup,important
 bang.com###globalAd
 bang.com###searchdropMenu
@@ -431,126 +452,122 @@ bang.com##.hidden-\@xs.col-md-5.col-sm-12
 
 ||18andabuse.com^$popup,important
 
-! 2020-11-02 https://www.dxlive.com, https://mypdns.org/T2068
+! 2020-11-02 https://www.dxlive.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2068
 dxlive.com##.age_display
 
-! 2020-11-02 https://stripchat.com, ! https://mypdns.org/T1699
+! 2020-11-02 https://stripchat.com, ! https://mypdns.org/my-privacy-dns/issues/-/issues/1699
 stripchat.com##.visitors-agreement-modal.stripchat.modal-wrapper.full-cover
 
-! 2020-11-04 https://hellmoms.com, https://mypdns.org/T2537
+! 2020-11-04 https://hellmoms.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2537
 hellmoms.com##.bnnrs-player
 
-! 2020-11-04 https://xcum.com, https://mypdns.org/T2536
+! 2020-11-04 https://xcum.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2536
 xcum.com##.bnnrs-player
 
-! 2020-11-04 alphaporno.com, https://mypdns.org/T2533
+! 2020-11-04 alphaporno.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2533
 alphaporno.com##.desktop-banner.block-banner
 ||alphaporno.com/adframe.js$script,important
 
-! 2020-11-04 titkino.net, https://mypdns.org/T2560
+! 2020-11-04 titkino.net, https://mypdns.org/my-privacy-dns/issues/-/issues/2560
 ||bladswetis.com$script,important
 
-! 2020-11-10 thecandidbay.com, https://mypdns.org/T2586
+! 2020-11-10 thecandidbay.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2586
 ||evoload.io/ads.js$script,important
 ||thecandidbay.com/wp-content/plugins/simple-banner/*$script,important
 
-! 2020-11-10 stripst.com, https://mypdns.org/T1049
+! 2020-11-10 stripst.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1049
 ||stripst.com^$important
 
-! 2020-11-10 https://xhamster2.com, https://mypdns.org/T2590
-xhamster2.com##.wiz-banner
-xhamster2.com##.wiz-spa.wiz-spb
-
-! 2020-11-13 incesthope.com, https://mypdns.org/T2705
+! 2020-11-13 incesthope.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2705
 ||statsanalitic.net^$important
 
-! 2020-11-13 ardentmums.com, https://mypdns.org/T2722
+! 2020-11-13 ardentmums.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2722
 ||ardentmums.com/go$important
 
-! 2020-11-14 https://hellporno.net, https://mypdns.org/T2726
+! 2020-11-14 https://hellporno.net, https://mypdns.org/my-privacy-dns/issues/-/issues/2726
 hellporno.net##.bnnrs-player
 hellporno.net##.desktop-banner.block-banner
 hellporno.net###inp_iframe-ht-native-under-player-6x1
 
 ! 2020-11-02 streamtape.com
-! https://mypdns.org/T2511
+! https://mypdns.org/my-privacy-dns/issues/-/issues/2511
 ||streamtape.com/adult2.js$script,important
 ||streamtape.com/ad.js$script,important
 
 ! 2020-10-22 https://pornhdtube.tv
-! https://mypdns.org/T2318
+! https://mypdns.org/my-privacy-dns/issues/-/issues/2318
 pornhdtube.tv##.video-overlay
 
 ! 2020-10-22 https://megapornx.com
-! https://mypdns.org/T2312
+! https://mypdns.org/my-privacy-dns/issues/-/issues/2312
 megapornx.com##.ex_pu_iframe
 
 ! 2020-10-21 http://anal-angels.com
-! https://mypdns.org/T2106, https://mypdns.org/T2107, https://mypdns.org/T2109, https://mypdns.org/T2110
+! https://mypdns.org/my-privacy-dns/issues/-/issues/2106, https://mypdns.org/my-privacy-dns/issues/-/issues/2107, https://mypdns.org/my-privacy-dns/issues/-/issues/2109, https://mypdns.org/my-privacy-dns/issues/-/issues/2110
 beauty-angels.com,anal-beauty.com,beauty4k.com,anal-angels.com##.warning-page
 beauty-angels.com,anal-beauty.com,beauty4k.com,anal-angels.com##.cookie
 
 ! 2020-10-20 tubepornhot.com
-! https://mypdns.org/T2024
+! https://mypdns.org/my-privacy-dns/issues/-/issues/2024
 ||tubepornhot.com^$popup,important
 
 ! 2020-10-20 xxxfree.pro
 ! https://mypdns.org/search/query/cXCYCWfSZUEr/#R
-! https://mypdns.org/T1983
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1983
 ||traffictrade.pro^$xhr,important
 
 ! 2020-10-20 https://www.redgifs.com
-! https://mypdns.org/T979
+! https://mypdns.org/my-privacy-dns/issues/-/issues/979
 redgifs.com##.toast-notification--pro-cta.toast-notification
 redgifs.com##.visible.type3.pro-cta
 
 ! 2020-10-18 vipnudesexygirls.com
-! https://mypdns.org/T1905
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1905
 ||cloudflare.com/ajax/libs/fastclick/*/fastclick.min.js$script,important
 
 ! 2020-10-18 porndude.me
-! https://mypdns.org/T1923
-! https://mypdns.org/T1924
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1923
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1924
 ||tx.cdnjs.work^$important
 
 ! 2020-10-19 librateam.net
-! https://mypdns.org/T1978
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1978
 ||librateam.net/click/*$important
 
 ! 2020-10-19 1ts17.top
-! https://mypdns.org/T1979
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1979
 ||1ts17.top^$important
 /pu.php$domain=1ts17.top|1ts18.top,important
 
 ! 2020-10-19 sexo24.com
-! https://mypdns.org/T1981
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1981
 ||sexo24.com/?p$important
 
 ! 2020-10-16 https://hclips.com
-! https://mypdns.org/T1872
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1872
 hclips.com##.video-page__content > .right
 hclips.com##.video-page__item
 hclips.com,txxx.com###und_ban
 hclips.com,txxx.com##.chan_banner
 
 ! 2020-10-16 oldporn69.net
-! https://mypdns.org/T1869
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1869
 ||oldporn69.net/common-js/exit/*$important
 
 ! 2020-10-16 http://www.classic-porn.me
-! https://mypdns.org/T1866
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1866
 classic-porn.me##[href^="/lets"]
 
 ! 2020-10-16 https://www.xgaytube.tv
-! https://mypdns.org/T1861
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1861
 xgaytube.tv##.ae-player__itv
 
 ! 2020-10-08 evilhentai.com
-! https://mypdns.org/T1582
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1582
 ||evilhentai.com/adt*.js$script,important
 
 ! 2020-10-13 https://www.xfantasy.com
-! https://mypdns.org/T1763
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1763
 xfantasy.com##.overlay-container
 xfantasy.com##.faux-applet-sidebar
 
@@ -559,39 +576,39 @@ xfantasy.com##.faux-applet-sidebar
 ||/cdn-cgi/images/trace/*$image,important,domain=blacked.com|javlibrary.com
 
 ! 2020-10-14 hentaitube.biz
-! https://mypdns.org/T1796
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1796
 ||hentaitube.biz/traders/*$important
 
 ! 2020-10-16 smutty.xyz
-! https://mypdns.org/T1840
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1840
 ||smutty.xyz/pop.js$script,important
 
-! 2020-10-16 realteenbeauty.com, https://mypdns.org/T1846
+! 2020-10-16 realteenbeauty.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1846
 ||realteenbeauty.com/js/*$script,important
 /teen.php$document,important,domain=18teenslut.com|realteenbeauty.com|teenasspussy.com
 
 ! 2020-10-08 https://www.redtube.com
-! https://mypdns.org/T1426
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1426
 redtube.com###block_hottest_videos_by_country > .oruyr3jjndlt9dcvw
 
 ! 2020-10-08 https://www.redtube.com.br
-! https://mypdns.org/T1427
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1427
 redtube.com.br###block_hottest_videos_by_country > .a68aw
 
 ! 2020-10-10 http://www.sexual-babes.com (TrackWare)
-! https://mypdns.org/T1620
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1620
 !sexual-babes.com##a[href^="go.php"]
 !! Example of several domains for one CSS rule
 !! zooweekly.com.au,zybez.net##.ad
 sexual-babes.com##a[href^="go.php"]
 
 ! 2020-10-10 http://zzbabes.com
-! https://mypdns.org/T1632
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1632
 zzbabes.com##.zzpro
 ||zzbabes.com/nb/*
 
 ! 2020-10-08 https://www.hegre.com
-! https://mypdns.org/T1334
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1334
 !hegre.com##.dialogs
 hegre.com##.promo-board-wrapper
 hegre.com##.overflow
@@ -599,72 +616,74 @@ hegre.com##.white-on-black
 hegre.com##.dialogs > .fixed-dialog-overlay.hidden
 hegre.com##.dialogs > .stay-in-touch-dialog.white-dialog.fixed-dialog.hidden
 
+hentaitube.info##.video-sidebar
+
 ! 2020-10-10 mysexgames.com
-! https://mypdns.org/T1647
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1647
 ||cloudflare.com/cdn-cgi/scripts/*/cloudflare-static/rocket-loader.min.js$script,domain=mysexgames.com
 
 ! 2020-10-10 https://www.hdpornos.net
-! https://mypdns.org/T1702
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1702
 hdpornos.net##.size-300x250.vjs-overlay
 ||chatintr.com/widget?affiliateId=1$subdocument
 hdpornos.net###special9
 
 ! 2020-10-10 https://www.spermguzzlingmilfs.com
-! https://mypdns.org/T1655
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1655
 spermguzzlingmilfs.com###disclaimer
 
 ! 2020-10-10 nudogram.com
-! https://mypdns.org/T1678
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1678
 ||trawahdh2hd8nbvy09.com^$important
 
 ! 2020-10-08 pornoscraper.com
-! https://mypdns.org/T1446
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1446
 ||pornoscraper.com/safu/safu.php$script,important
 
 ! 2020-09-01 thumb18.com
-! https://mypdns.org/T1728
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1728
 ||thumb18.com/mpm/site.html$important
 
 ! 2020-09-01 schoolgirlsexpics.com
-! https://mypdns.org/T1307
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1307
 ||schoolgirlsexpics.com/tracker/*$important
 ||schoolgirlpussypics.com/*/site.html$important
 
 ! 2020-09-02 metartnetwork.com
-! https://mypdns.org/T1327
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1327
 ||metartnetwork.com^$websocket,important
 ! 2020-12-02 https://www.metart.com
 metart.com##.ksTqjS.sc-cJSrbW
 
 
 ! 2020-10-07 nudeplaymates.net
-! https://mypdns.org/T1536
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1536
 ||nudeplaymates.net/tf*.js$script,important
 nudeplaymates.net##center
 
 ! 2020-10-07 playboy-galleries.com
-! https://mypdns.org/T1539
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1539
 ||playboy-galleries.com/tf*.js$script,important
 ||playboy-galleries.com/tf*/*.mp4$media,important
 
 ! 2020-09-09 http://kinkymarie.com
-! https://mypdns.org/T1458
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1458
 kinkymarie.com###text-3
 
 ! 2020-10-08 amateurdumbfucks.com
-! https://mypdns.org/T1575
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1575
 ||purewebpower.net^$important
 
 ! 2020-10-07 teendreams.com
-! https://mypdns.org/T1548
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1548
 /exit-popup/*$script,domain=myallaccesspass.com|teendreams.com,important
 
 ! 2020-10-08 https://www.transsexualbarebacking.com
-! https://mypdns.org/T1576
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1576
 transsexualbarebacking.com##div.graybox
 
 ! 2020-10-08 cumlovers.net
-! https://mypdns.org/T1577
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1577
 ||lotzadollars.com^$script,important
 
 ! 6/4/2020 youseeporn.com
@@ -675,7 +694,7 @@ pornhub.net.co##center
 pornhub.net.co##.video-block-happy
 pornhub.net.co###widget-videos-block-4 > .video-loop > .no-gutters.row > .col-xl-6.col-lg-6.col-md-6.col-12.order-xl-1.order-lg-1.order-md-1.order-sm-1.order-1
 
-! 2020-09-08 https://pornoscraper.com, https://mypdns.org/T1446
+! 2020-09-08 https://pornoscraper.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1446
 /safu/safu.php$image,domain=pornoscraper.com
 
 ! 2020-09-09 viptube.com
@@ -710,7 +729,7 @@ adult.urlgalleries.net##tr:nth-of-type(68) > td > table
 
 
 ! 2020-09-03 pornstarapex.com
-! https://mypdns.org/T1345
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1345
 ! https://github.com/easylist/easylist/issues/6200
 ||pornstarapex.com/uoelaj.cgi$important
 ||pornstarapex.com/*.cgi$important
@@ -722,44 +741,44 @@ adult.urlgalleries.net##tr:nth-of-type(68) > td > table
 ||pornfreemovies.pro/gallery.php$important
 
 ! 2020-09-01 schoolgirlsexpics.com
-! https://mypdns.org/T1307
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1307
 ||schoolgirlsexpics.com/tracker/*$important
 ||schoolgirlpussypics.com/*/site.html$important
 
 ! 2020-09-01 18-21yo.com
-! https://mypdns.org/T1306
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1306
 ||18-21yo.com/trace/site.html$important
 
 ! 2020-09-01 allfeetlinks.com
-! https://mypdns.org/T1305
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1305
 ||allfeetlinks.com/thumb.php$important
 
 ! 2020-09-01 icfcdn.com
-! https://mypdns.org/T1297
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1297
 ||icfcdn.com^$xhr,important
 
 ! 2020-08-19 actionjav.com
-! https://mypdns.org/T1148
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1148
 ||platform.twitter.com/widgets.js$script,important
 
 ! 2020-08-19 avwend.com
-! https://mypdns.org/T1158
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1158
 ||mixdrop.co/js/ads.js$important
 
 ! 2020-08-19 beautiful-bodies.com
-! https://mypdns.org/T1168
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1168
 ||beautiful-bodies.com/*.mp4$media,important
 
 ! 2020-08-14 greentoons.club
-! https://mypdns.org/T2730
+! https://mypdns.org/my-privacy-dns/issues/-/issues/2730
 ||greentoons.club/outback.php$important
 
 ! 2020-08-14 https://gogirls18.com
-! https://mypdns.org/T1066
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1066
 gogirls18.com##[href^="/show.php"]
 
 ! 2020-08-14 freeteenpussypic.com
-! https://mypdns.org/T1073, https://mypdns.org/T2727
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1073, https://mypdns.org/my-privacy-dns/issues/-/issues/2727
 ||24log.fr^
 ||24log.it^
 ||24log.com^
@@ -768,69 +787,69 @@ gogirls18.com##[href^="/show.php"]
 ||24log.de^
 
 ! 2020-08-15 e-hentai.tube
-! https://mypdns.org/T1107
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1107
 ||vkcache.com^3p
 ||vkcache.com^$important
 @@/fuckadblock.$script,1p,badfilter
 
 ! 2020-08-15 hentaibedta.net
-! https://mypdns.org/T1124
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1124
 ||discordapp.com^$important
 ||discord.com^$important
 
 ! 2020-08-15 hentaiser.com
-! https://mypdns.org/T1127
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1127
 ||hentaiser.com/stats.php$important
 
 ! 2020-08-15 https://85tube.com
-! https://mypdns.org/T1132, https://mypdns.org/T2595
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1132, https://mypdns.org/my-privacy-dns/issues/-/issues/2595
 ||static.javhd.com/sb/$image
 
 ! 2020-08-14 smallteenpussy.com
-! https://mypdns.org/T2728
+! https://mypdns.org/my-privacy-dns/issues/-/issues/2728
 ||nichehit.net^$important
 
 ! 10/08/2020 perfecttitspics.com
-! https://mypdns.org/T1853
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1853
 ||/advertise.js$script,domain=freelatinapics.com|nudeblackporn.com,important
 
 ! 10/08/2020 pornharvest.com
-! https://mypdns.org/T1834
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1834
 ||nichedlinks.com/hop/hop.php$important
 
 ! 10/08/2020 newextra.com
-! https://mypdns.org/T1032
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1032
 ||newextra.com/ndfh.cgi$important
 
 ! 10/08/2020 vagina.nl
-! https://mypdns.org/T1903
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1903
 ||vagina.nl/fish-hooks/fetch.json$xhr,important
 
 ! 10/08/2020 wichspornos.com
-! https://mypdns.org/T1862
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1862
 wichspornos.com##.tf-sp
 ||delivery.pcon.space/cpanel/c.php$script,important
 ||fabrouter.com/cpanel/*$script,important
 
-! https://mypdns.org/T1890
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1890
 ! https://github.com/easylist/easylist/issues/6201
 deviantclip.com,movie.momo-net.com###overlay
 
 ! 2020-10-11 seeteenvideos.com
-! https://mypdns.org/T1718, https://mypdns.org/T559
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1718, https://mypdns.org/my-privacy-dns/issues/-/issues/559
 ||palmtube.net^$script,important
 
 ! 10/08/2020 darkworldbynight.com
-! https://mypdns.org/T1040
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1040
 ||darkworldbynight.com/?_dwr/interface/PageCounterDWR.js$script
 ||darkworldbynight.com/?system/resource/js/dynclicks.js$script
 
 ! 10/08/2020 freefuckmovies.pro
-! https://mypdns.org/T1525
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1525
 ||freefuckmovies.pro/gallery.php$important
 
 ! 10/08/2020 pornstarapex.com
-! https://mypdns.org/T1345
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1345
 ||pornstarapex.com/default.html$important
 ||pornstarapex.com/*.cgi$important
 ||/d/link.php$important
@@ -841,56 +860,56 @@ deviantclip.com,movie.momo-net.com###overlay
 ||pornstarapex.com/atatewf.cgi$important
 
 ! 21/07/2020 https://passion-hd.com
-! https://mypdns.org/T1526
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1526
 passion-hd.com##.mt-xl-2.mt-1.mb-xl-3.mb-2.d-lg-block.d-none
 passion-hd.com##.payment-popup.popup3.epoch-box
 passion-hd.com##footer
 
 ! 8/10/2020 1ts18.top
-! https://mypdns.org/T1028
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1028
 ||s.1ts18.top/4bfb8d4d$important
 
 ! 8/10/2020 eroticgirlpics.com
-! https://mypdns.org/T2731
+! https://mypdns.org/my-privacy-dns/issues/-/issues/2731
 ||eroticgirlpics.com/gallery.php$document,important
 
 ! 8/10/2020 18teenslut.com
-! https://mypdns.org/T1850
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1850
 ||18teenslut.com/gallery.php$document,important
 ! 2020-10-16 18teenslut.com
 
 ! 08/08/2020 harley-quinn-nude.com
-! https://mypdns.org/T1820
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1820
 ||wordpress.harley-quinn-nude.com/wp-content/plugins/share-this-image/*$script,important
 
 ! 08/08/2020 pornhub.com
 ||ci.phncdn.com/www-static/js/promo-banner.js$script,important
 
-! 7/14/2020 https://www.teamskeet.com, https://mypdns.org/T2732
+! 7/14/2020 https://www.teamskeet.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2732
 teamskeet.com##.promo-bar-contents
 
-! 7/26/2020 porn.com, https://mypdns.org/T2733
+! 7/26/2020 porn.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2733
 ||ajax.googleapis.com^$important
 
 ! 4/12/2020 http://en.1cam.webcam
-! https://mypdns.org/T1802
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1802
 ! https://mypdns.org/rPHb7538719df206faae37d9d6d88981411e188fe11
 1cam.webcam##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
 1cam.webcam##.fancybox-overlay-fixed.fancybox-overlay
 
-! 5/23/2020 https://healthyceleb.com, https://mypdns.org/T2734
+! 5/23/2020 https://healthyceleb.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2734
 healthyceleb.com##.code-block-5.code-block
 
 ! 5/17/2020 https://celebmasta.com
-! https://mypdns.org/T709
+! https://mypdns.org/my-privacy-dns/issues/-/issues/709
 ##[href^="https://hornygirlhere.com/"]
 
 ! 5/23/2020 https://www.babepedia.com
-! https://mypdns.org/T2735
+! https://mypdns.org/my-privacy-dns/issues/-/issues/2735
 ||babepedia.com/pics/Jeana%20Turner_thumb.jpg$image
 babepedia.com##canvas:nth-of-type(2)
 
-! 5/26/2020 https://www.mrskin.com, https://mypdns.org/T2736
+! 5/26/2020 https://www.mrskin.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2736
 mrskin.com###access_modal
 mrskin.com###skod-container
 mrskin.com##.bg-white.featured-scene-description-container > .text-center
@@ -898,18 +917,18 @@ mrskin.com##.col-xs-12.col-sm-8.col-md-4
 ! 2020-11-14 https://www.mrskin.com
 mrskin.com##.so-parallax
 
-! 5/29/2020 https://www.babes.com, https://mypdns.org/T1415
+! 5/29/2020 https://www.babes.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1415
 babes.com##.dLQauY.sc-1mhpkp8-0 > .lenLl.sc-1xljrhb-0
 
-! 12/04/2020 sexandsubmission.com, https://mypdns.org/T2738
-||cdnp.kink.com/assets/static-pages/landing-pages/withwatermark.mp4 ! https://mypdns.org/T2739
+! 12/04/2020 sexandsubmission.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2738
+||cdnp.kink.com/assets/static-pages/landing-pages/withwatermark.mp4 ! https://mypdns.org/my-privacy-dns/issues/-/issues/2739
 
-! 12/04/2020 sexmomsex.com, https://mypdns.org/T2740
+! 12/04/2020 sexmomsex.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2740
 /xtube.php$document,domain=sexmomsex.com|shinyjapaneseporn.com|drivepornvideos.com|animepornfilm.com|sexmomsex.com|shinyjapaneseporn.com|japansporno.com,important
 /functions.js$script,domain=sexmomsex.com|shinyjapaneseporn.com|drivepornvideos.com|animepornfilm.com|sexmomsex.com|shinyjapaneseporn.com|japansporno.com
 
-! 12/04/2020 sexteenageporn.com, https://mypdns.org/T1929
-||worldtraffic.trade^ ! https://mypdns.org/T557
+! 12/04/2020 sexteenageporn.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1929
+||worldtraffic.trade^ ! https://mypdns.org/my-privacy-dns/issues/-/issues/557
 
 ! 2020-11-28 https://animalpornstudio.com
 /js/popper.min.js$script,domain=animalpornstudio.com|animal-porn-xxx.com,important
@@ -920,29 +939,29 @@ babes.com##.dLQauY.sc-1mhpkp8-0 > .lenLl.sc-1xljrhb-0
 ! 2020-11-14 animeporn.xyz
 /out.php$document,domain=animeporn.xyz|hot-animal-porn.biz|horse-sex.xyz|freeanimalporn.xyz|hentaisexuality.com|3dsextales.icu|greentoons.club|dirtynudeteens.net,important
 
-! 13/04/2020 animal-sex-movie.biz, https://mypdns.org/T2743
+! 13/04/2020 animal-sex-movie.biz, https://mypdns.org/my-privacy-dns/issues/-/issues/2743
 /tp/out.php
 
 
-! 13/04/2020 anime-studio.org, https://mypdns.org/T2701
-||free.cartoon-valley.in/dtr/sheduler.php ! https://mypdns.org/T2703
-||x-terrarium.com/movies/sheduler.php ! https://mypdns.org/T2704
-||freeadultpics.info/tube/sheduler.php ! https://mypdns.org/T2698
-||anime.boomthumb.com/tube/sheduler.php ! https://mypdns.org/T2706
+! 13/04/2020 anime-studio.org, https://mypdns.org/my-privacy-dns/issues/-/issues/2701
+||free.cartoon-valley.in/dtr/sheduler.php ! https://mypdns.org/my-privacy-dns/issues/-/issues/2703
+||x-terrarium.com/movies/sheduler.php ! https://mypdns.org/my-privacy-dns/issues/-/issues/2704
+||freeadultpics.info/tube/sheduler.php ! https://mypdns.org/my-privacy-dns/issues/-/issues/2698
+||anime.boomthumb.com/tube/sheduler.php ! https://mypdns.org/my-privacy-dns/issues/-/issues/2706
 
-! 13/04/2020 https://www.arab-sex-pics.com, https://mypdns.org/T2720
+! 13/04/2020 https://www.arab-sex-pics.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2720
 arab-sex-pics.com###index1bannerdesktop
 
-! 13/04/2020 https://asambleabenidorm2019.com, https://mypdns.org/T2746
+! 13/04/2020 https://asambleabenidorm2019.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2746
 ! https://mypdns.org/rMATRIX393dff0f4ec6dc509c806f77f37707956efda5d3
 ! https://mypdns.org/rMATRIXef1095843dff4846fb66d439d1269ce27e8b2088
 asambleabenidorm2019.com##div.ads.video-block.item
 
 ! 29/05/2020 https://www.babes.com
-! https://mypdns.org/T1415
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1415
 babes.com##div.lbVJTw.sc-1mhpkp8-3:nth-of-type(9)
 
-! 2/11/2020 https://www.porndaa.com, https://mypdns.org/T2747
+! 2/11/2020 https://www.porndaa.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2747
 ! https://mypdns.org/rPH609d35e1a4c3007b0acbf7e17031e6adec179c15
 ! https://mypdns.org/rMATRIXb31ab47dcd18b8d0ef46f36ee3b76bc35479b53f
 ! https://mypdns.org/rMATRIX8771223b85b6bf24d83bc93a1e44ec129a615433
@@ -950,113 +969,108 @@ porndaa.com##.col-md-8 > div:nth-of-type(1)
 porndaa.com##div.well:nth-of-type(5)
 
 ! 2/12/2020 https://redgifs.com
-! https://mypdns.org/T979
+! https://mypdns.org/my-privacy-dns/issues/-/issues/979
 redgifs.com##.visible.type1.pro-cta
 redgifs.com##.popover.signup-call-to-action
 redgifs.com##.visible.type6.pro-cta
 
-! 2/19/2020 https://xhamster.com, https://mypdns.org/T2271
-xhamster.com##.dyltv-container
-xhamster.com##div.related-container:nth-of-type(3)
-xhamster.com##.premium-overlay
-
-! 4/11/2020 https://www.livesex.com, https://mypdns.org/T2748
+! 4/11/2020 https://www.livesex.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2748
 livesex.com###overlay-container
 
-! 4/12/2020 http://de.1cam.webcam,https://mypdns.org/T1802
+! 4/12/2020 http://de.1cam.webcam,https://mypdns.org/my-privacy-dns/issues/-/issues/1802
 1cam.webcam##.fancybox-overlay-fixed.fancybox-overlay
 1cam.webcam##.fancybox-skin
 1cam.webcam##.__give_away.bc_popalert
 1cam.webcam##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
 1cam.webcam##.fancybox-overlay-fixed.fancybox-overlay
 
-! 4/13/2020 http://animal-lovers.net, https://mypdns.org/T2749, https://mypdns.org/T2750
+! 4/13/2020 http://animal-lovers.net, https://mypdns.org/my-privacy-dns/issues/-/issues/2749, https://mypdns.org/my-privacy-dns/issues/-/issues/2750
 animal-lovers.net##[href="http://beastsexstars.net"] > .aligncenter
 animal-lovers.net##.p-topBarController
 
-! 4/13/2020 animalsex.online, https://mypdns.org/T2752 SmartCJ.com scripts
+! 4/13/2020 animalsex.online, https://mypdns.org/my-privacy-dns/issues/-/issues/2752 SmartCJ.com scripts
 /scj/*$domain=animal-porn-xxx.com|animalsex.online,important
 
-! 12/04/2020 sexandsubmission.com,https://mypdns.org/T2738
-||cdnp.kink.com/assets/static-pages/landing-pages/withwatermark.mp4 ! https://mypdns.org/T2739
+! 12/04/2020 sexandsubmission.com,https://mypdns.org/my-privacy-dns/issues/-/issues/2738
+||cdnp.kink.com/assets/static-pages/landing-pages/withwatermark.mp4 ! https://mypdns.org/my-privacy-dns/issues/-/issues/2739
 
-! 12/04/2020 sexteenageporn.com, https://mypdns.org/T1929
-||worldtraffic.trade^ ! https://mypdns.org/T557
+! 12/04/2020 sexteenageporn.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1929
+||worldtraffic.trade^ ! https://mypdns.org/my-privacy-dns/issues/-/issues/557
 
-! 3/3/2020 https://www.sexsrc.com, https://mypdns.org/T2753
+! 3/3/2020 https://www.sexsrc.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2753
 sexsrc.com##div.well:nth-of-type(5)
 sexsrc.com##.col-md-8 > div:nth-of-type(1)
 
-! 3/3/2020 https://forums.sexyandfunny.com, https://mypdns.org/T2754
+! 3/3/2020 https://forums.sexyandfunny.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2754
 forums.sexyandfunny.com##table:nth-of-type(4) > tbody > tr > td:nth-of-type(1) > .tborder
 forums.sexyandfunny.com##[src="https://www.sexyandfunny.com/featuredmediaSFF.php"]
 forums.sexyandfunny.com##div > table:nth-of-type(3) > tbody > tr > td:nth-of-type(1)
 
-! 3/4/2020 https://www.sex.com, https://mypdns.org/T1253
+! 3/4/2020 https://www.sex.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1253
 sex.com##[src="https://dat1.its-up.com/zone/12150/"]
 sex.com###container > .text-center
 
-! 3/4/2020 https://www.celebritymoviearchive.com, https://mypdns.org/T2755
+! 3/4/2020 https://www.celebritymoviearchive.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2755
 celebritymoviearchive.com##.notification
 celebritymoviearchive.com##.wrpr > div:nth-of-type(2)
 
-! 3/11/2020 https://www.pornhub.com, https://mypdns.org/T1425
+! 3/11/2020 https://www.pornhub.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1425
 pornhub.com###videoSearchResult > .alpha
 pornhub.com##.clearfix.xc6lhd4nney0780v
 
-! 3/15/2020 https://www.youporn.com, https://mypdns.org/T1298
+! 3/15/2020 https://www.youporn.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1298
 youporn.com###adblock_tooltip
 youporn.com##.promo-message
 youporn.com##.swyp > [href="/swyp"]
 youporn.com##.channelRow.row
 
-! 26/01/2020 https://www.free-porn-teen.com, https://mypdns.org/T2756
+! 26/01/2020 https://www.free-porn-teen.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2756
 free-porn-teen.com###index1bannerdesktop
 free-porn-teen.com##.col-xs-12.col-sm-12.col-md-12.col-lg-12
 
-! 26/01/2020 fullporn.online, https://mypdns.org/T2757
-||noproblfr.com^ ! https://mypdns.org/T2759
+! 26/01/2020 fullporn.online, https://mypdns.org/my-privacy-dns/issues/-/issues/2757
+||noproblfr.com^ ! https://mypdns.org/my-privacy-dns/issues/-/issues/2759
 
-! 26/01/2020 porngays.pro, https://mypdns.org/T2760
+! 26/01/2020 porngays.pro, https://mypdns.org/my-privacy-dns/issues/-/issues/2760
 ||porngays.pro/func.js$script
 
-! 26/01/2020 http://girlmature.com, https://mypdns.org/T2761
+! 26/01/2020 http://girlmature.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2761
 girlmature.com##[href^="../cgi-bin/at3/out.cgi"]
 
-! 03/02/2020 wetmeets.com, https://mypdns.org/T2762
+! 03/02/2020 wetmeets.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2762
 ||wetmeets.com/media/exit-new/*
 ||wetmeets.com/cookie/*$script
 
-! 10/02/2020 https://www.porndaa.com, https://mypdns.org/T2747
+! 10/02/2020 https://www.porndaa.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2747
 porndaa.com##div.well:nth-of-type(5)
 porndaa.com##.col-md-8 > div:nth-of-type(1)
 
-! 10/02/2020 https://imagetwist.com, https://mypdns.org/T2763
+! 10/02/2020 https://imagetwist.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2763
 imagetwist.com##.container-fluid
 
-! 11/02/2020 https://www.pornhub.com, https://mypdns.org/T1425
+! 11/02/2020 https://www.pornhub.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1425
 pornhub.com##.sectionWrapper > .sectionWrapper
 
-! 11/04/2020 direct-webcams.com, https://mypdns.org/T1696
+! 11/04/2020 direct-webcams.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1696
 ||direct-webcams.com/api/metrics$xhr
 ||direct-webcams.com/api/events$xhr
 
-! 11/04/2020 ecvision.info, https://mypdns.org/T2764
+! 11/04/2020 ecvision.info, https://mypdns.org/my-privacy-dns/issues/-/issues/2764
 ||ecvision.info/img/*$image
 
-! 11/04/2020 firecams.com, https://mypdns.org/T2765
-||statsd-wc.hwtool.net/timing/* ! https://mypdns.org/T2766
+! 11/04/2020 firecams.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2765
+||statsd-wc.hwtool.net/timing/* ! https://mypdns.org/my-privacy-dns/issues/-/issues/2766
 
-! 11/04/2020 hothouse.com,https://mypdns.org/T2768
+! 11/04/2020 hothouse.com,https://mypdns.org/my-privacy-dns/issues/-/issues/2768
 ||cloudfront.net/slickadd.min.js$script
 
-! 11/04/2020 ferame.com, https://mypdns.org/T550
+! 11/04/2020 ferame.com, https://mypdns.org/my-privacy-dns/issues/-/issues/550
 ||ferame.com^$ping
 
-! 11/04/2020 javhd.com, https://mypdns.org/T2595
+! 11/04/2020 javhd.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2595
 ||javhd.com^$ping
 
-! 12/04/2020 https://mipr.info, https://mypdns.org/T2769
+! 12/04/2020 https://mipr.info, https://mypdns.org/my-privacy-dns/issues/-/issues/2769
 ! https://mypdns.org/rMATRIX08c336680b5f809b99eb36deb8df3984e18aa33c
 ! https://mypdns.org/rMATRIX659b674585b6bcecce54bd8852ac65a9dc6e43c7
 mipr.info##.fogyk > div.wuqaw:nth-of-type(5)
@@ -1065,42 +1079,42 @@ mipr.info##.fuciged.fizezo.funadar
 mipr.info##.fogyk > div.wuqaw:nth-of-type(3)
 mipr.info##.fogyk > div.wuqaw:nth-of-type(7)
 
-! 12/04/2020 mmcams.com, https://mypdns.org/T1698, https://mypdns.org/T1692
+! 12/04/2020 mmcams.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1698, https://mypdns.org/my-privacy-dns/issues/-/issues/1692
 ||hybridclient.naiadsystems.com/api/v2/$xhr
 
-! 12/04/2020 https://mylesbianporn.com, https://mypdns.org/T2771
+! 12/04/2020 https://mylesbianporn.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2771
 mylesbianporn.com##.promotionboxBlock.visible-lg.visible-md.promotionbox.video-list-ads
 
-! 12/04/2020 nastypornpics.com, https://mypdns.org/T2773
-||bestcontentprogram.top ! https://mypdns.org/T2774
+! 12/04/2020 nastypornpics.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2773
+||bestcontentprogram.top ! https://mypdns.org/my-privacy-dns/issues/-/issues/2774
 
-! 12/04/2020 newjapanesexxx.com, https://mypdns.org/T2775
+! 12/04/2020 newjapanesexxx.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2775
 ||newjapanesexxx.com/js/functions.js$script
 
-! 12/04/2020 realyoungsex.com, https://mypdns.org/T2777
+! 12/04/2020 realyoungsex.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2777
 ||realyoungsex.com/js/active.js$script
 
-! 12/04/2020 fuqporn.pro, https://mypdns.org/T2778
+! 12/04/2020 fuqporn.pro, https://mypdns.org/my-privacy-dns/issues/-/issues/2778
 ||/?id=podlivtest88.com
 
-! 12/04/2020 trustyfine.com, https://mypdns.org/T555
+! 12/04/2020 trustyfine.com, https://mypdns.org/my-privacy-dns/issues/-/issues/555
 ||trustyfine.com^
 
-! 1/19/2020 http://thefappening.news, https://mypdns.org/T2782
+! 1/19/2020 http://thefappening.news, https://mypdns.org/my-privacy-dns/issues/-/issues/2782
 ##[href="http://thefappening.news/banned-red.php"]
 thefappening.news##.entry-content > div
 
-! 1/19/2020 https://thefappening.xyz, https://mypdns.org/T2785
+! 1/19/2020 https://thefappening.xyz, https://mypdns.org/my-privacy-dns/issues/-/issues/2785
 thefappening.xyz##.headline.text-center
 
-! https://celebjihad.com, https://mypdns.org/T2787
+! https://celebjihad.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2787
 celebjihad.com##[href^="https://go.hpyrdr.com/"]
 celebjihad.com##.theme_article.sidebar_increase
 celebjihad.com##[href^="https://go.celebjihad.live/smartpop/"]
 celebjihad.com##center
 celebjihad.com##.post_text_area > table
 
-! 12/6/2019 https://www.8muses.com, https://mypdns.org/T1749
+! 12/6/2019 https://www.8muses.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1749
 8muses.com##a.t-hover.c-tile:nth-of-type(12) > .image
 8muses.com##a.t-hover.c-tile:nth-of-type(24) > .image
 8muses.com##a.t-hover.c-tile:nth-of-type(36)
@@ -1120,10 +1134,10 @@ celebjihad.com##.post_text_area > table
 8muses.com##a.t-hover.c-tile:nth-of-type(32)
 8muses.com##a.t-hover.c-tile:nth-of-type(47)
 
-! 09/12/2019 http://www.erotica.xxx, https://mypdns.org/T2788
+! 09/12/2019 http://www.erotica.xxx, https://mypdns.org/my-privacy-dns/issues/-/issues/2788
 /banners/*$image,domain=www.erotica.xxx
 
-! 09/12/2019 https://videoporno-gratuite.fr, https://mypdns.org/T2792
+! 09/12/2019 https://videoporno-gratuite.fr, https://mypdns.org/my-privacy-dns/issues/-/issues/2792
 !||videoporno-gratuite.fr/meyer.php$image
 /meyer.php$image
 
@@ -1181,22 +1195,8 @@ hentai-paradise.fr##.reveal-overlay
 ||ssl-ccstatic.highwebmedia.com/CACHE/js/$script
 !###.overlay
 
-! 11/4/2019 https://nakedgirls.org
-!nakedgirls.org###dclm_modal_screen
-!nakedgirls.org###dclm_modal_content
 
-! 11/4/2019 nakedgirls.org
-||nakedgirls.org/wp-content/cache/min/1/9fcd011c46522a73b34f64eb7ca6b479.js$script
-! 11/4/2019 http://nakedgirls.pw
-nakedgirls.pw##.adHomePage
-nakedgirls.pw##.plugrush.centered
-
-! 11/4/2019 http://nakedwomenweb.com
-nakedwomenweb.com##canvas:nth-of-type(2)
-
-! 11/4/2019 http://www.nextpics.com
-nextpics.com##.\<b\>19\<\/b\>\<br.line.on.\<b\>\/var\/www\/damplips\/data\/www\/nextpics\.com\/wp-content\/themes\/vlog-v5\/ssi\/warning18\.php\<\/b\>.in.message_cookie.index\:.Undefined.\<b\>Notice\<\/b\>\:.\/\>.\<br.cookie-message
-nextpics.com##.popup
+! P
 
 ! 11/4/2019 http://petiteteenmovs.pro
 !petiteteenmovs.pro###topbar
@@ -1205,14 +1205,21 @@ nextpics.com##.popup
 ! 11/4/2019 https://pornshui.com
 ||pornshui.com/tf/cron.php$subdocument
 
+! Q
+
+! R
+
+! S
+
 ! 11/4/2019 http://sexual-teens.com
 sexual-teens.com##div.container-fluid:nth-of-type(2) > .text-center.mobile-thumbs > a[href^="go.php"]:nth-of-type(2)
 
-! 11/4/2019 truepurenudism.com
+! T
+! https://mypdns.org/my-privacy-dns/porn-records/-/issues/173
 ||truepurenudism.com/counter.js$script
 ||truepurenudism.com/scripts/$script
 
-! 11/4/2019 https://the-sex.me
+! https://mypdns.org/my-privacy-dns/porn-records/-/issues/174
 the-sex.me###disclaimer
 the-sex.me##.thumb-ad
 
@@ -1231,8 +1238,34 @@ youngsexpics.com##.partridge
 ||lab.blackpics.net/iframe.php$subdocument
 ||freelatinapics.com/lsvd/check.php
 
+! x
+
+! https://mypdns.org/my-privacy-dns/issues/-/issues/2271
+xhamster.com##.dyltv-container
+xhamster.com##div.related-container:nth-of-type(3)
+xhamster.com##.premium-overlay
+
+! 2020-12-04 https://xhamster.desi
+xhamster.desi##.wiu-aspa.wiu-aspb
+xhamster.desi##.wiu-aspot-container.wiu-aplayer
+
+! https://mypdns.org/my-privacy-dns/porn-records/-/issues/117
+xhamster13.desi##.wio-cspb
+xhamster13.desi##.xplayer-hover-menu
+
+! https://mypdns.org/my-privacy-dns/issues/-/issues/2590
+xhamster2.com##.wiz-banner
+xhamster2.com##.wiz-spa.wiz-spb
+xhamster13.desi##.xplayer-banner
+
+! y
+
+! z
+
 ! 09/01/2020 metart.com
 ||nsimg.*^$important
+
+! Multi domains rules
 
 ! 09/10/2019 metart.com
 /media/promotions/^domain=metart.com|metart.com|met-art.com|sexart.com|thelifeerotic.com|vivthomas.com|lovehairy.com|errotica-archives.com|domai.com|goddessnudes.com|eroticbeauty.com|alsscan.com|rylskyart.com|eternaldesire.com|stunning18.com|live.tv
@@ -1244,10 +1277,10 @@ alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,g
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.helper
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.dTlKOF.sc-kmASHI.container.content > div > div > .panels.man-ui
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.bQeYRl.sc-eLgOdN
-
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.col-xs-12.col-sm-12.col-md-12.col-lg-4
 
 ! 09/10/2019 https://v2.metart.com
-alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.col-xs-12.col-sm-12.col-md-12.col-lg-4
+
 ! 18/10/2019 https://v2.metart.com
 ! Updated by suggestion of krystian3w
 v2.metart.com##.free-access-modal.modal-dialog
@@ -1264,3 +1297,12 @@ v2.metart.com##.modal.fade
 /sw.js$script
 ! 09/10/2019 https://v2.metart.com
 ##.col-xs-12.col-sm-12.col-md-12.col-lg-4
+
+cum4k.com,passion-hd.com,holed.com,pornpros.com##.payment-popup
+cum4k.com,passion-hd.com,holed.com,pornpros.com##.epoch-box
+cum4k.com,passion-hd.com,holed.com,pornpros.com##.join
+cum4k.com,passion-hd.com,holed.com,pornpros.com##.t2019-button
+cum4k.com,passion-hd.com,holed.com,pornpros.com##.join-btn-massive
+cum4k.com,passion-hd.com,holed.com,pornpros.com###t2019-previews
+cum4k.com,passion-hd.com,holed.com,pornpros.com##.sale-special-container
+cum4k.com,passion-hd.com,holed.com,pornpros.com##.popup-content
