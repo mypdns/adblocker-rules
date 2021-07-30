@@ -892,6 +892,7 @@ imdb.com##.promoted-watch-ad
 imdb.com##.imdb-footer__logo
 imdb.com##.imdb-footer__copyright
 imdb.com##.imdb-footer__socials
+imdb.com##^.ipc-watchlist-ribbon__icon
 imdb.com##.ipc-page-grid__item--span-1
 imdb.com##.contribute.article
 imdb.com##.recently-viewed
