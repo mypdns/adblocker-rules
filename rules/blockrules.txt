@@ -100,6 +100,9 @@ element14.com##.webinarPopup
 
 ! F.
 
+! https://mypdns.org/my-privacy-dns/matrix/-/issues/1933
+faster-trk.com
+
 findacrew.net##.dropdown-menu
 findacrew.net##.site-btn-pay
 
