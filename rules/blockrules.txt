@@ -118,6 +118,12 @@ freshscat.com##.happy-sidebar
 
 ! J.
 
+! K.
+koditips.com##.size-large.aligncenter
+koditips.com##p:nth-of-type(2)
+koditips.com##a[href="/kodi-vpn-guide-features-apps-setup/"]
+
+
 ! 2021-02-28 https://idea4cash.com
 /reklamstore.js$script,important
 /blockadblock.js$script,important

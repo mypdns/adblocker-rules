@@ -62,6 +62,7 @@ linuxhint.com##.author-box
 ##.overlay
 
 ##a[href^="https://go.julrdr.com/"]
+##a[href^="//go.nordvpn.net/"]
 ##a[href="https://vipergirls.to/k2s"]
 
 ! 11/4/2019 http://hentaisexuality.com
