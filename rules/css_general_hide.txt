@@ -61,6 +61,9 @@ linuxhint.com##.author-box
 ! 11/4/2019 livefreecamx.com
 ##.overlay
 
+##a[href^="https://go.julrdr.com/"]
+##a[href="https://vipergirls.to/k2s"]
+
 ! 11/4/2019 http://hentaisexuality.com
 ##popwindow
 

@@ -446,8 +446,6 @@ ubuntu.com##.p-card
 
 ||anymad.com^
 
-
-
 ! 2020-09-15 https://www.reck.dk
 reck.dk##.frash-notice-email.frash-notice.notice
 reck.dk##.is-dismissible.settings-error.notice-warning.notice
