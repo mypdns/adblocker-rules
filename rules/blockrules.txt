@@ -514,6 +514,13 @@ facebook.com##.cxgpxx05 > div > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
 /matomo.js$script,important
 /matomo/*$domain=~github.com|~matomo.org|~wordpress.org,badfilter
 
+phoenixnap.com##.textwidget
+phoenixnap.com##.q2w3-fixed-widget-container
+phoenixnap.com##.live-chat-btn
+phoenixnap.com###div_block-8-156
+phoenixnap.com###div_block-81-157
+phoenixnap.com##.ftwp-transform-right-center
+
 ! 2020-11-16 glokta.info, https://mypdns.org/T2882
 ||glokta.info^$important
 

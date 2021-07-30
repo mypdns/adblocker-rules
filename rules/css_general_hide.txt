@@ -101,6 +101,8 @@ cambb.xxx,chaturbate.com,gamcore.com,playboy.com,rampant.tv,sex.com,signbucks.co
 ##.layout__sidebar-ad-3
 ##.layout__sidebar-ad-mobile
 
+firefox.com##.modal
+
 ##.notifier-wrapper
 
 ##.post__inarticle-ad-template-mobile
@@ -124,6 +126,7 @@ cambb.xxx,chaturbate.com,gamcore.com,playboy.com,rampant.tv,sex.com,signbucks.co
 ##.sticky-ad-target
 ##.supertool_ad_static
 
+firefox.com##.vpn-promo-banner
 
 !!! COOKIES !!!
 ###cookie.notice
