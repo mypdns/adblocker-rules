@@ -1282,6 +1282,7 @@ linuxconfig.org##div.size-25.g-block:nth-of-type(2) > .g-content > div.moduletab
 /ga_proxy.js$script
 /ga_xdcom.html
 
+ubuntu101.co.za##.widget_media_image
 
 ! 11/4/2019 https://www.denic.de
 denic.de##.notification--bottom.notification--acknowledge.notification--notice.notification.teaser
