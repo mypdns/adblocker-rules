@@ -94,8 +94,14 @@ dennismungai.wordpress.com##.actnbr-has-follow
 ! 2021-04-24 https://www.filmpertutti.vision
 ||disqus.com^$subdocument
 
+! E.
 element14.com##.e14-cookie-directive
 element14.com##.webinarPopup
+
+! F.
+
+findacrew.net##.dropdown-menu
+findacrew.net##.site-btn-pay
 
 ! 2021-04-19 https://forum.tweak.dk
 forum.tweak.dk##.tweak-banner
@@ -103,6 +109,14 @@ forum.tweak.dk##.partner_box
 
 ! 2021-02-26 https://www.freshscat.com
 freshscat.com##.happy-sidebar
+
+! G.
+
+! H.
+
+! I.
+
+! J.
 
 ! 2021-02-28 https://idea4cash.com
 /reklamstore.js$script,important
