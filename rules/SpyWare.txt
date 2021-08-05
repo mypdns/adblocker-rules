@@ -19,6 +19,8 @@
 !   - https://mypdns.org/spirillen
 !   - https://archive.mypdns.org/p/Spirillen/
 !   - https://github.com/spirillen
+!
+! Sort by domain name, Alphabetically.
 
 ! Old days Piwik, now matomo spyware, fingerprinting and screenrecorder
 https://github.com/matomo-org/
