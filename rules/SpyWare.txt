@@ -22,5 +22,7 @@
 !
 ! Sort by domain name, Alphabetically.
 
+||api*.atlassian.com/gasv*/api/v*/batch^
+
 ! Old days Piwik, now matomo spyware, fingerprinting and screenrecorder
 https://github.com/matomo-org/
