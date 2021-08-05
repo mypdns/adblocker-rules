@@ -1,0 +1,24 @@
+! List url:
+! https://mypdns.org/my-external-stuff/ublockorigin-rules/-/tree/master/rules/SpyWare.txt
+!
+! This list is an extension of My Privacy DNS (https://mypdns.org) SpyWar
+! project.
+!
+! License:
+! https://mypdns.org/spirillen/ublockorigin-rules/-/blob/master/LICENSEE
+! Homepage: https://mypdns.org/my-external-stuff/ublockorigin-rules/
+!
+! Please report any unblocked content or problems on the Issue board.
+! My Privacy DNS issues:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/issues
+! Merge Request:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/-/merge_requests
+! Email:
+!   - None
+! CopyRight:
+!   - https://mypdns.org/spirillen
+!   - https://archive.mypdns.org/p/Spirillen/
+!   - https://github.com/spirillen
+
+! Old days Piwik, now matomo spyware, fingerprinting and screenrecorder
+https://github.com/matomo-org/

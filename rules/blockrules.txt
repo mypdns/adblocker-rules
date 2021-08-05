@@ -6,7 +6,7 @@
 ! Homepage: https://mypdns.org/my-external-stuff/ublockorigin-rules/
 !
 ! Please report any unblocked content or problems on the Issue board.
-! GitHub issues:
+! My Privacy DNS issues:
 ! - https://mypdns.org/my-external-stuff/ublockorigin-rules/issues
 ! Merge Request:
 ! - https://mypdns.org/my-external-stuff/ublockorigin-rules/-/merge_requests
@@ -16,7 +16,6 @@
 !   - https://mypdns.org/spirillen
 !   - https://archive.mypdns.org/p/Spirillen/
 !   - https://github.com/spirillen
-!   - The individual lists maintainers
 
 ! Phishing https://mypdns.org/my-privacy-dns/matrix/-/issues/2113
 ||kunestra.hr/.uk/
