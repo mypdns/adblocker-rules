@@ -89,6 +89,7 @@ microsoft.com#@##ms-cookie-banner$badfilter
 @@||gstatic.com^*/social/$image,domain=google.com,badfilter
 
 @@||imgadult.com/anex/alt2.js,badfilter
+@@||imgtaxi.com/img-*.html,badfilter
 
 ! https://mypdns.org/T1736
 ! https://github.com/easylist/easylist/issues/6128
