@@ -88,6 +88,8 @@ microsoft.com#@##ms-cookie-banner$badfilter
 @@||gstatic.com^*/images/google-$domain=google.com,badfilter
 @@||gstatic.com^*/social/$image,domain=google.com,badfilter
 
+@@||imgadult.com/anex/alt2.js,badfilter
+
 ! https://mypdns.org/T1736
 ! https://github.com/easylist/easylist/issues/6128
 ! https://github.com/easylist/easylist/commit/383f7b07e39f24db34591b4365943e6dbca16a70
