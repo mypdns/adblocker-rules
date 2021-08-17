@@ -1187,6 +1187,8 @@ github.com##.ws-normal.text-left.p-3.box-shadow-large.Box.Popover-message
 github.com#@#.flash-error.flash-full.flash
 github.com###sponsor-button-repo
 
+||parking.godaddy.com^$important
+
 ||google.com^*recaptcha/$frame,badfilter
 ||google.com^*recaptcha/$important
 
