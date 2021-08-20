@@ -40,7 +40,8 @@ rule34.xxx##.horizontalFlexWithMargins
 cockmeter.com##.aside-itempage-col
 cockmeter.com###upp_r
 
-
+! https://mypdns.org/my-privacy-dns/porn-records/-/issues/352
+mo.faporn.pro###qwerty_wrap
 
 ! 2021-05-20 https://familyxxx.com
 familyxxx.com##.unlock
