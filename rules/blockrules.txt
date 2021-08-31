@@ -1430,3 +1430,6 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 ||tv2net.zendesk.com^$script
 
 ||magnet2torrent.me/html/pageindex.html
+
+! W
+wordpress.org##.apps-mobile
