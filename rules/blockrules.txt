@@ -77,6 +77,13 @@ bobcares.com##.widget_text
 ||biblioteksvagten.dk^$3p
 
 ! C.
+/copyright.js$script
+! https://mypdns.org/my-privacy-dns/issues/-/issues/3437
+||cstwpush.com^$important
+
+! clarity.ms, https://mypdns.org/my-privacy-dns/issues/-/issues/3678
+||clarity.ms^
+||clarity.microsoft.com^
 
 cyberciti.biz##.tips_top_slot_1
 cyberciti.biz###blocker7a1003a
@@ -118,6 +125,7 @@ freshscat.com##.happy-sidebar
 ! I.
 
 ! J.
+jysk.dk##.helpButton
 
 ! K.
 koditips.com##.size-large.aligncenter
@@ -167,13 +175,6 @@ dmm.co.jp###id_top_disclaimer_parent
 speedostream.com##+js(aost, Object.getOwnPropertyDescriptor, /^/)
 /yandex-metrica-watch/watch.js$script
 /metrica/watch.js$script
-
-! https://mypdns.org/my-privacy-dns/issues/-/issues/3437
-||cstwpush.com^$important
-
-! clarity.ms, https://mypdns.org/T3678
-||clarity.ms^
-||clarity.microsoft.com^
 
 ! https://mypdns.org/T3667
 ||redirect-ads.com^
