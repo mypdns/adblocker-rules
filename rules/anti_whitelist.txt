@@ -139,8 +139,12 @@ bccnapoli.it,thetechsutra.com#@#.cp-overlay,badfilter
 ! https://mypdns.org/T3960
 @@||googletagmanager.com/gtag/js$script,domain=uptobox.com|uptostream.com,badfilter
 @@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|m.putlocker.how|schwab.com,badfilter
-@@||googletagmanager.com/gtm.js$domain=atptour.com|bsa-whitelabel.com|chipotle.com|complex.com|crello.com|cyclingnews.com|easternbank.com|nflgamepass.com|pioneer.eu|royalbank.com|scotsman.com|trademe.co.nz,badfilter
-@@||googletagmanager.com/gtm.js$domain=bunte.de|computerbild.de|finanzen.net|radiorur.de|saturn.at|sport1.de,badfilter
+@@||googletagmanager.com/gtm.js$domain=ads.spotify.com,badfilter
+@@||googletagmanager.com/gtm.js$domain=atptour.com|bsa-whitelabel.com|chipotle.com|complex.com|crello.com|cyclingnews.com|easternbank.com|fortune.com|nflgamepass.com|nordvpn.com|pioneer.eu|royalbank.com|scotsman.com|trademe.co.nz,badfilter
+@@||googletagmanager.com/gtm.js$domain=bunte.de|computerbild.de|finanzen.at|finanzen.net|radiorur.de|saturn.at|sport1.de|vox.de,badfilter
+@@||googletagmanager.com/gtm.js$domain=eprice.it|iphoneitalia.com|la7.it|raiplayradio.it|savethechildren.it,badfilter
+@@||googletagmanager.com/gtm.js$domain=netcombo.com.br|saraiva.com.br|superesportes.com.br|tugatech.com.pt,badfilter
+@@||googletagmanager.com/gtm.js$domain=besplatka.ua|cdek.ru|glamusha.ru|sportmaster.ru|teddyfood.com,badfilter
 @@||googletagmanager.com/gtm.js$script,domain=chronopost.fr|linternaute.com|sciencesetavenir.fr|wamiz.com,badfilter
 @@||googletagmanager.com/gtag/js$script,domain=klix.ba|radiosarajevo.ba,badfilter
 @@||googletagmanager.com/gtm.js?$domain=autorevue.cz|e15.cz|mobilmania.cz|zive.cz,badfilter
@@ -149,16 +153,12 @@ bccnapoli.it,thetechsutra.com#@#.cp-overlay,badfilter
 @@||googletagmanager.com/gtm.js$script,domain=cdon.fi|como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi|veho.fi,badfilter
 @@||googletagmanager.com/gtm.js?$domain=feex.co.il,badfilter
 @@||googletagmanager.com/gtag/js$script,domain=timparty.tim.it,badfilter
-@@||googletagmanager.com/gtm.js$domain=eprice.it|iphoneitalia.com|la7.it|raiplayradio.it|savethechildren.it,badfilter
 @@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|book.impress.co.jp|cyclestyle.net|kakuyomu.jp|sankei.com|ymobile.jp,badfilter
 @@||googletagmanager.com/gtm.js$script,domain=telia.no,badfilter
-@@||googletagmanager.com/gtm.js$domain=netcombo.com.br|saraiva.com.br|superesportes.com.br|tugatech.com.pt,badfilter
 @@||googletagmanager.com/gtm.js$script,domain=olx.ro,badfilter
-@@||googletagmanager.com/gtm.js$domain=besplatka.ua|cdek.ru|sportmaster.ru|teddyfood.com,badfilter
 @@||googletagmanager.com/gtm.js$script,domain=tn.com.ar,badfilter
 @@||googletagmanager.com/gtm.js?id=$domain=tradera.com|xxl.se,badfilter
-
-! https://mypdns.org/T2887
+! https://mypdns.org/my-privacy-dns/matrix/-/issues/1888
 @@||google-analytics.com/analytics.js$domain=beinsports.com|jackbox.tv|tracking.narvar.com|westernunion.com,badfilter
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com,badfilter
 @@||google-analytics.com/analytics.js$domain=saturn.at|schweizerfleisch.ch,badfilter

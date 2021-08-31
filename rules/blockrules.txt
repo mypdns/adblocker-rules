@@ -717,8 +717,6 @@ ouedkniss.com###page_interstitiel
 ! https://github.com/uBlockOrigin/uAssets/issues/5648
 /ads.v*.js?v=*$important
 
-@@||googletagmanager.com/gtm.js$domain=imgur.com,badfilter
-
 ! 08/06/2020 https://www.whois.com
 whois.com##.promoblurb-container
 whois.com##.slides-container
