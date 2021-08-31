@@ -49,9 +49,6 @@ opensourceforu.com##.author-box-wrap
 mxtoolbox.com##.in.fade.modal
 mxtoolbox.com###ctl00_ContentPlaceHolder1_panelPitch
 
-! 2021-04-29 https://www.reck.dk
-!reck.dk##a[href^="https://wpmudev.com/project/"]
-##a[href^="https://wpmudev.com/project/"]
 
 ! 2021-04-29 https://haydenjames.io
 haydenjames.io##.hayden-inpost_top
@@ -223,12 +220,6 @@ scandalplanet.com###get-full-access
 
 ! https://github.com/easylist/easylist/pull/7010
 .gif?*&stat=
-
-! A big thanks to @DandelionSprout in https://github.com/easylist/easylist/issues/7220
-! socket.io
-||images.opencollective.com^$domain=socket.io
-||socket.io/images/sponsors^$image
-socket.io###sponsors
 
 /fingerprint2.min.js$script,important
 
@@ -456,19 +447,38 @@ fcomputer.dk##.pull-left.cookie-popup
 /eu_cookie_compliance.js$script,important
 
 ! 2020-11-21 elgiganten.dk
-||assets.queue-it.net/elkjobnordic/integrationconfig/javascript/queueclientConfig.js$script,important
-||queue-it.net^$important
+
 
 ! 2020-11-25 https://www.krak.dk
 krak.dk##.promotionLink
 
-! 2020-12-03 https://ubuntu.com
-ubuntu.com##.cookie-policy
-ubuntu.com##.p-card
-
 ||anymad.com^
+! P
+! 2020-11-24 https://validate.perfdrive.com, https://mypdns.org/T3018
+||perfdrive.com^$important
+! 2020-11-25 https://clearcode.pl, https://mypdns.org/T3058
+||piwik.pro^$important
+! 2020-11-25 https://piwikpro.de, https://mypdns.org/T3061
+||piwikpro.de^$important
+phoenixnap.com##.textwidget
+phoenixnap.com##.q2w3-fixed-widget-container
+phoenixnap.com##.live-chat-btn
+phoenixnap.com###div_block-8-156
+phoenixnap.com###div_block-81-157
+phoenixnap.com##.ftwp-transform-right-center
 
+! Q
+||assets.queue-it.net/elkjobnordic/integrationconfig/javascript/queueclientConfig.js$script,important
+||queue-it.net^$important
+
+! R
 ! 2020-09-15 https://www.reck.dk
+reck.dk##.aioseo-cta
+reck.dk###footer-left
+reck.dk##.dashboard-getting-started
+reck.dk##a[href^="https://aioseo.com/lite-upgrade/"]
+reck.dk##.aioseo-upgrade-bar
+reck.dk##.aioseo-setup-wizard-container
 reck.dk##.frash-notice-email.frash-notice.notice
 reck.dk##.is-dismissible.settings-error.notice-warning.notice
 reck.dk###blc-sidebar
@@ -485,6 +495,7 @@ reck.dk##.updated
 ! 2020-09-25 https://www.mechbunny.com
 mechbunny.com##div.col-half.col.spec-col:nth-of-type(2)
 
+! T
 ! 2020-09-09 https://themezee.com
 themezee.com###boxzilla-57913
 themezee.com###footer-about-section
@@ -498,20 +509,16 @@ twitch.tv##.headliner-ad
 twitch.tv##.front-page-carousel
 twitch.tv##.extension-view__iframe
 
+! U
+! 2020-12-03 https://ubuntu.com
+ubuntu.com##.cookie-policy
+ubuntu.com##.p-card
+
 ! 2020-11-29 https://wct.link, https://mypdns.org/T3205
 ||wct.link^$important
 
-! 2020-11-24 https://validate.perfdrive.com, https://mypdns.org/T3018
-||perfdrive.com^$important
-
 ! 2020-11-24 https://www.babeimpact.com
 ||googleusercontent.com^$important
-
-! 2020-11-25 https://clearcode.pl, https://mypdns.org/T3058
-||piwik.pro^$important
-
-! 2020-11-25 https://piwikpro.de, https://mypdns.org/T3061
-||piwikpro.de^$important
 
 ! 2020-11-25 https://www.facebook.com
 facebook.com##.cxgpxx05 > div > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
@@ -525,12 +532,6 @@ facebook.com##.cxgpxx05 > div > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
 /matomo.js$script,important
 /matomo/*$domain=~github.com|~matomo.org|~wordpress.org,badfilter
 
-phoenixnap.com##.textwidget
-phoenixnap.com##.q2w3-fixed-widget-container
-phoenixnap.com##.live-chat-btn
-phoenixnap.com###div_block-8-156
-phoenixnap.com###div_block-81-157
-phoenixnap.com##.ftwp-transform-right-center
 
 ! 2020-11-16 glokta.info, https://mypdns.org/T2882
 ||glokta.info^$important
@@ -1381,22 +1382,27 @@ pornhub.com##.footerContentWrapper
 pornhub.com##.streamatesModelsContainer.sectionWrapper
 pornhub.com##h3
 
+! S
+! A big thanks to @DandelionSprout in https://github.com/easylist/easylist/issues/7220
+! socket.io
+||images.opencollective.com^$domain=socket.io
+||socket.io/images/sponsors^$image
+socket.io###sponsors
+scammer.info###ember20
 sourceforge.net##.m-project-list.m-sidebar-widget
 sourceforge.net##.m-project-related-keywords.m-sidebar-widget
 sourceforge.net##.m-sidebar-compare.m-sidebar-widget
 sourceforge.net##aside.m-sidebar-widget:nth-of-type(3)
-
-||sailboatdata.com/storage/10163/Thunderstruck0918.jpg$image
+! https://mypdns.org/my-privacy-dns/matrix/-/issues/2579
 ! static.zdassets.com
-||zdassets.com^$third-party
+||zdassets.com^$important
 
+! T
 torlock.unblockit.uno##.wrn_txt3
 torlock.unblockit.uno##.wrn_txt2
 torlock.unblockit.uno##.wrn_txt
 torlock.unblockit.uno##.warn
 torlock.unblockit.uno##.warnIp
-
-
 translation.babylon-software.com###dimScreen
 translation.babylon-software.com##.pc-popup-new
 
@@ -1410,7 +1416,6 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 ||google.com/recaptcha
 ||googletagmanager.com/gtm.js$script
 ||js-agent.newrelic.com^
-||static.zdassets.com^
 !||cdn.polyfill.io/v2/*$script
 ||fonts.googleapis.com^$stylesheet
 ||polyfill.io^$third-party
