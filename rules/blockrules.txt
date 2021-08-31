@@ -16,6 +16,8 @@
 !   - https://mypdns.org/spirillen
 !   - https://archive.mypdns.org/p/Spirillen/
 !   - https://github.com/spirillen
+!   - https://bitbucket.org/spirillen/
+!   - The individual lists maintainers
 
 ! Phishing https://mypdns.org/my-privacy-dns/matrix/-/issues/2113
 ||kunestra.hr/.uk/

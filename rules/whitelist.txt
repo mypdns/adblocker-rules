@@ -16,6 +16,7 @@
 !   - https://mypdns.org/spirillen
 !   - https://archive.mypdns.org/p/Spirillen/
 !   - https://github.com/spirillen
+!   - https://bitbucket.org/spirillen/
 !   - The individual lists maintainers
 
 ! My Privacy DNS Domains
