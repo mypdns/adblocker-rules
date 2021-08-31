@@ -74,6 +74,7 @@ ancensored.com##.live-block
 ! B.
 ! 2021-06-28 https://bobcares.com
 bobcares.com##.widget_text
+||biblioteksvagten.dk^$3p
 
 ! C.
 
@@ -82,13 +83,14 @@ cyberciti.biz###blocker7a1003a
 cyberciti.biz###text-384338391
 
 ! D.
-
 ! 2021-04-15 https://dennismungai.wordpress.com
 dennismungai.wordpress.com###cmp-app-container
 dennismungai.wordpress.com##.actnbr-has-follow
 
 ! 2021-04-24 https://www.filmpertutti.vision
 ||disqus.com^$subdocument
+dmi.dk##.add-container
+dmi.dk#?#.large-6:-abp-has(:scope > .section-1-ad)
 
 ! E.
 element14.com##.e14-cookie-directive
@@ -1372,9 +1374,6 @@ systutorials.com###ez-cookie-dialog-wrapper
 ||google.*^
 ||googletagservices.*^
 
-dmi.dk##.add-container
-dmi.dk#?#.large-6:-abp-has(:scope > .section-1-ad)
-
 pornhub.com###menuItem4 > .js-topMenuLink
 pornhub.com###streamMateModel
 pornhub.com##.footer-title
@@ -1383,8 +1382,8 @@ pornhub.com##.streamatesModelsContainer.sectionWrapper
 pornhub.com##h3
 
 ! S
-! A big thanks to @DandelionSprout in https://github.com/easylist/easylist/issues/7220
-! socket.io
+||sailboatdata.com/storage/10163/Thunderstruck0918.jpg$image
+! socket.io, A big thanks to @DandelionSprout in https://github.com/easylist/easylist/issues/7220
 ||images.opencollective.com^$domain=socket.io
 ||socket.io/images/sponsors^$image
 socket.io###sponsors

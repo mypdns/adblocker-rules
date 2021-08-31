@@ -24,11 +24,10 @@ shoplyfter.com##.disclaimer-modal-wrapper
 
 .com/ads-
 
-! https://github.com/easylist/easylist/pull/6607
-##.component-ads-by-google
 manjaro.site,websiteforstudents.com,xmodulo.com,cyberciti.biz##.adsbygoogle
-##.alignright:has(.adsbygoogle)
 ##.adsbygoogle
+##.alignright:has(.adsbygoogle)
+##.article-recommend
 forextuner.com,itsupportwale.com,advancedrenamer.com,epicbundle.com,hs-exp.jp,korail.pe.kr,phcorner.net,willyoupressthebutton.com,itzgeek.com##.adsbygoogle
 
 ##.author-box
@@ -39,6 +38,8 @@ linuxhint.com##.author-box
 
 ##.Cms_PromoBanner
 ##.Cms_CookieConsent
+! https://github.com/easylist/easylist/pull/6607
+##.component-ads-by-google
 ##.Gamma_Component.base.Cms_CookieConsent
 
 ##.__give_away.bc_popalert
