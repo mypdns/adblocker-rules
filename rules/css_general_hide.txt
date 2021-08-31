@@ -48,7 +48,6 @@ linuxhint.com##.author-box
 ##.gl-line-height-20.gl-py-6.gl-px-8.gl-card
 
 ##.ad-on-video
-!imdb.com##.banner-container
 ##.banner-container
 ##.ezoic-ad
 ##.ezfound
@@ -63,6 +62,8 @@ linuxhint.com##.author-box
 
 ! 11/4/2019 livefreecamx.com
 ##.overlay
+
+##.newsletter
 
 ##a[href^="https://go.julrdr.com/"]
 ##a[href^="//go.nordvpn.net/"]
