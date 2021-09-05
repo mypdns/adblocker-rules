@@ -44,6 +44,8 @@ cockmeter.com###upp_r
 ! https://mypdns.org/my-privacy-dns/porn-records/-/issues/352
 mo.faporn.pro###qwerty_wrap
 
+fapster.xxx##.fp-embed
+
 ! 2021-05-20 https://familyxxx.com
 familyxxx.com##.unlock
 familyxxx.com##.lastPadding

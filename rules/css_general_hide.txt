@@ -54,17 +54,20 @@ linuxhint.com##.author-box
 ##.ezfound
 ##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
 ##.fancybox-overlay-fixed.fancybox-overlay
-
+##.gl-align-items-center.gl-flex-direction-row.gl-display-flex
+##.gitlab-ee-license-banner
+##.gl-line-height-20.gl-py-6.gl-px-8.gl-card
 ##.happy-under-player
 ##.happy-footer
+
+##.newsletter
 
 ! xxxymovies.com https://mypdns.org/my-privacy-dns/porn-records/-/issues/86
 ##.ontopplayerad
 
 ! 11/4/2019 livefreecamx.com
 ##.overlay
-
-##.newsletter
+##.spot-horizontal
 
 ##a[href^="https://go.julrdr.com/"]
 ##a[href^="//go.nordvpn.net/"]
