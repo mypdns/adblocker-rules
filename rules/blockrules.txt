@@ -1385,6 +1385,7 @@ pornhub.com##h3
 ! S
 ||sailboatdata.com/storage/10163/Thunderstruck0918.jpg$image
 scammer.info###ember20
+||shopifycloud.com^$ping,important
 ! socket.io, A big thanks to @DandelionSprout in https://github.com/easylist/easylist/issues/7220
 ||images.opencollective.com^$domain=socket.io
 ||socket.io/images/sponsors^$image
