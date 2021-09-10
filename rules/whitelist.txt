@@ -21,10 +21,6 @@
 
 ! My Privacy DNS Domains
 @@||mypdns.org^
-! Thank you GitLab.com for spamming my domain despite I told you not to in the config
-mypdns.org##.promotion-callout
-mypdns.org##.gl-banner
-mypdns.org##.hide
 ! This rule breaks password reset
 !mypdns.org##.container-limited
 
