@@ -399,7 +399,6 @@ koditips.com##div:nth-of-type(4)
 mypdns.org##.promotion-callout
 mypdns.org##.gl-banner
 mypdns.org##.hide
-##.promotion-issue-sidebar
 mypdns.org##.js-epics-sidebar-callout
 
 ! 2020-11-28 https://dubox.com

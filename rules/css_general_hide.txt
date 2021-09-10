@@ -115,6 +115,8 @@ firefox.com##.modal
 ##.notifier-wrapper
 
 ##.post__inarticle-ad-template-mobile
+! Mypdns.org Gitlab spamming
+##.promotion-issue-sidebar
 ##.promotion-issue-weight-sidebar-message
 
 ##div[class^="ad_unit_below"]
