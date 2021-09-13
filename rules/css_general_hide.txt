@@ -81,9 +81,6 @@ linuxhint.com##.author-box
 !file-converter-online.com##.cc_banner-wrapper
 ##.cc_banner-wrapper
 
-!haydenjames.io###advads_ad_widget-1
-!haydenjames.io###advads_ad_widget-2
-!haydenjames.io###advads_ad_widget-3
 ###advads_ad_widget-1
 ###advads_ad_widget-2
 ###advads_ad_widget-3
@@ -124,6 +121,7 @@ firefox.com##.modal
 ##div[class^="ad_unit_below"]
 ##div[class^="ad_unit_header"]
 
+###stop_ad2
 ##.social-controls
 ##.social-count
 ##.social-count-boxes
