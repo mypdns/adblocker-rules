@@ -135,6 +135,16 @@ popcode*.js$domain=vipergirls.to
 ||porncore.net/*.php
 porncore.net##div[id^="_"][style="margin:10px;height:200px;width:800px;"]
 
+porndig.com##.dynamic_menu_item_snap
+porndig.com##.co_sponsor
+!porndig.com##.top_webcams
+!porndig.com##.bottom_webcams
+porndig.com##.hide_mobile_top_webcams
+
+! 2021-02-18 https://pornolab.net, https://mypdns.org/my-privacy-dns/issues/-/issues/3740
+pornolab.net##.tCenter
+pornolab.net##.bypass-alert
+
 ! https://mypdns.org/my-privacy-dns/porn-records/-/issues/141
 pornwild.to##.table
 ||pornwild.to/static/js/main.min.js?v=8.4$script
@@ -153,9 +163,7 @@ viptube.com###spot_video_partner_banner
 viptube.com##.footer_adv
 viptube.com##div.stem_related.stem:nth-of-type(4)
 
-! 2021-02-18 https://pornolab.net, https://mypdns.org/my-privacy-dns/issues/-/issues/3740
-pornolab.net##.tCenter
-pornolab.net##.bypass-alert
+
 
 ! 2021-02-18 https://www.zteenporn.com, https://mypdns.org/my-privacy-dns/issues/-/issues/3736
 zteenporn.com##.ad_txt
