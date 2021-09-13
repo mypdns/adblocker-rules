@@ -1257,13 +1257,15 @@ xhamster.desi##.wiu-aspa.wiu-aspb
 xhamster.desi##.wiu-aspot-container.wiu-aplayer
 
 ! https://mypdns.org/my-privacy-dns/porn-records/-/issues/117
-xhamster13.desi##.wio-cspb
-xhamster13.desi##.xplayer-hover-menu
+xhamster13.desi,xhamster15.desi##.wio-cspb
+xhamster13.desi,xhamster15.desi##.wio-xcams-widget
+xhamster13.desi,xhamster15.desi##.wio-xspa
+xhamster13.desi,xhamster15.desi##.xplayer-hover-menu
 
 ! https://mypdns.org/my-privacy-dns/issues/-/issues/2590
-xhamster2.com##.wiz-banner
-xhamster2.com##.wiz-spa.wiz-spb
-xhamster13.desi##.xplayer-banner
+xhamster13.desi,xhamster15.desi##.wiz-banner
+xhamster13.desi,xhamster15.desi##.wiz-spa.wiz-spb
+xhamster13.desi,xhamster15.desi##.xplayer-banner
 
 ! y
 
