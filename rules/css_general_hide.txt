@@ -121,7 +121,6 @@ firefox.com##.modal
 ##div[class^="ad_unit_below"]
 ##div[class^="ad_unit_header"]
 
-###stop_ad2
 ##.social-controls
 ##.social-count
 ##.social-count-boxes
