@@ -53,7 +53,7 @@ jobs:
       - name: Deploy
         run: |
           cd _public
-          python FOP.py blockrules.txt
+          python ../FOP.py blockrules.txt
           git init
           git add -A
           git config --local user.email "action@github.com"
