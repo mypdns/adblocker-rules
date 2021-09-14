@@ -47,6 +47,7 @@ jobs:
       - name: Render the rules
         run: |
           flrender -v -i ublockorigin-rules=. ublockorigin-rules.template _public/blockrules.txt
+          locate blockrules.txt
           python FOP.py _public/blockrules.txt
 
       - name: Deploy
