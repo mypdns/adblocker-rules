@@ -119,6 +119,16 @@
 
 !------- uBlock filters – Annoyances ----------------------------------!
 %include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt%
+%include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badlists.txt%
+%include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt%
+%include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt%
+%include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt%
+%include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt%
+%include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/legacy.txt%
+%include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt%
+%include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt%
+!-- Don't ever include this list. It leads to SpyWare, TrackWare and other PUP's and malware!
+!-- %include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt% --!
 
 !------- Dan Pollock --------------------------------------------------!
 %include https://someonewhocares.org/hosts/hosts%
