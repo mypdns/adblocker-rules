@@ -121,6 +121,10 @@ forum.tweak.dk##.partner_box
 freshscat.com##.happy-sidebar
 
 ! G.
+! Spyware.
+||github.com/openreplay^
+! getalltraffic.com https://mypdns.org/T3851
+||getalltraffic.com^$important
 
 ! H.
 
@@ -180,9 +184,6 @@ speedostream.com##+js(aost, Object.getOwnPropertyDescriptor, /^/)
 
 ! https://mypdns.org/T3667
 ||redirect-ads.com^
-
-! getalltraffic.com https://mypdns.org/T3851
-||getalltraffic.com^$important
 
 ! 2021-02-23 https://teenasspussy.com https://mypdns.org/T3849
 /d/count.php^$domain=teenasspussy.com|realteenbeauty.com
