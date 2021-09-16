@@ -74,6 +74,7 @@ ancensored.com##.sextapeannounce
 ancensored.com##.live-block
 
 ! B.
+||bing.com/*/metrics.js$important
 ! 2021-06-28 https://bobcares.com
 bobcares.com##.widget_text
 ||biblioteksvagten.dk^$3p
