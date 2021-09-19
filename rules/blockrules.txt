@@ -130,6 +130,8 @@ freshscat.com##.happy-sidebar
 ! H.
 
 ! I.
+! https://mypdns.org/my-privacy-dns/matrix/-/issues/2953#easylist-code
+iltalehti.fi##[class="almacmp-"]
 
 ! J.
 jysk.dk##.helpButton
