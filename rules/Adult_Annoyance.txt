@@ -88,6 +88,35 @@ kink.com##.store
 kink.com##.product-tag-wrapper
 kink.com##.kink-store-section
 
+! H
+!hegre.com##.dialogs
+hclips.com##.video-page__content > .right
+hclips.com##.video-page__item
+hclips.com,txxx.com###und_ban
+hclips.com,txxx.com##.chan_banner
+hdpornos.net###special9
+hdpornos.net##.size-300x250.vjs-overlay
+hegre.com##.dialogs > .fixed-dialog-overlay.hidden
+hegre.com##.dialogs > .stay-in-touch-dialog.white-dialog.fixed-dialog.hidden
+hegre.com##.overflow
+hegre.com##.promo-board-wrapper
+hegre.com##.white-on-black
+hellmoms.com##.bnnrs-player
+hellporno.net###inp_iframe-ht-native-under-player-6x1
+hellporno.net##.bnnrs-player
+hellporno.net##.desktop-banner.block-banner
+hentaitube.info##.video-sidebar
+holed1.com##.entry-sidebar
+holed1.com##.pure-button
+||hentaitube.biz/traders/*$important
+
+! I
+
+! J
+
+! K
+
+! L
 
 ! M
 
@@ -473,8 +502,6 @@ dxlive.com##.age_display
 ! 2020-11-02 https://stripchat.com, ! https://mypdns.org/my-privacy-dns/issues/-/issues/1699
 stripchat.com##.visitors-agreement-modal.stripchat.modal-wrapper.full-cover
 
-! 2020-11-04 https://hellmoms.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2537
-hellmoms.com##.bnnrs-player
 
 ! 2020-11-04 https://xcum.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2536
 xcum.com##.bnnrs-player
@@ -498,11 +525,6 @@ alphaporno.com##.desktop-banner.block-banner
 
 ! 2020-11-13 ardentmums.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2722
 ||ardentmums.com/go$important
-
-! 2020-11-14 https://hellporno.net, https://mypdns.org/my-privacy-dns/issues/-/issues/2726
-hellporno.net##.bnnrs-player
-hellporno.net##.desktop-banner.block-banner
-hellporno.net###inp_iframe-ht-native-under-player-6x1
 
 ! 2020-11-02 streamtape.com
 ! https://mypdns.org/my-privacy-dns/issues/-/issues/2511
@@ -558,13 +580,6 @@ redgifs.com##.visible.type3.pro-cta
 ! https://mypdns.org/my-privacy-dns/issues/-/issues/1981
 ||sexo24.com/?p$important
 
-! 2020-10-16 https://hclips.com
-! https://mypdns.org/my-privacy-dns/issues/-/issues/1872
-hclips.com##.video-page__content > .right
-hclips.com##.video-page__item
-hclips.com,txxx.com###und_ban
-hclips.com,txxx.com##.chan_banner
-
 ! 2020-10-16 oldporn69.net
 ! https://mypdns.org/my-privacy-dns/issues/-/issues/1869
 ||oldporn69.net/common-js/exit/*$important
@@ -590,9 +605,6 @@ xfantasy.com##.faux-applet-sidebar
 ||/cdn-cgi/challenge-platform/*$xhr,important,domain=blacked.com|javlibrary.com
 ||/cdn-cgi/images/trace/*$image,important,domain=blacked.com|javlibrary.com
 
-! 2020-10-14 hentaitube.biz
-! https://mypdns.org/my-privacy-dns/issues/-/issues/1796
-||hentaitube.biz/traders/*$important
 
 ! 2020-10-16 smutty.xyz
 ! https://mypdns.org/my-privacy-dns/issues/-/issues/1840
@@ -622,26 +634,12 @@ sexual-babes.com##a[href^="go.php"]
 zzbabes.com##.zzpro
 ||zzbabes.com/nb/*
 
-! 2020-10-08 https://www.hegre.com
-! https://mypdns.org/my-privacy-dns/issues/-/issues/1334
-!hegre.com##.dialogs
-hegre.com##.promo-board-wrapper
-hegre.com##.overflow
-hegre.com##.white-on-black
-hegre.com##.dialogs > .fixed-dialog-overlay.hidden
-hegre.com##.dialogs > .stay-in-touch-dialog.white-dialog.fixed-dialog.hidden
-
-hentaitube.info##.video-sidebar
-
 ! 2020-10-10 mysexgames.com
 ! https://mypdns.org/my-privacy-dns/issues/-/issues/1647
 ||cloudflare.com/cdn-cgi/scripts/*/cloudflare-static/rocket-loader.min.js$script,domain=mysexgames.com
 
-! 2020-10-10 https://www.hdpornos.net
-! https://mypdns.org/my-privacy-dns/issues/-/issues/1702
-hdpornos.net##.size-300x250.vjs-overlay
 ||chatintr.com/widget?affiliateId=1$subdocument
-hdpornos.net###special9
+
 
 ! 2020-10-10 https://www.spermguzzlingmilfs.com
 ! https://mypdns.org/my-privacy-dns/issues/-/issues/1655
@@ -792,14 +790,7 @@ adult.urlgalleries.net##tr:nth-of-type(68) > td > table
 ! https://mypdns.org/my-privacy-dns/issues/-/issues/1066
 gogirls18.com##[href^="/show.php"]
 
-! 2020-08-14 freeteenpussypic.com
-! https://mypdns.org/my-privacy-dns/issues/-/issues/1073, https://mypdns.org/my-privacy-dns/issues/-/issues/2727
-||24log.fr^
-||24log.it^
-||24log.com^
-||24log.es^
-||24log.ru^
-||24log.de^
+
 
 ! 2020-08-15 e-hentai.tube
 ! https://mypdns.org/my-privacy-dns/issues/-/issues/1107

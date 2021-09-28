@@ -56,6 +56,15 @@ mxtoolbox.com###ctl00_ContentPlaceHolder1_panelPitch
 haydenjames.io##.hayden-inpost_top
 haydenjames.io##.hayden-inpost_bottom
 haydenjames.io###connect
+! 1
+
+! 2
+||24log.fr^
+||24log.it^
+||24log.com^
+||24log.es^
+||24log.ru^
+||24log.de^
 
 ! A.
 
@@ -130,8 +139,6 @@ freshscat.com##.happy-sidebar
 ! H.
 
 ! I.
-! https://mypdns.org/my-privacy-dns/matrix/-/issues/2953#easylist-code
-iltalehti.fi##[class="almacmp-"]
 
 ! J.
 jysk.dk##.helpButton
