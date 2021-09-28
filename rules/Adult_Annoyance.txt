@@ -23,6 +23,19 @@
 ! https://mypdns.org/my-privacy-dns/porn-records/-/issues/171
 ||18porno.tv/player/html.php$subdocument
 
+
+! A
+
+! B
+! 2021-05-21 https://bangbros.com
+bangbros.com##.payment-options-wrapper
+bangbros.com##.hidden-larger-tablet
+
+! https://mypdns.org/my-privacy-dns/porn-records/-/issues/118
+bestwifeporn.com##.featured-carousel
+bestwifeporn.com##.bx-wrapper
+
+
 ! 2021-06-11 https://www.livehdcams.com
 livehdcams.com##.PayPalAgeGate-root-d0-0-2-76
 livehdcams.com##.HeroSpace-root-0-2-44
@@ -49,14 +62,8 @@ fapster.xxx##.fp-embed
 ! 2021-05-20 https://familyxxx.com
 familyxxx.com##.unlock
 familyxxx.com##.lastPadding
+freewebcampornvideos.com##.happy-player-beside
 
-! 2021-05-21 https://bangbros.com
-bangbros.com##.payment-options-wrapper
-bangbros.com##.hidden-larger-tablet
-
-! https://mypdns.org/my-privacy-dns/porn-records/-/issues/118
-bestwifeporn.com##.featured-carousel
-bestwifeporn.com##.bx-wrapper
 
 
 ! 2021-04-21 https://www.shoplyfter.com
