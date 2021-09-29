@@ -411,6 +411,8 @@ mypdns.org##.promotion-callout
 mypdns.org##.gl-banner
 mypdns.org##.hide
 mypdns.org##.js-epics-sidebar-callout
+mypdns.org##.promotion-issue-sidebar
+mypdns.org##.promotion-issue-weight-sidebar-message
 
 ! 2020-11-28 https://dubox.com
 ||dubox.com/api/analytics$important
