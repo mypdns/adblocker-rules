@@ -649,36 +649,36 @@ duckduckgo.com##[href^="https://www.youtube.com/results"]
 duckduckgo.com##[href^="https://www.youtube.com/watch"]
 
 
-! 2021-02-03 https://3g2upl4pq6kufc4m.onion
-||3g2upl4pq6kufc4m.onion^*^q=$elemhide
-||3g2upl4pq6kufc4m.onion/?q=$elemhide
-||3g2upl4pq6kufc4m.onion/html$elemhide
-||3g2upl4pq6kufc4m.onion/lite$elemhide
-||3g2upl4pq6kufc4m.onion/m.js?$domain=3g2upl4pq6kufc4m.onion
-||3g2upl4pq6kufc4m.onion/m.js?*^cb=ddg_spice_amazon^
-||3g2upl4pq6kufc4m.onion/public/$third-party
-||3g2upl4pq6kufc4m.onion/share/spice/amazon/$domain=3g2upl4pq6kufc4m.onion
-||3g2upl4pq6kufc4m.onion/t/*$important
-3g2upl4pq6kufc4m.onion###m1-0
-3g2upl4pq6kufc4m.onion###m2-0
-3g2upl4pq6kufc4m.onion###m5-0
-3g2upl4pq6kufc4m.onion###organic-module
-3g2upl4pq6kufc4m.onion##.footer
-3g2upl4pq6kufc4m.onion##.highlight_sponsored
-3g2upl4pq6kufc4m.onion##.ia-modules
-3g2upl4pq6kufc4m.onion##.js-feedback-btn-wrap
-3g2upl4pq6kufc4m.onion##.js-ia-modules
-3g2upl4pq6kufc4m.onion##.js-video-privacy-leave
-3g2upl4pq6kufc4m.onion##.module--carousel
-3g2upl4pq6kufc4m.onion##.related-searches
-3g2upl4pq6kufc4m.onion##[href^="https://www.youtube.com/results"]
-3g2upl4pq6kufc4m.onion##li.zcm__item:nth-of-type(4)
-3g2upl4pq6kufc4m.onion##li.zcm__item:nth-of-type(5)
-3g2upl4pq6kufc4m.onion##li.zcm__item:nth-of-type(6)
+! 2021-02-03 https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion
+||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion^*^q=$elemhide
+||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/?q=$elemhide
+||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/html$elemhide
+||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/lite$elemhide
+||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/m.js?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion
+||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/m.js?*^cb=ddg_spice_amazon^
+||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/public/$third-party
+||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/share/spice/amazon/$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion
+||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/t/*$important
+duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###m1-0
+duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###m2-0
+duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###m5-0
+duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###organic-module
+duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.footer
+duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.highlight_sponsored
+duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.ia-modules
+duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-feedback-btn-wrap
+duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-ia-modules
+duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-video-privacy-leave
+duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.module--carousel
+duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.related-searches
+duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[href^="https://www.youtube.com/results"]
+duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(4)
+duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(5)
+duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(6)
 
 ! A very strict Google Prevention rule, Protecting you from accidetially to
 ! becomming redirected to SpyWare by Google
-3g2upl4pq6kufc4m.onion##[href^="https://www.youtube.com/watch"]
+duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[href^="https://www.youtube.com/watch"]
 
 ! 2020-08-23 https://www.bittorrent.com
 bittorrent.com##.consent-banner-animation-enter-done
