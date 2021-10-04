@@ -139,6 +139,7 @@ freshscat.com##.happy-sidebar
 ! H.
 
 ! I.
+||cookieapi*.incomit.dk^
 
 ! J.
 jysk.dk##.helpButton
