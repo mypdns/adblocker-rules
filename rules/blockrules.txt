@@ -167,12 +167,9 @@ koditips.com##div:nth-of-type(4)
 ||mb3admin.com^$important
 ! My Privacy DNS Domains
 ! Thank you GitLab.com for spamming my domain despite I told you not to in the config
-mypdns.org##^.promotion-callout
-mypdns.org##.gl-banner
-mypdns.org##.hide
-mypdns.org##.js-epics-sidebar-callout
-mypdns.org##^.promotion-issue-sidebar
-mypdns.org##^.promotion-issue-weight-sidebar-message
+mypdns.org##[class*="promotion-"]
+mypdns.org##^.js-epics-sidebar-callout
+
 
 ! 2021-02-28 https://idea4cash.com
 /reklamstore.js$script,important
