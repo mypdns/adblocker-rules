@@ -214,6 +214,7 @@ koditips.com##div:nth-of-type(4)
 ! Thank you GitLab.com for spamming my domain despite I told you not to in the config
 mypdns.org##^[class*="promotion-"]
 mypdns.org##^.js-epics-sidebar-callout
+mypdns.org##^.js-mr-approval-callout
 
 
 ! 2021-02-28 https://idea4cash.com
