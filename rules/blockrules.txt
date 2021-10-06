@@ -136,6 +136,50 @@ freshscat.com##.happy-sidebar
 ! getalltraffic.com https://mypdns.org/T3851
 ||getalltraffic.com^$important
 
+! https://mypdns.org/T941
+! 2020-10-06 https://github.com
+onlyfans.com,alive.github.com^$websocket,important
+||live.github.com/_luau/*$websocket,important
+||live.github.com/_ws/*$websocket,important
+||collector.githubapp.com^
+||github.com/_alive$xhr,important
+||github.com/_private/browser/stats
+||github.com/_ws$xhr,important
+||github.com/socket-worker-*.js$script,important
+||github.githubassets.com/assets/socket-worker-*.js.*,important
+||github.githubassets.com/favicon.ico$image
+
+!github.com##.flash-notice.flash-full.flash
+@@||github.com^$generichide,badfilter
+github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-3.col-lg-3.col-md-3.col-12.team-left-column
+github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-lg-5.pr-md-4.pr-3.col-lg-3.col-md-3.col-12.team-left-column
+github.com##.box-shadow-large.Box.mt-6.p-3.text-left.Popover-message--large.Popover-message--top-left.Popover-message
+github.com##.box-shadow-large.Box.p-4.left-0.Popover-message--top-left.Popover-message--large.Popover-message
+github.com##.col-3.box-shadow-medium.right-0.top-0.Popover.mr-3.mt-6.d-lg-block.d-none
+github.com##.hx_cookie-banner--show
+github.com##.hx_cookie-banner--show.js-cookie-consent-banner
+github.com##.js-banner.border-gray-light.border.rounded-1.text-center.p-4.content
+github.com##.js-cookie-consent-banner
+github.com##.js-cookie-consent-preferences-link-container
+github.com##.js-header-promo-hide
+! Had the next line running for about a week locally without braekage.
+github.com##.js-notice
+github.com##.js-notifications-list-protip.text-gray.flex-items-center.d-flex
+github.com##.js-unwatch-suggestions.js-notice.flash
+github.com##.mb-3.js-details-container.Details.border-black-fade.Box-row--yellow.Box
+github.com##.mt-3.flash-warn.flash
+github.com##.p-2.border-bottom.js-notice
+github.com##.protip
+github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
+github.com##.rounded-1.signup-prompt-bg
+github.com##.rounded-2.border.p-4.mb-6.mx-auto.signup-prompt
+github.com##.ws-normal.text-left.p-3.box-shadow-large.Box.Popover-message
+github.com#@#.flash-error.flash-full.flash
+github.com###sponsor-button-repo
+
+||google-analytics.com^$important
+/google-analytics-for-wordpress/$script
+
 ! H.
 
 ! I.
@@ -1171,47 +1215,6 @@ en.oui.sncf##.vsc__noFocus.vsc__lightbox--survey.vsc__lightbox
 ! 12/12/2019 https://www.theatlantic.com
 theatlantic.com##.qc-cmp-showing.qc-cmp-ui-container
 
-! https://mypdns.org/T941
-! 2020-10-06 https://github.com
-||onlyfans.com,alive.github.com^$websocket,important
-||live.github.com/_luau/*$websocket,important
-||live.github.com/_ws/*$websocket,important
-||collector.githubapp.com^
-||github.com/_alive$xhr,important
-||github.com/_private/browser/stats
-||github.com/_ws$xhr,important
-||github.com/socket-worker-*.js$script,important
-||github.githubassets.com/assets/socket-worker-*.js.*,important
-||github.githubassets.com/favicon.ico$image
-
-!github.com##.flash-notice.flash-full.flash
-@@||github.com^$generichide,badfilter
-github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-3.col-lg-3.col-md-3.col-12.team-left-column
-github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-lg-5.pr-md-4.pr-3.col-lg-3.col-md-3.col-12.team-left-column
-github.com##.box-shadow-large.Box.mt-6.p-3.text-left.Popover-message--large.Popover-message--top-left.Popover-message
-github.com##.box-shadow-large.Box.p-4.left-0.Popover-message--top-left.Popover-message--large.Popover-message
-github.com##.col-3.box-shadow-medium.right-0.top-0.Popover.mr-3.mt-6.d-lg-block.d-none
-github.com##.hx_cookie-banner--show
-github.com##.hx_cookie-banner--show.js-cookie-consent-banner
-github.com##.js-banner.border-gray-light.border.rounded-1.text-center.p-4.content
-github.com##.js-cookie-consent-banner
-github.com##.js-cookie-consent-preferences-link-container
-github.com##.js-header-promo-hide
-! Had the next line running for about a week locally without braekage.
-github.com##.js-notice
-github.com##.js-notifications-list-protip.text-gray.flex-items-center.d-flex
-github.com##.js-unwatch-suggestions.js-notice.flash
-github.com##.mb-3.js-details-container.Details.border-black-fade.Box-row--yellow.Box
-github.com##.mt-3.flash-warn.flash
-github.com##.p-2.border-bottom.js-notice
-github.com##.protip
-github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
-github.com##.rounded-1.signup-prompt-bg
-github.com##.rounded-2.border.p-4.mb-6.mx-auto.signup-prompt
-github.com##.ws-normal.text-left.p-3.box-shadow-large.Box.Popover-message
-github.com#@#.flash-error.flash-full.flash
-github.com###sponsor-button-repo
-
 ||parking.godaddy.com^$important
 
 ||google.com^*recaptcha/$frame,badfilter
@@ -1277,13 +1280,6 @@ en.bab.la##.magazine.teaser
 en.bab.la##div.teaser-wrapper:nth-of-type(5)
 en.bab.la##div.teaser-wrapper:nth-of-type(6)
 
-! 2021-02-13 https://kitsu.io
-||google-analytics.com^$important
-
-! 11/28/2019 bestlistofporn.com https://mypdns.org/T3799
-! 11/24/2019 casacherda.nl https://mypdns.org/T3800
-/google-analytics-for-wordpress/$script
-
 ! https://lecourrier-du-soir.com/
 /wp-content/plugins/uk-cookie-consent/*$script,important
 
@@ -1291,7 +1287,6 @@ en.bab.la##div.teaser-wrapper:nth-of-type(6)
 ! @@||cam4.*/ads/directory/$1p,xmlhttprequest,domain=~gaytube.com|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com
 ||cam4.*/ads/directory/$1p,xmlhttprequest
 ||alternathistory.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js$script,~third-party
-! Googles recaptcha.net
 ||recaptcha.net^
 ! 11/19/2019 https://www.clickcease.com
 !clickcease.com###cookies-alert
