@@ -165,6 +165,7 @@ koditips.com##div:nth-of-type(4)
 
 ! 2020-11-16 Kodi build-in spyware
 ||mb3admin.com^$important
+
 ! My Privacy DNS Domains
 ! Thank you GitLab.com for spamming my domain despite I told you not to in the config
 mypdns.org##[class*="promotion-"]
@@ -414,32 +415,6 @@ coop.dk##.rr-Top-Slider.row
 ! 2020-11-11 pornsexer.com
 ||werdictbot.com^$important
 ||rdrceting.com^$important
-
-<<<<<<< HEAD
-! 2020-11-26 https://kodi.expert
-kodi.expert##.elementor-cta
-kodi.expert##.ae-bg-gallery-type-default.elementor-section-height-default.elementor-section-boxed.elementor-element-3937190e.elementor-element.elementor-inner-section.elementor-section.has_ae_slider
-
-! 2020-11-26 https://koditips.com
-koditips.com##.grid-parent.tablet-grid-25.grid-25.is-right-sidebar.sidebar.widget-area
-koditips.com##div.aawp:nth-of-type(1)
-koditips.com##.aawp-product--horizontal.aawp-product
-koditips.com##div:nth-of-type(4)
-
-! 2020-11-16 Kodi build-in spyware
-||mb3admin.com^$important
-! My Privacy DNS Domains
-! Thank you GitLab.com for spamming my domain despite I told you not to in the config
-mypdns.org##.gl-banner
-mypdns.org##.hide
-mypdns.org##.js-epics-sidebar-callout
-mypdns.org##.promotion-advanced-search
-mypdns.org##.promotion-callout
-mypdns.org##.promotion-issue-sidebar
-mypdns.org##.promotion-issue-weight-sidebar-message
-mypdns.org##.user-callout
-=======
->>>>>>> de6fce5 (With a huge thanks to @peace2000)
 
 ! 2020-11-28 https://dubox.com
 ||dubox.com/api/analytics$important
