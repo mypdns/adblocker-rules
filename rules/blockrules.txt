@@ -408,12 +408,14 @@ koditips.com##div:nth-of-type(4)
 ||mb3admin.com^$important
 ! My Privacy DNS Domains
 ! Thank you GitLab.com for spamming my domain despite I told you not to in the config
-mypdns.org##.promotion-callout
 mypdns.org##.gl-banner
 mypdns.org##.hide
 mypdns.org##.js-epics-sidebar-callout
+mypdns.org##.promotion-advanced-search
+mypdns.org##.promotion-callout
 mypdns.org##.promotion-issue-sidebar
 mypdns.org##.promotion-issue-weight-sidebar-message
+mypdns.org##.user-callout
 
 ! 2020-11-28 https://dubox.com
 ||dubox.com/api/analytics$important
