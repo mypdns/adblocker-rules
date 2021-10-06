@@ -87,6 +87,7 @@ ancensored.com##.live-block
 ! 2021-06-28 https://bobcares.com
 bobcares.com##.widget_text
 ||biblioteksvagten.dk^$3p
+##a[href^="https://bit.ly/"]
 
 ! C.
 /copyright.js$script
@@ -136,21 +137,12 @@ freshscat.com##.happy-sidebar
 ! getalltraffic.com https://mypdns.org/T3851
 ||getalltraffic.com^$important
 
-! https://mypdns.org/T941
-! 2020-10-06 https://github.com
 onlyfans.com,alive.github.com^$websocket,important
-||live.github.com/_luau/*$websocket,important
-||live.github.com/_ws/*$websocket,important
-||collector.githubapp.com^
-||github.com/_alive$xhr,important
-||github.com/_private/browser/stats
-||github.com/_ws$xhr,important
-||github.com/socket-worker-*.js$script,important
-||github.githubassets.com/assets/socket-worker-*.js.*,important
-||github.githubassets.com/favicon.ico$image
 
+! Had the next line running for about a week locally without breakage.
 !github.com##.flash-notice.flash-full.flash
 @@||github.com^$generichide,badfilter
+github.com###sponsor-button-repo
 github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-3.col-lg-3.col-md-3.col-12.team-left-column
 github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-lg-5.pr-md-4.pr-3.col-lg-3.col-md-3.col-12.team-left-column
 github.com##.box-shadow-large.Box.mt-6.p-3.text-left.Popover-message--large.Popover-message--top-left.Popover-message
@@ -162,7 +154,6 @@ github.com##.js-banner.border-gray-light.border.rounded-1.text-center.p-4.conten
 github.com##.js-cookie-consent-banner
 github.com##.js-cookie-consent-preferences-link-container
 github.com##.js-header-promo-hide
-! Had the next line running for about a week locally without braekage.
 github.com##.js-notice
 github.com##.js-notifications-list-protip.text-gray.flex-items-center.d-flex
 github.com##.js-unwatch-suggestions.js-notice.flash
@@ -175,10 +166,36 @@ github.com##.rounded-1.signup-prompt-bg
 github.com##.rounded-2.border.p-4.mb-6.mx-auto.signup-prompt
 github.com##.ws-normal.text-left.p-3.box-shadow-large.Box.Popover-message
 github.com#@#.flash-error.flash-full.flash
-github.com###sponsor-button-repo
-
-||google-analytics.com^$important
+||collector.githubapp.com^
+||github.com/_alive$xhr,important
+||github.com/_private/browser/stats
+||github.com/_ws$xhr,important
+||github.com/socket-worker-*.js$script,important
+||github.githubassets.com/assets/socket-worker-*.js.*,important
+||github.githubassets.com/favicon.ico$image
+||live.github.com/_luau/*$websocket,important
+||live.github.com/_ws/*$websocket,important
+forum.gitlab.com###banner
+gitlab.com###promote_repository_features
+gitlab.com##.content-block.bordered-box
+gitlab.com##.content-block.landing.bordered-box
+gitlab.com##.d-flex.js-broadcast-notification-100719.broadcast-notification-message
+gitlab.com##.flash-alert
+gitlab.com##.flash-notice
+gitlab.com##.gl-banner.js-autodevops-banner
+gitlab.com##.js-recovery-settings-callout.gl-alert-warning.gl-alert
+gitlab.com##.mb-2.flash-notice
+gitlab.com##.popover-body
+gitlab.com##.prepend-top-10.append-bottom-20.banner-non-empty-state.banner-callout.js-autodevops-banner
+gitlab.com##.rounded.flash-alert.flash-content
+gitlab.com##.rounded.flash-notice.flash-content
+||gitlab.com/-/cable$websocket,important
+##a[href^="https://google.com"]
 /google-analytics-for-wordpress/$script
+gumtree.com##.fixed-bottom.gdpr-banner.notification
+gumtree.com##.right
+||google-analytics.com^$important
+||gstatic.com^
 
 ! H.
 
@@ -212,9 +229,11 @@ koditips.com##div:nth-of-type(4)
 
 ! My Privacy DNS Domains
 ! Thank you GitLab.com for spamming my domain despite I told you not to in the config
-mypdns.org##^[class*="promotion-"]
+mypdns.org##^.gl-banner
 mypdns.org##^.js-epics-sidebar-callout
 mypdns.org##^.js-mr-approval-callout
+mypdns.org##^.js-autodevops-banner
+mypdns.org##^[class*="promotion-"]
 
 
 ! 2021-02-28 https://idea4cash.com
@@ -1115,10 +1134,6 @@ hifiklubben.dk##.ms-container
 ||stats.hprofits.com/advertisement.js$script
 ||log.ebonybooty.pics^
 
-! 2/1/2020 https://www.gumtree.com
-gumtree.com##.fixed-bottom.gdpr-banner.notification
-gumtree.com##.right
-
 ! 2/2/2020 https://en.wikipedia.org
 !en.wikipedia.org###siteNotice
 ! 1/20/2020 https://da.wikipedia.org
@@ -1151,25 +1166,7 @@ techjunkie.com##.fixed-sidebar-fire-tv
 
 ! https://github.com/easylist/easylist/commit/38cf2f6112770f9cc86707ac90a0ee2beaade0b3
 ||x-link.pl^$third-party
-||gitlab.com/-/cable$websocket,important
-gitlab.com###promote_repository_features
-gitlab.com##.content-block.bordered-box
-gitlab.com##.content-block.landing.bordered-box
-gitlab.com##.d-flex.js-broadcast-notification-100719.broadcast-notification-message
-gitlab.com##.flash-alert
-gitlab.com##.flash-notice
-gitlab.com##.gl-banner.js-autodevops-banner
-gitlab.com##.js-recovery-settings-callout.gl-alert-warning.gl-alert
-gitlab.com##.mb-2.flash-notice
-gitlab.com##.popover-body
-gitlab.com##.prepend-top-10.append-bottom-20.banner-non-empty-state.banner-callout.js-autodevops-banner
-gitlab.com##.rounded.flash-alert.flash-content
-gitlab.com##.rounded.flash-notice.flash-content
 
-
-! 19/12/2019 focus.de
-||gstatic.com^
-! 23/12/2019 poulnielsen.dk
 ||api.omnicar.io^
 ||omnicar.io^
 ||serviceagreement.omnicar.io^
