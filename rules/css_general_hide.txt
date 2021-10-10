@@ -111,7 +111,7 @@ cambb.xxx,chaturbate.com,gamcore.com,playboy.com,rampant.tv,sex.com,signbucks.co
 firefox.com##.modal
 
 ##^.notification-warning
-##^.notifier-wrapper
+##.notification-warning
 
 ##.post__inarticle-ad-template-mobile
 ##.promo-message
