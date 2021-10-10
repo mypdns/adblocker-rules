@@ -110,6 +110,8 @@ cambb.xxx,chaturbate.com,gamcore.com,playboy.com,rampant.tv,sex.com,signbucks.co
 
 firefox.com##.modal
 
+! For any issues regarding these records. Please report to
+! https://github.com/easylist/easylist/pull/9348
 ##^.notification-warning
 ##.notification-warning
 
