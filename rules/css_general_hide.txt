@@ -73,6 +73,7 @@ linuxhint.com##.author-box
 ##a[href^="//go.nordvpn.net/"]
 ##a[href="https://vipergirls.to/k2s"]
 
+
 ! 11/4/2019 http://hentaisexuality.com
 ##popwindow
 
@@ -137,13 +138,13 @@ firefox.com##.modal
 firefox.com##.vpn-promo-banner
 
 !!! COOKIES !!!
-###cookie.notice
-! has.dk###cookie-notice
-###cookie-notice
-##.notice-cookies
 ###accept-cookies
-##.product-suggest
+###cookie-notice
+###cookie.notice
 ##.CookieAcceptance
+##.cookies
+##.notice-cookies
+##.product-suggest
 
 ! (scrolller.com)
 ##.popup--dark

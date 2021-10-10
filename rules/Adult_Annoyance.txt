@@ -19,6 +19,10 @@
 !   - https://bitbucket.org/spirillen/
 !   - The individual lists maintainers
 
+! Global CSS
+###warning-popup
+##.containerModal-warning
+
 ! 1
 ! https://mypdns.org/my-privacy-dns/porn-records/-/issues/171
 ||18porno.tv/player/html.php$subdocument
@@ -35,6 +39,8 @@ bangbros.com##.hidden-larger-tablet
 bestwifeporn.com##.featured-carousel
 bestwifeporn.com##.bx-wrapper
 
+! C
+||coupleairplane.com^
 
 ! 2021-06-11 https://www.livehdcams.com
 livehdcams.com##.PayPalAgeGate-root-d0-0-2-76
@@ -53,7 +59,9 @@ rule34.xxx##.horizontalFlexWithMargins
 ! https://mypdns.org/my-privacy-dns/porn-records/-/issues/97
 cockmeter.com##.aside-itempage-col
 cockmeter.com###upp_r
+clicporn.com##[class^="_ciw"]
 
+! F
 ! https://mypdns.org/my-privacy-dns/porn-records/-/issues/352
 mo.faporn.pro###qwerty_wrap
 
@@ -64,6 +72,8 @@ familyxxx.com##.unlock
 familyxxx.com##.lastPadding
 freewebcampornvideos.com##.happy-player-beside
 
+fuckamouth.com###myModal
+fuckamouth.com##.jerk728
 
 
 ! 2021-04-21 https://www.shoplyfter.com
@@ -116,6 +126,7 @@ hentaitube.info##.video-sidebar
 holed1.com##.entry-sidebar
 holed1.com##.pure-button
 ||hentaitube.biz/traders/*$important
+hqasianporn.org##.coverup
 
 ! I
 
@@ -143,7 +154,7 @@ nakedgirls.pw##.plugrush.centered
 nakedwomenweb.com##canvas:nth-of-type(2)
 
 ! O
-||uncn.jp^
+overthumbs.com##.joinnow
 
 enf-cmnf.com,mrdeepfakes.com,rare-videos.net##.table
 ||fnrrm2fn1njl1.com^
@@ -508,7 +519,6 @@ dxlive.com##.age_display
 
 ! 2020-11-02 https://stripchat.com, ! https://mypdns.org/my-privacy-dns/issues/-/issues/1699
 stripchat.com##.visitors-agreement-modal.stripchat.modal-wrapper.full-cover
-
 
 ! 2020-11-04 https://xcum.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2536
 xcum.com##.bnnrs-player
@@ -1223,9 +1233,11 @@ hentai-paradise.fr##.reveal-overlay
 ! R
 
 ! S
-
-! 11/4/2019 http://sexual-teens.com
 sexual-teens.com##div.container-fluid:nth-of-type(2) > .text-center.mobile-thumbs > a[href^="go.php"]:nth-of-type(2)
+sexybabepics.net##.panel-share-networks
+sunporno.com##.mov-spon
+sweetcode.io##.author-meta
+sweetcode.io##.entry-bottom
 
 ! T
 ! https://mypdns.org/my-privacy-dns/porn-records/-/issues/173
@@ -1235,6 +1247,10 @@ sexual-teens.com##div.container-fluid:nth-of-type(2) > .text-center.mobile-thumb
 ! https://mypdns.org/my-privacy-dns/porn-records/-/issues/174
 the-sex.me###disclaimer
 the-sex.me##.thumb-ad
+
+! U
+||uncn.jp^
+
 
 ! 11/4/2019 https://www.xgaytube.tv
 xgaytube.tv##.active.js-random-link-item.js-menu-random.b-main-nav__link--mi.b-main-nav__link
@@ -1315,7 +1331,7 @@ v2.metart.com##.modal.fade
 
 cum4k.com,passion-hd.com,holed.com,pornpros.com##.payment-popup
 cum4k.com,passion-hd.com,holed.com,pornpros.com##.epoch-box
-cum4k.com,passion-hd.com,holed.com,pornpros.com##.join
+cum4k.com,babesandstars.com,definebabe.com,passion-hd.com,holed.com,pornhubpremium.com,pornpros.com##.join
 cum4k.com,passion-hd.com,holed.com,pornpros.com##.t2019-button
 cum4k.com,passion-hd.com,holed.com,pornpros.com##.join-btn-massive
 cum4k.com,passion-hd.com,holed.com,pornpros.com###t2019-previews

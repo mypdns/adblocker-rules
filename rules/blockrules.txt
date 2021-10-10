@@ -66,7 +66,10 @@ haydenjames.io###connect
 ||24log.ru^
 ||24log.de^
 
-! A.
+! A
+! SpyWare, https://mypdns.org/my-privacy-dns/matrix/-/issues/3056
+||analyticacdn.com^$websocket,important
+@@||wss.analyticacdn.com^$websocket,badfilter
 
 ! 2021-04-24 https://www.aznude.com
 aznude.com##.recommended
@@ -148,6 +151,7 @@ github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-lg-5.pr-md-4.pr-3.col
 github.com##.box-shadow-large.Box.mt-6.p-3.text-left.Popover-message--large.Popover-message--top-left.Popover-message
 github.com##.box-shadow-large.Box.p-4.left-0.Popover-message--top-left.Popover-message--large.Popover-message
 github.com##.col-3.box-shadow-medium.right-0.top-0.Popover.mr-3.mt-6.d-lg-block.d-none
+github.com##.flex-items-center.flex-justify-between.d-flex.my-3.p-3.Box
 github.com##.hx_cookie-banner--show
 github.com##.hx_cookie-banner--show.js-cookie-consent-banner
 github.com##.js-banner.border-gray-light.border.rounded-1.text-center.p-4.content
@@ -226,13 +230,15 @@ koditips.com##div:nth-of-type(4)
 
 ! 2020-11-16 Kodi build-in spyware
 ||mb3admin.com^$important
+microsoft.com##.modal-dialog
 
 ! My Privacy DNS Domains
 ! Thank you GitLab.com for spamming my domain despite I told you not to in the config
 mypdns.org##^.gl-banner
+mypdns.org##^.js-autodevops-banner
+mypdns.org##^.js-broadcast-notification-2
 mypdns.org##^.js-epics-sidebar-callout
 mypdns.org##^.js-mr-approval-callout
-mypdns.org##^.js-autodevops-banner
 mypdns.org##^[class*="promotion-"]
 
 
@@ -709,6 +715,9 @@ duckduckgo.com##.place-detail__attribution
 duckduckgo.com##.place-detail__cta-block
 duckduckgo.com##.related-searches
 duckduckgo.com##[href^="https://www.youtube.com/results"]
+duckduckgo.com##li.zcm__item:nth-of-type(4)
+duckduckgo.com##li.zcm__item:nth-of-type(5)
+duckduckgo.com##li.zcm__item:nth-of-type(6)
 
 ! A very strict Google Prevention rule, Protecting you from accidetially to
 ! becomming redirected to SpyWare by Google
@@ -1399,6 +1408,7 @@ pornhub.com##h3
 ! S
 ||sailboatdata.com/storage/10163/Thunderstruck0918.jpg$image
 scammer.info###ember20
+##a[href^="https://www.spiderfoot.net/"]
 ||shopifycloud.com^$ping,important
 ! socket.io, A big thanks to @DandelionSprout in https://github.com/easylist/easylist/issues/7220
 ||images.opencollective.com^$domain=socket.io
@@ -1409,9 +1419,6 @@ sourceforge.net##.m-project-related-keywords.m-sidebar-widget
 sourceforge.net##.m-sidebar-compare.m-sidebar-widget
 sourceforge.net##aside.m-sidebar-widget:nth-of-type(3)
 solvemate.com##.popUpModalForm
-! https://mypdns.org/my-privacy-dns/matrix/-/issues/2579
-! static.zdassets.com
-||zdassets.com^$important
 
 ! T
 torlock.unblockit.uno##.wrn_txt3
@@ -1450,3 +1457,9 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 
 ! W
 wordpress.org##.apps-mobile
+
+! Y
+
+! Z
+! static.zdassets.com
+||zdassets.com^$important
