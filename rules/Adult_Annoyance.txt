@@ -156,7 +156,7 @@ nakedwomenweb.com##canvas:nth-of-type(2)
 ! O
 overthumbs.com##.joinnow
 
-enf-cmnf.com,mrdeepfakes.com,rare-videos.net##.table
+4kporn.xxx,bestpornflix.com,enf-cmnf.com,mrdeepfakes.com,pornwild.to,rare-videos.net,sortporn.com##.table
 ||fnrrm2fn1njl1.com^
 ||gomain2.pro^
 ||bestcontentprogram.top^
@@ -193,7 +193,6 @@ pornolab.net##.tCenter
 pornolab.net##.bypass-alert
 
 ! https://mypdns.org/my-privacy-dns/porn-records/-/issues/141
-pornwild.to##.table
 ||pornwild.to/static/js/main.min.js?v=8.4$script
 
 ! 2021-04-04 https://www.publicagent.com
@@ -336,12 +335,10 @@ littleasians.com##.formwrapper.col-md-12.col-lg-4.col-12
 ! 2021-01-17 https://www.sortporn.com
 sortporn.com###player_add
 sortporn.com##.sponsor
-sortporn.com##.table
 sortporn.com##.footer-margin
 sortporn.com###lotal
 
 ! 2021-01-17 https://4kporn.xxx
-4kporn.xxx##.table
 4kporn.xxx##.footer-margin
 
 ||pornlist.tv/sw.js
