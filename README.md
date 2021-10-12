@@ -19,7 +19,8 @@ but a few examples would be greate
 ## Source URI's
 How to write filters: <https://help.eyeo.com/en/adblockplus/how-to-write-filters>
 
-[Click here to activate in adBlockPlus](abp:subscribe?location=https://my-external-stuff.github.io/ublockorigin-rules/blockrules.txt&title=My%20Privacy%20DNS)
+[Click here to activate in uBlock Origin](abp:subscribe?location=https://my-external-stuff.github.io/ublockorigin-rules/blockrules.txt&title=Spirillens%20%E2%80%93%20Adblock%20Rules)
+
 
 ## Webfront
 Our HTML front end is <https://my-external-stuff.github.io/ublockorigin-rules/>
