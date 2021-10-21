@@ -492,7 +492,11 @@ coop.dk##.rr-Top-Slider.row
 ! Analytics" and "FingerprintingInvasive" by CloudFlare
 /cdn-cgi/bm/cv/2172558837/api.js
 /cdn-cgi/images/trace/*$image
+||/cdn-cgi/images/trace/*$image,important,domain=blacked.com|javlibrary.com
 /cdn-cgi/challenge-platform/*$script
+||/cdn-cgi/challenge-platform/*$xhr,important,domain=blacked.com|javlibrary.com
+! Browser fingerprinting by Cloudflare
+##[class^="cf-"]
 
 ! 2021-01-15 https://rarbgaccess.org
 ||dyncdn.me/static/20/img/loading_flat.gif$image,important
