@@ -591,6 +591,8 @@ reck.dk###setting-error-tgmpa
 reck.dk##.is-upgrade-premium.has-call-to-action.jitm-banner.jitm-card
 reck.dk##.wpmudev-recommended-plugins
 reck.dk##.updated
+reck.dk##.aioseo-review-plugin-cta
+reck.dk###wp-admin-bar-aioseo-main
 
 ! 2020-09-25 https://www.mechbunny.com
 mechbunny.com##div.col-half.col.spec-col:nth-of-type(2)

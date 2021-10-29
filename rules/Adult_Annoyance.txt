@@ -621,11 +621,6 @@ flashtranny.com,xgaytube.tv##.ae-player__itv
 xfantasy.com##.overlay-container
 xfantasy.com##.faux-applet-sidebar
 
-! 2020-10-13 javlibrary.com
-||/cdn-cgi/challenge-platform/*$xhr,important,domain=blacked.com|javlibrary.com
-||/cdn-cgi/images/trace/*$image,important,domain=blacked.com|javlibrary.com
-
-
 ! 2020-10-16 smutty.xyz
 ! https://mypdns.org/my-privacy-dns/issues/-/issues/1840
 ||smutty.xyz/pop.js$script,important
