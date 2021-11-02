@@ -138,6 +138,7 @@ bccnapoli.it,thetechsutra.com#@#.cp-overlay,badfilter
 ! https://github.com/AdguardTeam/AdguardFilters/issues/27609
 ! https://mypdns.org/T3960
 @@||googletagmanager.com/gtag/js$script,domain=uptobox.com|uptostream.com,badfilter
+@@||googletagmanager.com/gtag/js$script,domain=xl-bygg.no,badfilter
 @@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|m.putlocker.how|schwab.com,badfilter
 @@||googletagmanager.com/gtm.js$domain=ads.spotify.com,badfilter
 @@||googletagmanager.com/gtm.js$domain=atptour.com|bsa-whitelabel.com|chipotle.com|complex.com|crello.com|cyclingnews.com|easternbank.com|fortune.com|nflgamepass.com|nordvpn.com|pioneer.eu|royalbank.com|scotsman.com|trademe.co.nz,badfilter
