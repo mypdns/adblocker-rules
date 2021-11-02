@@ -1465,6 +1465,8 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 wordpress.org##.apps-mobile
 
 ! Y
+! Yandex Metric, Alternative CDN See https://github.com/disconnectme/disconnect-tracking-protection/issues/277 for detials
+/metrika/watch.js
 
 ! Z
 ! static.zdassets.com
