@@ -23,10 +23,29 @@
 ###warning-popup
 ##.containerModal-warning
 
+! 0
+
 ! 1
 ! https://mypdns.org/my-privacy-dns/porn-records/-/issues/171
 ||18porno.tv/player/html.php$subdocument
 
+! 2
+
+! 3
+
+! 4
+4kporn.xxx,amateurgirlfriends.net,bestpornflix.com,enf-cmnf.com,mrdeepfakes.com,mycumx.com,pornwild.to,rare-videos.net,sortporn.com##.table
+4kpornvideos.tv##.b-secondary-column
+
+! 5
+
+! 6
+
+! 7
+
+! 8
+
+! 9
 
 ! A
 animehentaihub.com##.happy-header
@@ -162,7 +181,6 @@ nakedwomenweb.com##canvas:nth-of-type(2)
 ! O
 overthumbs.com##.joinnow
 
-4kporn.xxx,amateurgirlfriends.net,bestpornflix.com,enf-cmnf.com,mrdeepfakes.com,mycumx.com,pornwild.to,rare-videos.net,sortporn.com##.table
 ||fnrrm2fn1njl1.com^
 ||gomain2.pro^
 ||bestcontentprogram.top^
