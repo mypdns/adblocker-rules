@@ -28,7 +28,10 @@ shoplyfter.com##.disclaimer-modal-wrapper
 manjaro.site,websiteforstudents.com,xmodulo.com,cyberciti.biz##.adsbygoogle
 ##.adsbygoogle
 ##.alignright:has(.adsbygoogle)
+##.animated.sah_dialog
+/adsense/*/caf.js$script,important
 ##.article-recommend
+
 forextuner.com,itsupportwale.com,advancedrenamer.com,epicbundle.com,hs-exp.jp,korail.pe.kr,phcorner.net,willyoupressthebutton.com,itzgeek.com##.adsbygoogle
 
 ##.author-box
@@ -41,6 +44,11 @@ linuxhint.com##.author-box
 ##.Cms_CookieConsent
 ! https://github.com/easylist/easylist/pull/6607
 ##.component-ads-by-google
+
+/devtools-detector.
+
+bubbaporn.com,serviporno.com##.footer-iframe
+
 ##.Gamma_Component.base.Cms_CookieConsent
 
 ##.__give_away.bc_popalert
@@ -69,9 +77,13 @@ linuxhint.com##.author-box
 ##.overlay
 ##.spot-horizontal
 
-##a[href^="https://go.julrdr.com/"]
+##a[href*="//pcm.bannerator.com"]
+##a[href="//vipergirls.to/k2s"]
+##a[href^="//discord.gg/"]
+##a[href^="//go.julrdr.com/"]
 ##a[href^="//go.nordvpn.net/"]
-##a[href="https://vipergirls.to/k2s"]
+##a[href^="//trafficstars.com"]
+##a[href^="//trakt.tv/"]
 
 
 ! 11/4/2019 http://hentaisexuality.com
@@ -115,12 +127,16 @@ firefox.com##.modal
 ##^.notification-warning
 ##.notification-warning
 
+bubbaporn.com,serviporno.com###overlay-video
+
 ##.post__inarticle-ad-template-mobile
 ##.promo-message
 ##.promo-message__banner
 
 ##div[class^="ad_unit_below"]
 ##div[class^="ad_unit_header"]
+
+##.side-bar-ad
 
 ##.social-controls
 ##.social-count
@@ -136,6 +152,8 @@ firefox.com##.modal
 ##.social-counts-single
 ##.sticky-ad-target
 ##.supertool_ad_static
+
+bubbaporn.com,serviporno.com###video-right
 
 firefox.com##.vpn-promo-banner
 

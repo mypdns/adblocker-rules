@@ -94,6 +94,13 @@ bobcares.com##.widget_text
 
 ! C.
 /copyright.js$script
+computersalg.dk,computersalg.no,computersalg.se,computersalg.fi####.product-right-wrap
+computersalg.dk,computersalg.no,computersalg.se,computersalg.fi##.FrontBannerContainer
+computersalg.dk,computersalg.no,computersalg.se,computersalg.fi##.bannercontentclick
+computersalg.dk,computersalg.no,computersalg.se,computersalg.fi##.swiper-bigbanner-itemcontainer
+||chaussew.net^
+||computersalg.dk,computersalg.no,computersalg.se,computersalg.fi/api/getuniversalproductband/*
+
 ! https://mypdns.org/my-privacy-dns/issues/-/issues/3437
 ||cstwpush.com^$important
 
@@ -137,6 +144,7 @@ freshscat.com##.happy-sidebar
 ! G.
 ! Spyware.
 ||github.com/openreplay^
+gitee.com##.transition
 ! getalltraffic.com https://mypdns.org/T3851
 ||getalltraffic.com^$important
 
@@ -145,7 +153,16 @@ onlyfans.com,alive.github.com^$websocket,important
 ! Had the next line running for about a week locally without breakage.
 !github.com##.flash-notice.flash-full.flash
 @@||github.com^$generichide,badfilter
-github.com###sponsor-button-repo
+||collector.githubapp.com^
+||github.com/_alive$xhr,important
+||github.com/_private/browser/stats
+||github.com/_ws$xhr,important
+||github.com/socket-worker-*.js$script,important
+||github.githubassets.com/assets/socket-worker-*.js.*,important
+||github.githubassets.com/favicon.ico$image
+||live.github.com/_luau/*$websocket,important
+||live.github.com/_ws/*$websocket,important
+github.com#@#.flash-error.flash-full.flash
 github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-3.col-lg-3.col-md-3.col-12.team-left-column
 github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-lg-5.pr-md-4.pr-3.col-lg-3.col-md-3.col-12.team-left-column
 github.com##.box-shadow-large.Box.mt-6.p-3.text-left.Popover-message--large.Popover-message--top-left.Popover-message
@@ -169,17 +186,12 @@ github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
 github.com##.rounded-1.signup-prompt-bg
 github.com##.rounded-2.border.p-4.mb-6.mx-auto.signup-prompt
 github.com##.ws-normal.text-left.p-3.box-shadow-large.Box.Popover-message
-github.com#@#.flash-error.flash-full.flash
-||collector.githubapp.com^
-||github.com/_alive$xhr,important
-||github.com/_private/browser/stats
-||github.com/_ws$xhr,important
-||github.com/socket-worker-*.js$script,important
-||github.githubassets.com/assets/socket-worker-*.js.*,important
-||github.githubassets.com/favicon.ico$image
-||live.github.com/_luau/*$websocket,important
-||live.github.com/_ws/*$websocket,important
+github.com###sponsor-button-repo
+github.com##^.my-3.p-3.Box
+github.com##a.dropdown-item:nth-of-type(11)
+github.com##li > .btn-sm.btn
 forum.gitlab.com###banner
+docs.gitlab.com##li.p-2.nav-item:nth-of-type(2)
 gitlab.com###promote_repository_features
 gitlab.com##.content-block.bordered-box
 gitlab.com##.content-block.landing.bordered-box
@@ -202,6 +214,8 @@ gumtree.com##.right
 ||gstatic.com^
 
 ! H.
+harald-nyborg.dk##.frontpage-promotion
+||harald-nyborg.dk/assets/webshop-images/campaigns/weekly/banners/*$image
 
 ! I.
 ||cookieapi*.incomit.dk^
@@ -234,13 +248,14 @@ microsoft.com##.modal-dialog
 
 ! My Privacy DNS Domains
 ! Thank you GitLab.com for spamming my domain despite I told you not to in the config
+mypdns.org##.gl-alert.gl-mb-6
 mypdns.org##^.gl-banner
 mypdns.org##^.js-autodevops-banner
 mypdns.org##^.js-broadcast-notification-2
 mypdns.org##^.js-epics-sidebar-callout
 mypdns.org##^.js-mr-approval-callout
 mypdns.org##^[class*="promotion-"]
-
+mypdns.org##.hide.js-explore-groups-landing.content-block.landing.explore-groups
 
 ! 2021-02-28 https://idea4cash.com
 /reklamstore.js$script,important
@@ -566,6 +581,7 @@ phoenixnap.com##.live-chat-btn
 phoenixnap.com###div_block-8-156
 phoenixnap.com###div_block-81-157
 phoenixnap.com##.ftwp-transform-right-center
+python.org##.sidebar-widget
 
 ! Q
 ||assets.queue-it.net/elkjobnordic/integrationconfig/javascript/queueclientConfig.js$script,important
@@ -594,6 +610,7 @@ reck.dk##.wpmudev-recommended-plugins
 reck.dk##.updated
 reck.dk##.aioseo-review-plugin-cta
 reck.dk###wp-admin-bar-aioseo-main
+docs.rockylinux.org##.md-top
 
 ! 2020-09-25 https://www.mechbunny.com
 mechbunny.com##div.col-half.col.spec-col:nth-of-type(2)
@@ -663,6 +680,9 @@ hclips.com##.video-page__
 
 ! 2020-10-29 asiancamsters.com, https://mypdns.org/T2444
 ||sqs.us-east-1.amazonaws.com^$important
+||statics-marketingsites-wcus-ms-com.akamaized.net^
+amazonaws.com/segmentTracker.js
+
 
 ! https://mabanque.bnpparibas/, https://github.com/easylist/easylist/issues/6110
 ###nextoutils_gestionCookies
@@ -1159,6 +1179,7 @@ wikipedia.org###siteNotice
 ! 2/4/2020 https://aktion.bmw.de
 !aktion.bmw.de
 ###consent_disclaimer
+###consent
 
 ! 2/4/2020 https://www.digitalocean.com
 digitalocean.com##._panel_1nv7e_1
@@ -1463,6 +1484,7 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 ||magnet2torrent.me/html/pageindex.html
 
 ! W
+/wp-content/plugins/uk-cookie-consent/*$script,important
 wordpress.org##.apps-mobile
 
 ! Y
