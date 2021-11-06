@@ -572,6 +572,7 @@ phoenixnap.com##.ftwp-transform-right-center
 ||queue-it.net^$important
 
 ! R
+redhat.com##.rh-cta-link
 ! 2020-09-15 https://www.reck.dk
 reck.dk##.aioseo-cta
 reck.dk###footer-left
