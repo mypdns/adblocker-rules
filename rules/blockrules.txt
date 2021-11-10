@@ -37,7 +37,7 @@ slant.co##.FAB-Floating
 
 ||cdnjs.cloudflare.com/ajax/libs/odometer.js/*$script,important
 
-! https://mypdns.org/T4496, https://mypdns.org/T4497
+! https://mypdns.org/my-privacy-dns/issues/-/issues/4496, https://mypdns.org/my-privacy-dns/issues/-/issues/4497
 ||webvisor.com^
 ||webvisor.org^
 
@@ -78,7 +78,7 @@ aznude.com##.watch-all-btn
 aznude.com##.increase-height
 aznude.com##footer
 
-! 2021-04-14 http://ancensored.com, https://mypdns.org/T1149
+! 2021-04-14 http://ancensored.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1149
 ancensored.com##.register
 ancensored.com##.left
 ancensored.com##.blue
@@ -145,7 +145,7 @@ freshscat.com##.happy-sidebar
 ! Spyware.
 ||github.com/openreplay^
 gitee.com##.transition
-! getalltraffic.com https://mypdns.org/T3851
+! getalltraffic.com https://mypdns.org/my-privacy-dns/issues/-/issues/3851
 ||getalltraffic.com^$important
 
 onlyfans.com,alive.github.com^$websocket,important
@@ -199,12 +199,14 @@ gitlab.com##.d-flex.js-broadcast-notification-100719.broadcast-notification-mess
 gitlab.com##.flash-alert
 gitlab.com##.flash-notice
 gitlab.com##.gl-banner.js-autodevops-banner
+gitlab.com##.gl-card
 gitlab.com##.js-recovery-settings-callout.gl-alert-warning.gl-alert
 gitlab.com##.mb-2.flash-notice
 gitlab.com##.popover-body
 gitlab.com##.prepend-top-10.append-bottom-20.banner-non-empty-state.banner-callout.js-autodevops-banner
 gitlab.com##.rounded.flash-alert.flash-content
 gitlab.com##.rounded.flash-notice.flash-content
+gitlab.com##.trial-link
 ||gitlab.com/-/cable$websocket,important
 ##a[href^="https://google.com"]
 /google-analytics-for-wordpress/$script
@@ -300,10 +302,10 @@ speedostream.com##+js(aost, Object.getOwnPropertyDescriptor, /^/)
 /yandex-metrica-watch/watch.js$script
 /metrica/watch.js$script
 
-! https://mypdns.org/T3667
+! https://mypdns.org/my-privacy-dns/issues/-/issues/3667
 ||redirect-ads.com^
 
-! 2021-02-23 https://teenasspussy.com https://mypdns.org/T3849
+! 2021-02-23 https://teenasspussy.com https://mypdns.org/my-privacy-dns/issues/-/issues/3849
 /d/count.php^$domain=teenasspussy.com|realteenbeauty.com
 
 ! 2021-02-19 https://omblockedips.com
@@ -432,7 +434,7 @@ cduniverse.com###overlay-back-wholepage
 ##[href^="https://srv.dropkickmedia.com/"]
 ||primecurves.com/sponsors/
 
-! https://mypdns.org/T2898
+! https://mypdns.org/my-privacy-dns/issues/-/issues/2898
 ||dropkickmedia.com^
 
 ! 2021-01-12 https://www.metrolyrics.com
@@ -525,7 +527,7 @@ news2.x-itm.com###twp-ticker-slider
 ! 2020-10-07 https://computingforgeeks.com
 computingforgeeks.com###ezmobfooter
 
-! 2020-11-15 eff.org, https://mypdns.org/T2840
+! 2020-11-15 eff.org, https://mypdns.org/my-privacy-dns/issues/-/issues/2840
 ||anon-stats.eff.org^$important
 
 ! 2021-01-11 https://www.educba.com
@@ -569,11 +571,11 @@ krak.dk##.promotionLink
 
 ||anymad.com^
 ! P
-! 2020-11-24 https://validate.perfdrive.com, https://mypdns.org/T3018
+! 2020-11-24 https://validate.perfdrive.com, https://mypdns.org/my-privacy-dns/issues/-/issues/3018
 ||perfdrive.com^$important
-! 2020-11-25 https://clearcode.pl, https://mypdns.org/T3058
+! 2020-11-25 https://clearcode.pl, https://mypdns.org/my-privacy-dns/issues/-/issues/3058
 ||piwik.pro^$important
-! 2020-11-25 https://piwikpro.de, https://mypdns.org/T3061
+! 2020-11-25 https://piwikpro.de, https://mypdns.org/my-privacy-dns/issues/-/issues/3061
 ||piwikpro.de^$important
 phoenixnap.com##.textwidget
 phoenixnap.com##.q2w3-fixed-widget-container
@@ -634,7 +636,7 @@ twitch.tv##.extension-view__iframe
 ubuntu.com##.cookie-policy
 ubuntu.com##.p-card
 
-! 2020-11-29 https://wct.link, https://mypdns.org/T3205
+! 2020-11-29 https://wct.link, https://mypdns.org/my-privacy-dns/issues/-/issues/3205
 ||wct.link^$important
 
 ! 2020-11-24 https://www.babeimpact.com
@@ -644,8 +646,8 @@ ubuntu.com##.p-card
 facebook.com##.cxgpxx05 > div > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
 
 ! 2020-10-19 xnx-hardcore.com
-! https://mypdns.org/T1984
-! https://mypdns.org/T1217
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1984
+! https://mypdns.org/my-privacy-dns/issues/-/issues/1217
 /matomo/*$script,important
 /piwik.php$script,important
 /matomo.js$domain=~github.com,badfilter
@@ -653,32 +655,32 @@ facebook.com##.cxgpxx05 > div > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
 /matomo/*$domain=~github.com|~matomo.org|~wordpress.org,badfilter
 
 
-! 2020-11-16 glokta.info, https://mypdns.org/T2882
+! 2020-11-16 glokta.info, https://mypdns.org/my-privacy-dns/issues/-/issues/2882
 ||glokta.info^$important
 
-! 2020-11-16 camayan.com, https://mypdns.org/T2873
+! 2020-11-16 camayan.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2873
 ||camayan.com^$important
 
-! 2020-11-16 bisonads.com, https://mypdns.org/T2870
+! 2020-11-16 bisonads.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2870
 ||bisonads.com^$important
 
-! 2020-11-16 greystatic.com, https://mypdns.org/T2871
+! 2020-11-16 greystatic.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2871
 ||greystatic.com^$important
 
-! 2020-11-16 greybison.com, https://mypdns.org/T2871
+! 2020-11-16 greybison.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2871
 ||greybison.com^$important
 
 ! https://github.com/easylist/easylist/commit/60434964db271744939b38032ea0017642df7689
 ||pusher.com^$third-party
 
-! 2020-10-17 lesnumeriques.com, https://mypdns.org/T1371
+! 2020-10-17 lesnumeriques.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1371
 ||privacy-center.org^$important
 hclips.com##.video-page__
 
-! 2020-10-26 heydouga.com, https://mypdns.org/T2123
+! 2020-10-26 heydouga.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2123
 /cookie_accessor.min.js$script,important
 
-! 2020-10-29 asiancamsters.com, https://mypdns.org/T2444
+! 2020-10-29 asiancamsters.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2444
 ||sqs.us-east-1.amazonaws.com^$important
 ||statics-marketingsites-wcus-ms-com.akamaized.net^
 amazonaws.com/segmentTracker.js
@@ -714,37 +716,17 @@ imagefruit.com###layer
 
 ! 2020-08-16 rarbgaccess.org
 ! https://github.com/easylist/easylist/issues/5749
-! https://mypdns.org/T957
+! https://mypdns.org/my-privacy-dns/issues/-/issues/957
 ||statsy.net^$important
 ||dyncdn.me/static/20/js/scrollspy.min.js$script,important
 
-! 7/15/2020 https://duckduckgo.com, https://mypdns.org/T2844
+! 7/15/2020 https://duckduckgo.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2844
 ||duckduckgo.com/?q=$elemhide
 ||duckduckgo.com/html$elemhide
 ||duckduckgo.com/lite$elemhide
 ||duckduckgo.com/m.js?$domain=duckduckgo.com
 ||duckduckgo.com/share/spice/amazon/$domain=duckduckgo.com
 ||duckduckgo.com^*^q=$elemhide
-duckduckgo.com###m1-0
-duckduckgo.com###m2-0
-duckduckgo.com###m5-0
-duckduckgo.com###organic-module
-duckduckgo.com##.footer
-duckduckgo.com##.ia-modules
-duckduckgo.com##.js-feedback-btn-wrap
-duckduckgo.com##.js-ia-modules
-duckduckgo.com##.js-place-detail-directions
-duckduckgo.com##.js-video-privacy-leave
-duckduckgo.com##.module--carousel
-duckduckgo.com##.module__header__map
-duckduckgo.com##.module__toggle--map
-duckduckgo.com##.place-detail__attribution
-duckduckgo.com##.place-detail__cta-block
-duckduckgo.com##.related-searches
-duckduckgo.com##[href^="https://www.youtube.com/results"]
-duckduckgo.com##li.zcm__item:nth-of-type(4)
-duckduckgo.com##li.zcm__item:nth-of-type(5)
-duckduckgo.com##li.zcm__item:nth-of-type(6)
 
 ! A very strict Google Prevention rule, Protecting you from accidetially to
 ! becomming redirected to SpyWare by Google
@@ -752,43 +734,44 @@ duckduckgo.com##[href^="https://www.youtube.com/watch"]
 
 
 ! 2021-02-03 https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion
-||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion^*^q=$elemhide
-||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/?q=$elemhide
-||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/html$elemhide
-||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/lite$elemhide
-||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/m.js?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion
-||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/m.js?*^cb=ddg_spice_amazon^
-||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/public/$third-party
-||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/share/spice/amazon/$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion
-||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/t/*$important
-duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###m1-0
-duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###m2-0
-duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###m5-0
-duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###organic-module
-duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.footer
-duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.highlight_sponsored
-duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.ia-modules
-duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-feedback-btn-wrap
-duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-ia-modules
-duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-video-privacy-leave
-duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.module--carousel
-duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.related-searches
-duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[href^="https://www.youtube.com/results"]
-duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(4)
-duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(5)
-duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(6)
+^*^q=$elemhide?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
+/?q=$elemhide?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
+/html$elemhide?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
+/lite$elemhide?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
+/m.js?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
+/m.js?*^cb=ddg_spice_amazon^?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
+/public/$third-party?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
+/share/spice/amazon/$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
+/t/*$important?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###m1-0
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###m2-0
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###m5-0
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###organic-module
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.footer
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.highlight_sponsored
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.ia-modules
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-feedback-btn-wrap
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-ia-modules
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-video-privacy-leave
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.module--carousel
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.module--images
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.related-searches
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[href^="https://www.youtube.com/results"]
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(4)
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(5)
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(6)
 
 ! A very strict Google Prevention rule, Protecting you from accidetially to
 ! becomming redirected to SpyWare by Google
-duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[href^="https://www.youtube.com/watch"]
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[href^="https://www.youtube.com/watch"]
 
 ! 2020-08-23 https://www.bittorrent.com
 bittorrent.com##.consent-banner-animation-enter-done
 
-! 2020-09-01 aninding-branship.com, https://mypdns.org/T1317
+! 2020-09-01 aninding-branship.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1317
 ||aninding-branship.com^$important
 
-! 2020-09-01 roxxiebubbles.com, https://mypdns.org/T1324
+! 2020-09-01 roxxiebubbles.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1324
 ||roxxiebubbles.com/jspopunder2.js$script,important
 
 ! 5/24/2020 https://www.hetzner.com
@@ -801,7 +784,7 @@ svscomics.com##.regi
 techradar.com##.region_above_ad
 techradar.com##.region_redirect_popup
 
-! 2020-08-17 start.me, https://mypdns.org/T1134
+! 2020-08-17 start.me, https://mypdns.org/my-privacy-dns/issues/-/issues/1134
 ||whatismylocale.start.me^$important
 
 ! 2020-08-30 https://python3.guide
@@ -816,11 +799,11 @@ iobit.com###db7new
 ||thetechsutra.com/wp-content/cache/*$script,important
 ||thetechsutra.com/cdn-cgi/scripts/*/cloudflare-static/email-decode.min.js$script,important
 
-! 2020-08-14 erogames.com, https://mypdns.org/T1062, https://mypdns.org/T1230
+! 2020-08-14 erogames.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1062, https://mypdns.org/my-privacy-dns/issues/-/issues/1230
 ||recaptcha.net^$important
 @@||recaptcha.net/recaptcha/$badfilter
 
-! 2020-08-15 sky.com, https://mypdns.org/T1094
+! 2020-08-15 sky.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1094
 @@||analytics.global.sky.com/sky-tags$badfilter
 
 ! 2020-08-15 bbc.co.uk
@@ -857,25 +840,25 @@ bitbucket.org###id_is_private_group
 ||gstaticadssl.l.google.com^$important
 ||fonts.gstatic.com^$important
 
-! 26/07/2020 msecnd.net, https://mypdns.org/T724
+! 26/07/2020 msecnd.net, https://mypdns.org/my-privacy-dns/issues/-/issues/724
 ||msecnd.net/script/raptor-2.1.0.js$important
 
 ! 04/08/2020 erobodio.ru
 ||maps.yandex.net^$important
 
-! 8/3/2020 postnord.com, https://mypdns.org/T68
+! 8/3/2020 postnord.com, https://mypdns.org/my-privacy-dns/issues/-/issues/68
 ||googleapis.com^$important
 
 ! 3/25/2020 https://www.howtoforge.com
 howtoforge.com##.bsa-apiads
 
-! 4/25/2020 https://rarbgaccess.org, https://mypdns.org/T1715
+! 4/25/2020 https://rarbgaccess.org, https://mypdns.org/my-privacy-dns/issues/-/issues/1715
 ||22pixx.xyz^$image
 
-! 6/2/2020 huffingtonpost.ca, https://mypdns.org/T721
+! 6/2/2020 huffingtonpost.ca, https://mypdns.org/my-privacy-dns/issues/-/issues/721
 ||uplynk.com^$xhr
 
-! https://mypdns.org/T106
+! https://mypdns.org/my-privacy-dns/issues/-/issues/106
 ||adobedtm.com^$important
 
 ! 6/7/2020 spillemyndigheden.dk
@@ -908,7 +891,7 @@ shop.westerndigital.com##div.ng-scope.md\:h-auto.h-full.flex.relative.flex-col.l
 ! 6/2/2020 https://www.pricerunner.dk
 pricerunner.dk##._3YnaHq5Pmy
 
-! https://mypdns.org/T915
+! https://mypdns.org/my-privacy-dns/issues/-/issues/915
 ||hcaptcha.com^$important
 
 ! 05/06/2020 https://linuxize.com
@@ -998,7 +981,7 @@ kingston.com###email-signup-modal
 ! 5/9/2020 https://www.tecmint.com
 tecmint.com###quickiebarpro
 
-! https://mypdns.org/T581
+! https://mypdns.org/my-privacy-dns/issues/-/issues/581
 ||quotes.com^
 
 /^https?:\/\/([a-z0-9]{8,10}\.)?[a-z0-9]{5,14}\.(com|bid|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
