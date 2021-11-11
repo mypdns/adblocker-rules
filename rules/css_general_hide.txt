@@ -81,6 +81,7 @@ bubbaporn.com,serviporno.com##.footer-iframe
 ##a[href="//vipergirls.to/k2s"]
 ##a[href^="//discord.gg/"]
 ##a[href^="//go.julrdr.com/"]
+##a[href*="//go.crowdstrike.com/"]
 ##a[href^="//go.nordvpn.net/"]
 ##a[href^="//trafficstars.com"]
 ##a[href^="//trakt.tv/"]
