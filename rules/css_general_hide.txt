@@ -77,16 +77,6 @@ bubbaporn.com,serviporno.com##.footer-iframe
 ##.overlay
 ##.spot-horizontal
 
-##a[href*="//pcm.bannerator.com"]
-##a[href="//vipergirls.to/k2s"]
-##a[href^="//discord.gg/"]
-##a[href^="//go.julrdr.com/"]
-##a[href*="//go.crowdstrike.com/"]
-##a[href^="//go.nordvpn.net/"]
-##a[href^="//trafficstars.com"]
-##a[href^="//trakt.tv/"]
-
-
 ! 11/4/2019 http://hentaisexuality.com
 ##popwindow
 
@@ -208,4 +198,12 @@ scanboat.com##.margin-tb-25.row
 ##.mediaPlayerSponsored
 
 ! W
-##a[href^="https://wpmudev.com/project/"]
+##a[href^="//wpmudev.com/project/"]
+##a[href*="//pcm.bannerator.com"]
+##a[href="//vipergirls.to/k2s"]
+##a[href^="//discord.gg/"]
+##a[href^="//go.julrdr.com/"]
+##a[href*="//go.crowdstrike.com/"]
+##a[href^="//go.nordvpn.net/"]
+##a[href^="//trafficstars.com"]
+##a[href^="//trakt.tv/"]
