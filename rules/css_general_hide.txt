@@ -25,8 +25,8 @@ shoplyfter.com##.disclaimer-modal-wrapper
 
 .com/ads-
 
-manjaro.site,websiteforstudents.com,xmodulo.com,cyberciti.biz##.adsbygoogle
-##.adsbygoogle
+love4porn.com##^.ads
+##^.adsbygoogle
 ##.alignright:has(.adsbygoogle)
 ##.animated.sah_dialog
 /adsense/*/caf.js$script,important

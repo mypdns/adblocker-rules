@@ -160,6 +160,7 @@ hqasianporn.org##.coverup
 
 ! L
 ##a[href*="/linkout/livecams/"]
+love4porn.com##[src*="love4porn.com/player/html.php?aid=pause_html"]
 
 ! M
 ##[href*=".mypornlocker.com/"]
