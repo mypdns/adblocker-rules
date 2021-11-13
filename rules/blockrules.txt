@@ -108,9 +108,11 @@ computersalg.dk,computersalg.no,computersalg.se,computersalg.fi##.swiper-bigbann
 ||clarity.ms^
 ||clarity.microsoft.com^
 
-cyberciti.biz##.tips_top_slot_1
 cyberciti.biz###blocker7a1003a
+cyberciti.biz###card-149799
 cyberciti.biz###text-384338391
+cyberciti.biz##.pop
+cyberciti.biz##.tips_top_slot_1
 
 ! D.
 ! 2021-04-15 https://dennismungai.wordpress.com
@@ -252,13 +254,14 @@ microsoft.com##.modal-dialog
 ! My Privacy DNS Domains
 ! Thank you GitLab.com for spamming my domain despite I told you not to in the config
 gitlab.com,mypdns.org##.gl-alert.gl-mb-6
+gitlab.com,mypdns.org##.hide.js-explore-groups-landing.content-block.landing.explore-groups
+gitlab.com,mypdns.org##.show.dropdown-menu-right.dropdown-menu > ul > li > .text-nowrap
 gitlab.com,mypdns.org##^.gl-banner
 gitlab.com,mypdns.org##^.js-autodevops-banner
 gitlab.com,mypdns.org##^.js-broadcast-notification-2
 gitlab.com,mypdns.org##^.js-epics-sidebar-callout
 gitlab.com,mypdns.org##^.js-mr-approval-callout
 gitlab.com,mypdns.org##^[class*="promotion-"]
-gitlab.com,mypdns.org##.hide.js-explore-groups-landing.content-block.landing.explore-groups
 
 ! 2021-02-28 https://idea4cash.com
 /reklamstore.js$script,important
