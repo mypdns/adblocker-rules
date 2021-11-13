@@ -159,8 +159,10 @@ hqasianporn.org##.coverup
 ! K
 
 ! L
+##a[href*="/linkout/livecams/"]
 
 ! M
+##[href*=".mypornlocker.com/"]
 
 ! N
 nekopoi.care##.custom-html-widget.textwidget
