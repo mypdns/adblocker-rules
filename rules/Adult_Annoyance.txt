@@ -1309,6 +1309,8 @@ xhamster13.desi,xhamster15.desi##.wiz-banner
 xhamster13.desi,xhamster15.desi##.wiz-spa.wiz-spb
 xhamster13.desi,xhamster15.desi##.xplayer-banner
 
+##a[href^="https://xossipfap.net"]
+
 ! y
 
 ! z
