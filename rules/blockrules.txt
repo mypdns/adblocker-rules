@@ -153,6 +153,7 @@ onlyfans.com,alive.github.com^$websocket,important
 ! Had the next line running for about a week locally without breakage.
 !github.com##.flash-notice.flash-full.flash
 @@||github.com^$generichide,badfilter
+/socket-worker-*.js$script,domain=github.com
 ||collector.githubapp.com^
 ||github.com/_alive$xhr,important
 ||github.com/_private/browser/stats
