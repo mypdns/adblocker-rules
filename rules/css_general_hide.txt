@@ -121,13 +121,18 @@ firefox.com##.modal
 
 bubbaporn.com,serviporno.com###overlay-video
 
+! P
 ##.post__inarticle-ad-template-mobile
 ##.promo-message
 ##.promo-message__banner
 
+! R
+proprivacy.com##.recommended-cards
+
 ##div[class^="ad_unit_below"]
 ##div[class^="ad_unit_header"]
 
+! S
 ##.side-bar-ad
 
 ##.social-controls
@@ -164,11 +169,7 @@ firefox.com##.vpn-promo-banner
 ##.fancybox-overlay-fixed.fancybox-overlay
 ##.fancybox-skin
 
-
-
 kadinlarkulubu.com##.notice--cookie
-
-
 
 ! 2021-04-02 https://squid-users.squid-cache.narkive.com
 !squid-users.squid-cache.narkive.com###gdpr_overflow
@@ -208,3 +209,6 @@ scanboat.com##.margin-tb-25.row
 ##a[href^="//go.nordvpn.net/"]
 ##a[href^="//trafficstars.com"]
 ##a[href^="//trakt.tv/"]
+##a[href*="/vpn/"]
+
+proprivacy.com##.written-by

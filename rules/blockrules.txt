@@ -584,6 +584,8 @@ phoenixnap.com##.live-chat-btn
 phoenixnap.com###div_block-8-156
 phoenixnap.com###div_block-81-157
 phoenixnap.com##.ftwp-transform-right-center
+publicwww.com##.container > div.row > div.col-sm-6.col-md-6
+publicwww.com##.container > .service-wrapper
 python.org##.sidebar-widget
 
 ! Q
