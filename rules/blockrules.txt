@@ -593,26 +593,28 @@ python.org##.sidebar-widget
 ! R
 redhat.com##.rh-cta-link
 ! 2020-09-15 https://www.reck.dk
-reck.dk##.aioseo-cta
-reck.dk###footer-left
-reck.dk##.dashboard-getting-started
-reck.dk##a[href^="https://aioseo.com/lite-upgrade/"]
-reck.dk##.aioseo-upgrade-bar
-reck.dk##.aioseo-setup-wizard-container
-reck.dk##.frash-notice-email.frash-notice.notice
-reck.dk##.is-dismissible.settings-error.notice-warning.notice
-reck.dk###blc-sidebar
-reck.dk##.is-dismissible.notice.notice-info.wt_cli_review_request
-reck.dk##.smush-notice.notice
-reck.dk##.wds-report > .sui-upsell-row
-reck.dk##.updated
 ||d32wqyuo10o653.cloudfront.net/logo.png$image,important
-reck.dk###setting-error-tgmpa
-reck.dk##.is-upgrade-premium.has-call-to-action.jitm-banner.jitm-card
-reck.dk##.wpmudev-recommended-plugins
-reck.dk##.updated
+reck.dk##.aioseo-cta
 reck.dk##.aioseo-review-plugin-cta
+reck.dk##.aioseo-setup-wizard-container
+reck.dk##.aioseo-upgrade-bar
+reck.dk##.dashboard-getting-started
+reck.dk##.frash-notice-email.frash-notice.notice
+reck.dk##.is-dismissible.notice.notice-info.wt_cli_review_request
+reck.dk##.is-dismissible.settings-error.notice-warning.notice
+reck.dk##.is-upgrade-premium.has-call-to-action.jitm-banner.jitm-card
+reck.dk##.notification-menu
+reck.dk##.smush-notice.notice
+reck.dk##.sui-modal
+reck.dk##.sui-module-notice-black-friday__container
+reck.dk##.updated
+reck.dk##.wds-report > .sui-upsell-row
+reck.dk##.wpmudev-recommended-plugins
+reck.dk###blc-sidebar
+reck.dk###footer-left
+reck.dk###setting-error-tgmpa
 reck.dk###wp-admin-bar-aioseo-main
+reck.dk##a[href*="aioseo.com"]
 docs.rockylinux.org##.md-top
 
 ! 2020-09-25 https://www.mechbunny.com
