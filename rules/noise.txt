@@ -28,6 +28,7 @@
 ##a[href^="https://youtube.com"]
 ##a[href^="https://youtu.be"]
 ##a[href^="https://bit.ly/"]
+##a[href*="youtube.com"]
 
 adultdvdempire.com##.well
 adultdvdempire.com##.sticky-tagline
