@@ -1235,6 +1235,7 @@ hentai-paradise.fr##.reveal-overlay
 pornbus.org###layer
 m.proporn.com##.ad.rows
 proporn.com##.thr-rcol
+proporn.com##[id^="spot_video_"]
 proporn.com##div.refill.contain:nth-of-type(5)
 ||pornj.com/gabril/
 /poppy/*$domain=hclips.com|hdzog.com|hotmovs.com|porn555.com|pornforrelax.com|pornj.com|pornl.com|pornq.com|puporn.com|see.xxx|shemalez.com|thegay.com|thegay.porn|tubepornclassic.com|tuberel.com|txxx.com|upornia.com|voyeurhit.com
