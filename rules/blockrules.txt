@@ -135,7 +135,6 @@ drtuber.desi##[id*="spot_video_"]
 ||disqus.com^$subdocument
 ||drtuber.*/ajax/log/*$important
 
-
 ! E.
 /eu_cookie_compliance.js$script,important
 element14.com##.e14-cookie-directive

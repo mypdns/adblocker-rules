@@ -268,12 +268,6 @@ vrbtrans.com##.vrb_fb__wrapper
 ! tubev.sex https://mypdns.org/my-privacy-dns/issues/-/issues/3805
 ||tubev.sex/static/js/abb.js
 
-! pornj.com https://mypdns.org/my-privacy-dns/issues/-/issues/3803
-||pornj.com/gabril/
-/poppy/*$domain=hclips.com|hdzog.com|hotmovs.com|porn555.com|pornforrelax.com|pornj.com|pornl.com|pornq.com|puporn.com|see.xxx|shemalez.com|thegay.com|thegay.porn|tubepornclassic.com|tuberel.com|txxx.com|upornia.com|voyeurhit.com
-
-porn555.com,pornforrelax.com,sss.xxx,tuberel.com##.vda-item
-
 ! 2021-02-18 https://www.dmm.com
 dmm.com###id_top_disclaimer_parent
 @@||dmm.com/p/general/$image,1p,badfilter
@@ -330,13 +324,6 @@ hosinojun.web.fc2.com###fc2_bottom_bnr
 ! 2021-01-31 https://www.freebunker.com
 freebunker.com###layer
 
-! 2021-01-31 https://www.pornbus.org
-pornbus.org###layer
-
-! brattysis.com: https://mypdns.org/my-privacy-dns/issues/-/issues/4388
-! myfamilypies.com: https://mypdns.org/my-privacy-dns/issues/-/issues/4389
-! princesscum.com: https://mypdns.org/my-privacy-dns/issues/-/issues/4390
-! nubiles-porn.com: https://mypdns.org/my-privacy-dns/issues/-/issues/4387
 daddyslilangel.com,familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hidden-tablet
 daddyslilangel.com,familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hidden-phone
 daddyslilangel.com,familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.header-banner-wrapper
@@ -1245,8 +1232,13 @@ hentai-paradise.fr##.reveal-overlay
 
 
 ! P
-
-! 11/4/2019 http://petiteteenmovs.pro
+pornbus.org###layer
+m.proporn.com##.ad.rows
+proporn.com##.thr-rcol
+proporn.com##div.refill.contain:nth-of-type(5)
+||pornj.com/gabril/
+/poppy/*$domain=hclips.com|hdzog.com|hotmovs.com|porn555.com|pornforrelax.com|pornj.com|pornl.com|pornq.com|puporn.com|see.xxx|shemalez.com|thegay.com|thegay.porn|tubepornclassic.com|tuberel.com|txxx.com|upornia.com|voyeurhit.com
+porn555.com,pornforrelax.com,sss.xxx,tuberel.com##.vda-item
 !petiteteenmovs.pro###topbar
 ##topbar
 
