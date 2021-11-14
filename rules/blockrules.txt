@@ -128,11 +128,12 @@ devdungeon.com##.col-sm-3
 devdungeon.com##.container.footer
 dmi.dk##.add-container
 dmi.dk#?#.large-6:-abp-has(:scope > .section-1-ad)
-||disqus.com^$subdocument
-||drtuber.*/ajax/log/*$important
 drtuber.desi##.drt-pause-link
+drtuber.desi##.drt-preloader
 drtuber.desi##[class^="drt-sponsor-"]
 drtuber.desi##[id*="spot_video_"]
+||disqus.com^$subdocument
+||drtuber.*/ajax/log/*$important
 
 
 ! E.
