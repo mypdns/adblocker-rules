@@ -1456,7 +1456,8 @@ hub.filterlists.com##.alert-info.alert.signup-cta
 /metrics/statsd/*
 /snowplow/*$script
 ||google.com/recaptcha
-||googletagmanager.com/gtm.js$script
+google-analytics_ga.js$script
+/gtm.js$script
 ||js-agent.newrelic.com^
 !||cdn.polyfill.io/v2/*$script
 ||fonts.googleapis.com^$stylesheet

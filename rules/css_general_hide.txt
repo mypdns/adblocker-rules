@@ -47,6 +47,7 @@ linuxhint.com##.author-box
 
 /devtools-detector.
 
+stackoverflow.com##.facebook-login
 bubbaporn.com,serviporno.com##.footer-iframe
 
 ##.Gamma_Component.base.Cms_CookieConsent
@@ -55,6 +56,7 @@ bubbaporn.com,serviporno.com##.footer-iframe
 ##.gl-align-items-center.gl-flex-direction-row.gl-display-flex
 ##.gitlab-ee-license-banner
 ##.gl-line-height-20.gl-py-6.gl-px-8.gl-card
+stackoverflow.com##.google-login
 
 ##.ad-on-video
 ##.banner-container
@@ -98,11 +100,6 @@ bestwifeporn.com,pxrnxx.xyz##.bx-wrapper
 ! https://github.com/easylist/easylist/pull/6968
 ###push-notifications
 
-! https://github.com/easylist/easylist/pull/6933
-##.ad.leaderboard
-
-! 4/23/2020 https://www.zytrax.com
-!zytrax.com##.adv
 ##.adv
 
 cambb.xxx,chaturbate.com,gamcore.com,playboy.com,rampant.tv,sex.com,signbucks.com,tallermaintenancar.com,tehvids.com,uflash.tv,xcafe.com##.ad
