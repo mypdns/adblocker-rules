@@ -1233,10 +1233,19 @@ hentai-paradise.fr##.reveal-overlay
 
 ! P
 pornbus.org###layer
-m.proporn.com##.ad.rows
-proporn.com##.thr-rcol
-proporn.com##[id^="spot_video_"]
-proporn.com##div.refill.contain:nth-of-type(5)
+m.proporn.com,yeptube.com,vivatube.com##.ad
+proporn.com,yeptube.com,vivatube.com##.thr-rcol
+proporn.com,yeptube.com,vivatube.com##[id^="spot_video_"]
+proporn.com,yeptube.com,vivatube.com##div.refill.contain:nth-of-type(5)
+m.proporn.com,m.yeptube.com,vivatube.com##div:nth-of-type(12)
+m.proporn.com,m.yeptube.com,vivatube.com##div:nth-of-type(11)
+proporn.com,yeptube.com,vivatube.com##div.mt10.container:nth-of-type(6)
+proporn.com,yeptube.com,vivatube.com##.abtext
+vivatube.com##div.mt15.container:nth-of-type(8)
+m.proporn.com,m.yeptube.com,vivatube.com##[id*="banner_overlay-"]
+m.proporn.com,m.yeptube.com,vivatube.com##[class^=".box_spots"]
+
+
 ||pornj.com/gabril/
 /poppy/*$domain=hclips.com|hdzog.com|hotmovs.com|porn555.com|pornforrelax.com|pornj.com|pornl.com|pornq.com|puporn.com|see.xxx|shemalez.com|thegay.com|thegay.porn|tubepornclassic.com|tuberel.com|txxx.com|upornia.com|voyeurhit.com
 porn555.com,pornforrelax.com,sss.xxx,tuberel.com##.vda-item
