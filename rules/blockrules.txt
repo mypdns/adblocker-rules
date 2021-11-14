@@ -66,8 +66,8 @@ haydenjames.io###connect
 ||24log.ru^
 ||24log.de^
 
-! A
-! SpyWare, https://mypdns.org/my-privacy-dns/matrix/-/issues/3056
+! A.
+||adobedtm.com^
 ||analyticacdn.com^$websocket,important
 @@||wss.analyticacdn.com^$websocket,badfilter
 
@@ -86,11 +86,11 @@ ancensored.com##.sextapeannounce
 ancensored.com##.live-block
 
 ! B.
-||bing.com/*/metrics.js$important
-! 2021-06-28 https://bobcares.com
+##a[href^="https://bit.ly/"]
+/blockadblock.js$script,important
 bobcares.com##.widget_text
 ||biblioteksvagten.dk^$3p
-##a[href^="https://bit.ly/"]
+||bing.com/*/metrics.js$important
 
 ! C.
 /copyright.js$script
@@ -108,6 +108,8 @@ computersalg.dk,computersalg.no,computersalg.se,computersalg.fi##.swiper-bigbann
 ||clarity.ms^
 ||clarity.microsoft.com^
 
+/counter/?domain=
+
 cyberciti.biz###blocker7a1003a
 cyberciti.biz###card-149799
 cyberciti.biz###text-384338391
@@ -115,20 +117,27 @@ cyberciti.biz##.pop
 cyberciti.biz##.tips_top_slot_1
 
 ! D.
-! 2021-04-15 https://dennismungai.wordpress.com
 dennismungai.wordpress.com###cmp-app-container
 dennismungai.wordpress.com##.actnbr-has-follow
-
-! 2021-04-24 https://www.filmpertutti.vision
-||disqus.com^$subdocument
+devdungeon.com###block-block-14
+devdungeon.com###block-block-15
+devdungeon.com###block-block-6
+devdungeon.com###popdown
+devdungeon.com##.calendly-badge-widget
+devdungeon.com##.col-sm-3
+devdungeon.com##.container.footer
 dmi.dk##.add-container
 dmi.dk#?#.large-6:-abp-has(:scope > .section-1-ad)
+||disqus.com^$subdocument
+||drtuber.*/ajax/log/*$important
 
 ! E.
+/eu_cookie_compliance.js$script,important
 element14.com##.e14-cookie-directive
 element14.com##.webinarPopup
 
 ! F.
+||facebook.net
 
 ! https://mypdns.org/my-privacy-dns/matrix/-/issues/1933
 faster-trk.com
@@ -229,29 +238,24 @@ harald-nyborg.dk##.frontpage-promotion
 jysk.dk##.helpButton
 
 ! K.
-koditips.com##.size-large.aligncenter
-koditips.com##p:nth-of-type(2)
-koditips.com##a[href="/kodi-vpn-guide-features-apps-setup/"]
-
-! 2020-11-26 https://kodi.expert
-kodi.expert##.elementor-cta
 kodi.expert##.ae-bg-gallery-type-default.elementor-section-height-default.elementor-section-boxed.elementor-element-3937190e.elementor-element.elementor-inner-section.elementor-section.has_ae_slider
-
-! 2020-11-26 https://koditips.com
-koditips.com##.grid-parent.tablet-grid-25.grid-25.is-right-sidebar.sidebar.widget-area
-koditips.com##div.aawp:nth-of-type(1)
+kodi.expert##.elementor-cta
 koditips.com##.aawp-product--horizontal.aawp-product
+koditips.com##.grid-parent.tablet-grid-25.grid-25.is-right-sidebar.sidebar.widget-area
+koditips.com##.size-large.aligncenter
+koditips.com##a[href="/kodi-vpn-guide-features-apps-setup/"]
+koditips.com##div.aawp:nth-of-type(1)
 koditips.com##div:nth-of-type(4)
+koditips.com##p:nth-of-type(2)
 
-! L
+! L.
 
-! M
-
-! 2020-11-16 Kodi build-in spyware
+! M.
+mechbunny.com##div.col-half.col.spec-col:nth-of-type(2)
 ||mb3admin.com^$important
 microsoft.com##.modal-dialog
 
-! My Privacy DNS Domains
+! GitLab (software)
 ! Thank you GitLab.com for spamming my domain despite I told you not to in the config
 gitlab.com,mypdns.org##.gl-alert.gl-mb-6
 gitlab.com,mypdns.org##.hide.js-explore-groups-landing.content-block.landing.explore-groups
@@ -263,21 +267,12 @@ gitlab.com,mypdns.org##^.js-epics-sidebar-callout
 gitlab.com,mypdns.org##^.js-mr-approval-callout
 gitlab.com,mypdns.org##^[class*="promotion-"]
 
-! 2021-02-28 https://idea4cash.com
-/reklamstore.js$script,important
-/blockadblock.js$script,important
-
 ! 2021-04-12 https://linuxconfig.org
 linuxconfig.org##.custom
 
 ! 2021-04-12 https://hub.packtpub.com
 hub.packtpub.com##.td-pb-span4
 hub.packtpub.com###comments
-
-! 2021-04-11 https://www.themoviedb.org
-themoviedb.org##.scroller.recommendations.panel
-themoviedb.org##.ott_offer
-themoviedb.org##.play_trailer
 
 ! 2021-03-25 https://file-converter-online.com
 file-converter-online.com##.cc_banner-wrapper
@@ -355,15 +350,6 @@ scandalplanet.com###get-full-access
 
 ! 2021-02-02 https://fanart.tv
 fanart.tv##.container:nth-of-type(4)
-
-! 2021-02-10 https://www.devdungeon.com
-devdungeon.com##.col-sm-3
-devdungeon.com##.calendly-badge-widget
-devdungeon.com###block-block-15
-devdungeon.com###block-block-6
-devdungeon.com###block-block-14
-devdungeon.com###popdown
-devdungeon.com##.container.footer
 
 ! 2021-02-09 https://www.finito.fc2.com
 /count/daycount.cgi$important
@@ -564,22 +550,13 @@ youtube.com##.ytd-live-chat-frame
 ! 2020-12-11 https://www.fcomputer.dk
 fcomputer.dk##.pull-left.cookie-popup
 
-! 2020-12-12 https://bibliotek.dk
-/eu_cookie_compliance.js$script,important
-
-! 2020-11-21 elgiganten.dk
-
-
 ! 2020-11-25 https://www.krak.dk
 krak.dk##.promotionLink
 
 ||anymad.com^
 ! P
-! 2020-11-24 https://validate.perfdrive.com, https://mypdns.org/my-privacy-dns/issues/-/issues/3018
 ||perfdrive.com^$important
-! 2020-11-25 https://clearcode.pl, https://mypdns.org/my-privacy-dns/issues/-/issues/3058
 ||piwik.pro^$important
-! 2020-11-25 https://piwikpro.de, https://mypdns.org/my-privacy-dns/issues/-/issues/3061
 ||piwikpro.de^$important
 phoenixnap.com##.textwidget
 phoenixnap.com##.q2w3-fixed-widget-container
@@ -596,6 +573,7 @@ python.org##.sidebar-widget
 ||queue-it.net^$important
 
 ! R
+/reklamstore.js$script,important
 redhat.com##.rh-cta-link
 ! 2020-09-15 https://www.reck.dk
 ||d32wqyuo10o653.cloudfront.net/logo.png$image,important
@@ -622,16 +600,19 @@ reck.dk###wp-admin-bar-aioseo-main
 reck.dk##a[href*="aioseo.com"]
 docs.rockylinux.org##.md-top
 
-! 2020-09-25 https://www.mechbunny.com
-mechbunny.com##div.col-half.col.spec-col:nth-of-type(2)
-
-! T
-! 2020-09-09 https://themezee.com
+! T.
 themezee.com###boxzilla-57913
 themezee.com###footer-about-section
 themezee.com##.boxzilla-newsletter.boxzilla-bottom-right.boxzilla-57913.boxzilla
-
-! 2021-07-23 https://www.twitch.tv
+themoviedb.org##.scroller.recommendations.panel
+themoviedb.org##.ott_offer
+themoviedb.org##.play_trailer
+||tv2a.dk/ads/
+||tv2a.dk/analytics/gallup/spring.js$script
+||tv2a.dk/consent/$script
+||tv2a.dk/oil/$script
+||tv2login.dk/api/login/v1/users/current/consents$xmlhttprequest
+||tv2net.zendesk.com^$script
 twitch.tv##.channel-panels-container
 twitch.tv##.prime-offers
 twitch.tv##.extension-view__iframe
@@ -640,12 +621,10 @@ twitch.tv##.front-page-carousel
 twitch.tv##.extension-view__iframe
 
 ! U
-! 2020-12-03 https://ubuntu.com
 ubuntu.com##.cookie-policy
 ubuntu.com##.p-card
-
-! 2020-11-29 https://wct.link, https://mypdns.org/my-privacy-dns/issues/-/issues/3205
-||wct.link^$important
+/upload/banners/$image
+/upload/banners/$script
 
 ! 2020-11-24 https://www.babeimpact.com
 ||googleusercontent.com^$important
@@ -1425,6 +1404,7 @@ pornhub.com##.streamatesModelsContainer.sectionWrapper
 pornhub.com##h3
 
 ! S
+/?spot_id=$script
 ||sailboatdata.com/storage/10163/Thunderstruck0918.jpg$image
 scammer.info###ember20
 ##a[href^="https://www.spiderfoot.net/"]
@@ -1463,19 +1443,10 @@ google-analytics_ga.js$script
 ||fonts.googleapis.com^$stylesheet
 ||polyfill.io^$third-party
 
-! 10/13/2019 tv2.dk
-||adobedtm.com^$script
-||facebook.net^$script
-||tv2a.dk/ads/
-||tv2a.dk/analytics/gallup/spring.js$script
-||tv2a.dk/consent/$script
-||tv2a.dk/oil/$script
-||tv2login.dk/api/login/v1/users/current/consents$xmlhttprequest
-||tv2net.zendesk.com^$script
-
 ||magnet2torrent.me/html/pageindex.html
 
 ! W
+||wct.link^$important
 /wp-content/plugins/uk-cookie-consent/*$script,important
 wordpress.org##.apps-mobile
 
