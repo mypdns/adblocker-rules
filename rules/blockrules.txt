@@ -130,6 +130,10 @@ dmi.dk##.add-container
 dmi.dk#?#.large-6:-abp-has(:scope > .section-1-ad)
 ||disqus.com^$subdocument
 ||drtuber.*/ajax/log/*$important
+drtuber.desi##.drt-pause-link
+drtuber.desi##[class^="drt-sponsor-"]
+drtuber.desi##[id*="spot_video_"]
+
 
 ! E.
 /eu_cookie_compliance.js$script,important
