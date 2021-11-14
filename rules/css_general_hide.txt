@@ -73,12 +73,10 @@ bestwifeporn.com,pxrnxx.xyz##.bx-wrapper
 
 ##.newsletter
 
-! xxxymovies.com https://mypdns.org/my-privacy-dns/porn-records/-/issues/86
 ##.ontopplayerad
-
-! 11/4/2019 livefreecamx.com
 ##.overlay
 ##.spot-horizontal
+###spot_video_underplayer_livecams
 
 ! 11/4/2019 http://hentaisexuality.com
 ##popwindow
