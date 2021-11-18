@@ -30,6 +30,7 @@
 ##a[href^="https://bit.ly/"]
 ##a[href*="youtube.com"]
 
+! A.
 adultdvdempire.com##.well
 adultdvdempire.com##.sticky-tagline
 adultdvdempire.com##.btn-success.btn
@@ -45,6 +46,7 @@ adultdvdempire.com###signUpModal
 adultdvdempire.com##.pricing-container
 adultdvdempire.com##.sale
 adultdvdempire.com##.main-nav-container
+avgle.com##.alert-dismissable
 
 ! A very strict Google Prevention rule, Protecting you from accidetially to
 ! becomming redirected to SpyWare by Google

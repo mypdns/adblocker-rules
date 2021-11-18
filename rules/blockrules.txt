@@ -67,24 +67,21 @@ haydenjames.io###connect
 ||24log.de^
 
 ! A.
+@@||wss.analyticacdn.com^$websocket,badfilter
+ancensored.com##.blue
+ancensored.com##.left
+ancensored.com##.live-block
+ancensored.com##.register
+ancensored.com##.sextapeannounce
+avgle.com##.col-sm-5.col-md-4
+aznude.com##.increase-height
+aznude.com##.random-links
+aznude.com##.recommended
+aznude.com##.watch-all-btn
+aznude.com##footer
 ||adobedtm.com^
 ||analyticacdn.com^$websocket,important
-@@||wss.analyticacdn.com^$websocket,badfilter
 ||pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion^
-
-! 2021-04-24 https://www.aznude.com
-aznude.com##.recommended
-aznude.com##.random-links
-aznude.com##.watch-all-btn
-aznude.com##.increase-height
-aznude.com##footer
-
-! 2021-04-14 http://ancensored.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1149
-ancensored.com##.register
-ancensored.com##.left
-ancensored.com##.blue
-ancensored.com##.sextapeannounce
-ancensored.com##.live-block
 
 ! B.
 ##a[href^="https://bit.ly/"]
@@ -133,6 +130,7 @@ drtuber.desi##.drt-pause-link
 drtuber.desi##.drt-preloader
 drtuber.desi##[class^="drt-sponsor-"]
 drtuber.desi##[id*="spot_video_"]
+||disqus.com/embed.js$script
 ||disqus.com^$subdocument
 ||drtuber.*/ajax/log/*$important
 
@@ -241,6 +239,7 @@ harald-nyborg.dk##.frontpage-promotion
 
 ! J.
 jysk.dk##.helpButton
+||jsdelivr.net/*/js.cookie.min.js$script
 
 ! K.
 kodi.expert##.ae-bg-gallery-type-default.elementor-section-height-default.elementor-section-boxed.elementor-element-3937190e.elementor-element.elementor-inner-section.elementor-section.has_ae_slider

@@ -48,9 +48,12 @@
 ! 9
 
 ! A
-animehentaihub.com##.happy-header
+adultdvd.com###popup-box
+adultdvd.com##td > [href="sale_50off_slee.html"]
+amakings.com##.promotionboxBlock.visible-lg.visible-md.promotionbox.video-list-ads
 animehentaihub.com##.button
 animehentaihub.com##.code-block
+animehentaihub.com##.happy-header
 
 ! B
 ! 2021-05-21 https://bangbros.com
@@ -65,6 +68,10 @@ bubbaporn.com##.productora-logo
 
 ! C
 ||coupleairplane.com^
+
+! D.
+
+! E.
 
 ! 2021-06-11 https://www.livehdcams.com
 livehdcams.com##.PayPalAgeGate-root-d0-0-2-76
@@ -160,18 +167,22 @@ indianpornmovies.info##.Hrz_Bns_Block
 
 ##[href*="indiangfporn.com/track/"]
 
-! J
+! J.
+##[href^="https://javhd.com/"]
+||javhd.com^$ping
+||static.javhd.com/sb/$image
+jav321.com###popup-container
 
-! K
+! K.
 
-! L
+! L.
 ##a[href*="/linkout/livecams/"]
 love4porn.com##[src*="love4porn.com/player/html.php?aid=pause_html"]
 
-! M
+! M.
 ##[href*=".mypornlocker.com/"]
 
-! N
+! N.
 nekopoi.care##.custom-html-widget.textwidget
 
 ! 11/4/2019 https://nakedgirls.org
@@ -204,8 +215,7 @@ ocmodeling.com##.fleshlight-banner
 ! 2021-04-04 https://rarbgaccess.org
 ||imgkings.com^$image
 
-adultdvd.com###popup-box
-adultdvd.com##td > [href="sale_50off_slee.html"]
+
 
 !vipergirls.to, https://mypdns.org/my-privacy-dns/porn-records/-/issues/178
 ||vipergirls.to/clientscript/poptrigger_
@@ -261,13 +271,6 @@ vrbtrans.com##.vrb_fb__wrapper
 ! 2021-02-22 https://tubeteensporn.com, https://mypdns.org/my-privacy-dns/issues/-/issues/3820
 /renderer/renderer.js$script,important,domain=tubeteensporn.com
 @@||stats.hprofits.com/advertisement.js,badfilter
-
-
-! tuberel.com https://mypdns.org/my-privacy-dns/issues/-/issues/3804
-||tuberel.com/*.php
-
-! tubev.sex https://mypdns.org/my-privacy-dns/issues/-/issues/3805
-||tubev.sex/static/js/abb.js
 
 ! 2021-02-18 https://www.dmm.com
 dmm.com###id_top_disclaimer_parent
@@ -484,17 +487,8 @@ sex.com###slideAd
 ! 2020-11-29 https://free-xxx-free.com
 ||free-xxx-free.com/ch.php$important
 
-! 2020-11-29 https://amakings.com
-amakings.com##.promotionboxBlock.visible-lg.visible-md.promotionbox.video-list-ads
-
 ! 2020-11-29 https://www.analpics.pro, https://mypdns.org/my-privacy-dns/issues/-/issues/3190
 ||zendplace.pro/api/v3/content$xhr,important
-
-! thegay.com, https://github.com/easylist/easylist/pull/6531
-##.iRx9_wrt
-||thegay.com/gagra/
-thegay.com,txxx.com##.fiioed
-thegay.com##.video-page__content > .right
 
 ! 2020-11-16 animehentaivideo.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2883
 ||animehentaivideo.com/f_animehentaivideo.com.js$script,important
@@ -837,9 +831,6 @@ gogirls18.com##[href^="/show.php"]
 ! https://mypdns.org/my-privacy-dns/issues/-/issues/1127
 ||hentaiser.com/stats.php$important
 
-! 2020-08-15 https://85tube.com
-! https://mypdns.org/my-privacy-dns/issues/-/issues/1132, https://mypdns.org/my-privacy-dns/issues/-/issues/2595
-||static.javhd.com/sb/$image
 
 ! 2020-08-14 smallteenpussy.com
 ! https://mypdns.org/my-privacy-dns/issues/-/issues/2728
@@ -1103,8 +1094,6 @@ pornhub.com##.sectionWrapper > .sectionWrapper
 ! 11/04/2020 ferame.com, https://mypdns.org/my-privacy-dns/issues/-/issues/550
 ||ferame.com^$ping
 
-! 11/04/2020 javhd.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2595
-||javhd.com^$ping
 
 ! 12/04/2020 https://mipr.info, https://mypdns.org/my-privacy-dns/issues/-/issues/2769
 ! https://mypdns.org/rMATRIX08c336680b5f809b99eb36deb8df3984e18aa33c
@@ -1268,14 +1257,18 @@ sweetcode.io##.author-meta
 sweetcode.io##.entry-bottom
 
 ! T
-! https://mypdns.org/my-privacy-dns/porn-records/-/issues/173
-||truepurenudism.com/counter.js$script
-||truepurenudism.com/scripts/$script
-topminecraftservers.org##.embed-responsive
-
-! https://mypdns.org/my-privacy-dns/porn-records/-/issues/174
+##.iRx9_wrt
+##[href^="https://l.tyrantdb.com/"]
 the-sex.me###disclaimer
 the-sex.me##.thumb-ad
+thegay.com##.video-page__content > .right
+thegay.com,txxx.com##.fiioed
+topminecraftservers.org##.embed-responsive
+||thegay.com/gagra/
+||truepurenudism.com/counter.js$script
+||truepurenudism.com/scripts/$script
+||tuberel.com/*.php
+||tubev.sex/static/js/abb.js
 
 ! U
 ||uncn.jp^

@@ -38,41 +38,50 @@ shoplyfter.com##.disclaimer-modal-wrapper
 love4porn.com##^.ads
 
 forextuner.com,itsupportwale.com,advancedrenamer.com,epicbundle.com,hs-exp.jp,korail.pe.kr,phcorner.net,willyoupressthebutton.com,itzgeek.com##.adsbygoogle
-
+##.ad-on-video
+##.adv
 ##.author-box
 linuxhint.com##.author-box
 
+! B.
 ! 2021-06-02 https://freefaucet.io
 ||/banners/*$domain=freefaucet.io,generichide
+##.banner-container
+bestwifeporn.com,pxrnxx.xyz##.bx-wrapper
 
+
+! C.
 ##.Cms_PromoBanner
 ##.Cms_CookieConsent
 ! https://github.com/easylist/easylist/pull/6607
 ##.component-ads-by-google
 
+! D.
 /devtools-detector.
 
+! E.
+##[id="exo-native"]
+##.ezoic-ad
+##.ezfound
+
+! F.
 stackoverflow.com##.facebook-login
 bubbaporn.com,serviporno.com##.footer-iframe
+##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
+##.fancybox-overlay-fixed.fancybox-overlay
 
+! G.
 ##.Gamma_Component.base.Cms_CookieConsent
-
 ##.__give_away.bc_popalert
 ##.gl-align-items-center.gl-flex-direction-row.gl-display-flex
 ##.gitlab-ee-license-banner
 ##.gl-line-height-20.gl-py-6.gl-px-8.gl-card
 stackoverflow.com##.google-login
-
-##.ad-on-video
-##.banner-container
-bestwifeporn.com,pxrnxx.xyz##.bx-wrapper
-##.ezoic-ad
-##.ezfound
-##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
-##.fancybox-overlay-fixed.fancybox-overlay
 ##.gl-align-items-center.gl-flex-direction-row.gl-display-flex
 ##.gitlab-ee-license-banner
 ##.gl-line-height-20.gl-py-6.gl-px-8.gl-card
+
+! H.
 ##.happy-under-player
 ##.happy-footer
 
@@ -99,7 +108,7 @@ bestwifeporn.com,pxrnxx.xyz##.bx-wrapper
 ! https://github.com/easylist/easylist/pull/6968
 ###push-notifications
 
-##.adv
+
 
 cambb.xxx,chaturbate.com,gamcore.com,playboy.com,rampant.tv,sex.com,signbucks.com,tallermaintenancar.com,tehvids.com,uflash.tv,xcafe.com##.ad
 
