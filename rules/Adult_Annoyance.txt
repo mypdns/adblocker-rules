@@ -633,7 +633,7 @@ flashtranny.com,xgaytube.tv##.ae-player__itv
 
 ! 2020-10-13 https://www.xfantasy.com
 ! https://mypdns.org/my-privacy-dns/issues/-/issues/1763
-xfantasy.com##.overlay-container
+xfantasy.com,pink.pl##.overlay-container
 xfantasy.com##.faux-applet-sidebar
 
 ! 2020-10-16 smutty.xyz
