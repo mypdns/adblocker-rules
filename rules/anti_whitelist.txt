@@ -25,7 +25,7 @@
 
 ! .adsbygoogle
 advancedrenamer.com,epicbundle.com,hs-exp.jp,korail.pe.kr,phcorner.net,willyoupressthebutton.com#@#.adsbygoogle,badfilter
-
+@@||cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/vendor/adobe/,badfilter
 ! yomovies.mx
 @@||yandexcdn.com^$script,1p,badfilter
 @@||yandexcdn.com^$generichide,badfilter
