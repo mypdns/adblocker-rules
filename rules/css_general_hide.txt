@@ -25,12 +25,17 @@ shoplyfter.com##.disclaimer-modal-wrapper
 
 .com/ads-
 
-love4porn.com##^.ads
-##^.adsbygoogle
+! A.
+###advads_ad_widget-1
+###advads_ad_widget-2
+###advads_ad_widget-3
+##.advertisement
 ##.alignright:has(.adsbygoogle)
 ##.animated.sah_dialog
-/adsense/*/caf.js$script,important
 ##.article-recommend
+##^.adsbygoogle
+/adsense/*/caf.js$script,important
+love4porn.com##^.ads
 
 forextuner.com,itsupportwale.com,advancedrenamer.com,epicbundle.com,hs-exp.jp,korail.pe.kr,phcorner.net,willyoupressthebutton.com,itzgeek.com##.adsbygoogle
 
@@ -85,9 +90,6 @@ bestwifeporn.com,pxrnxx.xyz##.bx-wrapper
 !file-converter-online.com##.cc_banner-wrapper
 ##.cc_banner-wrapper
 
-###advads_ad_widget-1
-###advads_ad_widget-2
-###advads_ad_widget-3
 
 !20felezyab.com###banner-ad
 ###banner-ad
