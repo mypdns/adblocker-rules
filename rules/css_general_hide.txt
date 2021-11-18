@@ -36,6 +36,7 @@ shoplyfter.com##.disclaimer-modal-wrapper
 ##^.adsbygoogle
 /adsense/*/caf.js$script,important
 love4porn.com##^.ads
+##.adv-aside
 
 forextuner.com,itsupportwale.com,advancedrenamer.com,epicbundle.com,hs-exp.jp,korail.pe.kr,phcorner.net,willyoupressthebutton.com,itzgeek.com##.adsbygoogle
 ##.ad-on-video
@@ -156,6 +157,7 @@ proprivacy.com##.recommended-cards
 ##.supertool_ad_static
 
 ! T.
+##.text_adv
 
 ! U.
 
