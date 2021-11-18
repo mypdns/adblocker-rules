@@ -70,6 +70,7 @@ haydenjames.io###connect
 ||adobedtm.com^
 ||analyticacdn.com^$websocket,important
 @@||wss.analyticacdn.com^$websocket,badfilter
+||pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion^
 
 ! 2021-04-24 https://www.aznude.com
 aznude.com##.recommended
