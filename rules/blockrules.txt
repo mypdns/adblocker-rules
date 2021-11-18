@@ -605,6 +605,8 @@ reck.dk##a[href*="aioseo.com"]
 docs.rockylinux.org##.md-top
 
 ! T.
+##[href*="://trustpilot.com/"]
+##[href*="://www.trustpilot.com/"]
 themezee.com###boxzilla-57913
 themezee.com###footer-about-section
 themezee.com##.boxzilla-newsletter.boxzilla-bottom-right.boxzilla-57913.boxzilla
