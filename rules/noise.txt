@@ -46,6 +46,10 @@ adultdvdempire.com##.pricing-container
 adultdvdempire.com##.sale
 adultdvdempire.com##.main-nav-container
 
+! A very strict Google Prevention rule, Protecting you from accidetially to
+! becomming redirected to SpyWare by Google
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[href^="https://www.youtube.com/watch"]
+
 edbpriser.dk##.popular-now
 
 ||google.*/recaptcha/api.js$script,important

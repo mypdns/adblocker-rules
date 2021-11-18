@@ -144,10 +144,27 @@ proprivacy.com##.recommended-cards
 ##.sticky-ad-target
 ##.supertool_ad_static
 
-bubbaporn.com,serviporno.com###video-right
+! T.
 
+! U.
+
+! V.
+bubbaporn.com,serviporno.com###video-right
 indianpornmovies.info##.Video_Share
 firefox.com##.vpn-promo-banner
+
+! W.
+woot.com##.embed.video
+
+! X.
+
+! Y.
+##.youtube
+||youtube.com^$subdocument
+
+
+
+
 
 !!! COOKIES !!!
 ###accept-cookies

@@ -719,11 +719,6 @@ imagefruit.com###layer
 ||duckduckgo.com/share/spice/amazon/$domain=duckduckgo.com
 ||duckduckgo.com^*^q=$elemhide
 
-! A very strict Google Prevention rule, Protecting you from accidetially to
-! becomming redirected to SpyWare by Google
-duckduckgo.com##[href^="https://www.youtube.com/watch"]
-
-
 ! 2021-02-03 https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion
 ^*^q=$elemhide?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
 /?q=$elemhide?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
@@ -747,14 +742,9 @@ duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.module--carousel
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.module--images
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.related-searches
-duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[href^="https://www.youtube.com/results"]
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(4)
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(5)
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(6)
-
-! A very strict Google Prevention rule, Protecting you from accidetially to
-! becomming redirected to SpyWare by Google
-duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[href^="https://www.youtube.com/watch"]
 
 ! 2020-08-23 https://www.bittorrent.com
 bittorrent.com##.consent-banner-animation-enter-done
@@ -1409,6 +1399,7 @@ pornhub.com##h3
 
 ! S
 /?spot_id=$script
+! Alternative /redirect/?spot_id=
 ||sailboatdata.com/storage/10163/Thunderstruck0918.jpg$image
 scammer.info###ember20
 ##a[href^="https://www.spiderfoot.net/"]
