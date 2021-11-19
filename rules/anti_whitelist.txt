@@ -24,8 +24,8 @@
 ||cstwpush.com^$important
 
 ! .adsbygoogle
-advancedrenamer.com,epicbundle.com,hs-exp.jp,korail.pe.kr,phcorner.net,willyoupressthebutton.com#@#.adsbygoogle,badfilter
-@@||cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/vendor/adobe/,badfilter
+advancedrenamer.com,epicbundle.com,hs-exp.jp,korail.pe.kr,phcorner.net,willyoupressthebutton.com##[class^="adsbygoogle"]
+@@||cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/vendor/adobe/$badfilter
 ! yomovies.mx
 @@||yandexcdn.com^$script,1p,badfilter
 @@||yandexcdn.com^$generichide,badfilter
@@ -34,14 +34,14 @@ advancedrenamer.com,epicbundle.com,hs-exp.jp,korail.pe.kr,phcorner.net,willyoupr
 @@&publisher_code=$popup,domain=voe.sx,badfilter
 
 ! AdGuard Annoyances
-@@||stats.hprofits.com/advertisement.js,badfilter
+@@||stats.hprofits.com/advertisement.js$badfilter
 
 ! https://github.com/easylist/easylist/issues/7290, https://mypdns.org/my-privacy-dns/issues/-/issues/3826
 @@||privacy-mgmt.com^$domain=bold.dk,badfilter
 @@||sp-prod.net/wrapperMessagingWithoutDetection.js$domain=bold.dk,badfilter
 
 ! https://github.com/easylist/easylist/issues/6882
-microsoft.com#@##ms-cookie-banner$badfilter
+microsoft.com##[id="ms-cookie-banner"]
 
 @@||ad.atown.jp/adserver/$domain=ad.atown.jp,badfilter
 ||ad.atown.jp^
@@ -89,7 +89,7 @@ microsoft.com#@##ms-cookie-banner$badfilter
 @@||gstatic.com^*/images/google-$domain=google.com,badfilter
 @@||gstatic.com^*/social/$image,domain=google.com,badfilter
 
-@@||imgadult.com/anex/alt2.js,badfilter
+@@||imgadult.com/anex/alt2.js$badfilter
 
 ! https://mypdns.org/my-privacy-dns/issues/-/issues/1736
 ! https://github.com/easylist/easylist/issues/6128
@@ -102,19 +102,15 @@ microsoft.com#@##ms-cookie-banner$badfilter
 
 
 ! https://github.com/easylist/easylist/pull/6064
-tennisassa.fi#@#.cookie-monster,badfilter
-
-! https://github.com/easylist/easylist/blob/5286c506b71a27093b45b233283620bce518291f/fanboy-addon/fanboy_annoyance_allowlist_general_hide.txt#L48
-! https://mypdns.org/my-external-stuff/ublockorigin-rules/commit/10a2df535d978888e6965defe371fa6356b43f5c#commitcomment-42257563
-##.grecaptcha-badge.grecaptcha-badge
+tennisassa.fi##[class="cookie-monster"]
 
 ! https://github.com/ryanbr/fanboy-adblock/issues/1401
 ! https://github.com/easylist/easylist/commit/e94a84b1d11e3eccc9ad7d6f8de7f9f21a075727#diff-6adfdb5479a01e1387e7d053ca44b6abR155
-marketdino.pl,mediaexpert.leszczynscy.pl,pajarito.de#@#.fb-container,badfilter
+marketdino.pl,mediaexpert.leszczynscy.pl,pajarito.de##[class="fb-container"]
 
 ! https://github.com/easylist/easylist/commit/74734bc7a8af596c853a656770ca0bc9d0ac244f
 ! Addition to https://mypdns.org/my-external-stuff/ublockorigin-rules/commit/65d43f48cdb30b48328a2b84bbcf357175f4dfce
-bccnapoli.it,thetechsutra.com#@#.cp-overlay,badfilter
+bccnapoli.it,thetechsutra.com##[class="cp-overlay"]
 
 ! uBlock filters – Unbreak
 @@||youtube-ui.l.google.com^$subdocument,badfilter
@@ -345,13 +341,13 @@ power.fi###cookie-notification#cookie-notification
 ||google.com^*recaptcha/$important
 ||yastatic.net/share2/share.js$script,important
 
-@@||google.*-youtube.jpg,badfilter
-@@||google.*/gplus-64.png,badfilter
+@@||google.*-youtube.jpg$badfilter
+@@||google.*/gplus-64.png$badfilter
 @@||google.*/images/*/social/$image,~third-party,badfilter
 @@||google.*/images/google-$image,~third-party,badfilter
-@@||google.*/retailer_google.png,badfilter
-@@||google.com/analytics/images/*_social.png,badfilter
-@@||google.com/analytics/images/social.png,badfilter
+@@||google.*/retailer_google.png$badfilter
+@@||google.com/analytics/images/*_social.png$badfilter
+@@||google.com/analytics/images/social.png$badfilter
 @@||google.com/js/platform.js$domain=hiphopwired.com|listenonrepeat.com|log84.de,badfilter
 
 ! Another big mistake from EasyList https://github.com/easylist/easylist/commit/c0efafdc218efa80cb12f42e424728924153c261#diff-9e00091554e8e64d830b74ad010e291dR102
