@@ -1273,9 +1273,10 @@ topminecraftservers.org##.embed-responsive
 ! U
 ||uncn.jp^
 
+! V.
 
-! 11/4/2019 https://www.xgaytube.tv
-xgaytube.tv##.active.js-random-link-item.js-menu-random.b-main-nav__link--mi.b-main-nav__link
+! W.
+watchmygf.me##.second.col-video
 
 ! 11/4/2019 youngsexpics.com
 youngsexpics.com##.partridge
@@ -1290,30 +1291,21 @@ youngsexpics.com##.partridge
 ||freelatinapics.com/lsvd/check.php
 
 ! x
-
-! https://mypdns.org/my-privacy-dns/issues/-/issues/2271
+##a[href^="https://xossipfap.net"]
+xgaytube.tv##.active.js-random-link-item.js-menu-random.b-main-nav__link--mi.b-main-nav__link
 xhamster.com##.dyltv-container
-xhamster.com##div.related-container:nth-of-type(3)
 xhamster.com##.premium-overlay
-
-! 2020-12-04 https://xhamster.desi
+xhamster.com##div.related-container:nth-of-type(3)
 xhamster.desi##.wiu-aspa.wiu-aspb
 xhamster.desi##.wiu-aspot-container.wiu-aplayer
-
-! https://mypdns.org/my-privacy-dns/porn-records/-/issues/117
 xhamster13.desi,xhamster15.desi##.wio-cspb
 xhamster13.desi,xhamster15.desi##.wio-xcams-widget
 xhamster13.desi,xhamster15.desi##.wio-xspa
-xhamster13.desi,xhamster15.desi##.xplayer-hover-menu
-
-! https://mypdns.org/my-privacy-dns/issues/-/issues/2590
 xhamster13.desi,xhamster15.desi##.wiz-banner
 xhamster13.desi,xhamster15.desi##.wiz-spa.wiz-spb
 xhamster13.desi,xhamster15.desi##.xplayer-banner
-
+xhamster13.desi,xhamster15.desi##.xplayer-hover-menu
 xnxxindianporn.com##.mt-2.text-center.col-lg-3.col-12
-
-##a[href^="https://xossipfap.net"]
 
 ! y
 
