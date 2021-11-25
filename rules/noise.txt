@@ -48,53 +48,63 @@ adultdvdempire.com##.sale
 adultdvdempire.com##.main-nav-container
 avgle.com##.alert-dismissable
 
-! A very strict Google Prevention rule, Protecting you from accidetially to
-! becomming redirected to SpyWare by Google
+! B.
+
+
+! C.
+brutalclips.com##.carousel-fade
+||d1zcggttmijv1z.cloudfront.net^$script,important
+
+! D.
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[href^="https://www.youtube.com/watch"]
 
+! E.
 edbpriser.dk##.popular-now
 
+! F.
+
+! G.
 ||google.*/recaptcha/api.js$script,important
 github.com###sponsor-button-repo
 
-imdb.com##.uc-add-wl-button-icon--add
-imdb.com##.banner--accent1
-imdb.com##.hero-media__watchlist
-imdb.com##.inline.see-more
-imdb.com##.media-viewer__media-sheet
-imdb.com##.titleReviewBar
-imdb.com##.imdb-footer
-imdb.com##.pro_logo_main_title
+! H.
+
+! I.
 imdb.com###add-photos-pro
-imdb.com###overview-middle
 imdb.com###maindetails_sidebar_bottom
+imdb.com###overview-middle
 imdb.com###prometer_container
 imdb.com###titleAwardsRanks
-imdb.com###titleVideoStrip
-imdb.com##[href^="https://pro.imdb.com/"]
 imdb.com###titleFAQ
 imdb.com###titleUserReviewsTeaser
-
-! 2021-05-09 https://www.imdb.com (Image preloading of full gallery)
-! This one is added as BAD on very poor network connections
-||d1zcggttmijv1z.cloudfront.net^$script,important
+imdb.com###titleVideoStrip
+imdb.com##.banner--accent1
+imdb.com##.hero-media__watchlist
+imdb.com##.imdb-footer
+imdb.com##.inline.see-more
+imdb.com##.media-viewer__media-sheet
+imdb.com##.pro_logo_main_title
+imdb.com##.titleReviewBar
+imdb.com##.uc-add-wl-button-icon--add
+imdb.com##[href^="https://pro.imdb.com/"]
 
 *Promo*.jpg$domain=adultdvdempire.com,image
 
 # Adware (chat) noice
 ||solvemate.com^
 
+
+! T.
 themoviedb.org##.actions
 themoviedb.org##.recommendations
-
-! 2021-07-23 https://www.twitch.tv
 twitch.tv##.community-highlight
-twitch.tv##.top-bar
 twitch.tv##.eXenLC
+twitch.tv##.front-page-carousel
 twitch.tv##.gqzYpA
 twitch.tv##.headliner-ad
-twitch.tv##.front-page-carousel
+twitch.tv##.top-bar
 
+! P.
 ! protonmail.com
 mail.protonmail.com##li.flex-item-noshrink:nth-of-type(1)
 account.protonmail.com##.p0-5

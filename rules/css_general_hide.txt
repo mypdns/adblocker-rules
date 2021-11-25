@@ -70,6 +70,7 @@ stackoverflow.com##.facebook-login
 bubbaporn.com,serviporno.com##.footer-iframe
 ##.fancybox-opened.fancybox-bonga-wrap.fancybox-type-ajax.fancybox-desktop.fancybox-wrap
 ##.fancybox-overlay-fixed.fancybox-overlay
+##[href*="findthedates.com/?source="]
 
 ! G.
 ##.Gamma_Component.base.Cms_CookieConsent
