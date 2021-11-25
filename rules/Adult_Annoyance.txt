@@ -82,6 +82,7 @@ animehentaihub.com##.code-block
 animehentaihub.com##.happy-header
 ||/ad_track.js$script
 ||alxbgo.com^$third-party
+##[href*="admjmp.com"]
 
 ! B.
 bangbros.com##.hidden-larger-tablet
@@ -1086,34 +1087,36 @@ sweetcode.io##.entry-bottom
 
 
 ! T.
-||go.tubepornstars.tv/ftt2/*$script
 !/teen.php$important,domain=teenasspussy.com
 !||teenasspussy.com/d/count.php$important
-/teen.php$document,important,domain=18teenslut.com|realteenbeauty.com|teenasspussy.com
 ##.iRx9_wrt
+##[href*="trafokit.com"]
 ##[href^="https://l.tyrantdb.com/"]
+##[href^="https://theporndude.com/"]
 ##topbar
+/teen.php$document,important,domain=18teenslut.com|realteenbeauty.com|teenasspussy.com
+teenfidelity.com###navbar-tour > .is-size-4-widescreen.is-size-6.is-uppercase.navbar-end > .navbar-item:nth-of-type(2)
+teenfidelity.com##.is-small.is-success.hero
+teenfidelity.com##.p-0.section:nth-of-type(8)
+teenfidelity.com##.page-break
+teenfidelity.com##.promoBar
+the-sex.me###disclaimer
+the-sex.me##.thumb-ad
+thegay.com##.video-page__content > .right
+thegay.com,txxx.com##.fiioed
+tini-porno.com###\31 8kapu
+tini-porno.com###text-2 > div.textwidget:nth-of-type(1)
+tini-porno.com##.hidden-sm.sidebar.col-sm-4
+tini-porno.com##.in.fade.modal-backdrop
+topminecraftservers.org##.embed-responsive
+tube8.com##[href^="https://livehdcams.com/"]
+||go.tubepornstars.tv/ftt2/*$script
 ||teenasspussy.com$popup
 ||thegay.com/gagra/
 ||truepurenudism.com/counter.js$script
 ||truepurenudism.com/scripts/$script
 ||tuberel.com/*.php
 ||tubev.sex/static/js/abb.js
-teenfidelity.com##.is-small.is-success.hero
-teenfidelity.com##.p-0.section:nth-of-type(8)
-teenfidelity.com##.page-break
-teenfidelity.com##.promoBar
-teenfidelity.com###navbar-tour > .is-size-4-widescreen.is-size-6.is-uppercase.navbar-end > .navbar-item:nth-of-type(2)
-the-sex.me##.thumb-ad
-the-sex.me###disclaimer
-thegay.com,txxx.com##.fiioed
-thegay.com##.video-page__content > .right
-tini-porno.com##.hidden-sm.sidebar.col-sm-4
-tini-porno.com##.in.fade.modal-backdrop
-tini-porno.com###\31 8kapu
-tini-porno.com###text-2 > div.textwidget:nth-of-type(1)
-topminecraftservers.org##.embed-responsive
-tube8.com##[href^="https://livehdcams.com/"]
 
 ! U
 ||uncn.jp^
