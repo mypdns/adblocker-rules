@@ -393,9 +393,7 @@ sex.com###slideAd
 ! 2020-11-28 https://www.analxxxvideo.com
 ||analxxxvideo.com/app.js$script,important
 
-! 2020-11-28 https://www.japansporno.com
-/functions.js$script
-!,domain=japansporno.com
+
 
 ||qfjherc.com^
 ||clerrrep.com^
@@ -818,7 +816,7 @@ babes.com##.dLQauY.sc-1mhpkp8-0 > .lenLl.sc-1xljrhb-0
 
 ! 12/04/2020 sexmomsex.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2740
 /xtube.php$document,domain=sexmomsex.com|shinyjapaneseporn.com|drivepornvideos.com|animepornfilm.com|sexmomsex.com|shinyjapaneseporn.com|japansporno.com,important
-/functions.js$script,domain=sexmomsex.com|shinyjapaneseporn.com|drivepornvideos.com|animepornfilm.com|sexmomsex.com|shinyjapaneseporn.com|japansporno.com
+/functions.js$script,domain=sexmomsex.com|shinyjapaneseporn.com|drivepornvideos.com|animepornfilm.com|sexmomsex.com|shinyjapaneseporn.com|japansporno.com|newjapanesexxx.com
 
 ! 12/04/2020 sexteenageporn.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1929
 ||worldtraffic.trade^ ! https://mypdns.org/my-privacy-dns/issues/-/issues/557
@@ -955,9 +953,6 @@ mylesbianporn.com##.promotionboxBlock.visible-lg.visible-md.promotionbox.video-l
 
 ! 12/04/2020 nastypornpics.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2773
 ||bestcontentprogram.top ! https://mypdns.org/my-privacy-dns/issues/-/issues/2774
-
-! 12/04/2020 newjapanesexxx.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2775
-||newjapanesexxx.com/js/functions.js$script
 
 ! 12/04/2020 realyoungsex.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2777
 ||realyoungsex.com/js/active.js$script
