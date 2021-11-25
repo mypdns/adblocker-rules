@@ -57,6 +57,11 @@ haydenjames.io##.hayden-inpost_top
 haydenjames.io##.hayden-inpost_bottom
 haydenjames.io###connect
 ! 1
+123mc.dk##.magacin-row-wrp
+123mc.dk##.boxpadmarleft
+123mc.dk##.nopadmarright
+123mc.dk##.margintop20
+123mc.dk##.wrp_magacin_search_results_bottom
 
 ! 2
 ||24log.fr^
@@ -115,6 +120,7 @@ cyberciti.biz##.pop
 cyberciti.biz##.tips_top_slot_1
 
 ! D.
+dba.dk##div[id="dbashopping-widget"]
 dennismungai.wordpress.com###cmp-app-container
 dennismungai.wordpress.com##.actnbr-has-follow
 devdungeon.com###block-block-14
@@ -604,6 +610,9 @@ reck.dk###wp-admin-bar-aioseo-main
 reck.dk##a[href*="aioseo.com"]
 docs.rockylinux.org##.md-top
 
+! S.
+scootergear.dk##.w-cookie
+
 ! T.
 ##[href*="://trustpilot.com/"]
 ##[href*="://www.trustpilot.com/"]
@@ -804,12 +813,10 @@ ouedkniss.com###page_interstitiel
 ! https://github.com/uBlockOrigin/uAssets/issues/5648
 /ads.v*.js?v=*$important
 
-! 08/06/2020 https://www.whois.com
 whois.com##.promoblurb-container
 whois.com##.slides-container
 whois.com##.chiclet_wph
 
-! 15/06/2020 https://bitbucket.org
 bitbucket.org##div.atlaskit-portal:nth-of-type(1) > .lmzGgl.sc-gipzik > .cGINmZ.sc-Rmtcm
 bitbucket.org##.ei693ry6.css-kigghj
 bitbucket.org##div.atlaskit-portal:nth-of-type(1) > .bbgDmu.sc-bZQynM > .fHktW.sc-htoDjs
