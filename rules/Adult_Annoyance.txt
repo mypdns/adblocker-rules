@@ -996,6 +996,50 @@ thefappening.xyz##.headline.text-center
 !porndig.com##.bottom_webcams
 !porndig.com##.top_webcams
 /poppy/*$domain=hclips.com|hdzog.com|hotmovs.com|porn555.com|pornforrelax.com|pornj.com|pornl.com|pornq.com|puporn.com|see.xxx|shemalez.com|thegay.com|thegay.porn|tubepornclassic.com|tuberel.com|txxx.com|upornia.com|voyeurhit.com
+m.proporn.com,m.yeptube.com,vivatube.com##[class^=".box_spots"]
+m.proporn.com,m.yeptube.com,vivatube.com##[id*="banner_overlay-"]
+m.proporn.com,m.yeptube.com,vivatube.com##div:nth-of-type(11)
+m.proporn.com,m.yeptube.com,vivatube.com##div:nth-of-type(12)
+m.proporn.com,yeptube.com,vivatube.com##.ad
+passion-hd.com##.mt-xl-2.mt-1.mb-xl-3.mb-2.d-lg-block.d-none
+passion-hd.com##.payment-popup.popup3.epoch-box
+passion-hd.com##footer
+playboy.com##.css-1idyg5c
+porn555.com,pornforrelax.com,sss.xxx,tuberel.com##.vda-item
+pornbus.org###layer
+porncore.net##div[id^="_"][style="margin:10px;height:200px;width:800px;"]
+porndaa.com##.col-md-8 > div:nth-of-type(1)
+porndaa.com##.col-md-8 > div:nth-of-type(1)
+porndaa.com##div.well:nth-of-type(5)
+porndaa.com##div.well:nth-of-type(5)
+porndig.com##.co_sponsor
+porndig.com##.dynamic_menu_item_snap
+porndig.com##.hide_mobile_top_webcams
+pornhdtube.tv##.video-overlay
+pornhub.com###videoSearchResult > .alpha
+pornhub.com##.active.fanclub-info-pop
+pornhub.com##.clearfix.xc6lhd4nney0780v
+pornhub.com##.sectionWrapper > .sectionWrapper
+pornhub.net.co###widget-videos-block-4 > .video-loop > .no-gutters.row > .col-xl-6.col-lg-6.col-md-6.col-12.order-xl-1.order-lg-1.order-md-1.order-sm-1.order-1
+pornhub.net.co##.video-block-happy
+pornhub.net.co##center
+pornoklad.me###spn-popover-container
+pornolab.net##.bypass-alert
+pornolab.net##.tCenter
+pornvideoq.com###AJEiEYjeft
+pornvideoq.com###nUWzSskocb
+pornvideoq.com##.video-aside
+proporn.com,yeptube.com,vivatube.com##.abtext
+proporn.com,yeptube.com,vivatube.com##.thr-rcol
+proporn.com,yeptube.com,vivatube.com##[id^="spot_video_"]
+proporn.com,yeptube.com,vivatube.com##div.mt10.container:nth-of-type(6)
+proporn.com,yeptube.com,vivatube.com##div.refill.contain:nth-of-type(5)
+publicagent.com##.kvhCIH.sc-1xljrhb-0
+publicagent.com##.lhnTNF.sc-1i2s1et-7
+publicagent.com##.sc-1xljrhb-0
+publicagent.com##[href="/join"]
+publicagent.com##div.iIdwbz.sc-1mhpkp8-3:nth-of-type(6)
+|pornlist.tv/sw.js
 ||palmtube.net^$script,important
 ||platform.twitter.com/widgets.js$script,important
 ||playboy-galleries.com/tf*.js$script,important
@@ -1010,8 +1054,8 @@ thefappening.xyz##.headline.text-center
 ||pornstarapex.com/*.cgi$document,important
 ||pornstarapex.com/*.cgi$important
 ||pornstarapex.com/atatewf.cgi$important
-||pornstarapex.com/default.html?*$important
 ||pornstarapex.com/default.html$important
+||pornstarapex.com/default.html?*$important
 ||pornstarapex.com/irh.cgi$important
 ||pornstarapex.com/lgjhvg.cgi$important
 ||pornstarapex.com/ljchioi.cgi$document,important
@@ -1021,49 +1065,6 @@ thefappening.xyz##.headline.text-center
 ||pornstarapex.com^
 ||pornwild.to/static/js/main.min.js?v=8.4$script
 ||purewebpower.net^$important
-|pornlist.tv/sw.js
-m.proporn.com,m.yeptube.com,vivatube.com##[class^=".box_spots"]
-m.proporn.com,m.yeptube.com,vivatube.com##[id*="banner_overlay-"]
-m.proporn.com,m.yeptube.com,vivatube.com##div:nth-of-type(11)
-m.proporn.com,m.yeptube.com,vivatube.com##div:nth-of-type(12)
-m.proporn.com,yeptube.com,vivatube.com##.ad
-passion-hd.com##.mt-xl-2.mt-1.mb-xl-3.mb-2.d-lg-block.d-none
-passion-hd.com##.payment-popup.popup3.epoch-box
-passion-hd.com##footer
-porn555.com,pornforrelax.com,sss.xxx,tuberel.com##.vda-item
-pornbus.org###layer
-porncore.net##div[id^="_"][style="margin:10px;height:200px;width:800px;"]
-porndig.com##.co_sponsor
-porndig.com##.dynamic_menu_item_snap
-porndig.com##.hide_mobile_top_webcams
-pornhub.net.co##.video-block-happy
-pornhub.net.co###widget-videos-block-4 > .video-loop > .no-gutters.row > .col-xl-6.col-lg-6.col-md-6.col-12.order-xl-1.order-lg-1.order-md-1.order-sm-1.order-1
-pornhub.net.co##center
-pornolab.net##.bypass-alert
-pornolab.net##.tCenter
-proporn.com,yeptube.com,vivatube.com##.abtext
-proporn.com,yeptube.com,vivatube.com##.thr-rcol
-proporn.com,yeptube.com,vivatube.com##[id^="spot_video_"]
-proporn.com,yeptube.com,vivatube.com##div.mt10.container:nth-of-type(6)
-proporn.com,yeptube.com,vivatube.com##div.refill.contain:nth-of-type(5)
-publicagent.com##.kvhCIH.sc-1xljrhb-0
-publicagent.com##.lhnTNF.sc-1i2s1et-7
-publicagent.com##.sc-1xljrhb-0
-publicagent.com##[href="/join"]
-publicagent.com##div.iIdwbz.sc-1mhpkp8-3:nth-of-type(6)
-pornhub.com##.active.fanclub-info-pop
-pornhdtube.tv##.video-overlay
-playboy.com##.css-1idyg5c
-porndaa.com##.col-md-8 > div:nth-of-type(1)
-porndaa.com##div.well:nth-of-type(5)
-pornhub.com###videoSearchResult > .alpha
-pornhub.com##.clearfix.xc6lhd4nney0780v
-porndaa.com##div.well:nth-of-type(5)
-porndaa.com##.col-md-8 > div:nth-of-type(1)
-pornhub.com##.sectionWrapper > .sectionWrapper
-pornvideoq.com##.video-aside
-pornvideoq.com###AJEiEYjeft
-pornvideoq.com###nUWzSskocb
 
 ! Q.
 
