@@ -274,7 +274,7 @@ power.fi###cookie-notification#cookie-notification
 @@||192.168.*/privacy_policy.js$~third-party,badfilter
 
 ! https://github.com/easylist/easylist/issues/7431
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=api.screen9.com|blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|embed.comicbook.com|games.usatoday.com|iheart.com|insideedition.com|metacritic.com|player.abacast.net|player.earthtv.com|player.performgroup.com|truvid.com|zeebiz.com,badfilter
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|api.screen9.com|blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|crhoy.com|distro.tv|einthusan.tv|embed.comicbook.com|games.usatoday.com|howstuffworks.com|iheart.com|insideedition.com|metacritic.com|missoulian.com|newsweek.com|paralympic.org|player.abacast.net|player.earthtv.com|player.performgroup.com|popculture.com|tdn.com|truvid.com|zeebiz.com,badfilter
 @@||pubads.g.doubleclick.net/gampad/ads*tv.rakuten.co.jp$xhr,domain=imasdk.googleapis.com,badfilter
 @@||googleapis.com/gweb-uniblog-publish-prod/static/blog/images/google-$domain=blog.google,badfilter
 @@||googleapis.com/hiveweb/img/icon_facebook.svg$domain=hive.im,badfilter
