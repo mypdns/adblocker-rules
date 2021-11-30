@@ -130,33 +130,35 @@ freeteenmovs.pro###topbar
 ||gomain2.pro^
 
 ! H.
-||age-verification.hulkapps.com/hulk_age_verifier.js$script,important
 !hegre.com##.dialogs
+!hentaisexuality.com###popwindow
+!horse-fucking.com###popwindow
+##popwindow
+||age-verification.hulkapps.com/hulk_age_verifier.js$script,important
+||hentaitube.biz/traders/*$important
+hclips.com,txxx.com##.chan_banner
+hclips.com,txxx.com###und_ban
 hclips.com##.video-page__content > .right
 hclips.com##.video-page__item
-hclips.com,txxx.com###und_ban
-hclips.com,txxx.com##.chan_banner
-hdpornos.net###special9
 hdpornos.net##.size-300x250.vjs-overlay
+hdpornos.net###special9
 hegre.com##.dialogs > .fixed-dialog-overlay.hidden
 hegre.com##.dialogs > .stay-in-touch-dialog.white-dialog.fixed-dialog.hidden
 hegre.com##.overflow
 hegre.com##.promo-board-wrapper
 hegre.com##.white-on-black
 hellmoms.com##.bnnrs-player
-hellporno.net###inp_iframe-ht-native-under-player-6x1
 hellporno.net##.bnnrs-player
 hellporno.net##.desktop-banner.block-banner
+hellporno.net###inp_iframe-ht-native-under-player-6x1
+hentai-paradise.fr##.reveal-overlay
+hentai-paradise.fr###theEnd
 hentaitube.info,pornobell.com##.video-sidebar
+here.xxx##.mainmore
+here.xxx##[class^="bot"]
 holed1.com##.entry-sidebar
 holed1.com##.pure-button
-||hentaitube.biz/traders/*$important
 hqasianporn.org##.coverup
-hentai-paradise.fr###theEnd
-hentai-paradise.fr##.reveal-overlay
-!hentaisexuality.com###popwindow
-!horse-fucking.com###popwindow
-##popwindow
 
 ! I.
 ##[href*="imlive.com/wmaster"]
