@@ -246,6 +246,9 @@ harald-nyborg.dk##.frontpage-promotion
 ! J.
 jysk.dk##.helpButton
 ||jsdelivr.net/*/js.cookie.min.js$script
+/js/admir.js
+/js/propellerads_tag.js
+/js/propellerads_tag_onload.js
 
 ! K.
 kodi.expert##.ae-bg-gallery-type-default.elementor-section-height-default.elementor-section-boxed.elementor-element-3937190e.elementor-element.elementor-inner-section.elementor-section.has_ae_slider
