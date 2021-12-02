@@ -161,15 +161,16 @@ holed1.com##.pure-button
 hqasianporn.org##.coverup
 
 ! I.
+/ISG_BannerGetFooter.php
 ##[href*="imlive.com/wmaster"]
+||imgkings.com^$image
+||imgprime.com^$image
+indianpornmovies.info##.bottom_player_a
 indianpornmovies.info##.Hrz_Bns_Block
 indianpornmovies.info##.Player_Bns
 indianpornmovies.info##.Sub_Title
-indianpornmovies.info##.bottom_player_a
 indiansexmovies.com##.col-md-4
 indiansexmovies.com##.colored-block-white-gray
-||imgkings.com^$image
-||imgprime.com^$image
 
 ##[href*="indiangfporn.com/track/"]
 
@@ -1123,6 +1124,10 @@ tube8.com##[href^="https://livehdcams.com/"]
 ||uncn.jp^
 usasexguide.nl##div[class*="_banner"]
 usasexguide.nl##div[id*="Footer"]
+usasexguide.nl##a[href*="expeers-vehumbers.com/"]
+usasexguide.nl##a[href*="instable-easher.com/"]
+usasexguide.nl##a[href*="internationalsexguide.info/"]
+usasexguide.nl##a[href*="vbadvanced.com/"]
 
 ! V.
 ||vipergirls.to/clientscript/poptrigger_
