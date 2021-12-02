@@ -73,6 +73,10 @@ haydenjames.io###connect
 
 ! A.
 @@||wss.analyticacdn.com^$websocket,badfilter
+||adobedtm.com^
+||analyticacdn.com^$websocket,important
+||anymad.com^
+||pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion^
 ancensored.com##.blue
 ancensored.com##.left
 ancensored.com##.live-block
@@ -84,61 +88,61 @@ aznude.com##.random-links
 aznude.com##.recommended
 aznude.com##.watch-all-btn
 aznude.com##footer
-||adobedtm.com^
-||analyticacdn.com^$websocket,important
-||pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion^
 
 ! B.
-##a[href^="https://bit.ly/"]
 /blockadblock.js$script,important
-bobcares.com##.widget_text
+##a[href^="https://bit.ly/"]
 ||biblioteksvagten.dk^$3p
 ||bing.com/*/metrics.js$important
+bitbucket.org##.cjMOOK.styledFlagGroup-sc-1dirlpz-0
+bitbucket.org##.ei693ry6.css-kigghj
+bitbucket.org##.success.fadeout.shadowed.closeable.aui-message
+bitbucket.org##.upgrade-banner-container
+bitbucket.org###id_is_private_group
+bitbucket.org##div.atlaskit-portal:nth-of-type(1) > .bbgDmu.sc-bZQynM > .fHktW.sc-htoDjs
+bitbucket.org##div.atlaskit-portal:nth-of-type(1) > .hCTpf.sc-gzVnrw > .hHLyWY.sc-dnqmqq
+bitbucket.org##div.atlaskit-portal:nth-of-type(1) > .lmzGgl.sc-gipzik > .cGINmZ.sc-Rmtcm
+bobcares.com##.widget_text
 
 ! C.
-/copyright.js$script
-computersalg.dk,computersalg.no,computersalg.se,computersalg.fi####.product-right-wrap
-computersalg.dk,computersalg.no,computersalg.se,computersalg.fi##.FrontBannerContainer
-computersalg.dk,computersalg.no,computersalg.se,computersalg.fi##.bannercontentclick
-computersalg.dk,computersalg.no,computersalg.se,computersalg.fi##.swiper-bigbanner-itemcontainer
-||chaussew.net^
-||computersalg.dk,computersalg.no,computersalg.se,computersalg.fi/api/getuniversalproductband/*
-
-! https://mypdns.org/my-privacy-dns/issues/-/issues/3437
-||cstwpush.com^$important
-
 ! clarity.ms, https://mypdns.org/my-privacy-dns/issues/-/issues/3678
-||clarity.ms^
-||clarity.microsoft.com^
-
+/copyright.js$script
 /counter/?domain=
-
+||chaussew.net^
+||clarity.microsoft.com^
+||clarity.ms^
+||computersalg.dk,computersalg.no,computersalg.se,computersalg.fi/api/getuniversalproductband/*
+||cstwpush.com^$important
+computersalg.dk,computersalg.no,computersalg.se,computersalg.fi##.bannercontentclick
+computersalg.dk,computersalg.no,computersalg.se,computersalg.fi##.FrontBannerContainer
+computersalg.dk,computersalg.no,computersalg.se,computersalg.fi##.swiper-bigbanner-itemcontainer
+computersalg.dk,computersalg.no,computersalg.se,computersalg.fi####.product-right-wrap
+cyberciti.biz##.pop
+cyberciti.biz##.tips_top_slot_1
 cyberciti.biz###blocker7a1003a
 cyberciti.biz###card-149799
 cyberciti.biz###text-384338391
-cyberciti.biz##.pop
-cyberciti.biz##.tips_top_slot_1
 
 ! D.
+||disqus.com/embed.js$script
+||disqus.com^$subdocument
+||drtuber.*/ajax/log/*$important
 dba.dk##div[id="dbashopping-widget"]
-dennismungai.wordpress.com###cmp-app-container
 dennismungai.wordpress.com##.actnbr-has-follow
+dennismungai.wordpress.com###cmp-app-container
+devdungeon.com##.calendly-badge-widget
+devdungeon.com##.col-sm-3
+devdungeon.com##.container.footer
 devdungeon.com###block-block-14
 devdungeon.com###block-block-15
 devdungeon.com###block-block-6
 devdungeon.com###popdown
-devdungeon.com##.calendly-badge-widget
-devdungeon.com##.col-sm-3
-devdungeon.com##.container.footer
-dmi.dk##.add-container
 dmi.dk#?#.large-6:-abp-has(:scope > .section-1-ad)
+dmi.dk##.add-container
 drtuber.desi##.drt-pause-link
 drtuber.desi##.drt-preloader
 drtuber.desi##[class^="drt-sponsor-"]
 drtuber.desi##[id*="spot_video_"]
-||disqus.com/embed.js$script
-||disqus.com^$subdocument
-||drtuber.*/ajax/log/*$important
 
 ! E.
 /eu_cookie_compliance.js$script,important
@@ -147,42 +151,37 @@ element14.com##.webinarPopup
 
 ! F.
 ||facebook.net
-
-! https://mypdns.org/my-privacy-dns/matrix/-/issues/1933
 faster-trk.com
-
 findacrew.net##.dropdown-menu
 findacrew.net##.site-btn-pay
-
-! 2021-04-19 https://forum.tweak.dk
 forum.tweak.dk##.tweak-banner
 forum.tweak.dk##.partner_box
-
-! 2021-02-26 https://www.freshscat.com
 freshscat.com##.happy-sidebar
 
 ! G.
-! Spyware.
-||github.com/openreplay^
-gitee.com##.transition
 ! getalltraffic.com https://mypdns.org/my-privacy-dns/issues/-/issues/3851
-||getalltraffic.com^$important
-
-onlyfans.com,alive.github.com^$websocket,important
-
-! Had the next line running for about a week locally without breakage.
 !github.com##.flash-notice.flash-full.flash
 @@||github.com^$generichide,badfilter
+/google-analytics-for-wordpress/$script
 /socket-worker-*.js$script,domain=github.com
+##a[href^="https://google.com"]
 ||collector.githubapp.com^
+||getalltraffic.com^$important
 ||github.com/_alive$xhr,important
 ||github.com/_private/browser/stats
 ||github.com/_ws$xhr,important
+||github.com/openreplay^
 ||github.com/socket-worker-*.js$script,important
 ||github.githubassets.com/assets/socket-worker-*.js.*,important
 ||github.githubassets.com/favicon.ico$image
+||gitlab.com/-/cable$websocket,important
+||google-analytics.com^$important
+||gstatic.com^
 ||live.github.com/_luau/*$websocket,important
 ||live.github.com/_ws/*$websocket,important
+docs.gitlab.com##li.p-2.nav-item:nth-of-type(2)
+forum.gitlab.com###banner
+gitee.com##.transition
 github.com#@#.flash-error.flash-full.flash
 github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-3.col-lg-3.col-md-3.col-12.team-left-column
 github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-lg-5.pr-md-4.pr-3.col-lg-3.col-md-3.col-12.team-left-column
@@ -211,9 +210,6 @@ github.com###sponsor-button-repo
 github.com##^.my-3.p-3.Box
 github.com##a.dropdown-item:nth-of-type(11)
 github.com##li > .btn-sm.btn
-forum.gitlab.com###banner
-docs.gitlab.com##li.p-2.nav-item:nth-of-type(2)
-gitlab.com###promote_repository_features
 gitlab.com##.content-block.bordered-box
 gitlab.com##.content-block.landing.bordered-box
 gitlab.com##.d-flex.js-broadcast-notification-100719.broadcast-notification-message
@@ -228,13 +224,9 @@ gitlab.com##.prepend-top-10.append-bottom-20.banner-non-empty-state.banner-callo
 gitlab.com##.rounded.flash-alert.flash-content
 gitlab.com##.rounded.flash-notice.flash-content
 gitlab.com##.trial-link
-||gitlab.com/-/cable$websocket,important
-##a[href^="https://google.com"]
-/google-analytics-for-wordpress/$script
+gitlab.com###promote_repository_features
 gumtree.com##.fixed-bottom.gdpr-banner.notification
 gumtree.com##.right
-||google-analytics.com^$important
-||gstatic.com^
 
 ! H.
 harald-nyborg.dk##.frontpage-promotion
@@ -264,8 +256,9 @@ koditips.com##p:nth-of-type(2)
 ! L.
 
 ! M.
-mechbunny.com##div.col-half.col.spec-col:nth-of-type(2)
+/metrika/watch.js
 ||mb3admin.com^$important
+mechbunny.com##div.col-half.col.spec-col:nth-of-type(2)
 microsoft.com##.modal-dialog
 
 ! GitLab (software)
@@ -282,10 +275,6 @@ gitlab.com,mypdns.org##^[class*="promotion-"]
 
 ! 2021-04-12 https://linuxconfig.org
 linuxconfig.org##.custom
-
-! 2021-04-12 https://hub.packtpub.com
-hub.packtpub.com##.td-pb-span4
-hub.packtpub.com###comments
 
 ! 2021-03-25 https://file-converter-online.com
 file-converter-online.com##.cc_banner-wrapper
@@ -542,50 +531,36 @@ instagram.com##.Yx5HN.RnEpo
 ! 2021-01-15 https://www.hiper.dk
 hiper.dk##.products-show-call-me
 
-! https://github.com/ryanbr/fanboy-adblock/issues/1448
-||youtube.com/embed/$3p,frame,redirect=click2load.html
-youtube.com###main
-youtube.com##.ytd-app.style-scope:nth-of-type(1) > .ytd-popup-container.style-scope
-youtube.com###dialog
-youtube.com###consent-bump > .ytd-consent-bump-lightbox.style-scope
-youtube.com##ytd-popup-container.ytd-app.style-scope
-youtube.com###contentWrapper > .ytd-popup-container.style-scope
-youtube.com###subscribe-button
-youtube.com##.size-small.style-suggestive.ytd-masthead.style-scope
-||youtube.com/api/stats/watchtime?
-youtube.com###comments
-youtube.com##ytd-horizontal-card-list-renderer
-youtube.com##.ytd-live-chat-frame
-
-||youtube-nocookie.com/api/stats/ads?
-||youtube-nocookie.com/api/stats/watchtime?
-
 ! 2020-12-11 https://www.fcomputer.dk
 fcomputer.dk##.pull-left.cookie-popup
 
 ! 2020-11-25 https://www.krak.dk
 krak.dk##.promotionLink
 
-||anymad.com^
-! P
+! O.
+onlyfans.com,alive.github.com^$websocket,important
+
+! P.
 ||perfdrive.com^$important
 ||piwik.pro^$important
 ||piwikpro.de^$important
-phoenixnap.com##.textwidget
-phoenixnap.com##.q2w3-fixed-widget-container
+hub.packtpub.com##.td-pb-span4
+hub.packtpub.com###comments
+phoenixnap.com##.ftwp-transform-right-center
 phoenixnap.com##.live-chat-btn
+phoenixnap.com##.q2w3-fixed-widget-container
+phoenixnap.com##.textwidget
 phoenixnap.com###div_block-8-156
 phoenixnap.com###div_block-81-157
-phoenixnap.com##.ftwp-transform-right-center
-publicwww.com##.container > div.row > div.col-sm-6.col-md-6
 publicwww.com##.container > .service-wrapper
+publicwww.com##.container > div.row > div.col-sm-6.col-md-6
 python.org##.sidebar-widget
 
-! Q
+! Q.
 ||assets.queue-it.net/elkjobnordic/integrationconfig/javascript/queueclientConfig.js$script,important
 ||queue-it.net^$important
 
-! R
+! R.
 /reklamstore.js$script,important
 redhat.com##.rh-cta-link
 ! 2020-09-15 https://www.reck.dk
@@ -619,6 +594,10 @@ scootergear.dk##.w-cookie
 ! T.
 ##[href*="://trustpilot.com/"]
 ##[href*="://www.trustpilot.com/"]
+tecadmin.net##.block-single.block.author-box
+tecadmin.net###custom_html-3
+tecmint.com##.link-overlay
+tecmint.com###quickiebarpro
 themezee.com###boxzilla-57913
 themezee.com###footer-about-section
 themezee.com##.boxzilla-newsletter.boxzilla-bottom-right.boxzilla-57913.boxzilla
@@ -638,7 +617,7 @@ twitch.tv##.headliner-ad
 twitch.tv##.front-page-carousel
 twitch.tv##.extension-view__iframe
 
-! U
+! U.
 ubuntu.com##.cookie-policy
 ubuntu.com##.p-card
 /upload/banners/$image
@@ -820,15 +799,6 @@ whois.com##.promoblurb-container
 whois.com##.slides-container
 whois.com##.chiclet_wph
 
-bitbucket.org##div.atlaskit-portal:nth-of-type(1) > .lmzGgl.sc-gipzik > .cGINmZ.sc-Rmtcm
-bitbucket.org##.ei693ry6.css-kigghj
-bitbucket.org##div.atlaskit-portal:nth-of-type(1) > .bbgDmu.sc-bZQynM > .fHktW.sc-htoDjs
-bitbucket.org##div.atlaskit-portal:nth-of-type(1) > .hCTpf.sc-gzVnrw > .hHLyWY.sc-dnqmqq
-bitbucket.org##.cjMOOK.styledFlagGroup-sc-1dirlpz-0
-bitbucket.org##.upgrade-banner-container
-bitbucket.org##.success.fadeout.shadowed.closeable.aui-message
-bitbucket.org###id_is_private_group
-
 ! 08/07/2020 dandomain.dk
 ||gstaticadssl.l.google.com^$important
 ||fonts.gstatic.com^$important
@@ -896,16 +866,9 @@ developers.redhat.com##.general-promo.category-promo-section
 ! 07/05/2020 https://serverfault.com
 serverfault.com###noscript-warning
 
-! 07/05/2020 https://tecadmin.net
-tecadmin.net##.block-single.block.author-box
-tecadmin.net###custom_html-3
 
 ! 11/05/2020 https://community.spiceworks.com
 community.spiceworks.com##.join-login-alt--six-second.join-login-alt.join-login-wrapper
-
-! 13/05/2020 https://www.tecmint.com
-tecmint.com##.link-overlay
-tecmint.com###quickiebarpro
 
 ! 24/05/2020 https://www.nytimes.com
 nytimes.com##.e1x0szx60.css-xdenu8.expanded-dock.expanded.shown.gdpr
@@ -1452,15 +1415,28 @@ google-analytics_ga.js$script
 
 ||magnet2torrent.me/html/pageindex.html
 
-! W
+! W.
 ||wct.link^$important
 /wp-content/plugins/uk-cookie-consent/*$script,important
 wordpress.org##.apps-mobile
 
-! Y
-! Yandex Metric, Alternative CDN See https://github.com/disconnectme/disconnect-tracking-protection/issues/277 for detials
-/metrika/watch.js
+! Y.
+||youtube-nocookie.com/api/stats/ads?
+||youtube-nocookie.com/api/stats/watchtime?
+||youtube.com/api/stats/watchtime?
+||youtube.com/embed/$3p,frame,redirect=click2load.html
+youtube.com##.size-small.style-suggestive.ytd-masthead.style-scope
+youtube.com##.ytd-app.style-scope:nth-of-type(1) > .ytd-popup-container.style-scope
+youtube.com##.ytd-live-chat-frame
+youtube.com###comments
+youtube.com###consent-bump > .ytd-consent-bump-lightbox.style-scope
+youtube.com###contentWrapper > .ytd-popup-container.style-scope
+youtube.com###dialog
+youtube.com###main
+youtube.com###subscribe-button
+youtube.com##ytd-horizontal-card-list-renderer
+youtube.com##ytd-popup-container.ytd-app.style-scope
 
-! Z
+! Z.
 ! static.zdassets.com
 ||zdassets.com^$important
