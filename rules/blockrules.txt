@@ -237,6 +237,7 @@ gitlab.com##.trial-link
 gitlab.com###promote_repository_features
 gumtree.com##.fixed-bottom.gdpr-banner.notification
 gumtree.com##.right
+webrtc.github.io/adapter/adapter-latest.js
 
 ! GitLab (software)
 ! Thank you GitLab.com for spamming my domain despite I told you not to in the config
