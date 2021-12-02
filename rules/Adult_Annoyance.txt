@@ -1121,6 +1121,8 @@ tube8.com##[href^="https://livehdcams.com/"]
 
 ! U
 ||uncn.jp^
+usasexguide.nl##div[class*="_banner"]
+usasexguide.nl##div[id*="Footer"]
 
 ! V.
 ||vipergirls.to/clientscript/poptrigger_
