@@ -228,6 +228,19 @@ gitlab.com###promote_repository_features
 gumtree.com##.fixed-bottom.gdpr-banner.notification
 gumtree.com##.right
 
+! GitLab (software)
+! Thank you GitLab.com for spamming my domain despite I told you not to in the config
+gitlab.com,mypdns.org##.gl-alert.gl-mb-6
+gitlab.com,mypdns.org##.hide.js-explore-groups-landing.content-block.landing.explore-groups
+gitlab.com,mypdns.org##.show.dropdown-menu-right.dropdown-menu > ul > li > .text-nowrap
+gitlab.com,mypdns.org##^.gl-banner
+gitlab.com,mypdns.org##^.js-autodevops-banner
+gitlab.com,mypdns.org##^.js-broadcast-notification-2
+gitlab.com,mypdns.org##^.js-epics-sidebar-callout
+gitlab.com,mypdns.org##^.js-mr-approval-callout
+gitlab.com,mypdns.org##^[class*="promotion-"]
+! GitLab (software)
+
 ! H.
 harald-nyborg.dk##.frontpage-promotion
 ||harald-nyborg.dk/assets/webshop-images/campaigns/weekly/banners/*$image
@@ -260,18 +273,6 @@ koditips.com##p:nth-of-type(2)
 ||mb3admin.com^$important
 mechbunny.com##div.col-half.col.spec-col:nth-of-type(2)
 microsoft.com##.modal-dialog
-
-! GitLab (software)
-! Thank you GitLab.com for spamming my domain despite I told you not to in the config
-gitlab.com,mypdns.org##.gl-alert.gl-mb-6
-gitlab.com,mypdns.org##.hide.js-explore-groups-landing.content-block.landing.explore-groups
-gitlab.com,mypdns.org##.show.dropdown-menu-right.dropdown-menu > ul > li > .text-nowrap
-gitlab.com,mypdns.org##^.gl-banner
-gitlab.com,mypdns.org##^.js-autodevops-banner
-gitlab.com,mypdns.org##^.js-broadcast-notification-2
-gitlab.com,mypdns.org##^.js-epics-sidebar-callout
-gitlab.com,mypdns.org##^.js-mr-approval-callout
-gitlab.com,mypdns.org##^[class*="promotion-"]
 
 ! 2021-04-12 https://linuxconfig.org
 linuxconfig.org##.custom
