@@ -146,26 +146,28 @@ drtuber.desi##[id*="spot_video_"]
 
 ! E.
 /eu_cookie_compliance.js$script,important
+||trackingcheckinapi2-prod.spvyig3fxm.us-east-2.elasticbeanstalk.com^$xhr
 element14.com##.e14-cookie-directive
 element14.com##.webinarPopup
 
 ! F.
-||facebook.net
+||facebook.net^
+facebook.com##.cxgpxx05 > div > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
 faster-trk.com
 findacrew.net##.dropdown-menu
 findacrew.net##.site-btn-pay
-forum.tweak.dk##.tweak-banner
 forum.tweak.dk##.partner_box
+forum.tweak.dk##.tweak-banner
 freshscat.com##.happy-sidebar
 
 ! G.
-! getalltraffic.com https://mypdns.org/my-privacy-dns/issues/-/issues/3851
 !github.com##.flash-notice.flash-full.flash
 @@||github.com^$generichide,badfilter
 /google-analytics-for-wordpress/$script
 /socket-worker-*.js$script,domain=github.com
 ##a[href^="https://google.com"]
 ||collector.githubapp.com^
+||fonts.gstatic.com^$important
 ||getalltraffic.com^$important
 ||github.com/_alive$xhr,important
 ||github.com/_private/browser/stats
@@ -175,8 +177,16 @@ freshscat.com##.happy-sidebar
 ||github.githubassets.com/assets/socket-worker-*.js.*,important
 ||github.githubassets.com/favicon.ico$image
 ||gitlab.com/-/cable$websocket,important
+||glokta.info^$important
 ||google-analytics.com^$important
+||google.com/recaptcha/$important,script
+||googleapis.com^$important
+||googleoptimize.com
+||googleusercontent.com^$important
+||greybison.com^$important
+||greystatic.com^$important
 ||gstatic.com^
+||gstaticadssl.l.google.com^$important
 ||live.github.com/_luau/*$websocket,important
 ||live.github.com/_ws/*$websocket,important
 docs.gitlab.com##li.p-2.nav-item:nth-of-type(2)
@@ -247,6 +257,21 @@ harald-nyborg.dk##.frontpage-promotion
 
 ! I.
 ||cookieapi*.incomit.dk^
+imdb.com##.ab_widget
+imdb.com##.contribute.article
+imdb.com##.ipc-page-grid__item--span-1
+imdb.com##.recently-viewed
+imdb.com##.videoPreview--autoPlaybackOnce.videoPreview
+imdb.com##.wtw-option-standalone
+imdb.com##[class^="buybox__"]
+imdb.com##[class^="imdb-footer__"]
+imdb.com##[class^="promoted-"]
+imdb.com###bio_pro_link
+imdb.com###sidebar
+imdb.com###title_completed_pro_link
+imdb.com###title-social-sharing-widget
+imdb.com###titleDidYouKnow
+imdb.com##^.ipc-watchlist-ribbon__icon
 
 ! J.
 jysk.dk##.helpButton
@@ -269,6 +294,10 @@ koditips.com##p:nth-of-type(2)
 ! L.
 
 ! M.
+/matomo.js$domain=~github.com,badfilter
+/matomo.js$script,important
+/matomo/*$domain=~github.com|~matomo.org|~wordpress.org,badfilter
+/matomo/*$script,important
 /metrika/watch.js
 ||mb3admin.com^$important
 mechbunny.com##div.col-half.col.spec-col:nth-of-type(2)
@@ -279,16 +308,6 @@ linuxconfig.org##.custom
 
 ! 2021-03-25 https://file-converter-online.com
 file-converter-online.com##.cc_banner-wrapper
-
-||wistia.com^$important
-
-! 2021-03-23 https://pastebin.com
-pastebin.com##.page
-pastebin.com##.h_800.share
-
-! 2021-03-24 http://warframe-builder.com
-warframe-builder.com###overlay
-warframe-builder.com###popup-compte
 
 ! 2021-02-18 https://www.dmm.co.jp
 dmm.co.jp###id_top_disclaimer_parent
@@ -320,12 +339,6 @@ speedostream.com##+js(aost, Object.getOwnPropertyDescriptor, /^/)
 
 ! https://github.com/easylist/easylist/pull/6748
 /udf-event-track
-
-! 2021-02-18 https://trustpulse.com
-trustpulse.com##.Campaign__innerWrapper.birmingham-c-wrapper
-trustpulse.com##.Campaign--css.CampaignType--popup.Campaign.birmingham-campaign
-trustpulse.com###tp-7bQQ18cB-holder
-trustpulse.com##.tp-widget--compact.tp-bottom-left.tp-widget--rounded.tp-widget-container
 
 ! 2021-02-13 http://scandalplanet.com
 scandalplanet.com###get-full-access
@@ -547,6 +560,8 @@ onlyfans.com,alive.github.com^$websocket,important
 ||piwikpro.de^$important
 hub.packtpub.com##.td-pb-span4
 hub.packtpub.com###comments
+pastebin.com##.h_800.share
+pastebin.com##.page
 phoenixnap.com##.ftwp-transform-right-center
 phoenixnap.com##.live-chat-btn
 phoenixnap.com##.q2w3-fixed-widget-container
@@ -591,32 +606,38 @@ docs.rockylinux.org##.md-top
 
 ! S.
 scootergear.dk##.w-cookie
+serverfault.com###noscript-warning
 
 ! T.
 ##[href*="://trustpilot.com/"]
 ##[href*="://www.trustpilot.com/"]
-tecadmin.net##.block-single.block.author-box
-tecadmin.net###custom_html-3
-tecmint.com##.link-overlay
-tecmint.com###quickiebarpro
-themezee.com###boxzilla-57913
-themezee.com###footer-about-section
-themezee.com##.boxzilla-newsletter.boxzilla-bottom-right.boxzilla-57913.boxzilla
-themoviedb.org##.scroller.recommendations.panel
-themoviedb.org##.ott_offer
-themoviedb.org##.play_trailer
 ||tv2a.dk/ads/
 ||tv2a.dk/analytics/gallup/spring.js$script
 ||tv2a.dk/consent/$script
 ||tv2a.dk/oil/$script
 ||tv2login.dk/api/login/v1/users/current/consents$xmlhttprequest
 ||tv2net.zendesk.com^$script
+tecadmin.net##.block-single.block.author-box
+tecadmin.net###custom_html-3
+techradar.com##.region_above_ad
+techradar.com##.region_redirect_popup
+tecmint.com##.link-overlay
+tecmint.com###quickiebarpro
+themezee.com##.boxzilla-newsletter.boxzilla-bottom-right.boxzilla-57913.boxzilla
+themezee.com###boxzilla-57913
+themezee.com###footer-about-section
+themoviedb.org##.ott_offer
+themoviedb.org##.play_trailer
+themoviedb.org##.scroller.recommendations.panel
+trustpulse.com##.Campaign__innerWrapper.birmingham-c-wrapper
+trustpulse.com##.Campaign--css.CampaignType--popup.Campaign.birmingham-campaign
+trustpulse.com##.tp-widget--compact.tp-bottom-left.tp-widget--rounded.tp-widget-container
+trustpulse.com###tp-7bQQ18cB-holder
 twitch.tv##.channel-panels-container
-twitch.tv##.prime-offers
 twitch.tv##.extension-view__iframe
-twitch.tv##.headliner-ad
 twitch.tv##.front-page-carousel
-twitch.tv##.extension-view__iframe
+twitch.tv##.headliner-ad
+twitch.tv##.prime-offers
 
 ! U.
 ubuntu.com##.cookie-policy
@@ -624,36 +645,13 @@ ubuntu.com##.p-card
 /upload/banners/$image
 /upload/banners/$script
 
-! 2020-11-24 https://www.babeimpact.com
-||googleusercontent.com^$important
-
-! 2020-11-25 https://www.facebook.com
-facebook.com##.cxgpxx05 > div > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
-
-! 2020-10-19 xnx-hardcore.com
-! https://mypdns.org/my-privacy-dns/issues/-/issues/1984
-! https://mypdns.org/my-privacy-dns/issues/-/issues/1217
-/matomo/*$script,important
 /piwik.php$script,important
-/matomo.js$domain=~github.com,badfilter
-/matomo.js$script,important
-/matomo/*$domain=~github.com|~matomo.org|~wordpress.org,badfilter
-
-
-! 2020-11-16 glokta.info, https://mypdns.org/my-privacy-dns/issues/-/issues/2882
-||glokta.info^$important
 
 ! 2020-11-16 camayan.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2873
 ||camayan.com^$important
 
 ! 2020-11-16 bisonads.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2870
 ||bisonads.com^$important
-
-! 2020-11-16 greystatic.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2871
-||greystatic.com^$important
-
-! 2020-11-16 greybison.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2871
-||greybison.com^$important
 
 ! https://github.com/easylist/easylist/commit/60434964db271744939b38032ea0017642df7689
 ||pusher.com^$third-party
@@ -755,10 +753,6 @@ hetzner.com##.hidden-xs.hidden-sm.footer-main-section > .container > div.row:nth
 ! 7/20/2020 https://svscomics.com
 svscomics.com##.regi
 
-! 8/4/2020 https://www.techradar.com
-techradar.com##.region_above_ad
-techradar.com##.region_redirect_popup
-
 ! 2020-08-17 start.me, https://mypdns.org/my-privacy-dns/issues/-/issues/1134
 ||whatismylocale.start.me^$important
 
@@ -800,18 +794,14 @@ whois.com##.promoblurb-container
 whois.com##.slides-container
 whois.com##.chiclet_wph
 
-! 08/07/2020 dandomain.dk
-||gstaticadssl.l.google.com^$important
-||fonts.gstatic.com^$important
-
 ! 26/07/2020 msecnd.net, https://mypdns.org/my-privacy-dns/issues/-/issues/724
 ||msecnd.net/script/raptor-2.1.0.js$important
 
 ! 04/08/2020 erobodio.ru
 ||maps.yandex.net^$important
 
-! 8/3/2020 postnord.com, https://mypdns.org/my-privacy-dns/issues/-/issues/68
-||googleapis.com^$important
+
+
 
 ! 3/25/2020 https://www.howtoforge.com
 howtoforge.com##.bsa-apiads
@@ -836,9 +826,6 @@ sha2sslchecker.com##.f-right
 ! 5/18/2020 https://askubuntu.com
 askubuntu.com###noscript-warning
 
-! 5/21/2020 https://serverfault.com
-serverfault.com###noscript-warning
-
 ! 5/22/2020 https://centminmod.com
 centminmod.com##.section-title > .col-md-9
 
@@ -852,9 +839,6 @@ henrik.dk##div.box_sponsor02
 ! 6/2/2020 https://shop.westerndigital.com
 shop.westerndigital.com##div.ng-scope.md\:h-auto.h-full.flex.relative.flex-col.lg\:cols-3.xs\:cols-4.cols-6:nth-of-type(3)
 
-! 6/2/2020 https://www.pricerunner.dk
-pricerunner.dk##._3YnaHq5Pmy
-
 ! https://mypdns.org/my-privacy-dns/issues/-/issues/915
 ||hcaptcha.com^$important
 
@@ -863,10 +847,6 @@ linuxize.com##.pt-12.lg\:top-16.lg\:sticky.lg\:relative.lg\:block.-mt-12.flex-co
 
 ! 27/04/2020 https://developers.redhat.com
 developers.redhat.com##.general-promo.category-promo-section
-
-! 07/05/2020 https://serverfault.com
-serverfault.com###noscript-warning
-
 
 ! 11/05/2020 https://community.spiceworks.com
 community.spiceworks.com##.join-login-alt--six-second.join-login-alt.join-login-wrapper
@@ -935,9 +915,6 @@ linuxquestions.org##td.page:nth-of-type(1) > table.tborder:nth-of-type(3)
 ! 5/9/2020 https://www.kingston.com
 kingston.com###email-signup-modal
 
-! 5/9/2020 https://www.tecmint.com
-tecmint.com###quickiebarpro
-
 ! https://mypdns.org/my-privacy-dns/issues/-/issues/581
 ||quotes.com^
 
@@ -945,30 +922,9 @@ tecmint.com###quickiebarpro
 /^https?:\/\/[a-z0-9]{5,14}\.(com|bid|online|top|club)\/[0-9a-f]{32}\/invoke.js$/$script,third-party
 ||porndaa.com/sw.js$1p
 ||fsphhbsklawjs.com^
-https://padsabz.com/5b/11/ec/5b11ec577f7ab76d9e3bf5af286eda00.js
+||padsabz.com/5b/11/ec/5b11ec577f7ab76d9e3bf5af286eda00.js
 
 ##.push-subscription-prompt
-
-! 2/11/2020 https://www.imdb.com
-imdb.com##.ab_widget
-imdb.com###sidebar
-imdb.com###title-social-sharing-widget
-imdb.com###titleDidYouKnow
-imdb.com###title_completed_pro_link
-imdb.com##.promoted-watch-ad
-imdb.com##.imdb-footer__logo
-imdb.com##.imdb-footer__copyright
-imdb.com##.imdb-footer__socials
-imdb.com##^.ipc-watchlist-ribbon__icon
-imdb.com##.ipc-page-grid__item--span-1
-imdb.com##.contribute.article
-imdb.com##.recently-viewed
-imdb.com##.wtw-option-standalone
-imdb.com##.promoted-watch-ad-link
-imdb.com##.promoted-watch-ad
-imdb.com##.buybox__modal
-imdb.com##.videoPreview--autoPlaybackOnce.videoPreview
-imdb.com###bio_pro_link
 
 ! 2021-05-09 https://www.imdb.com, tracking, Ads
 ||media-amazon.com/images/*/imdbads/*$important
@@ -1026,15 +982,6 @@ cloudbooklet.com##.wp-block-group
 
 ! 30/03/2020 https://ipaddressguide.com
 ipaddressguide.com##.text-center.col-md-3
-
-! 12/04/2020 gitkraken.com
-||trackingcheckinapi2-prod.spvyig3fxm.us-east-2.elasticbeanstalk.com^$xhr
-
-/^https?:\/\/([a-z0-9]{8,10}\.)?[a-z0-9]{5,14}\.(com|bid|online|top|club)\/([a-z0-9]{2}\/){3}[a-f0-9]{32}\.js$/$script,third-party
-/^https?:\/\/[a-z0-9]{5,14}\.(com|bid|online|top|club)\/[0-9a-f]{32}\/invoke.js$/$script,third-party
-||porndaa.com/sw.js$1p
-||fsphhbsklawjs.com^
-https://padsabz.com/5b/11/ec/5b11ec577f7ab76d9e3bf5af286eda00.js
 
 ! 2/6/2020 https://www.rosehosting.com
 rosehosting.com##.active.essb-followme-bottom.essb-followme
@@ -1255,9 +1202,6 @@ en.bab.la##.magazine.teaser
 en.bab.la##div.teaser-wrapper:nth-of-type(5)
 en.bab.la##div.teaser-wrapper:nth-of-type(6)
 
-! https://lecourrier-du-soir.com/
-/wp-content/plugins/uk-cookie-consent/*$script,important
-
 ! YET ANOTHER HUGE FAILURE of TREAT from EasyLst
 ! @@||cam4.*/ads/directory/$1p,xmlhttprequest,domain=~gaytube.com|~pornhub.com|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~xtube.com|~youjizz.com|~youporn.com|~youporngay.com
 ||cam4.*/ads/directory/$1p,xmlhttprequest
@@ -1317,12 +1261,9 @@ magnet2torrent.me##li:nth-of-type(2)
 ! 10/19/2019 thefappeningblog.com
 bluehouse.is###customForm
 bluehouse.is###PopupOverLay_WA_0
-||google.com/recaptcha/$important,script
+
 ||player.pulsemediatv.com^$third-party,$domain=~bwin.sport
 !||api.cxense.com/public/widget/data?$script
-
-||googleapis.com^$important
-||googleoptimize.com
 
 ! 10/12/2019 https://taenk.dk/
 ||cookieinformation.com^
@@ -1420,6 +1361,9 @@ google-analytics_ga.js$script
 ||wct.link^$important
 /wp-content/plugins/uk-cookie-consent/*$script,important
 wordpress.org##.apps-mobile
+||wistia.com^$important
+warframe-builder.com###overlay
+warframe-builder.com###popup-compte
 
 ! Y.
 ||youtube-nocookie.com/api/stats/ads?
