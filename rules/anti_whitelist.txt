@@ -200,7 +200,10 @@ radiolodz.pl##.share_icons
 @@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.$script,domain=sports.yahoo.co.jp,badfilter
 
 ! Based on, not from https://github.com/ryanbr/fanboy-adblock/issues/1375, https://mypdns.org/my-privacy-dns/issues/-/issues/943
+! Seriously whitelist spyware?? Are you the Chinese goverment?
+||onetrust.com^$important
 @@||geolocation.onetrust.com/cookieconsentpub/$script,domain=~cnbc.com,badfilter
+@@||geolocation.onetrust.com/cookieconsentpub/$script,badfilter
 @@||onetrust.com/request/$xmlhttprequest,badfilter
 @@||cookielaw.org/consent/$xmlhttprequest,badfilter
 @@||isgprivacy.cbsi.com/dist/optanon.js$script,badfilter
