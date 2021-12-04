@@ -657,9 +657,7 @@ ubuntu.com##.p-card
 ! https://github.com/easylist/easylist/commit/60434964db271744939b38032ea0017642df7689
 ||pusher.com^$third-party
 
-! 2020-10-17 lesnumeriques.com, https://mypdns.org/my-privacy-dns/issues/-/issues/1371
 ||privacy-center.org^$important
-hclips.com##.video-page__
 
 ! 2020-10-26 heydouga.com, https://mypdns.org/my-privacy-dns/issues/-/issues/2123
 /cookie_accessor.min.js$script,important
