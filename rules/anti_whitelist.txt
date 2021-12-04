@@ -19,6 +19,8 @@
 !   - https://bitbucket.org/spirillen/
 !   - The individual lists maintainers
 
+@@||stats.hprofits.com/advertisement.js$badfilter
+
 ! https://cst.cstwpush.com/static/adManager.js, https://mypdns.org/my-privacy-dns/issues/-/issues/3437
 ! 2021-06-11 https://eo.glgporno.com, https://mypdns.org/my-privacy-dns/issues/-/issues/4691
 ||cstwpush.com^$important
