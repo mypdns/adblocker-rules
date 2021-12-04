@@ -77,6 +77,7 @@
 adultdvd.com###popup-box
 adultdvd.com##td > [href="sale_50off_slee.html"]
 amakings.com##.promotionboxBlock.visible-lg.visible-md.promotionbox.video-list-ads
+||analxxxvideo.com/app.js$script,important
 animehentaihub.com##.button
 animehentaihub.com##.code-block
 animehentaihub.com##.happy-header
@@ -137,15 +138,17 @@ freeteenmovs.pro###topbar
 ||age-verification.hulkapps.com/hulk_age_verifier.js$script,important
 ||hentaitube.biz/traders/*$important
 hclips.com,txxx.com###und_ban
-hclips.com##.video-page__
 hclips.com##.partners-wrap
-hdpornos.net##.size-300x250.vjs-overlay
-hdpornos.net###special9
-hegre.com##.dialogs > .fixed-dialog-overlay.hidden
-hegre.com##.dialogs > .stay-in-touch-dialog.white-dialog.fixed-dialog.hidden
-hegre.com##.overflow
-hegre.com##.promo-board-wrapper
+hclips.com##.video-page__
+hdpornos.net##.send_event
+hdpornos.net##.spc_height_60
+hdpornos.net##.vjs-overlays
+hdpornos.net###SUFIhJAw3XO2
+hegre.com##.online-live-cam-performers-popup
+hegre.com##.promo-signup-link
 hegre.com##.white-on-black
+hegre.com##div[class*="promo"]
+hegre.com##div[class$="-popup"]
 hellmoms.com##.bnnrs-player
 hellporno.net##.bnnrs-player
 hellporno.net##.desktop-banner.block-banner
@@ -391,11 +394,6 @@ sex.com###slideAd
 
 ! 2020-11-28 https://animal-porn-xxx.com
 /js/popper.min.js$important
-
-! 2020-11-28 https://www.analxxxvideo.com
-||analxxxvideo.com/app.js$script,important
-
-
 
 ||qfjherc.com^
 ||clerrrep.com^
@@ -1092,6 +1090,7 @@ sweetcode.io##.entry-bottom
 !||teenasspussy.com/d/count.php$important
 /teen.php$document,important,domain=18teenslut.com|realteenbeauty.com|teenasspussy.com
 ##.iRx9_wrt
+##a[href*="tik-tok-date.com"]
 ##[href*="trafokit.com"]
 ##[href^="https://l.tyrantdb.com/"]
 ##[href^="https://theporndude.com/"]
