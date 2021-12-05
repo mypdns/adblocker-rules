@@ -1,5 +1,5 @@
 ! List url:
-! https://mypdns.org/my-external-stuff/ublockorigin-rules/-/tree/master/rules/cookie_domain.blacklist
+! https://mypdns.org/my-external-stuff/ublockorigin-rules/-/tree/master/rules/new_filter.template
 !
 ! License:
 ! https://mypdns.org/spirillen/ublockorigin-rules/-/blob/master/LICENSEE
@@ -49,13 +49,8 @@
 ! A.
 
 ! B.
-bluehouse.is##.jss184
-bundesregierung.de##.bpa-cookie-banner
 
 ! C.
-||consent.dk^
-||cookiebot.com^
-||cookieinformation.com^
 
 ! D.
 
@@ -76,29 +71,22 @@ bundesregierung.de##.bpa-cookie-banner
 ! L.
 
 ! M.
-mxtoolbox.com##.in.fade.modal
-mxtoolbox.com###ctl00_ContentPlaceHolder1_panelPitch
 
 ! N.
 
 ! O.
 
 ! P.
-||privacy-center.org^$important
 
 ! Q.
 
 ! R.
 
 ! S.
-scootergear.dk##.w-cookie
 
 ! T.
-||tv2a.dk/consent/$script
-||tv2login.dk/api/login/v1/users/current/consents$xmlhttprequest
 
 ! U.
-ubuntu.com##.cookie-policy
 
 ! V.
 
