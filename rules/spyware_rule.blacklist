@@ -118,6 +118,8 @@
 ! O.
 
 ! P.
+/ping/gamp$domain=aws-native.com
+/ping/view$domain=aws-native.com
 /piwik.php$script,important
 
 ! Q.
