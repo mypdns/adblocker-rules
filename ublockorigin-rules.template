@@ -32,75 +32,76 @@
 ! Versus any other project I participates to, this is more lazy and
 ! >>If it smells like a fish, it's probably a fish<<
 !
-!------- General advert blocking filters ------------------------------!
-%include ublockorigin-rules:rules/adware_domain.blacklist%
-%include ublockorigin-rules:rules/adware_rule.blacklist%
+!------- Advert blocking filters --------------------------------------!
+%include My-Privacy-DNS-filter:rules/adware_domain.blacklist%
+%include My-Privacy-DNS-filter:rules/adware_rule.blacklist%
 
 !------- Anti-Social List ---------------------------------------------!
-%include ublockorigin-rules:rules/anti_social_domain.blacklist%
-%include ublockorigin-rules:rules/anti_social_rule.blacklist%
+%include My-Privacy-DNS-filter:rules/anti_social_domain.blacklist%
+%include My-Privacy-DNS-filter:rules/anti_social_rule.blacklist%
 
 !------- SpyWare List -------------------------------------------------!
-%include ublockorigin-rules:rules/spyware_domain.blacklist%
-%include ublockorigin-rules:rules/spyware_rule.blacklist%
+%include My-Privacy-DNS-filter:rules/spyware_domain.blacklist%
+%include My-Privacy-DNS-filter:rules/spyware_rule.blacklist%
 
 !------- White List ---------------------------------------------------!
-%include ublockorigin-rules:rules/whitelist_domain.whitelist%
-%include ublockorigin-rules:rules/whitelist_rule.whitelist%
+%include My-Privacy-DNS-filter:rules/whitelist_domain.whitelist%
+%include My-Privacy-DNS-filter:rules/whitelist_rule.whitelist%
 
 !------- Anti White ---------------------------------------------------!
-%include ublockorigin-rules:rules/anti_whitelist_domain.blacklist%
-%include ublockorigin-rules:rules/anti_whitelist_rule.blacklist%
+%include My-Privacy-DNS-filter:rules/anti_whitelist_domain.blacklist%
+%include My-Privacy-DNS-filter:rules/anti_whitelist_rule.blacklist%
 
 !------- Adult Annoyance blocking filters -----------------------------!
-%include ublockorigin-rules:rules/adult_domain.blacklist%
-%include ublockorigin-rules:rules/adult_rule.blacklist%
+%include My-Privacy-DNS-filter:rules/adult_domain.blacklist%
+%include My-Privacy-DNS-filter:rules/adult_rule.blacklist%
 
-!------- Genral Global rules filters ----------------------------------!
-%include ublockorigin-rules:rules/annoyance_domain.blacklist%
-%include ublockorigin-rules:rules/annoyance_rule.blacklist%
-%include ublockorigin-rules:rules/cookie_domain.blacklist%
-%include ublockorigin-rules:rules/cookie_rule.blacklist%
+!------- General Global rules filters ---------------------------------!
+%include My-Privacy-DNS-filter:rules/annoyance_domain.blacklist%
+%include My-Privacy-DNS-filter:rules/annoyance_rule.blacklist%
+%include My-Privacy-DNS-filter:rules/cookie_domain.blacklist%
+%include My-Privacy-DNS-filter:rules/cookie_rule.blacklist%
 
 !------- Noise Filters ------------------------------------------------!
-%include ublockorigin-rules:rules/noise.txt%
+! %include My-Privacy-DNS-filter:rules/noise.txt%
 
-!------- Fanboy's Enhanced Tracking List by @ryanbr -------------------!
+!------- @Yuki2718 many Filters ---------------------------------------!
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/anti-allowlist.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules-mob.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/static-rules.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider-mob.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/social-plus.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/tracking-plus.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/blog-parts-adult.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/blog-parts.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/blogroll.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances-plus.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-mob.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-paranoid.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-social.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/mob-app.txt%
+%include https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/sabre-filters2.txt%
+
+!------- @ryanbr Fanboy's Enhanced Tracking List ----------------------!
 %include https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/enhancedstats-addon.txt%
 
-!------- Easylist Cookie List by @ryanbr ------------------------------!
+!------- @ryanbr Easylist Cookie List ---------------------------------!
 %include https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-cookiemonster.txt%
 
-!------- Anti Whitelist by @Yuki2718 ----------------------------------!
-%include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/anti-allowlist.txt%
+!------- Anti-Facebook List -------------------------------------------!
+%include https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-antifacebook.txt%
+
+!------- Fanboy's Annoyance List (@ryanbr) ----------------------------!
+! %include https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-annoyance.txt%
 
 !------- webannoyances by @yourduskquibbles ---------------------------!
 %include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt%
-
-!------- Ad Placeholder by @yourduskquibbles --------------------------!
-%include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/ad_placeholders.txt%
-
-!------- Cookie Filters by @yourduskquibbles --------------------------!
-%include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/cookie_filters.txt%
-
-!------- Floating Annoyances by @yourduskquibbles ---------------------!
-%include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/floating_filters.txt%
-
-!------- Generic Filters by @yourduskquibbles -------------------------!
-%include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/generic_filters.txt%
-
-!------- Modal Overlay by @yourduskquibbles ---------------------------!
-%include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/modal_filters.txt%
-
-!------- Newsletter by @yourduskquibbles ------------------------------!
-%include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/newsletter_filters.txt%
-
-!------- Social Filters by @yourduskquibbles --------------------------!
-%include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/social_filters.txt%
-
-!------- Fuck Fuckadblock by @bogachenko ------------------------------!
-! %include https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt%
-! this is clearly NOT TO BE TRUSTED...
 
 !------- AdGuard Base filter ------------------------------------------!
 %include https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt%
@@ -108,20 +109,14 @@
 !------- AdGuard Tracking Protection filter ---------------------------!
 %include https://filters.adtidy.org/extension/ublock/filters/3.txt%
 
-!------- Spam404 ------------------------------------------------------!
-%include https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt%
+!------- AdGuard Social Media filter ----------------------------------!
+%include https://filters.adtidy.org/extension/ublock/filters/4.txt%
 
 !------- AdGuard Annoyances filter ------------------------------------!
 %include https://filters.adtidy.org/extension/ublock/filters/14.txt%
 
-!------- AdGuard Social Media filter ----------------------------------!
-%include https://filters.adtidy.org/extension/ublock/filters/4.txt%
-
-!------- Anti-Facebook List -------------------------------------------!
-%include https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-antifacebook.txt%
-
-!------- Fanboy's Annoyance List (@ryanbr) ----------------------------!
-! %include https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-annoyance.txt%
+!------- Spam404 ------------------------------------------------------!
+%include https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt%
 
 !------- Fanboy's Social Blocking List --------------------------------!
 !%include https://easylist.to/easylist/fanboy-social.txt%
@@ -136,7 +131,8 @@
 %include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/legacy.txt%
 %include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt%
 %include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt%
-!-- Don't ever include this list. It leads to SpyWare, TrackWare and other PUP's and malware!
+
+!-- Don't ever include this list. It leads to SpyWare, TrackWare, PUP's and malware!
 !-- %include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt% --!
 
 !------- Dan Pollock --------------------------------------------------!
@@ -144,7 +140,6 @@
 
 !------- Peter @pgl yoyo.org ------------------------------------------!
 %include https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext%
-
 
 !------- @migueldemoura ublock-umatrix-rulesets -----------------------!
 %include https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/uBlock/list%

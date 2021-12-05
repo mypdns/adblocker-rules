@@ -33,11 +33,20 @@ We do not operate at Github do to there anti-privacy terms of usage.
 
 ## File structure
 
-| File naming | Supported filter types                                                                                                                                                               |
-| :---------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `_domain.`  | These filter lists is to ad rules based on a domain specific level. ***IF / WHEN*** a rules is covering more than one domain, you should add it to the corresponding `_rule` filters |
-| `_rule`     | The place for rules covering more than one domain.                                                                                                                                   |
-
+| File naming                  | Supported filter types                                                                                                                                                               |
+| :--------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `_domain.`                   | These filter lists is to ad rules based on a domain specific level. ***IF / WHEN*** a rules is covering more than one domain, you should add it to the corresponding `_rule` filters |
+| `_rule`                      | The place for rules covering more than one domain.                                                                                                                                   |
+| `adult_*.blacklist`          |                                                                                                                                                                                      |
+| `adware_*.blacklist`         |                                                                                                                                                                                      |
+| `annoyance_*.blacklist`      |                                                                                                                                                                                      |
+| `anti_social_*.blacklist`    |                                                                                                                                                                                      |
+| `anti_whitelist_*.blacklist` |                                                                                                                                                                                      |
+| `cookie_*.blacklist`         |                                                                                                                                                                                      |
+| `noise.txt`                  |                                                                                                                                                                                      |
+| `spyware_*.blacklist`        |                                                                                                                                                                                      |
+| `whitelist_*.whitelist`      |                                                                                                                                                                                      |
+| ``                           |                                                                                                                                                                                      |
 
 ### Sorting filters
 We are sorting the rules based on the second level domain in the `_domain.`
@@ -69,7 +78,7 @@ Howto? [block whitelisted spyware](https://github.com/easylist/easylist/issues/4
 `$` always needs to exist, if you're going to use a modifier.  
 `,` are used to separate multiple modifier.
 
-Example (single modifier): ```css $script```  
+Example (single modifier): `$script`  
 Example (multiple modifiers): `$document,frame,script,stylesheet`
 
 
@@ -126,9 +135,12 @@ Our HTML front end is <https://my-external-stuff.github.io/ublockorigin-rules/>
 ## Subscribe to the rules
 [Click here to activate these rules in you uBlock Origin][Subscribe]
 
+If the above link did not work, try [this one](https://subscribe.adblockplus.org/?location=https://my-external-stuff.github.io/ublockorigin-rules/blockrules.txt&title=Spirillens%20%E2%80%93%20Adblock%20Rules)
+
 
 ## External resources
-@Yuki2718 [/adblock](https://github.com/Yuki2718/adblock)
+@Yuki2718 [/adblock](https://github.com/Yuki2718/adblock) (Pretty much
+all the rules)
 
 @yourduskquibbles [/webannoyances](https://github.com/yourduskquibbles/webannoyances)
 
@@ -137,6 +149,10 @@ Our HTML front end is <https://my-external-stuff.github.io/ublockorigin-rules/>
 @pgl [yoyo.org](https://pgl.yoyo.org/)
 
 @EasyList [easylist.to](https://easylist.to)
+
+@Spam404 [/Spam404/lists](https://github.com/Spam404/lists)
+
+@migueldemoura [ublock-umatrix-rulesets](https://github.com/migueldemoura/ublock-umatrix-rulesets/)
 
 And everyone else I've forgot to mention here.  
 Have a look in the [source list](/ublockorigin-rules.template)
