@@ -29,14 +29,14 @@ https://mypdns.org/my-external-stuff/ublockorigin-rules and solely used
 to host the [webfront](#webfront).  
 We do not operate at Github do to there anti-privacy terms of usage.
 
-# How to write filters
+# Writing filters
 
 ## File structure
 
-| File naming | Filters supported                                                                                                                                                      |
-| :---------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `_domain.`  | These filter lists is to ad rules based on a domain specific level. ***IF / when*** a rules is covering more than one domain, you should add it to the `_rule` filters |
-| `_rule`     | The place for rules covering more than one domain.                                                                                                                     |
+| File naming | Supported filter types                                                                                                                                                               |
+| :---------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `_domain.`  | These filter lists is to ad rules based on a domain specific level. ***IF / WHEN*** a rules is covering more than one domain, you should add it to the corresponding `_rule` filters |
+| `_rule`     | The place for rules covering more than one domain.                                                                                                                                   |
 
 
 ### Sorting filters
@@ -63,13 +63,13 @@ by a DNS related firewall like DNS RPZ.
 any local firewall rule is bypassed.
 
 
-## Filter writing guides
+## Writing filter guides
 Howto? [block whitelisted spyware](https://github.com/easylist/easylist/issues/4529)
 
 `$` always needs to exist, if you're going to use a modifier.  
 `,` are used to separate multiple modifier.
 
-Example (single modifier): `$script`  
+Example (single modifier): ```css $script```  
 Example (multiple modifiers): `$document,frame,script,stylesheet`
 
 
