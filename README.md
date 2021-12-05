@@ -2,6 +2,21 @@
 [![AdGuard syntax](https://img.shields.io/badge/syntax-AdGuard-%23c61300.svg)](https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters)
 
 # Contents
+The uBlock, adBlock like filters you will find inside this repository
+will in some degree be a supportive to the more common know filters like
+[EasyList][EasyList] or [AdGuard][AdGuard].
+
+Some important notes is this project started as a private project,
+however as the time how parsed by, it looks like other users are using
+one or more of our rules and filter, just as we are including 3rd party
+filters.
+
+This means the precision in the filtering rules might not be as sharp as
+they could have been if this have been a major part of my portfolio,but 
+this is purely a side project.
+
+
+## Disclaimer
 I can't guarantee these filers won't cause problems. If you found
 problems, [report][issues] it by filling in all the mandatory items in Issue
 template; otherwise reports can be ignored. Anyone who uses any of my
@@ -33,19 +48,19 @@ We do not operate at Github do to there anti-privacy terms of usage.
 
 ## File structure
 
-| File naming                  | Supported filter types                                                                                                                                                                                                                                     |
-| :--------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `_domain.`                   | These filter lists is to ad rules based on a domain specific level. ***IF / WHEN*** a rules is covering more than one domain, you should add it to the corresponding `_rule` filters                                                                       |
-| `_rule`                      | The place for rules covering more than one domain.                                                                                                                                                                                                         |
-| `adult_*.blacklist`          | This is as the filename indicating the place to add NSFW ONLY contents *AND* only if it do not match any other filter(s)                                                                                                                                   |
-| `adware_*.blacklist`         | Let take a guess, any promotional contents this is external as internal ads                                                                                                                                                                                |
-| `annoyance_*.blacklist`      | Any kind of rules which did not fit into any of the other lists and which does not as such brakes the functionality of the site.                                                                                                                           |
-| `anti_social_*.blacklist`    | Any kind of filters that can help building tracking links to any of the spyware domain like google, yandex, facebook, TikTok or similar (anti-)"social" places                                                                                             |
-| `anti_whitelist_*.blacklist` | Found a rules elsewhere putting your would like to encounter, at it here.                                                                                                                                                                                  |
-| `cookie_*.blacklist`         | Everything helping to prevent cookies :cookie:                                                                                                                                                                                                             |
-| `noise.txt`                  | :warning: **_WARNING_**! The following filters, WILL bring interrupt sites functionality. These rules are to clean up sites by removing all the unnecessary noise, bit like @yourduskquibbles webannoyances, but breaking things doesn't matter **AT ALL** |
-| `spyware_*.blacklist`        | Filter preventing any kind of tracking, spying and alike. If you have to ask, you need to read https://mypdns.org/MypDNS/support/-/wikis/SpyWare                                                                                                           |
-| `whitelist_*.whitelist`      | Probably not very used... But it can be handy to sometimes protect something to keep is spinning....                                                                                                                                                       |
+| File naming                  | Supported filter types                                                                                                                                                                                                                                          |
+| :--------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `_domain.`                   | These filter lists is to ad rules based on a domain specific level. ***IF / WHEN*** a rules is covering more than one domain, you should add it to the corresponding `_rule` filters                                                                            |
+| `_rule`                      | The place for rules covering more than one domain.                                                                                                                                                                                                              |
+| `adult_*.blacklist`          | This is as the filename indicating the place to add NSFW ONLY contents *AND* only if it do not match any other filter(s)                                                                                                                                        |
+| `adware_*.blacklist`         | Let take a guess, any promotional contents this is external as internal ads                                                                                                                                                                                     |
+| `annoyance_*.blacklist`      | Any kind of rules which did not fit into any other filter(s) and which does not as such brakes the functionality of the site.                                                                                                                                   |
+| `anti_social_*.blacklist`    | filters that can help preventing building any kind of tracking links to any spyware domain like google, yandex, facebook, TikTok, Reddit, Telegram or similar (anti-)"social" and anti-democracy places.                                                        |
+| `anti_whitelist_*.blacklist` | Found a rules elsewhere your would like to encounter, this is the filters for it.                                                                                                                                                                               |
+| `cookie_*.blacklist`         | Everything preventing cookies being set, where not needed or used for any sorts of tracking/spying/logging :cookie: (1st & 3rd party)                                                                                                                           |
+| `noise.txt`                  | :warning: **_WARNING_**! The following filter, WILL bring interruption to sites functionality. These rules are to clean up sites by removing all the unnecessary noise, bit like @yourduskquibbles webannoyances, but breaking things doesn't matter **AT ALL** |
+| `spyware_*.blacklist`        | Filter preventing any kind of tracking, spying and alike. If you have to ask, you need to read https://mypdns.org/MypDNS/support/-/wikis/SpyWare                                                                                                                |
+| `whitelist_*.whitelist`      | Probably not very used... But it can come in handy sometimes protecting something to keep is spinning....                                                                                                                                                       |
 
 
 ### Sorting filters
@@ -148,7 +163,7 @@ all the rules)
 
 @pgl [yoyo.org](https://pgl.yoyo.org/)
 
-@EasyList [easylist.to](https://easylist.to)
+@EasyList [easylist.to][easylist.to]
 
 @Spam404 [/Spam404/lists](https://github.com/Spam404/lists)
 
@@ -162,10 +177,16 @@ Have a look in the [source list](/ublockorigin-rules.template)
 Thanks to @Yuki2718, @THEtomaso, @krystian3w and everyone else who is
 spreading the knowledge of how rules should be made :smiley:
 
+<!-- Own Links -->
 [issues]: https://mypdns.org/my-external-stuff/ublockorigin-rules/-/issues
 [commits]: https://mypdns.org/my-external-stuff/ublockorigin-rules/commits/master
 [support]: https://mypdns.org/MypDNS/support/-/issues
 [Subscribe]: abp:subscribe?location=https://my-external-stuff.github.io/ublockorigin-rules/blockrules.txt&title=Spirillens%20%E2%80%93%20Adblock%20Rules
+
+<!-- External Links -->
 [redirect-engine]: https://github.com/gorhill/uBlock/blob/master/src/js/redirect-engine.js
 [dialogue]: https://github.com/My-External-Stuff/ublockorigin-rules/commit/c01ba1a5a0d73a89c911ab11d1322631fe3d0540
 [slightly_smaller_selection]: https://github.com/AdguardTeam/AdguardBrowserExtension/blob/master/Extension/lib/filter/rules/scriptlets/redirects.yml
+[EasyList]: https://github.com/easylist/easylist
+[easylist.to]: https://easylist.to
+[AdGuard]: https://adguard.com/
