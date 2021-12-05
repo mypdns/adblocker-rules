@@ -1,7 +1,7 @@
 [![uBlock syntax](https://img.shields.io/badge/syntax-uBlock%20Origin-%23c61300.svg)](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
 [![AdGuard syntax](https://img.shields.io/badge/syntax-AdGuard-%23c61300.svg)](https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters)
 
-# contents
+# Contents
 I can't guarantee these filers won't cause problems. If you found
 problems, [report][issues] it by filling in all the mandatory items in Issue
 template; otherwise reports can be ignored. Anyone who uses any of my
@@ -15,27 +15,28 @@ assumed to be copied and pasted, or imported, into My filters/rules
 ## Issues and comments
 The one and only place to report any issues or post a comment are as
 following:
-- [Issues][issues] with any rules is reported on My Privacy DNS Site
-- Commit Comments are posted on the individual [commit][commits] on My
-  Privacy DNS Site, in case you don't think it need a [Issues][issues].
-- Common questions goes straight to the [Support][support] board on My
-  Privacy DNS Site
+- [Issues][issues] with any rules is reported on the My Privacy DNS Site.
+- Commit Comments are posted on the individual [commit][commits]'s on
+  the My Privacy DNS Site, in case you don't think it need a
+  [Issues][issues].
+- Common questions, non specific filter topics, goes straight to the
+  [Support][support] board on  the My Privacy DNS Site.
 - Any comments or issues posted elsewhere will in the future be ignored
-  in full.
+  in full. ***The grace period is excised***.
 
-`github.com` is in full a backup of
-https://mypdns.org/my-external-stuff/ublockorigin-rules and used solely
-to host the [webfront][#webfront]. We do not operate at Github do to
-there anti-privacy terms of usage.
+`github.com` is in *only* a full backup of
+https://mypdns.org/my-external-stuff/ublockorigin-rules and solely used
+to host the [webfront][#webfront].  
+We do not operate at Github do to there anti-privacy terms of usage.
 
 # How to write filters
 
 ## File structure
 
-| File naming | Filters supported                                                                                                                                                  |
-| :---------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `_domain.`  | These filter lists is to ad rules based on a domain specific level. *IF / when* a rules is covering more than one domain, you should add it to the `_rule` filters |
-| `_rule`     | The place for rules covering more than one domain.                                                                                                                 |
+| File naming | Filters supported                                                                                                                                                      |
+| :---------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `_domain.`  | These filter lists is to ad rules based on a domain specific level. ***IF / when*** a rules is covering more than one domain, you should add it to the `_rule` filters |
+| `_rule`     | The place for rules covering more than one domain.                                                                                                                     |
 
 
 ### Sorting filters
@@ -137,7 +138,7 @@ Our HTML front end is <https://my-external-stuff.github.io/ublockorigin-rules/>
 
 @EasyList [easylist.to](https://easylist.to)
 
-And everyone else I've forgotten to mention here.
+And everyone else I've forgot to mention here.  
 Have a look in the [source list](/ublockorigin-rules.template)
 
 
