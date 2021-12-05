@@ -20,7 +20,7 @@
 !   - The individual lists maintainers
 
 ! WARNING!!!!
-! Notice, The following ruleset, WILL bring the sites down from fully function
+! Notice, The following filters, WILL bring the sites down from fully function
 
 ##^.facebook-login
 ##^.google-login

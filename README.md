@@ -33,20 +33,20 @@ We do not operate at Github do to there anti-privacy terms of usage.
 
 ## File structure
 
-| File naming                  | Supported filter types                                                                                                                                                               |
-| :--------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `_domain.`                   | These filter lists is to ad rules based on a domain specific level. ***IF / WHEN*** a rules is covering more than one domain, you should add it to the corresponding `_rule` filters |
-| `_rule`                      | The place for rules covering more than one domain.                                                                                                                                   |
-| `adult_*.blacklist`          |                                                                                                                                                                                      |
-| `adware_*.blacklist`         |                                                                                                                                                                                      |
-| `annoyance_*.blacklist`      |                                                                                                                                                                                      |
-| `anti_social_*.blacklist`    |                                                                                                                                                                                      |
-| `anti_whitelist_*.blacklist` |                                                                                                                                                                                      |
-| `cookie_*.blacklist`         |                                                                                                                                                                                      |
-| `noise.txt`                  |                                                                                                                                                                                      |
-| `spyware_*.blacklist`        |                                                                                                                                                                                      |
-| `whitelist_*.whitelist`      |                                                                                                                                                                                      |
-| ``                           |                                                                                                                                                                                      |
+| File naming                  | Supported filter types                                                                                                                                                                                                                                     |
+| :--------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `_domain.`                   | These filter lists is to ad rules based on a domain specific level. ***IF / WHEN*** a rules is covering more than one domain, you should add it to the corresponding `_rule` filters                                                                       |
+| `_rule`                      | The place for rules covering more than one domain.                                                                                                                                                                                                         |
+| `adult_*.blacklist`          | This is as the filename indicating the place to add NSFW ONLY contents *AND* only if it do not match any other filter(s)                                                                                                                                   |
+| `adware_*.blacklist`         | Let take a guess, any promotional contents this is external as internal ads                                                                                                                                                                                |
+| `annoyance_*.blacklist`      | Any kind of rules which did not fit into any of the other lists and which does not as such brakes the functionality of the site.                                                                                                                           |
+| `anti_social_*.blacklist`    | Any kind of filters that can help building tracking links to any of the spyware domain like google, yandex, facebook, TikTok or similar (anti-)"social" places                                                                                             |
+| `anti_whitelist_*.blacklist` | Found a rules elsewhere putting your would like to encounter, at it here.                                                                                                                                                                                  |
+| `cookie_*.blacklist`         | Everything helping to prevent cookies :cookie:                                                                                                                                                                                                             |
+| `noise.txt`                  | :warning: **_WARNING_**! The following filters, WILL bring interrupt sites functionality. These rules are to clean up sites by removing all the unnecessary noise, bit like @yourduskquibbles webannoyances, but breaking things doesn't matter **AT ALL** |
+| `spyware_*.blacklist`        | Filter preventing any kind of tracking, spying and alike. If you have to ask, you need to read https://mypdns.org/MypDNS/support/-/wikis/SpyWare                                                                                                           |
+| `whitelist_*.whitelist`      | Probably not very used... But it can be handy to sometimes protect something to keep is spinning....                                                                                                                                                       |
+
 
 ### Sorting filters
 We are sorting the rules based on the second level domain in the `_domain.`
