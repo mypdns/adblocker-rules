@@ -1,0 +1,123 @@
+! List url:
+! https://mypdns.org/my-external-stuff/ublockorigin-rules/-/tree/master/rules/Adult_Annoyance.txt
+!
+! License:
+! https://mypdns.org/spirillen/ublockorigin-rules/-/blob/master/LICENSEE
+! Homepage: https://mypdns.org/my-external-stuff/ublockorigin-rules/
+!
+! Please report any unblocked content or problems on the Issue board.
+! My Privacy DNS (Rules) issues:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/issues
+!
+! My Privacy DNS (domains) issues:
+! - https://mypdns.org/my-privacy-dns/matrix/-/issues
+!
+! My Privacy DNS (adult domains) issues:
+! - https://mypdns.org/my-privacy-dns/porn-records/-/issues
+! Merge Request:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/-/merge_requests
+! Email:
+!   - None
+! CopyRight:
+!   - https://mypdns.org/spirillen
+!   - https://archive.mypdns.org/p/Spirillen/
+!   - https://github.com/spirillen
+!   - https://bitbucket.org/spirillen/
+!   - The individual lists maintainers
+!   - The individual contributor
+!     https://mypdns.org/my-external-stuff/ublockorigin-rules/-/graphs/master
+! 0.
+
+! 1.
+
+! 2.
+
+! 3.
+
+! 4.
+
+! 5.
+
+! 6.
+
+! 7.
+
+! 8.
+
+! 9.
+
+! A.
+@@/adservice.*.js?domain=$script,badfilter
+
+! B.
+@@/blockadblock.$script,domain=blockadblock.com,badfilter
+@@|https://$script,3p,domain=blockadblock.com,badfilter
+
+! C.
+bccnapoli.it,spalferrara.it,thetechsutra.com##[class="cp-overlay"]
+
+! D.
+
+! E.
+@@||c.evidon.com/sitenotice/evidon-sitenotice-tag.js$script,domain=southpark.de|southparkstudios.nu,badfilter
+
+! F.
+foxbit.com.br,marketdino.pl,mediaexpert.leszczynscy.pl,pajarito.de##[class="fb-container"]
+
+! G.
+@@||google-analytics.com/analytics.js$domain=saturn.at|schweizerfleisch.ch|vox.de,badfilter
+@@||google-analytics.com/analytics.js$domain=infoconso-multimedia.fr|viandesuisse.ch,badfilter
+@@||google-analytics.com/analytics.js$domain=novatv.bg,badfilter
+@@||google-analytics.com/analytics.js$domain=news.gamme.com.tw,badfilter
+@@||google-analytics.com/analytics.js$domain=carnesvizzera.ch,badfilter
+@@||google-analytics.com/analytics.js$domain=skaties.lv,badfilter
+@@||google-analytics.com/analytics.js$domain=tv3play.no,badfilter
+@@||google-analytics.com/analytics.js$domain=nabortu.ru|poiskstroek.ru|rzd.ru|teddyfood.com,badfilter
+@@||google-analytics.com/analytics.js$domain=tradera.com|xxl.se,badfilter
+@@||google-analytics.com/analytics.js$domain=ligtv.com.tr,badfilter
+@@||google-analytics.com/analytics.js$domain=beinsports.com|brooklinen.com|jackbox.tv|k2radio.com|koel.com|kowb1290.com|tracking.narvar.com|westernunion.com,badfilter
+@@||google-analytics.com/plugins/ua/ec.js$domain=saturn.at,badfilter
+@@||google-analytics.com/plugins/ua/ec.js$domain=teddyfood.com,badfilter
+@@||google-analytics.com/plugins/ua/ec.js$domain=xxl.se,badfilter
+@@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com,badfilter
+@@||google-analytics.com/urchin.js$domain=record.xl.pt,badfilter
+
+
+! H.
+
+! I.
+@@||pro.ip-api.com/json$xmlhttprequest,domain=aljazeera.com|cookappsgames.com|sheee.co.il|walla.co.il,badfilter
+
+! J.
+
+! K.
+
+! L.
+
+! M.
+
+! N.
+
+! O.
+
+! P.
+
+! Q.
+
+! R.
+
+! S.
+
+! T.
+
+! U.
+
+! V.
+
+! W.
+
+! X.
+
+! Y.
+
+! Z.

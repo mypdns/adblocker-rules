@@ -1,0 +1,380 @@
+! List url:
+! https://mypdns.org/my-external-stuff/ublockorigin-rules/-/tree/master/rules/Adult_Annoyance.txt
+!
+! License:
+! https://mypdns.org/spirillen/ublockorigin-rules/-/blob/master/LICENSEE
+! Homepage: https://mypdns.org/my-external-stuff/ublockorigin-rules/
+!
+! Please report any unblocked content or problems on the Issue board.
+! My Privacy DNS (Rules) issues:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/issues
+!
+! My Privacy DNS (domains) issues:
+! - https://mypdns.org/my-privacy-dns/matrix/-/issues
+!
+! My Privacy DNS (adult domains) issues:
+! - https://mypdns.org/my-privacy-dns/porn-records/-/issues
+! Merge Request:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/-/merge_requests
+! Email:
+!   - None
+! CopyRight:
+!   - https://mypdns.org/spirillen
+!   - https://archive.mypdns.org/p/Spirillen/
+!   - https://github.com/spirillen
+!   - https://bitbucket.org/spirillen/
+!   - The individual lists maintainers
+!   - The individual contributor
+!     https://mypdns.org/my-external-stuff/ublockorigin-rules/-/graphs/master
+! 0.
+
+! 1.
+||18-21yo.com/trace/site.html$important
+||18porno.tv/player/html.php$subdocument
+||18teenslut.com/gallery.php$document,important
+18pornhd.com##.download_text
+18pornhd.com###toplist4
+18pornhd.com##div#friends
+18pornhd.com##td > .d
+18teens.pro###topbar
+18virginsex.com##.warning_modal-show.warning_modal-fade.warning_modal
+
+! 2.
+
+! 3.
+3danimeworld.com##.maintable > tbody > tr > td > table > tbody > tr > td > table > tbody > tr > td > table > tbody > tr > td > center
+||www.3danimeworld.com/images/*.gif$image
+
+! 4.
+4kpornvideos.tv##.b-secondary-column
+
+! 5.
+
+! 6.
+
+! 7.
+
+! 8.
+
+! 9.
+
+! A.
+||allfeetlinks.com/thumb.php$important
+||analxxxvideo.com/app.js$script,important
+ancensored.com##.blue
+ancensored.com##.left
+ancensored.com##.live-block
+ancensored.com##.register
+ancensored.com##.sextapeannounce
+animehentaihub.com##.button
+animehentaihub.com##.code-block
+animehentaihub.com##.happy-header
+avgle.com##.col-sm-5.col-md-4
+aznude.com##.increase-height
+aznude.com##.random-links
+aznude.com##.recommended
+aznude.com##.watch-all-btn
+aznude.com##footer
+
+! B.
+||bang.com^$popup,important
+||beautiful-bodies.com/*.mp4$media,important
+||bestcontentprogram.top^
+||bnstats.js$script
+||bravoporn.com/v/pop.php$document
+||lab.blackpics.net/iframe.php$subdocument
+bang.com##.hidden-\@xs.col-md-5.col-sm-12
+bang.com##.top-announcement-wrapper
+bang.com##.topnav-nav.nav
+bang.com###footer-wrapper
+bang.com###globalAd
+bang.com###searchdropMenu
+bangbros.com##.hidden-larger-tablet
+bangbros.com##.payment-options-wrapper
+bestpornfinder.net##.boxzilla-gif
+bestwebcamsites.com##.ntfc-bar
+bubbaporn.com##.productora
+
+! C.
+||cduniverse.com/images/promo/promo/popup-bg-ice.jpg$image
+||chatintr.com/widget?affiliateId=1$subdocument
+||cnt.viptube.com/counter/*$image,important
+||contentdef.com/*/promos/*/catfish.png$image
+||coupleairplane.com^
+cduniverse.com##.CenterWithJS.BigPopUp
+cduniverse.com###overlay-back-wholepage
+celebjihad.com##.post_text_area > table
+celebjihad.com##.theme_article.sidebar_increase
+celebjihad.com##[href^="https://go.celebjihad.live/smartpop/"]
+celebjihad.com##[href^="https://go.hpyrdr.com/"]
+celebjihad.com##center
+clicporn.com##[class^="_ciw"]
+cockmeter.com##.aside-itempage-col
+cockmeter.com###upp_r
+
+! D.
+||cn.dap.dmm.co.jp^$important
+||cn.dap.dmm.com^$important
+||i3.dmm.com^$important
+dmm.co.jp###id_top_disclaimer_parent
+dmm.com###id_top_disclaimer_parent
+drtuber.desi##.drt-pause-link
+drtuber.desi##.drt-preloader
+drtuber.desi##[class^="drt-sponsor-"]
+drtuber.desi##[id*="spot_video_"]
+dxlive.com##.age_display
+
+! E.
+
+! F.
+||fnrrm2fn1njl1.com^
+||freelatinapics.com/lsvd/check.php
+||freelatinapics.com/lsvd/cron.php$xhr
+fakestube.com##[href^="https://go.stripchat.com/"]
+fakestube.com###custom_html-2 > .custom-html-widget.textwidget > [href]
+fakestube.com###footer > .container > .row
+fakestube.com##p:nth-of-type(1)
+fakestube.com##p:nth-of-type(2)
+fakestube.com##p:nth-of-type(3)
+fakestube.com##p:nth-of-type(4)
+familyxxx.com##.lastPadding
+familyxxx.com##.unlock
+fapster.xxx##.fp-embed
+freeteenmovs.pro###topbar
+freewebcampornvideos.com##.happy-player-beside
+freshscat.com##.happy-sidebar
+fuckamouth.com##.jerk728
+fuckamouth.com###myModal
+hosinojun.web.fc2.com###fc2_bottom_bnr
+mo.faporn.pro###qwerty_wrap
+
+! G.
+||greentoons.club/outback.php$important
+gogirls18.com##[href^="/show.php"]
+
+! H.
+||age-verification.hulkapps.com/hulk_age_verifier.js$script,important
+||hentaitube.biz/traders/*$important
+||ssl-ccstatic.highwebmedia.com/CACHE/js/$script
+hclips.com,txxx.com###und_ban
+hclips.com##.partners-wrap
+hclips.com##.video-page__
+hdpornos.net##.send_event
+hdpornos.net##.spc_height_60
+hdpornos.net##.vjs-overlays
+hdpornos.net###SUFIhJAw3XO2
+hegre.com##.online-live-cam-performers-popup
+hegre.com##.promo-signup-link
+hegre.com##.white-on-black
+hegre.com##div[class*="promo"]
+hegre.com##div[class$="-popup"]
+hellmoms.com##.bnnrs-player
+hellporno.net##.bnnrs-player
+hellporno.net##.desktop-banner.block-banner
+hellporno.net###inp_iframe-ht-native-under-player-6x1
+hentai-paradise.fr##.reveal-overlay
+hentai-paradise.fr###theEnd
+hentaitube.info,pornobell.com##.video-sidebar
+here.xxx##.mainmore
+here.xxx##[class^="bot"]
+holed1.com##.entry-sidebar
+holed1.com##.pure-button
+hqasianporn.org##.coverup
+hushlove.com###notice
+
+! I.
+||imgking.co^
+||imgkings.com^$image
+||imgprime.com^$image
+indianpornmovies.info##.bottom_player_a
+indianpornmovies.info##.Hrz_Bns_Block
+indianpornmovies.info##.Player_Bns
+indianpornmovies.info##.Sub_Title
+indiansexmovies.com##.col-md-4
+indiansexmovies.com##.colored-block-white-gray
+
+! J.
+
+! K.
+
+! L.
+||lotzadollars.com^$script,important
+livehdcams.com##.HeroSpace-root-0-2-44
+livehdcams.com##.PayPalAgeGate-root-d0-0-2-76
+love4porn.com##[src*="love4porn.com/player/html.php?aid=pause_html"]
+livejasmin.com###react-container
+
+! M.
+||a.montlusa.top/loader$subdocument
+v2.metart.com##.free-access-modal.modal-dialog
+v2.metart.com##.modal.fade
+
+! N.
+||nakedgirls.org/wp-content/cache/min/1/9fcd011c46522a73b34f64eb7ca6b479.js$script
+||nichehit.net^$important
+||nudeplaymates.net/tf*.js$script,important
+nakedgirls.pw##.adHomePage
+nakedgirls.pw##.plugrush.centered
+nakedwomenweb.com##canvas:nth-of-type(2)
+nekopoi.care##.custom-html-widget.textwidget
+nudeplaymates.net##center
+
+! O.
+ocmodeling.com##.fleshlight-banner
+overthumbs.com##.joinnow
+
+! P.
+||palmtube.net^$script,important
+||platform.twitter.com/widgets.js$script,important
+||playboy-galleries.com/tf*.js$script,important
+||playboy-galleries.com/tf*/*.mp4$media,important
+||porncore.net/*.php
+||pornfreemovies.pro/gallery.php$important
+||porngays.pro/func.js$script
+||pornj.com/gabril/
+||pornlist.tv/assets/b_in_p.css
+||pornoscraper.com/safu/safu.php$script,important
+||pornshui.com/tf/cron.php$subdocument
+||pornstarapex.com/*.cgi$document,important
+||pornstarapex.com/*.cgi$important
+||pornstarapex.com/atatewf.cgi$important
+||pornstarapex.com/default.html?*$important
+||pornstarapex.com/default.html$important
+||pornstarapex.com/irh.cgi$important
+||pornstarapex.com/lgjhvg.cgi$important
+||pornstarapex.com/ljchioi.cgi$document,important
+||pornstarapex.com/ojzy.cgi$important
+||pornstarapex.com/tarcim.cgi$document,important
+||pornstarapex.com/uoelaj.cgi$important
+||pornstarapex.com^
+||pornwild.to/static/js/main.min.js?v=8.4$script
+||primecurves.com/sponsors/
+||purewebpower.net^$important
+|pornlist.tv/sw.js
+passion-hd.com##.payment-popup
+passion-hd.com##footer
+playboy.com##.css-1idyg5c
+porncore.net##div[id^="_"][style="margin:10px;height:200px;width:800px;"]
+porndaa.com##.col-md-8 > div:nth-of-type(1)
+porndaa.com##div.well:nth-of-type(5)
+porndig.com##.co_sponsor
+porndig.com##.dynamic_menu_item_snap
+porndig.com##.hide_mobile_top_webcams
+pornhub.com##.active.fanclub-info-pop
+pornhub.com##.clearfix.xc6lhd4nney0780v
+pornhub.com##.sectionWrapper > .sectionWrapper
+pornhub.com###videoSearchResult > .alpha
+pornhub.net.co##.video-block-happy
+pornhub.net.co###widget-videos-block-4 > .video-loop > .no-gutters.row > .col-xl-6.col-lg-6.col-md-6.col-12.order-xl-1.order-lg-1.order-md-1.order-sm-1.order-1
+pornhub.net.co##center
+pornoklad.me###spn-popover-container
+pornolab.net##.bypass-alert
+pornolab.net##.tCenter
+pornvideoq.com##.video-aside
+proporn.com,yeptube.com,vivatube.com##.abtext
+proporn.com,yeptube.com,vivatube.com##.thr-rcol
+proporn.com,yeptube.com,vivatube.com##div.mt10.container:nth-of-type(6)
+proporn.com,yeptube.com,vivatube.com##div.refill.contain:nth-of-type(5)
+publicagent.com##.kvhCIH.sc-1xljrhb-0
+publicagent.com##.lhnTNF.sc-1i2s1et-7
+publicagent.com##.sc-1xljrhb-0
+publicagent.com##div.iIdwbz.sc-1mhpkp8-3:nth-of-type(6)
+
+! Q.
+
+! R.
+rule34.xxx##.horizontalFlexWithMargins
+
+! S.
+||schoolgirlpussypics.com/*/site.html$important
+||schoolgirlsexpics.com/tracker/*$important
+||sefsdvc.com^
+||streamtape.com/ad.js$script,important
+||streamtape.com/adult2.js$script,important
+||stripst.com^$important
+||szexkepek.net/webfile.php$image
+pornovideo.szex.hu##.in.fade.modal-backdrop
+pornovideo.szex.hu###\31 8kapu
+sasisa.ru##.c2
+sexual-teens.com##div.container-fluid:nth-of-type(2) > .text-center.mobile-thumbs > a[href^="go.php"]:nth-of-type(2)
+sexybabepics.net##.panel-share-networks
+shoplyfter.com##.disclaimer-modal-wrapper
+shoplyfter.com##.join-iframe
+spermguzzlingmilfs.com###disclaimer
+sunporno.com##.mov-spon
+sweetcode.io##.author-meta
+sweetcode.io##.entry-bottom
+
+! T.
+||go.tubepornstars.tv/ftt2/*$script
+||teenasspussy.com$popup
+||thegay.com/gagra/
+||trawahdh2hd8nbvy09.com^$important
+||truepurenudism.com/counter.js$script
+||truepurenudism.com/scripts/$script
+||tuberel.com/*.php
+||tubev.sex/static/js/abb.js
+teenfidelity.com##.is-small.is-success.hero
+teenfidelity.com##.p-0.section:nth-of-type(8)
+teenfidelity.com##.page-break
+teenfidelity.com##.promoBar
+teenfidelity.com###navbar-tour > .is-size-4-widescreen.is-size-6.is-uppercase.navbar-end > .navbar-item:nth-of-type(2)
+the-sex.me##.thumb-ad
+the-sex.me###disclaimer
+thegay.com,txxx.com##.fiioed
+thegay.com##.video-page__content > .right
+tini-porno.com##.hidden-sm.sidebar.col-sm-4
+tini-porno.com##.in.fade.modal-backdrop
+tini-porno.com###\31 8kapu
+tini-porno.com###text-2 > div.textwidget:nth-of-type(1)
+topminecraftservers.org##.embed-responsive
+transsexualbarebacking.com##div.graybox
+txxx.com##.chan_banner
+
+! U.
+||uncn.jp^
+usasexguide.nl##div[class*="_banner"]
+usasexguide.nl##div[id*="Footer"]
+
+! V.
+||vipergirls.to/clientscript/poptrigger_
+||vipergirls.to/files/kf.gif
+||vipergirls.to/files/sc300x100.gif
+viptube.com##.drt-sponsor-block
+viptube.com##.footer_adv
+viptube.com##.partner_text_link
+viptube.com###spot_video_partner_banner
+viptube.com##div.stem_related.stem:nth-of-type(4)
+vivatube.com##div.mt15.container:nth-of-type(8)
+vrbtrans.com##.vrb_fb__wrapper
+
+! W.
+watchmygf.me##.second.col-video
+
+! X.
+xgaytube.tv##.active.js-random-link-item.js-menu-random.b-main-nav__link--mi.b-main-nav__link
+xhamster.com##.dyltv-container
+xhamster.com##.premium-overlay
+xhamster.com##div.related-container:nth-of-type(3)
+xhamster.desi##.wiu-aspa.wiu-aspb
+xhamster.desi##.wiu-aspot-container.wiu-aplayer
+xhamster13.desi,xhamster15.desi##.wio-cspb
+xhamster13.desi,xhamster15.desi##.wio-xcams-widget
+xhamster13.desi,xhamster15.desi##.wio-xspa
+xhamster13.desi,xhamster15.desi##.wiz-banner
+xhamster13.desi,xhamster15.desi##.wiz-spa.wiz-spb
+xhamster13.desi,xhamster15.desi##.xplayer-banner
+xhamster13.desi,xhamster15.desi##.xplayer-hover-menu
+xnxxindianporn.com##.mt-2.text-center.col-lg-3.col-12
+
+! Y.
+||youngsexpics.com/esuvmisa$xhr
+||youngsexpics.com/trmdvjik/
+||youngsexpics.com/trmdvjik/cron.php$xhr
+youngsexpics.com##.partridge
+
+! Z.
+zteenporn.com##.ad_txt
+zteenporn.com##.mask
+zteenporn.com##.footer-promo
+zteenporn.com##.pause-block

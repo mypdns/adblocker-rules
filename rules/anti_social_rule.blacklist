@@ -1,0 +1,115 @@
+! List url:
+! https://mypdns.org/my-external-stuff/ublockorigin-rules/-/tree/master/rules/Adult_Annoyance.txt
+!
+! License:
+! https://mypdns.org/spirillen/ublockorigin-rules/-/blob/master/LICENSEE
+! Homepage: https://mypdns.org/my-external-stuff/ublockorigin-rules/
+!
+! Please report any unblocked content or problems on the Issue board.
+! My Privacy DNS (Rules) issues:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/issues
+!
+! My Privacy DNS (domains) issues:
+! - https://mypdns.org/my-privacy-dns/matrix/-/issues
+!
+! My Privacy DNS (adult domains) issues:
+! - https://mypdns.org/my-privacy-dns/porn-records/-/issues
+! Merge Request:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/-/merge_requests
+! Email:
+!   - None
+! CopyRight:
+!   - https://mypdns.org/spirillen
+!   - https://archive.mypdns.org/p/Spirillen/
+!   - https://github.com/spirillen
+!   - https://bitbucket.org/spirillen/
+!   - The individual lists maintainers
+!   - The individual contributor
+!     https://mypdns.org/my-external-stuff/ublockorigin-rules/-/graphs/master
+! 0.
+
+! 1.
+
+! 2.
+
+! 3.
+
+! 4.
+
+! 5.
+
+! 6.
+
+! 7.
+
+! 8.
+
+! 9.
+
+! A.
+
+! B.
+
+! C.
+
+! D.
+##a[href^="https://discord.gg/"]
+
+! E.
+
+! F.
+
+! G.
+
+! H.
+
+! I.
+
+! J.
+
+! K.
+
+! L.
+
+! M.
+
+! N.
+
+! O.
+
+! P.
+
+! Q.
+
+! R.
+
+! S.
+##.social-controls
+##.social-count
+##.social-count-boxes
+##.social-count-wrap
+##.social-counter
+##.social-counter-man
+##.social-counter-metro
+##.social-counter-widget
+##.social-counter-wrap
+##.social-counter-wrapper
+##.social-counters
+##.social-counts-single
+##.sticky-ad-target
+##.supertool_ad_static
+tweak.dk##.social
+
+! T.
+
+! U.
+
+! V.
+
+! W.
+
+! X.
+
+! Y.
+
+! Z.

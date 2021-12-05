@@ -1,0 +1,110 @@
+! List url:
+! https://mypdns.org/my-external-stuff/ublockorigin-rules/-/tree/master/rules/whitelist_rule.whitelist
+!
+! License:
+! https://mypdns.org/spirillen/ublockorigin-rules/-/blob/master/LICENSEE
+! Homepage: https://mypdns.org/my-external-stuff/ublockorigin-rules/
+!
+! Please report any unblocked content or problems on the Issue board.
+! My Privacy DNS (Rules) issues:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/issues
+!
+! My Privacy DNS (domains) issues:
+! - https://mypdns.org/my-privacy-dns/matrix/-/issues
+!
+! My Privacy DNS (adult domains) issues:
+! - https://mypdns.org/my-privacy-dns/porn-records/-/issues
+! Merge Request:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/-/merge_requests
+! Email:
+!   - None
+! CopyRight:
+!   - https://mypdns.org/spirillen
+!   - https://archive.mypdns.org/p/Spirillen/
+!   - https://github.com/spirillen
+!   - https://bitbucket.org/spirillen/
+!   - The individual lists maintainers
+!   - The individual contributor
+!     https://mypdns.org/my-external-stuff/ublockorigin-rules/-/graphs/master
+! 0.
+
+! 1.
+
+! 2.
+
+! 3.
+
+! 4.
+
+! 5.
+
+! 6.
+
+! 7.
+
+! 8.
+
+! 9.
+
+! A.
+
+! B.
+
+! C.
+@@||ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js$script,domain=www.namesilo.com
+
+! D.
+
+! E.
+
+! F.
+~hub.filterlists.com#@#.btn-social
+
+! G.
+
+! H.
+@@||www.hetzner.com^$font,domain=www.hetzner.com
+@@||livesupport.hetzner.de/fonts/*$font,domain=www.hetzner.com
+
+! I.
+
+! J.
+
+! K.
+
+! L.
+
+! M.
+@@||mypdns.org^
+@@||mypdns.com^
+@@||matrix.rocks^
+@@||mypdns.cloud^
+
+! N.
+@@||www.namesilo.com/cdn-cgi/bm/cv/*$script,domain=www.namesilo.com
+@@||www.namesilo.com/cdn-cgi/bm/cv/*$xhr,domain=www.namesilo.com
+
+! O.
+joyourself.com,lsawards.com,maturescam.com,mytrannycams.com,livesexasian.com,cameraboys.com#@#.overlay
+
+! P.
+
+! Q.
+
+! R.
+
+! S.
+
+! T.
+
+! U.
+
+! V.
+
+! W.
+
+! X.
+
+! Y.
+
+! Z.

@@ -1,0 +1,150 @@
+! List url:
+! https://mypdns.org/my-external-stuff/ublockorigin-rules/-/tree/master/rules/Adult_Annoyance.txt
+!
+! License:
+! https://mypdns.org/spirillen/ublockorigin-rules/-/blob/master/LICENSEE
+! Homepage: https://mypdns.org/my-external-stuff/ublockorigin-rules/
+!
+! Please report any unblocked content or problems on the Issue board.
+! My Privacy DNS (Rules) issues:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/issues
+!
+! My Privacy DNS (domains) issues:
+! - https://mypdns.org/my-privacy-dns/matrix/-/issues
+!
+! My Privacy DNS (adult domains) issues:
+! - https://mypdns.org/my-privacy-dns/porn-records/-/issues
+! Merge Request:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/-/merge_requests
+! Email:
+!   - None
+! CopyRight:
+!   - https://mypdns.org/spirillen
+!   - https://archive.mypdns.org/p/Spirillen/
+!   - https://github.com/spirillen
+!   - https://bitbucket.org/spirillen/
+!   - The individual lists maintainers
+!   - The individual contributor
+!     https://mypdns.org/my-external-stuff/ublockorigin-rules/-/graphs/master
+! 0.
+
+! 1.
+
+! 2.
+
+! 3.
+
+! 4.
+
+! 5.
+
+! 6.
+
+! 7.
+
+! 8.
+
+! 9.
+
+! A.
+/analytics/event
+/api/tracking/*
+##[href^="https://www.amazon.com"]
+
+! B.
+##a[href^="https://bit.ly/"]
+
+! C.
+/count/daycount.cgi$important
+/counter/?domain=
+###consent
+###consent_disclaimer
+##cookie-alert
+##cookiechoiceinfo
+##cookies-alert
+
+! D.
+/d/count.php^$domain=teenasspussy.com|realteenbeauty.com
+/devtools-detector.
+||direct-webcams.com/api/events$xhr
+||direct-webcams.com/api/metrics$xhr
+
+! E.
+##.eu-cookie-compliance-content
+###ez-cookie-dialog-wrapper
+###EU_Cookie_Message
+
+! F.
+/feedburner.png$domain=opensourceforu.com,image
+/fingerprint.min.js$script,important
+/fingerprint2.min.js$script,important
+/fingerprint.js$script,important
+/fingerprint2.js$script,important
+##[href^="https://www.facebook.com"]
+
+! G.
+-google-tag-manager.$script,important
+.gif?*&stat=
+/ga_proxy.js$script
+/ga_xdcom.html
+/google-analytics-for-wordpress/$script
+/google-universal-analytics-$important
+/gtm.js$script
+##a[href^="https://google.com"]
+
+! H.
+
+! I.
+
+! J.
+||javhd.com^$ping
+||static.javhd.com/sb/$image
+
+! K.
+
+! L.
+
+! M.
+/matomo.js$script,important
+/matomo/*$script,important
+/metrica/watch.js$script
+/metrika/watch.js
+/metrics/statsd/*
+
+! N.
+/noui/eventlogger.js
+/noui/StatProvider.js
+
+! O.
+
+! P.
+/piwik.php$script,important
+
+! Q.
+
+! R.
+/rank/html/rank.gif$image,important
+
+! S.
+/socket-worker-*.js$script,domain=github.com
+/SentryInstance-$important
+/snowplow/*$script
+
+! T.
+##[href^="https://twitter.com"]
+
+! U.
+/udf-event-track
+
+! V.
+
+! W.
+onlyfans.com,alive.github.com,jaws.dditscdn.com,metartnetwork.com,analyticacdn.com^$websocket,important
+
+! X.
+||highwebmedia.com,api-gateway.dditsadn.com,icfcdn.com,traffictrade.pro,trackingcheckinapi2-prod.spvyig3fxm.us-east-2.elasticbeanstalk.com^$xhr,important
+
+! Y.
+/yandex-metrica-watch/watch.js$script
+
+! Z.

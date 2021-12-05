@@ -1,0 +1,224 @@
+! List url:
+! https://mypdns.org/my-external-stuff/ublockorigin-rules/-/tree/master/rules/Adult_Annoyance.txt
+!
+! License:
+! https://mypdns.org/spirillen/ublockorigin-rules/-/blob/master/LICENSEE
+! Homepage: https://mypdns.org/my-external-stuff/ublockorigin-rules/
+!
+! Please report any unblocked content or problems on the Issue board.
+! My Privacy DNS (Rules) issues:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/issues
+!
+! My Privacy DNS (domains) issues:
+! - https://mypdns.org/my-privacy-dns/matrix/-/issues
+!
+! My Privacy DNS (adult domains) issues:
+! - https://mypdns.org/my-privacy-dns/porn-records/-/issues
+! Merge Request:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/-/merge_requests
+! Email:
+!   - None
+! CopyRight:
+!   - https://mypdns.org/spirillen
+!   - https://archive.mypdns.org/p/Spirillen/
+!   - https://github.com/spirillen
+!   - https://bitbucket.org/spirillen/
+!   - The individual lists maintainers
+!   - The individual contributor
+!     https://mypdns.org/my-external-stuff/ublockorigin-rules/-/graphs/master
+! 0.
+
+! 1.
+
+! 2.
+
+! 3.
+
+! 4.
+
+! 5.
+
+! 6.
+
+! 7.
+
+! 8.
+
+! 9.
+
+! A.
+
+
+! B.
+||biblioteksvagten.dk^$3p
+bitbucket.org##.success.fadeout.shadowed.closeable.aui-message
+bitbucket.org##.upgrade-banner-container
+bitbucket.org###id_is_private_group
+bobcares.com##.widget_text
+
+
+! C.
+canalblog.com###branding_bar
+||computersalg.dk,computersalg.no,computersalg.se,computersalg.fi/api/getuniversalproductband/*
+computersalg.dk,computersalg.no,computersalg.se,computersalg.fi##.bannercontentclick
+computersalg.dk,computersalg.no,computersalg.se,computersalg.fi##.FrontBannerContainer
+computersalg.dk,computersalg.no,computersalg.se,computersalg.fi##.swiper-bigbanner-itemcontainer
+computersalg.dk,computersalg.no,computersalg.se,computersalg.fi####.product-right-wrap
+cyberciti.biz##.pop
+cyberciti.biz##.tips_top_slot_1
+cyberciti.biz###blocker7a1003a
+cyberciti.biz###card-149799
+cyberciti.biz###text-384338391
+
+! D.
+dba.dk##div[id="dbashopping-widget"]
+devdungeon.com##.col-sm-3
+devdungeon.com##.footer
+dr.dk##.dre-read-more-link
+
+! E.
+
+! F.
+fanart.tv##.container:nth-of-type(4)
+
+! G.
+docs.gitlab.com##li.p-2.nav-item:nth-of-type(2)
+forum.gitlab.com###banner
+gitee.com##.transition
+github.com#@#.flash-error.flash-full.flash
+github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-3.col-lg-3.col-md-3.col-12.team-left-column
+github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-lg-5.pr-md-4.pr-3.col-lg-3.col-md-3.col-12.team-left-column
+github.com##.box-shadow-large.Box.mt-6.p-3.text-left.Popover-message--large.Popover-message--top-left.Popover-message
+github.com##.box-shadow-large.Box.p-4.left-0.Popover-message--top-left.Popover-message--large.Popover-message
+github.com##.col-3.box-shadow-medium.right-0.top-0.Popover.mr-3.mt-6.d-lg-block.d-none
+github.com##.flex-items-center.flex-justify-between.d-flex.my-3.p-3.Box
+github.com##.hx_cookie-banner--show
+github.com##.hx_cookie-banner--show.js-cookie-consent-banner
+github.com##.js-banner.border-gray-light.border.rounded-1.text-center.p-4.content
+github.com##.js-cookie-consent-banner
+github.com##.js-cookie-consent-preferences-link-container
+github.com##.js-header-promo-hide
+github.com##.js-notice
+github.com##.js-notifications-list-protip.text-gray.flex-items-center.d-flex
+github.com##.js-unwatch-suggestions.js-notice.flash
+github.com##.mb-3.js-details-container.Details.border-black-fade.Box-row--yellow.Box
+github.com##.mt-3.flash-warn.flash
+github.com##.p-2.border-bottom.js-notice
+github.com##.protip
+github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
+github.com##.rounded-1.signup-prompt-bg
+github.com##.rounded-2.border.p-4.mb-6.mx-auto.signup-prompt
+github.com##.ws-normal.text-left.p-3.box-shadow-large.Box.Popover-message
+github.com###sponsor-button-repo
+github.com##^.my-3.p-3.Box
+github.com##a.dropdown-item:nth-of-type(11)
+github.com##li > .btn-sm.btn
+gitlab.com##.content-block.bordered-box
+gitlab.com##.content-block.landing.bordered-box
+gitlab.com##.d-flex.js-broadcast-notification-100719.broadcast-notification-message
+gitlab.com##.flash-alert
+gitlab.com##.flash-notice
+gitlab.com##.gl-banner.js-autodevops-banner
+gitlab.com##.gl-card
+gitlab.com##.js-recovery-settings-callout.gl-alert-warning.gl-alert
+gitlab.com##.mb-2.flash-notice
+gitlab.com##.popover-body
+gitlab.com##.prepend-top-10.append-bottom-20.banner-non-empty-state.banner-callout.js-autodevops-banner
+gitlab.com##.rounded.flash-alert.flash-content
+gitlab.com##.rounded.flash-notice.flash-content
+gitlab.com##.trial-link
+gitlab.com###promote_repository_features
+gumtree.com##.fixed-bottom.gdpr-banner.notification
+gumtree.com##.right
+webrtc.github.io/adapter/adapter-latest.js
+
+! GitLab (software)
+! Thank you GitLab.com for spamming my domain despite I told you not to in the config
+gitlab.com,mypdns.org##.gl-alert.gl-mb-6
+gitlab.com,mypdns.org##.hide.js-explore-groups-landing.content-block.landing.explore-groups
+gitlab.com,mypdns.org##.show.dropdown-menu-right.dropdown-menu > ul > li > .text-nowrap
+gitlab.com,mypdns.org##^.gl-banner
+gitlab.com,mypdns.org##^.js-autodevops-banner
+gitlab.com,mypdns.org##^.js-broadcast-notification-2
+gitlab.com,mypdns.org##^.js-epics-sidebar-callout
+gitlab.com,mypdns.org##^.js-mr-approval-callout
+gitlab.com,mypdns.org##^[class*="promotion-"]
+! GitLab (software)
+
+! H.
+||harald-nyborg.dk/assets/webshop-images/campaigns/weekly/banners/*$image
+harald-nyborg.dk##.frontpage-promotion
+hjbib.dk###sliding-popup
+hjbib.dk##.external.ask-vopros-tab
+
+! I.
+imdb.com##.ab_widget
+imdb.com##.contribute.article
+imdb.com##.ipc-page-grid__item--span-1
+imdb.com##.recently-viewed
+imdb.com##.videoPreview--autoPlaybackOnce.videoPreview
+imdb.com##.wtw-option-standalone
+imdb.com##[class^="buybox__"]
+imdb.com##[class^="imdb-footer__"]
+imdb.com##[class^="promoted-"]
+imdb.com###bio_pro_link
+imdb.com###sidebar
+imdb.com###title_completed_pro_link
+imdb.com###title-social-sharing-widget
+imdb.com###titleDidYouKnow
+imdb.com##^.ipc-watchlist-ribbon__icon
+
+! J.
+jysk.dk##.helpButton
+
+! K.
+kodi.expert##.ae-bg-gallery-type-default.elementor-section-height-default.elementor-section-boxed.elementor-element-3937190e.elementor-element.elementor-inner-section.elementor-section.has_ae_slider
+kodi.expert##.elementor-cta
+koditips.com##.aawp-product--horizontal.aawp-product
+koditips.com##.grid-parent.tablet-grid-25.grid-25.is-right-sidebar.sidebar.widget-area
+koditips.com##.size-large.aligncenter
+koditips.com##a[href="/kodi-vpn-guide-features-apps-setup/"]
+koditips.com##div:nth-of-type(4)
+koditips.com##div.aawp:nth-of-type(1)
+koditips.com##p:nth-of-type(2)
+
+! L.
+linuxhint.com##.cpro-open
+
+! M.
+||media-amazon.com/images/*/imdb/images-*/android-mobile-*.png$important
+||media-amazon.com/images/*/imdb/images-*/favicon*.png$important
+
+! N.
+
+! O.
+||forum.opnsense.org/adds/$image
+forum.opnsense.org##.news
+
+! P.
+
+! Q.
+
+! R.
+
+! S.
+scandalplanet.com###get-full-access
+
+! T.
+twitch.tv##.channel-panels-container
+twitch.tv##.extension-view__iframe
+twitch.tv##.front-page-carousel
+||tv2net.zendesk.com^$script
+themoviedb.org##.scroller.recommendations.panel
+
+! U.
+
+! V.
+
+! W.
+
+! X.
+
+! Y.
+
+! Z.

@@ -1,0 +1,193 @@
+! List url:
+! https://mypdns.org/my-external-stuff/ublockorigin-rules/-/tree/master/rules/Adult_Annoyance.txt
+!
+! License:
+! https://mypdns.org/spirillen/ublockorigin-rules/-/blob/master/LICENSEE
+! Homepage: https://mypdns.org/my-external-stuff/ublockorigin-rules/
+!
+! Please report any unblocked content or problems on the Issue board.
+! My Privacy DNS (Rules) issues:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/issues
+!
+! My Privacy DNS (domains) issues:
+! - https://mypdns.org/my-privacy-dns/matrix/-/issues
+!
+! My Privacy DNS (adult domains) issues:
+! - https://mypdns.org/my-privacy-dns/porn-records/-/issues
+! Merge Request:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/-/merge_requests
+! Email:
+!   - None
+! CopyRight:
+!   - https://mypdns.org/spirillen
+!   - https://archive.mypdns.org/p/Spirillen/
+!   - https://github.com/spirillen
+!   - https://bitbucket.org/spirillen/
+!   - The individual lists maintainers
+!   - The individual contributor
+!     https://mypdns.org/my-external-stuff/ublockorigin-rules/-/graphs/master
+! 0.
+
+! 1.
+||1ts18.top^$important
+
+! 2.
+||24log.fr^
+||24log.it^
+||24log.com^
+||24log.es^
+||24log.ru^
+||24log.de^
+
+! 3.
+
+! 4.
+
+! 5.
+
+! 6.
+
+! 7.
+
+! 8.
+
+! 9.
+
+! A.
+/arc-sw.js$important
+||adobedtm.com^$important
+||arc.io/widget.min.js$important
+||pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion^
+amazonaws.com/segmentTracker.js
+
+! B.
+||bing.com/*/metrics.js$important
+||buzama.com^$important
+
+! C.
+||cxense.com^$important
+||clarity.microsoft.com^
+||clarity.ms^
+
+! D.
+||disqus.com/embed.js$script
+||disqus.com^$subdocument
+||drtuber.*/ajax/log/*$important
+danskespil.dk###ensModalWrapper
+||dr.dk/drWebStat/$script
+||dyncdn.me/static/*/js/scrollspy.min.js$script,important
+||dyncdn.me/static/*/js/showads.js$script,important
+||dyncdn.me/static/*/js/expla*.js$script,important
+
+! E.
+element14.com##.e14-cookie-directive
+
+! F.
+||facebook.com^
+||facebook.net^
+||fc2.com/share/js/gdpr/
+||finito-web.net/banner/*$subdocument,important
+||finito.fc2.com/finito.gif$image,important
+
+! G.
+||collector.githubapp.com^
+||fonts.googleapis.com^$stylesheet
+||fonts.gstatic.com^$important
+||github.com/_alive$xhr,important
+||github.com/_private/browser/stats
+||github.com/_ws$xhr,important
+||github.com/openreplay/*$important
+||github.com/socket-worker-*.js$script,important
+||github.githubassets.com/assets/socket-worker-*.js.*,important
+||github.githubassets.com/favicon.ico$image
+||gitlab.com/-/cable$websocket,important
+||google-analytics.com^$important
+||google.*^
+||google.com/recaptcha/$important,script
+||googleapis.com^$important
+||googleoptimize.com
+||googletagservices.*^
+||googleusercontent.com^$important
+||gstatic.com^
+||gstaticadssl.l.google.com^$important
+||live.github.com/_luau/*$websocket,important
+||live.github.com/_ws/*$websocket,important
+||webrtc.github.io^
+
+! H.
+||hcaptcha.com^$important
+
+! I.
+||cookieapi*.incomit.dk^
+||inran.biz^$important
+
+! J.
+||jsdelivr.net/*/js.cookie.min.js$script
+
+! K.
+||analytics.kurocore.com^$important
+
+! L.
+
+! M.
+||marketo.com^$important
+||mb3admin.com^$important
+||msecnd.net/script/raptor-2.1.0.js$important
+
+! N.
+||js-agent.newrelic.com^
+||nabble.com/trk0.js$script
+||nabble.com/trk5.js$script
+
+! O.
+||onetrust.com^$important
+||omblockedips.com^$important
+||api.omnicar.io^
+||omnicar.io^
+||serviceagreement.omnicar.io^
+
+! P.
+!||cdn.polyfill.io/v2/*$script
+||perfdrive.com^$important
+||pingtopingsrv*.life^
+||piwik.pro^$important
+||piwikpro.de^$important
+||polyfill.io^$third-party
+||pubmatic.com^$important
+||pusher.com^$third-party
+
+! Q.
+
+! R.
+||recaptcha.net^$important
+
+! S.
+||shinobi.jp^$important
+||statsanalitic.net^$important
+||statsy.net^$important
+speedostream.com##+js(aost, Object.getOwnPropertyDescriptor, /^/)
+stackoverflow.com##.facebook-login
+stackoverflow.com##.google-login
+
+! T.
+||tv2a.dk/analytics/gallup/spring.js$script
+||tv2a.dk/oil/$script
+
+! U.
+||uplynk.com^$important
+
+! V.
+
+! W.
+||cdn.whatismybrowser.com/prod-website/static/main/images/fun/
+||webvisor.com^
+||webvisor.org^
+
+! X.
+
+! Y.
+||yandexcdn.com/js/*$script,important
+||maps.yandex.net^$important
+
+! Z.
+||zap.buzz^$subdocument

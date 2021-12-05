@@ -1,0 +1,190 @@
+! List url:
+! https://mypdns.org/my-external-stuff/ublockorigin-rules/-/tree/master/rules/Adult_Annoyance.txt
+!
+! License:
+! https://mypdns.org/spirillen/ublockorigin-rules/-/blob/master/LICENSEE
+! Homepage: https://mypdns.org/my-external-stuff/ublockorigin-rules/
+!
+! Please report any unblocked content or problems on the Issue board.
+! My Privacy DNS (Rules) issues:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/issues
+!
+! My Privacy DNS (domains) issues:
+! - https://mypdns.org/my-privacy-dns/matrix/-/issues
+!
+! My Privacy DNS (adult domains) issues:
+! - https://mypdns.org/my-privacy-dns/porn-records/-/issues
+! Merge Request:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/-/merge_requests
+! Email:
+!   - None
+! CopyRight:
+!   - https://mypdns.org/spirillen
+!   - https://archive.mypdns.org/p/Spirillen/
+!   - https://github.com/spirillen
+!   - https://bitbucket.org/spirillen/
+!   - The individual lists maintainers
+!   - The individual contributor
+!     https://mypdns.org/my-external-stuff/ublockorigin-rules/-/graphs/master
+! 0.
+
+! 1.
+@@||192.168.*/privacy_policy.js$~third-party,badfilter
+
+! 2.
+
+! 3.
+
+! 4.
+
+! 5.
+
+! 6.
+
+! 7.
+
+! 8.
+
+! 9.
+@@||9cdn.net^*/js/tracking/$script,domain=nine.com.au,badfilter
+
+! A.
+@@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|kroger.com,badfilter
+@@||adobedtm.com/*-source.min.js$script,domain=atresplayer.com|backcountry.com|bt.com|dollargeneral.com|kroger.com|personal.natwest.com|verizon.com,badfilter
+@@||adobedtm.com/extensions/$script,domain=apple.com|foodnetwork.com|verizon.com,badfilter
+@@||adobedtm.com/launch-$script,xmlhttprequest,badfilter
+@@||adobedtm.com^*/launch-$script,xmlhttprequest,badfilter
+@@||adobedtm.com^*/mbox-contents-$script,domain=absa.co.za|americanexpress.com|backcountry.com|costco.com|fcbarcelona.com|firststatesuper.com.au|hgtv.com|lenovo.com|lowes.com|nfl.com|oprah.com|pnc.com|shoppersdrugmart.ca|usanetwork.com|vanityfair.com|wired.com|wowway.net,badfilter
+@@||adobedtm.com^*/mbox-contents-$script,domain=ceair.com|fcbarcelona.cn,badfilter
+@@||adobedtm.com^*/s-code-$script,badfilter
+@@||adobedtm.com^*/satellite-$script,badfilter
+@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|americanexpress.com|argos.co.uk|auspost.com.au|backcountry.com|bmw.com.au|collegeboard.org|costco.com|crackle.com|crimewatchdaily.com|directline.com|eonline.com|fcbarcelona.com|firststatesuper.com.au|godigit.com|hgtv.com|jeep.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|oprah.com|oracle.com|pnc.com|realtor.com|redbull.tv|repco.co.nz|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|stuff.co.nz|subaru.com|telegraph.co.uk|timewarnercable.com|usanetwork.com|vanityfair.com|wired.com|wowway.net,badfilter
+@@||adobedtm.com^*/satelliteLib-$script,domain=ceair.com|fcbarcelona.cn,badfilter
+@@||adsafeprotected.com/iasPET.$script,domain=reuters.com,badfilter
+@@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=ladbible.com,badfilter
+@@||adsafeprotected.com/services/$domain=reuters.com,badfilter
+@@||analytics.amplitude.com^$~third-party,badfilter
+@@||adf.ly/static/image/ad_top_bg2.png?$badfilter
+@@||adf.ly/ad/banner/*=$xmlhttprequest,badfilter
+@@||adf.ly^$generichide,badfilter
+@@||wss.analyticacdn.com^$websocket,badfilter
+
+! B.
+@@||files.bbci.co.uk^*/cookie-banner/$script,domain=bbc.co.uk,important
+
+! C.
+@@||api.cxense.com/document/search?$xmlhttprequest,domain=friday.kodansha.co.jp,badfilter
+@@||api.cxense.com/public/widget/data?$domain=bizjournals.com|marketwatch.com|wsj.com,badfilter
+@@||api.cxense.com/public/widget/data?$script,domain=wpb.shueisha.co.jp,badfilter
+@@||api.cxense.com/public/widget/data?$xmlhttprequest,domain=cyclestyle.net,badfilter
+@@||api.cxense.com/public/widget/data|$xmlhttprequest,domain=friday.kodansha.co.jp,badfilter
+@@||api.cxense.com/public/widget/data?json=$script,domain=ksml.fi|savonsanomat.fi,badfilter
+@@||cdn.cxense.com^$script,domain=bizjournals.com|bloombergquint.com|marketwatch.com,badfilter
+@@||scdn.cxense.com/cx.cce.js$domain=tn.com.ar|wpb.shueisha.co.jp,badfilter
+@@||scdn.cxense.com/cx.js$script,domain=cyclestyle.net,badfilter
+@@||cdn.cxense.com/cx.js$domain=tarzanweb.jp|wpb.shueisha.co.jp,badfilter
+@@||scdn.cxense.com/cx.js$script,domain=ksml.fi|savonsanomat.fi,badfilter
+@@||cookielaw.org/consent/$other,xmlhttprequest,badfilter
+@@||cookielaw.org/consent/cmp.stub.js$domain=reuters.com,badfilter
+@@||cookielaw.org/scripttemplates/$script,xmlhttprequest,domain=cbslocal.com|cbsnews.com|cnet.com|crunchyroll.com|cypress.io|epicgames.com|eurogamer.net|geizhals.de|gmx.com|gq-magazine.co.uk|kawasaki.com|popculture.com|reuters.com|rte.ie|trustpilot.com|tvn24.pl|wargaming.net|worldsurfleague.com|zdnet.com,badfilter
+@@||cookielawinfo.com^$~third-party,badfilter
+@@||cbsi.com/dist/optanon.js$script,domain=cbsnews.com|zdnet.com,badfilter
+
+! D.
+@@||datadoghq-browser-agent.com/datadog-rum-us.js$script,domain=usa.experian.com,badfilter
+@@||doubleclick.net/gampad/*adPositionName%3Dsuperbanner_$xmlhttprequest,domain=spiegel.de,badfilter
+@@||doubleclick.net/getconfig$xmlhttprequest,domain=spiegel.de,badfilter
+@@||g.doubleclick.net/gampad/ads?*superbanner_3$xmlhttprequest,domain=spiegel.de,badfilter
+@@||g.doubleclick.net/gampad/ads?*wallpaper_1$xmlhttprequest,domain=spiegel.de,badfilter
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=spiegel.de,badfilter
+@@||g.doubleclick.net/tag/js/gpt.js$domain=spiegel.de,badfilter
+
+! E.
+
+! F.
+@@||fastwhitecat.com/wp-content/plugins/duracelltomi-google-tag-manager/$script,domain=fastwhitecat.com,badfilter
+
+! G.
+@@||google.*-youtube.jpg$badfilter
+@@||google.*/gplus-64.png$badfilter
+@@||google.*/images/*/social/$image,~third-party,badfilter
+@@||google.*/images/google-$image,~third-party,badfilter
+@@||google.*/retailer_google.png$badfilter
+@@||google.com/analytics/images/*_social.png$badfilter
+@@||google.com/analytics/images/social.png$badfilter
+@@||google.com/js/platform.js$domain=hiphopwired.com|listenonrepeat.com|log84.de,badfilter
+@@||google.com/recaptcha/$csp,subdocument,badfilter
+@@||google.com/recaptcha/api.js$badfilter
+@@||googleapis.com/gweb-uniblog-publish-prod/static/blog/images/google-$domain=blog.google,badfilter
+@@||googleapis.com/hiveweb/img/icon_facebook.svg$domain=hive.im,badfilter
+@@||googleapis.com/hiveweb/img/icon_google.svg$domain=hive.im,badfilter
+@@||gstatic.com/recaptcha/$badfilter
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|api.screen9.com|bbc.com|blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|crhoy.com|distro.tv|einthusan.tv|embed.comicbook.com|games.usatoday.com|howstuffworks.com|iheart.com|insideedition.com|metacritic.com|missoulian.com|newsweek.com|paralympic.org|player.abacast.net|player.earthtv.com|player.performgroup.com|popculture.com|tdn.com|truvid.com|zeebiz.com,badfilter
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=bloomberg.co.jp|farfeshplus.com|filmweb.pl|game.pointmall.rakuten.net|gamepix.com|klix.ba|locipo.jp|maharashtratimes.com|minigame.aeriagames.jp|nettavisen.no|niusdiario.es|pointmall.rakuten.co.jp|rtlnieuws.nl|sportsbull.jp|sportsport.ba|success-games.net|synk-casualgames.com|tbs.co.jp|tv-asahi.co.jp|tv.rakuten.co.jp|tver.jp|video.tv-tokyo.co.jp|voe.sx|vlive.tv|webdunia.com|wtk.pl,badfilter
+@@||pagead2.googlesyndication.com/getconfig/sodar?$xmlhttprequest,domain=spiegel.de,badfilter
+@@||cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/vendor/adobe/$badfilter
+
+! H.
+@@||hcaptcha.com^*/api.js?,badfilter
+@@||hcaptcha.com/captcha/$script,subdocument,badfilter
+
+! I.
+
+! J.
+@@||jsdelivr.net/npm/sharer.js$badfilter
+
+! K.
+
+! L.
+
+! M.
+@@||mediaworld.it^*/GoogleTagManager.js?$badfilter
+/matomo.js$domain=~github.com,badfilter
+/matomo/*$domain=~github.com|~hub.docker.com|~matomo.org|~wordpress.org,badfilter
+
+! N.
+@@||nettix.fi^*_analytics.js$domain=nettiauto.com|nettikaravaani.com|nettikone.com|nettimokki.com|nettimoto.com|nettivaraosa.com,badfilter
+@@||nsfw.xxx/vendor/fingerprint/fingerprint2.min.js$script,~third-party,badfilter
+
+! O.
+@@||geolocation.onetrust.com/cookieconsentpub/$script,domain=~cnbc.com|~metacritic.com,badfilter
+@@||onetrust.com/request/$xmlhttprequest,badfilter
+@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com,badfilter
+@@||optimizely.com/datafiles/$domain=talktalk.co.uk,badfilter
+
+! P.
+@@||polfan.pl/*/fingerprint2.min.js$script,~third-party,badfilter
+
+! Q.
+
+! R.
+@@||recaptcha.net/recaptcha/$script,badfilter
+@@||recaptcha.net/recaptcha/$badfilter
+
+! S.
+@@||ced.sascdn.com/tag/*/smart.js$domain=dr.dk,badfilter
+@@||sascdn.com/diff/templates/ts/dist/banner/sas-banner-$script,domain=dr.dk,badfilter
+@@||cdn.segment.com/analytics-next/$domain=givingassistant.org,badfilter
+@@||cdn.segment.com/analytics.js/$script,domain=fender.com|givingassistant.org,badfilter
+@@||widgets.sprinklecontent.com/v2/$script,xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi,badfilter
+@@||stabila.com/bundles/marketingsuite/css/cookie-bar.css$badfilter
+
+! T.
+@@||platform.twitter.com/widgets/widget_iframe.$subdocument,badfilter
+@@||widgets.trustedshops.com/reviews/tsSticker/$domain=koziol-shop.de,badfilter
+tennisassa.fi##[class="cookie-monster"]
+
+! U.
+
+! V.
+@@||vuplay.co.uk/stats/adobe/*/AppMeasurement.js$script,domain=radioplus.be,badfilter
+@@||vuplay.co.uk/stats/adobe/*/VisitorAPI.js$script,domain=radioplus.be,badfilter
+
+! W.
+
+! X.
+
+! Y.
+||yastatic.net/share2/share.js$script,important
+
+! Z.

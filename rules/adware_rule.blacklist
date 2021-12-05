@@ -1,0 +1,161 @@
+! List url:
+! https://mypdns.org/my-external-stuff/ublockorigin-rules/-/tree/master/rules/Adult_Annoyance.txt
+!
+! License:
+! https://mypdns.org/spirillen/ublockorigin-rules/-/blob/master/LICENSEE
+! Homepage: https://mypdns.org/my-external-stuff/ublockorigin-rules/
+!
+! Please report any unblocked content or problems on the Issue board.
+! My Privacy DNS (Rules) issues:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/issues
+!
+! My Privacy DNS (domains) issues:
+! - https://mypdns.org/my-privacy-dns/matrix/-/issues
+!
+! My Privacy DNS (adult domains) issues:
+! - https://mypdns.org/my-privacy-dns/porn-records/-/issues
+! Merge Request:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/-/merge_requests
+! Email:
+!   - None
+! CopyRight:
+!   - https://mypdns.org/spirillen
+!   - https://archive.mypdns.org/p/Spirillen/
+!   - https://github.com/spirillen
+!   - https://bitbucket.org/spirillen/
+!   - The individual lists maintainers
+!   - The individual contributor
+!     https://mypdns.org/my-external-stuff/ublockorigin-rules/-/graphs/master
+! 0.
+
+! 1.
+
+! 2.
+
+! 3.
+
+! 4.
+
+! 5.
+
+! 6.
+
+! 7.
+
+! 8.
+
+! 9.
+
+! A.
+!/ads.v*.js?v=*$important
+!/ads.v5.js?v=3$important
+/ads.v*.js?v=*$important
+/adsense/*/caf.js$script,important
+/adsmb.js$script,important
+##.ad-on-video
+##.adv
+##.adv-aside
+##.advertisement
+##.alignright:has(.adsbygoogle)
+###advads_ad_widget-
+##^.adsbygoogle
+##div[class^="ad_unit_"]
+love4porn.com##^.ads
+
+! B.
+/blockadblock.js$script,important
+##.banner
+##.banner-container
+###banner-ad
+###BannerContainer
+||/banners/*$domain=freefaucet.io,generichide
+bestwifeporn.com,pxrnxx.xyz##.bx-wrapper
+
+! C.
+.com/ads-
+##.cc_banner-wrapper
+##.Cms_PromoBanner
+##.component-ads-by-google
+
+! D.
+
+! E.
+##.ezfound
+##.ezoic-ad
+##[id="exo-native"]
+||ads.exoclick.com/ad_track.js$script,important
+
+! F.
+
+! G.
+##.__give_away.bc_popalert
+##.gitlab-ee-license-banner
+
+! H.
+##.happy-footer
+##.happy-under-player
+
+! I.
+
+! J.
+/js/admir.js
+/js/popper.min.js$important
+/js/propellerads_tag_onload.js
+/js/propellerads_tag.js
+
+! K.
+
+! L.
+##.layout__sidebar-ad-1
+##.layout__sidebar-ad-2
+##.layout__sidebar-ad-3
+##.layout__sidebar-ad-mobile
+
+
+! M.
+sakura.ne.jp##.mainBanner
+
+! N.
+##.newsletter
+
+! O.
+##.ontopplayerad
+##.overlay
+
+! P.
+##.post__inarticle-ad-template-mobile
+##.promo-message
+##.push-subscription-prompt
+###push-notifications
+##popwindow
+
+! Q.
+
+! R.
+/reklamstore.js$script,important
+redhat.com##.rh-cta-link
+
+! S.
+/?spot_id=$script
+##.side-bar-ad
+##.spot-horizontal
+
+! T.
+##.text_adv
+##[href*="trustpilot.com/"]
+
+! U.
+/upload/banners/$image
+/upload/banners/$script
+
+! V.
+/vast-im.js$script,important
+
+! W.
+##a[href^="https://widget.watchmondo.com/home/redirectto"]
+
+! X.
+
+! Y.
+
+! Z.

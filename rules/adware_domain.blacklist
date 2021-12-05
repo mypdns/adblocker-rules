@@ -1,0 +1,171 @@
+! List url:
+! https://mypdns.org/my-external-stuff/ublockorigin-rules/-/tree/master/rules/Adult_Annoyance.txt
+!
+! License:
+! https://mypdns.org/spirillen/ublockorigin-rules/-/blob/master/LICENSEE
+! Homepage: https://mypdns.org/my-external-stuff/ublockorigin-rules/
+!
+! Please report any unblocked content or problems on the Issue board.
+! My Privacy DNS (Rules) issues:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/issues
+!
+! My Privacy DNS (domains) issues:
+! - https://mypdns.org/my-privacy-dns/matrix/-/issues
+!
+! My Privacy DNS (adult domains) issues:
+! - https://mypdns.org/my-privacy-dns/porn-records/-/issues
+! Merge Request:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/-/merge_requests
+! Email:
+!   - None
+! CopyRight:
+!   - https://mypdns.org/spirillen
+!   - https://archive.mypdns.org/p/Spirillen/
+!   - https://github.com/spirillen
+!   - https://bitbucket.org/spirillen/
+!   - The individual lists maintainers
+!   - The individual contributor
+!     https://mypdns.org/my-external-stuff/ublockorigin-rules/-/graphs/master
+! 0.
+
+! 1.
+123mc.dk##.magacin-row-wrp
+123mc.dk##.boxpadmarleft
+123mc.dk##.nopadmarright
+123mc.dk##.margintop20
+123mc.dk##.wrp_magacin_search_results_bottom
+
+! 2.
+||22pixx.xyz^$image
+20felezyab.com##.ad-block
+
+! 3.
+
+! 4.
+
+! 5.
+
+! 6.
+
+! 7.
+
+! 8.
+
+! 9.
+
+! A.
+||advertising.com^$important
+||anymad.com^$important
+||statics-marketingsites-wcus-ms-com.akamaized.net^
+||sqs.us-east-1.amazonaws.com^$important
+||adexplode.pw^
+
+! B.
+bilbasen.dk##.clearfix.row
+bilbasen.dk##.vip-finance.section
+bilbasen.dk###top-content
+||bisonads.com^$important
+||bestcontentprogram.top^
+
+! C.
+||cstwpush.com^$important
+||chaussew.net^
+||cstwpush.com^$important
+||cashback.ne.jp^$important
+||camayan.com^$important
+||cloudfront.net/slickadd.min.js$script
+
+! D.
+devdungeon.com###block-block-14
+devdungeon.com###block-block-15
+devdungeon.com###block-block-6
+dmi.dk#?#.large-6:-abp-has(:scope > .section-1-ad)
+dmi.dk##.add-container
+||dr.dk/DR.Common.Banner.Ads/$xmlhttprequest
+
+! E.
+element14.com##.webinarPopup
+
+! F.
+||faster-trk.com^
+fastspeed.dk###flowsPopup
+file-converter-online.com##.cc_banner-wrapper
+firefox.com##.vpn-promo-banner
+
+! G.
+||getalltraffic.com^$important
+||glokta.info^$important
+||gomain2.pro^
+||greybison.com^$important
+||greystatic.com^$important
+||parking.godaddy.com^$important
+
+! H.
+
+! I.
+
+! J.
+
+! K.
+
+! L.
+linuxconfig.org##.custom
+
+! M.
+||media-amazon.com/images/*/imdbads/*$important
+
+! N.
+||nsimg.*^$important
+
+! O.
+
+! P.
+||parklogic.com^$important
+||popcash.net^$important
+||pubmatic.com^$important
+publicwww.com##.container > .service-wrapper
+publicwww.com##.container > div.row > div.col-sm-6.col-md-6
+
+! Q.
+||quotes.com^
+
+! R.
+||redirect-ads.com^
+ripoffreport.com###live-popover
+ripoffreport.com##.action-bar.row
+
+! S.
+subscene.com##.details
+||strongcapitalads.ga^$important
+||smartcj.com^$important
+
+! T.
+||tv2a.dk/ads/
+tweak.dk##.vdo-container
+tweak.dk##[class*="banner"]
+tweak.dk##[class*="partner"]
+tweak.dk##[href*="/advertorials"]
+tweak.dk###member_notice_desktop
+twitch.tv##.headliner-ad
+twitch.tv##.prime-offers
+themoviedb.org##.ott_offer
+themoviedb.org##.play_trailer
+trustpulse.com##.Campaign__innerWrapper.birmingham-c-wrapper
+trustpulse.com##.Campaign--css.CampaignType--popup.Campaign.birmingham-campaign
+trustpulse.com##.tp-widget--compact.tp-bottom-left.tp-widget--rounded.tp-widget-container
+trustpulse.com###tp-7bQQ18cB-holder
+
+
+! U.
+
+! V.
+
+! W.
+||a.watchomovies.com^
+||worldtraffic.trade^
+
+! X.
+
+! Y.
+
+! Z.

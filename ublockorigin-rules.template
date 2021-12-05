@@ -33,25 +33,34 @@
 ! >>If it smells like a fish, it's probably a fish<<
 !
 !------- General advert blocking filters ------------------------------!
-%include ublockorigin-rules:rules/blockrules.txt%
+%include ublockorigin-rules:rules/adware_domain.blacklist%
+%include ublockorigin-rules:rules/adware_rule.blacklist%
 
-!------- Panic List ---------------------------------------------------!
-%include ublockorigin-rules:rules/panic.txt%
+!------- Anti-Social List ---------------------------------------------!
+%include ublockorigin-rules:rules/anti_social_domain.blacklist%
+%include ublockorigin-rules:rules/anti_social_rule.blacklist%
 
-!------- Panic List ---------------------------------------------------!
-%include ublockorigin-rules:rules/SpyWare.txt%
+!------- SpyWare List -------------------------------------------------!
+%include ublockorigin-rules:rules/spyware_domain.blacklist%
+%include ublockorigin-rules:rules/spyware_rule.blacklist%
 
 !------- White List ---------------------------------------------------!
-%include ublockorigin-rules:rules/whitelist.txt%
+%include ublockorigin-rules:rules/whitelist_domain.whitelist%
+%include ublockorigin-rules:rules/whitelist_rule.whitelist%
 
 !------- Anti White ---------------------------------------------------!
-%include ublockorigin-rules:rules/anti_whitelist.txt%
+%include ublockorigin-rules:rules/anti_whitelist_domain.blacklist%
+%include ublockorigin-rules:rules/anti_whitelist_rule.blacklist%
 
 !------- Adult Annoyance blocking filters -----------------------------!
-%include ublockorigin-rules:rules/Adult_Annoyance.txt%
+%include ublockorigin-rules:rules/adult_domain.blacklist%
+%include ublockorigin-rules:rules/adult_rule.blacklist%
 
 !------- Genral Global rules filters ----------------------------------!
-%include ublockorigin-rules:rules/css_general_hide.txt%
+%include ublockorigin-rules:rules/annoyance_domain.blacklist%
+%include ublockorigin-rules:rules/annoyance_rule.blacklist%
+%include ublockorigin-rules:rules/cookie_domain.blacklist%
+%include ublockorigin-rules:rules/cookie_rule.blacklist%
 
 !------- Noise Filters ------------------------------------------------!
 %include ublockorigin-rules:rules/noise.txt%

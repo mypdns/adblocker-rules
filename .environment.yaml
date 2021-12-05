@@ -1,6 +1,6 @@
 name: uBlockOrigin
 dependencies:
-  - python=3.9.5
+  - python=3.10
   - pip
   - pip:
       - python-abp>=0.2.0

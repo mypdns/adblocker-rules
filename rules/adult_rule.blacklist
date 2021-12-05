@@ -1,0 +1,195 @@
+! List url:
+! https://mypdns.org/my-external-stuff/ublockorigin-rules/-/tree/master/rules/Adult_Annoyance.txt
+!
+! License:
+! https://mypdns.org/spirillen/ublockorigin-rules/-/blob/master/LICENSEE
+! Homepage: https://mypdns.org/my-external-stuff/ublockorigin-rules/
+!
+! Please report any unblocked content or problems on the Issue board.
+! My Privacy DNS (Rules) issues:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/issues
+!
+! My Privacy DNS (domains) issues:
+! - https://mypdns.org/my-privacy-dns/matrix/-/issues
+!
+! My Privacy DNS (adult domains) issues:
+! - https://mypdns.org/my-privacy-dns/porn-records/-/issues
+! Merge Request:
+! - https://mypdns.org/my-external-stuff/ublockorigin-rules/-/merge_requests
+! Email:
+!   - None
+! CopyRight:
+!   - https://mypdns.org/spirillen
+!   - https://archive.mypdns.org/p/Spirillen/
+!   - https://github.com/spirillen
+!   - https://bitbucket.org/spirillen/
+!   - The individual lists maintainers
+!   - The individual contributor
+!     https://mypdns.org/my-external-stuff/ublockorigin-rules/-/graphs/master
+! 0.
+
+! 1.
+
+! 2.
+
+! 3.
+3dsexgames.biz,3danimeworld.com##a[href*="/trade/out.php"]
+
+! 4.
+
+! 5.
+
+! 6.
+
+! 7.
+
+! 8.
+
+! 9.
+
+! A.
+/ads.js$script,important,domain=evoload.io,mixdrop.co
+##[href*="admjmp.com"]
+||/ad_track.js$script
+||/advertise.js$script,important,domain=freelatinapics.com|nudeblackporn.com
+||alxbgo.com^$third-party
+m.proporn.com,yeptube.com,vivatube.com##.ad
+
+! B.
+/back$script,important,domain=teenasspussy.com
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.bQeYRl.sc-eLgOdN
+m.proporn.com,m.yeptube.com,vivatube.com##[class^=".box_spots"]
+m.proporn.com,m.yeptube.com,vivatube.com##[id*="banner_overlay-"]
+
+! C.
+##.containerModal-warning
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.container.content > div:nth-of-type(1) > div > .hidden-xs
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.col-xs-12.col-sm-12.col-md-12.col-lg-4
+
+! D.
+/d/count.php^$document,important,domain=teenasspussy.com
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.dTlKOF.sc-kmASHI.container.content > div > div > .panels.man-ui
+
+! E.
+##a[href*="expeers-vehumbers.com/"]
+cum4k.com,passion-hd.com,holed.com,pornpros.com##.epoch-box
+###erotikusmodalbox
+/exit-popup/*$script,domain=myallaccesspass.com|teendreams.com,important
+
+! F.
+/frodo.php$image
+bubbaporn.com,serviporno.com##.footer-iframe
+daddyslilangel.com,familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.form-join
+daddyslilangel.com,familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.form-join-horizontal
+
+! G.
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.guest-panel
+
+! H.
+##[href^="https://hornygirlhere.com/"]
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.helper
+daddyslilangel.com,familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.header-banner
+daddyslilangel.com,familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.header-banner-wrapper
+daddyslilangel.com,familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hidden-phone
+daddyslilangel.com,familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hidden-tablet
+daddyslilangel.com,familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.hover-join
+
+! I.
+/ISG_BannerGetFooter.php
+##[href*="imlive.com/wmaster"]
+##[href*="indiangfporn.com/track/"]
+##a[href*="instable-easher.com/"]
+##a[href*="internationalsexguide.info/"]
+##.in.fade.modal-backdrop
+||/istripper*.js$script,important
+
+! J.
+##[href^="https://javhd.com/"]
+cum4k.com,babesandstars.com,definebabe.com,passion-hd.com,holed.com,pornhubpremium.com,pornpros.com##.join
+cum4k.com,passion-hd.com,holed.com,pornpros.com##.join-btn-massive
+jav321.com###popup-container
+joyourself.com,liveprivates.com,lsawards.com,maturescam.com,mycams.com,mytrannycams.com,livesexasian.com,cameraboys.com,livesex.com##.js_recommender.mc_recommender
+publicagent.com##[href="/join"]
+shoplyfter.com,littleasians.com##.join-link
+
+! K.
+||cdnp.kink.com/assets/promos
+||kanako.store/cart.js$xhr,important
+kink.com##.kink-store-section
+kink.com##.product-tag-wrapper
+kink.com##.store
+
+! L.
+##a[href*="/linkout/livecams/"]
+##a[href^="https://livehdcams.com/"]
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.live-girls.more-girls
+freebunker.com,pornbus.org###layer
+
+! M.
+/media/promotions/^domain=metart.com|metart.com|met-art.com|sexart.com|thelifeerotic.com|vivthomas.com|lovehairy.com|errotica-archives.com|domai.com|goddessnudes.com|eroticbeauty.com|alsscan.com|rylskyart.com|eternaldesire.com|stunning18.com|live.tv
+##[href*=".mypornlocker.com/"]
+daddyslilangel.com,familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.mx-2.btn-lg.btn-cta.btn
+joyourself.com,liveprivates.com,lsawards.com,maturescam.com,mycams.com,mytrannycams.com,livesexasian.com,cameraboys.com,livesex.com##.mc_bonus_animation
+joyourself.com,liveprivates.com,lsawards.com,maturescam.com,mycams.com,mytrannycams.com,livesexasian.com,cameraboys.com,livesex.com##.mc_centered_inline
+joyourself.com,liveprivates.com,lsawards.com,maturescam.com,mycams.com,mytrannycams.com,livesexasian.com,cameraboys.com,livesex.com##.mc_js_stream_info
+joyourself.com,liveprivates.com,lsawards.com,maturescam.com,mycams.com,mytrannycams.com,livesexasian.com,cameraboys.com,livesex.com##.mc_list.mc_list--recommender
+joyourself.com,liveprivates.com,lsawards.com,maturescam.com,mycams.com,mytrannycams.com,livesexasian.com,cameraboys.com,livesex.com##.mc_overlay_top_bar
+joyourself.com,liveprivates.com,lsawards.com,maturescam.com,mycams.com,mytrannycams.com,livesexasian.com,cameraboys.com,livesex.com##.mc_tooltip
+
+! N.
+
+! O.
+bubbaporn.com,serviporno.com###overlay-video
+
+! P.
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.page-content > div:nth-of-type(3)
+cum4k.com,passion-hd.com,holed.com,pornpros.com##.payment-popup
+cum4k.com,passion-hd.com,holed.com,pornpros.com##.popup-content
+popcode*.js$domain=vipergirls.to
+/poppy/*$domain=hclips.com|hdzog.com|hotmovs.com|porn555.com|pornforrelax.com|pornj.com|pornl.com|pornq.com|puporn.com|see.xxx|shemalez.com|thegay.com|thegay.porn|tubepornclassic.com|tuberel.com|txxx.com|upornia.com|voyeurhit.com
+
+! Q.
+
+! R.
+/renderer/renderer.js$script,important,domain=tubeteensporn.com
+
+! S.
+##.show.fade.modal-backdrop
+cum4k.com,passion-hd.com,holed.com,pornpros.com##.sale-special-container
+daddyslilangel.com,familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.series-banner
+daddyslilangel.com,familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.site-info-banner
+joyourself.com,liveprivates.com,lsawards.com,maturescam.com,mycams.com,mytrannycams.com,livesexasian.com,cameraboys.com,livesex.com##.sc-AxiKw
+proporn.com,yeptube.com,vivatube.com##[id^="spot_video_"]
+
+! T.
+/teen.php$document,important,domain=18teenslut.com|realteenbeauty.com|teenasspussy.com
+##[href*="trafokit.com"]
+##[href^="https://l.tyrantdb.com/"]
+##[href^="https://theporndude.com/"]
+##a[href*="tik-tok-date.com"]
+##topbar
+4kporn.xxx,amateurgirlfriends.net,bestpornflix.com,enf-cmnf.com,mrdeepfakes.com,mycumx.com,pornwild.to,rare-videos.net,sortporn.com##.table
+cum4k.com,passion-hd.com,holed.com,pornpros.com##.t2019-button
+cum4k.com,passion-hd.com,holed.com,pornpros.com###t2019-previews
+
+! U.
+##.upgrade-strip
+
+! V.
+/Vbanner/*$important,domain=3danimeworld.com|metrotoons.com
+##a[href*="vbadvanced.com/"]
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.upgrade-strip
+pornhdtube.tv##.video-overlay
+
+! W.
+###warning-popup
+daddyslilangel.com,familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.watch-page-join-header
+daddyslilangel.com,familyswap.xxx,detentiongirls.com,brattysis.com,myfamilypies.com,princesscum.com,nubiles-porn.com##.watch-page-video-container > .container-fluid
+porn555.com,pornforrelax.com,sss.xxx,tuberel.com##.vda-item
+
+! X.
+##a[href^="https://xossipfap.net"]
+
+! Y.
+
+! Z.
