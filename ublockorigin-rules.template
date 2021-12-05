@@ -33,37 +33,37 @@
 ! >>If it smells like a fish, it's probably a fish<<
 !
 !------- Advert blocking filters --------------------------------------!
-%include My-Privacy-DNS-filter:rules/adware_domain.blacklist%
-%include My-Privacy-DNS-filter:rules/adware_rule.blacklist%
+%include ublockorigin-rules:rules/adware_domain.blacklist%
+%include ublockorigin-rules:rules/adware_rule.blacklist%
 
 !------- Anti-Social List ---------------------------------------------!
-%include My-Privacy-DNS-filter:rules/anti_social_domain.blacklist%
-%include My-Privacy-DNS-filter:rules/anti_social_rule.blacklist%
+%include ublockorigin-rules:rules/anti_social_domain.blacklist%
+%include ublockorigin-rules:rules/anti_social_rule.blacklist%
 
 !------- SpyWare List -------------------------------------------------!
-%include My-Privacy-DNS-filter:rules/spyware_domain.blacklist%
-%include My-Privacy-DNS-filter:rules/spyware_rule.blacklist%
+%include ublockorigin-rules:rules/spyware_domain.blacklist%
+%include ublockorigin-rules:rules/spyware_rule.blacklist%
 
 !------- White List ---------------------------------------------------!
-%include My-Privacy-DNS-filter:rules/whitelist_domain.whitelist%
-%include My-Privacy-DNS-filter:rules/whitelist_rule.whitelist%
+%include ublockorigin-rules:rules/whitelist_domain.whitelist%
+%include ublockorigin-rules:rules/whitelist_rule.whitelist%
 
 !------- Anti White ---------------------------------------------------!
-%include My-Privacy-DNS-filter:rules/anti_whitelist_domain.blacklist%
-%include My-Privacy-DNS-filter:rules/anti_whitelist_rule.blacklist%
+%include ublockorigin-rules:rules/anti_whitelist_domain.blacklist%
+%include ublockorigin-rules:rules/anti_whitelist_rule.blacklist%
 
 !------- Adult Annoyance blocking filters -----------------------------!
-%include My-Privacy-DNS-filter:rules/adult_domain.blacklist%
-%include My-Privacy-DNS-filter:rules/adult_rule.blacklist%
+%include ublockorigin-rules:rules/adult_domain.blacklist%
+%include ublockorigin-rules:rules/adult_rule.blacklist%
 
 !------- General Global rules filters ---------------------------------!
-%include My-Privacy-DNS-filter:rules/annoyance_domain.blacklist%
-%include My-Privacy-DNS-filter:rules/annoyance_rule.blacklist%
-%include My-Privacy-DNS-filter:rules/cookie_domain.blacklist%
-%include My-Privacy-DNS-filter:rules/cookie_rule.blacklist%
+%include ublockorigin-rules:rules/annoyance_domain.blacklist%
+%include ublockorigin-rules:rules/annoyance_rule.blacklist%
+%include ublockorigin-rules:rules/cookie_domain.blacklist%
+%include ublockorigin-rules:rules/cookie_rule.blacklist%
 
 !------- Noise Filters ------------------------------------------------!
-! %include My-Privacy-DNS-filter:rules/noise.txt%
+! %include ublockorigin-rules:rules/noise.txt%
 
 !------- @Yuki2718 many Filters ---------------------------------------!
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/anti-allowlist.txt%
