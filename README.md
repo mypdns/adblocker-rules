@@ -26,7 +26,7 @@ following:
 
 `github.com` is in *only* a full backup of
 https://mypdns.org/my-external-stuff/ublockorigin-rules and solely used
-to host the [webfront][#webfront].  
+to host the [webfront](#webfront).  
 We do not operate at Github do to there anti-privacy terms of usage.
 
 # How to write filters
@@ -69,7 +69,7 @@ Howto? [block whitelisted spyware](https://github.com/easylist/easylist/issues/4
 `$` always needs to exist, if you're going to use a modifier.  
 `,` are used to separate multiple modifier.
 
-Example (single modifier): `$script`
+Example (single modifier): `$script`  
 Example (multiple modifiers): `$document,frame,script,stylesheet`
 
 
@@ -124,7 +124,7 @@ Our HTML front end is <https://my-external-stuff.github.io/ublockorigin-rules/>
 
 
 ## Subscribe to the rules
-[Click here to activate these rules in you uBlock Origin](abp:subscribe?location=https://my-external-stuff.github.io/ublockorigin-rules/blockrules.txt&title=Spirillens%20%E2%80%93%20Adblock%20Rules)
+[Click here to activate these rules in you uBlock Origin][Subscribe]
 
 
 ## External resources
@@ -149,6 +149,7 @@ spreading the knowledge of how rules should be made :smiley:
 [issues]: https://mypdns.org/my-external-stuff/ublockorigin-rules/-/issues
 [commits]: https://mypdns.org/my-external-stuff/ublockorigin-rules/commits/master
 [support]: https://mypdns.org/MypDNS/support/-/issues
+[Subscribe]: abp:subscribe?location=https://my-external-stuff.github.io/ublockorigin-rules/blockrules.txt&title=Spirillens%20%E2%80%93%20Adblock%20Rules
 [redirect-engine]: https://github.com/gorhill/uBlock/blob/master/src/js/redirect-engine.js
 [dialogue]: https://github.com/My-External-Stuff/ublockorigin-rules/commit/c01ba1a5a0d73a89c911ab11d1322631fe3d0540
 [slightly_smaller_selection]: https://github.com/AdguardTeam/AdguardBrowserExtension/blob/master/Extension/lib/filter/rules/scriptlets/redirects.yml
