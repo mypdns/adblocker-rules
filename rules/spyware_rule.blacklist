@@ -119,7 +119,8 @@
 ! O.
 
 ! P.
-/ping/$domain=aws-native.com
+/ping/gamp
+/ping/view
 /piwik.php$script,important
 
 ! Q.
