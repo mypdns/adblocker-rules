@@ -32,12 +32,13 @@
 ||1ts18.top^$important
 
 ! 2.
+||24.lc/redirect/*
+||24log.com^
+||24log.de^
+||24log.es^
 ||24log.fr^
 ||24log.it^
-||24log.com^
-||24log.es^
 ||24log.ru^
-||24log.de^
 
 ! 3.
 
@@ -163,8 +164,10 @@ element14.com##.e14-cookie-directive
 
 ! S.
 ||shinobi.jp^$important
+||shopping-2000.com^
 ||statsanalitic.net^$important
 ||statsy.net^$important
+||subdomain.com/redirect*
 speedostream.com##+js(aost, Object.getOwnPropertyDescriptor, /^/)
 stackoverflow.com##.facebook-login
 stackoverflow.com##.google-login
