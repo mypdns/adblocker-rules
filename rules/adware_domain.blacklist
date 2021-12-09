@@ -148,7 +148,14 @@ subscene.com##.details
 ||smartcj.com^$important
 
 ! T.
+||t.uc.cn^
 ||tv2a.dk/ads/
+themoviedb.org##.ott_offer
+themoviedb.org##.play_trailer
+trustpulse.com##.Campaign__innerWrapper.birmingham-c-wrapper
+trustpulse.com##.Campaign--css.CampaignType--popup.Campaign.birmingham-campaign
+trustpulse.com##.tp-widget--compact.tp-bottom-left.tp-widget--rounded.tp-widget-container
+trustpulse.com###tp-7bQQ18cB-holder
 tweak.dk##.vdo-container
 tweak.dk##[class*="banner"]
 tweak.dk##[class*="partner"]
@@ -156,13 +163,6 @@ tweak.dk##[href*="/advertorials"]
 tweak.dk###member_notice_desktop
 twitch.tv##.headliner-ad
 twitch.tv##.prime-offers
-themoviedb.org##.ott_offer
-themoviedb.org##.play_trailer
-trustpulse.com##.Campaign__innerWrapper.birmingham-c-wrapper
-trustpulse.com##.Campaign--css.CampaignType--popup.Campaign.birmingham-campaign
-trustpulse.com##.tp-widget--compact.tp-bottom-left.tp-widget--rounded.tp-widget-container
-trustpulse.com###tp-7bQQ18cB-holder
-
 
 ! U.
 
