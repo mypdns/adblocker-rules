@@ -139,8 +139,10 @@ publicwww.com##.container > div.row > div.col-sm-6.col-md-6
 
 ! R.
 ||redirect-ads.com^
-ripoffreport.com###live-popover
 ripoffreport.com##.action-bar.row
+ripoffreport.com###live-popover
+rule34.xxx##[href^="https://buymyshit.moneygrubbingwhore.com/"]
+rule34.xxx##[href^="https://kanako.store/"]
 
 ! S.
 subscene.com##.details
