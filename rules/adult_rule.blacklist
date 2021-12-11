@@ -48,7 +48,6 @@
 ! 9.
 
 ! A.
-/ads.js$script,important,domain=evoload.io,mixdrop.co
 ##[href*="admjmp.com"]
 ||/ad_track.js$script
 ||/advertise.js$script,important,domain=freelatinapics.com|nudeblackporn.com
@@ -153,7 +152,7 @@ popcode*.js$domain=vipergirls.to
 
 ! R.
 /renderer/renderer.js$script,important,domain=tubeteensporn.com
-/re-ads.php$domain=slideserve.com
+
 
 ! S.
 ##.show.fade.modal-backdrop

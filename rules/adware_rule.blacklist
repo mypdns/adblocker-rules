@@ -49,6 +49,7 @@
 ! A.
 !/ads.v*.js?v=*$important
 !/ads.v5.js?v=3$important
+/ads.js$script,important,domain=evoload.io,here.xxx,mixdrop.co
 /ads.v*.js?v=*$important
 /adsense/*/caf.js$script,important
 /adsmb.js$script,important
@@ -72,6 +73,7 @@ love4porn.com##^.ads
 bestwifeporn.com,pxrnxx.xyz##.bx-wrapper
 1on1-webcams.com,xlovecam.com##.bottomSlidebar
 gamemodding.com##.big_banner
+##.botad$domain=here.xxx
 
 ! C.
 .com/ads-
@@ -126,6 +128,7 @@ camigula.com##.model-affiliate
 ##.overlay
 
 ! P.
+/pop_desc.js$domain=here.xxx
 ##.post__inarticle-ad-template-mobile
 ##.promo-message
 ##.push-subscription-prompt
