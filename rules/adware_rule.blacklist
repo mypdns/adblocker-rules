@@ -71,6 +71,7 @@ love4porn.com##^.ads
 ||/banners/*$domain=freefaucet.io,generichide
 bestwifeporn.com,pxrnxx.xyz##.bx-wrapper
 1on1-webcams.com,xlovecam.com##.bottomSlidebar
+gamemodding.com##.big_banner
 
 ! C.
 .com/ads-
@@ -137,6 +138,8 @@ camigula.com##.model-affiliate
 /reklamstore.js$script,important
 redhat.com##.rh-cta-link
 pornhubuk.com###right
+/re-ads.php$domain=slideserve.com
+##.right_banner$domain=gamemodding.com
 
 ! S.
 /?spot_id=$script
