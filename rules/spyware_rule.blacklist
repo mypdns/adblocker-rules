@@ -48,7 +48,6 @@
 
 ! A.
 /analytics/event
-/anonymous_user_guid.gif?guid=$image,domain=deliveroo.ae|deliveroo.com.au|deliveroo.be|deliveroo.fr|deliveroo.es|deliveroo.hk|deliveroo.ie|deliveroo.it|deliveroo.com.kw|deliveroo.nl|deliveroo.com.sg|deliveroo.co.uk
 /api/tracking/*
 ##[href^="https://www.amazon.com"]
 
