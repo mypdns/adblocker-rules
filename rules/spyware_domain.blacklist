@@ -121,6 +121,7 @@ element14.com##.e14-cookie-directive
 
 ! H.
 ||hcaptcha.com^$important
+||hivetechnologylabs.com^$other,important,3p
 
 ! I.
 ||cookieapi*.incomit.dk^
