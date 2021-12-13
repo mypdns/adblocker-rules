@@ -70,14 +70,7 @@ github.com###sponsor-button-repo
 ! H.
 
 ! I.
-imdb.com###add-photos-pro
-imdb.com###maindetails_sidebar_bottom
-imdb.com###overview-middle
-imdb.com###prometer_container
-imdb.com###titleAwardsRanks
-imdb.com###titleFAQ
-imdb.com###titleUserReviewsTeaser
-imdb.com###titleVideoStrip
+||imdb.com/embeddable/IMDbEmbeddableStaticDistProd/*$subdocument
 imdb.com##.banner--accent1
 imdb.com##.hero-media__watchlist
 imdb.com##.imdb-footer
@@ -87,6 +80,14 @@ imdb.com##.pro_logo_main_title
 imdb.com##.titleReviewBar
 imdb.com##.uc-add-wl-button-icon--add
 imdb.com##[href^="https://pro.imdb.com/"]
+imdb.com###add-photos-pro
+imdb.com###maindetails_sidebar_bottom
+imdb.com###overview-middle
+imdb.com###prometer_container
+imdb.com###titleAwardsRanks
+imdb.com###titleFAQ
+imdb.com###titleUserReviewsTeaser
+imdb.com###titleVideoStrip
 
 *Promo*.jpg$domain=adultdvdempire.com,image
 
