@@ -53,9 +53,10 @@ bluehouse.is##.jss184
 bundesregierung.de##.bpa-cookie-banner
 
 ! C.
-||consent.dk^
-||cookiebot.com^
-||cookieinformation.com^
+||consent.dk^$important
+||cookiebot.com^$important
+||cookieinformation.com^$important
+||cookielaw.org^$important
 
 ! D.
 
