@@ -70,7 +70,7 @@
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules.txt%
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules-mob.txt%
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules.txt%
-%include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/static-rules.txt%
+! %include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/static-rules.txt%
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider-mob.txt%
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider.txt%
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt%
