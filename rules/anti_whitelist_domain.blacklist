@@ -132,6 +132,7 @@
 ! I.
 
 ! J.
+@@||javporn.*^$generichide,domain=~javporn.tv
 @@||jsdelivr.net/npm/sharer.js$badfilter
 
 ! K.

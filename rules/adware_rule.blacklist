@@ -139,11 +139,12 @@ camigula.com##.model-affiliate
 ! Q.
 
 ! R.
-/reklamstore.js$script,important
-redhat.com##.rh-cta-link
-pornhubuk.com###right
 /re-ads.php$domain=slideserve.com
+/reklamstore.js$script,important
 ##.right_banner$domain=gamemodding.com
+javporn.tv##[href^="https://media.r18.com/track/"]
+pornhubuk.com###right
+redhat.com##.rh-cta-link
 
 ! S.
 /?spot_id=$script
