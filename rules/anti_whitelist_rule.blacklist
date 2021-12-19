@@ -48,6 +48,7 @@
 
 ! A.
 @@/adservice.*.js?domain=$script,badfilter
+@@/ad/banner/_adsense_/_adserver/_adview_.ad.json,badfilter
 
 ! B.
 @@/blockadblock.$script,domain=blockadblock.com,badfilter
