@@ -62,6 +62,8 @@ bccnapoli.it,spalferrara.it,thetechsutra.com##[class="cp-overlay"]
 @@||c.evidon.com/sitenotice/evidon-sitenotice-tag.js$script,domain=southpark.de|southparkstudios.nu,badfilter
 
 ! F.
+@@/fuckadblock.$script,1p,badfilter
+@@/js/adv/fuckadblock.js?$script,1p,badfilter
 foxbit.com.br,marketdino.pl,mediaexpert.leszczynscy.pl,pajarito.de##[class="fb-container"]
 
 ! G.
@@ -101,6 +103,7 @@ foxbit.com.br,marketdino.pl,mediaexpert.leszczynscy.pl,pajarito.de##[class="fb-c
 ! O.
 
 ! P.
+@@/ad/api/popunder.js|$script,1p,badfilter
 
 ! Q.
 
