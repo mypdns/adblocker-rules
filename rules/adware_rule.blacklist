@@ -142,10 +142,11 @@ camigula.com##.model-affiliate
 ! R.
 /re-ads.php$domain=slideserve.com
 /reklamstore.js$script,important
-##.right_banner$domain=gamemodding.com
+gamemodding.com##.right_banner
 javporn.tv##[href^="https://media.r18.com/track/"]
 pornhubuk.com###right
 redhat.com##.rh-cta-link
+xxxjavmovies.com##.right-player-col
 
 ! S.
 /?spot_id=$script
@@ -155,6 +156,7 @@ redhat.com##.rh-cta-link
 ! T.
 ##.text_adv
 ##[href*="trustpilot.com/"]
+xxxjavmovies.com##.top-list
 
 ! U.
 /upload/banners/$image
@@ -168,6 +170,7 @@ redhat.com##.rh-cta-link
 ##a[href^="https://widget.watchmondo.com/home/redirectto"]
 
 ! X.
+xxxjavmovies.com##.bns-bl
 
 ! Y.
 
