@@ -171,6 +171,7 @@ element14.com##.e14-cookie-directive
 ! S.
 ||shinobi.jp^$important
 ||shopping-2000.com^
+||startpage.com^$removeparam=segment
 ||statsanalitic.net^$important
 ||statsy.net^$important
 ||subdomain.com/redirect*
