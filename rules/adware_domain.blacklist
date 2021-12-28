@@ -70,7 +70,9 @@
 ||bestcontentprogram.top^
 ||bisonads.com^$important
 bilbasen.dk##.clearfix.row
+bilbasen.dk##.col-sm-push-2
 bilbasen.dk##.vip-finance.section
+bilbasen.dk##[class*="bb-infotile"]
 bilbasen.dk###top-content
 blackbuttpictures.com##.bns-bl
 blackbuttpictures.com##.full-right-col
@@ -151,9 +153,10 @@ rule34.xxx##[href^="https://buymyshit.moneygrubbingwhore.com/"]
 rule34.xxx##[href^="https://kanako.store/"]
 
 ! S.
-subscene.com##.details
-||strongcapitalads.ga^$important
+##.socialShareMobile
 ||smartcj.com^$important
+||strongcapitalads.ga^$important
+subscene.com##.details
 
 ! T.
 ||t.uc.cn^

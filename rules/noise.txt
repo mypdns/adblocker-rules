@@ -94,9 +94,12 @@ imdb.com###titleVideoStrip
 # Adware (chat) noice
 ||solvemate.com^
 
+! S.
+subscene.com##.imdb
 
 ! T.
 themoviedb.org##.actions
+themoviedb.org##.no_border.card.video
 themoviedb.org##.recommendations
 twitch.tv##.community-highlight
 twitch.tv##.eXenLC
