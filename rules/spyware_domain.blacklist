@@ -107,7 +107,7 @@ element14.com##.e14-cookie-directive
 ||github.githubassets.com/favicon.ico$image
 ||gitlab.com/-/cable$websocket,important
 ||google-analytics.com^$important
-||google.*^
+||google.*^$important
 ||google.com/recaptcha/$important,script
 ||googleapis.com^$important
 ||googleoptimize.com
