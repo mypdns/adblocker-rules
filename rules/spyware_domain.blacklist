@@ -70,9 +70,10 @@ g.alicdn.com/woodpeckerx/jssdk/wpkReporter.js
 ||buzama.com^$important
 
 ! C.
-||cxense.com^$important
 ||clarity.microsoft.com^
 ||clarity.ms^
+||cloudflareinsights.com`
+||cxense.com^$important
 
 ! D.
 ||disqus.com/embed.js$script
@@ -169,6 +170,7 @@ element14.com##.e14-cookie-directive
 ||recaptcha.net^$important
 
 ! S.
+||sentry-cdn.com^
 ||shinobi.jp^$important
 ||shopping-2000.com^
 ||startpage.com^$removeparam=segment
