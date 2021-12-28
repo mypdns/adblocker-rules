@@ -127,6 +127,7 @@ element14.com##.e14-cookie-directive
 ! I.
 ||cookieapi*.incomit.dk^
 ||inran.biz^$important
+imdb.com##.ipc-promptable-base
 
 ! J.
 ||jsdelivr.net/*/js.cookie.min.js$script
