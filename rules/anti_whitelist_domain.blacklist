@@ -119,7 +119,7 @@
 @@||googleapis.com/gweb-uniblog-publish-prod/static/blog/images/google-$domain=blog.google,badfilter
 @@||googleapis.com/hiveweb/img/icon_facebook.svg$domain=hive.im,badfilter
 @@||googleapis.com/hiveweb/img/icon_google.svg$domain=hive.im,badfilter
-@@||googleoptimize.com/optimize.js$script,domain=wallapop.com
+@@||googleoptimize.com/optimize.js$script,domain=wallapop.com,badfilter
 @@||googletagmanager.com/gtm.js$script,domain=vtvgo.vn,badfilter
 @@||gstatic.com/recaptcha/$badfilter
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|api.screen9.com|bbc.com|blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|crhoy.com|distro.tv|einthusan.tv|embed.comicbook.com|games.usatoday.com|howstuffworks.com|iheart.com|insideedition.com|metacritic.com|missoulian.com|newsweek.com|paralympic.org|player.abacast.net|player.earthtv.com|player.performgroup.com|popculture.com|tdn.com|truvid.com|zeebiz.com,badfilter
