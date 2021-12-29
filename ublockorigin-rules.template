@@ -143,3 +143,7 @@
 
 !------- @migueldemoura ublock-umatrix-rulesets -----------------------!
 %include https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/uBlock/list%
+
+!------- @Piperun's IP-Logger Filter ----------------------------------!
+! License: GNU General Public License v2.0
+%include https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist%
