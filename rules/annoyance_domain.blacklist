@@ -209,7 +209,7 @@ twitch.tv##.channel-panels-container
 twitch.tv##.extension-view__iframe
 twitch.tv##.front-page-carousel
 ||tv2net.zendesk.com^$script
-themoviedb.org##.scroller.recommendations.panel
+themoviedb.org##[class*="recommendations"]
 
 ! U.
 
