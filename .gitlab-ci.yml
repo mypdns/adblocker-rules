@@ -18,10 +18,9 @@ after_script:
   - echo -e "After script section...\n"
   - git status
   - git add _public/blockrules.txt
-  - git commit -m "AdBlocker list updated. BuildID $CI_JOB_ID"
+  - git commit -m "AdBlocker list updated. BuildID $CI_JOB_ID skip-ci"
   - git status
   - git push "https://mypdns:${spirillen_CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
-  - ls -lha && ls -lha _public/
 
 run:
   stage: build
