@@ -32,13 +32,30 @@
 ! Versus any other project I participates to, this is more lazy and
 ! >>If it smells like a fish, it's probably a fish<<
 !
+!------- Adult Annoyance blocking filters -----------------------------!
+%include ublockorigin-rules:rules/adult_domain.blacklist%
+%include ublockorigin-rules:rules/adult_rule.blacklist%
+
 !------- Advert blocking filters --------------------------------------!
 %include ublockorigin-rules:rules/adware_domain.blacklist%
 %include ublockorigin-rules:rules/adware_rule.blacklist%
 
+!------- Annoyance rules filters --------------------------------------!
+%include ublockorigin-rules:rules/annoyance_domain.blacklist%
+%include ublockorigin-rules:rules/annoyance_rule.blacklist%
+!%include ublockorigin-rules:rules/noise.txt%
+
 !------- Anti-Social List ---------------------------------------------!
 %include ublockorigin-rules:rules/anti_social_domain.blacklist%
 %include ublockorigin-rules:rules/anti_social_rule.blacklist%
+
+!------- Anti White ---------------------------------------------------!
+%include ublockorigin-rules:rules/anti_whitelist_domain.blacklist%
+%include ublockorigin-rules:rules/anti_whitelist_rule.blacklist%
+
+!------- Cookie rules filters ---------------------------------!
+%include ublockorigin-rules:rules/cookie_domain.blacklist%
+%include ublockorigin-rules:rules/cookie_rule.blacklist%
 
 !------- SpyWare List -------------------------------------------------!
 %include ublockorigin-rules:rules/spyware_domain.blacklist%
@@ -47,23 +64,6 @@
 !------- White List ---------------------------------------------------!
 %include ublockorigin-rules:rules/whitelist_domain.whitelist%
 %include ublockorigin-rules:rules/whitelist_rule.whitelist%
-
-!------- Anti White ---------------------------------------------------!
-%include ublockorigin-rules:rules/anti_whitelist_domain.blacklist%
-%include ublockorigin-rules:rules/anti_whitelist_rule.blacklist%
-
-!------- Adult Annoyance blocking filters -----------------------------!
-%include ublockorigin-rules:rules/adult_domain.blacklist%
-%include ublockorigin-rules:rules/adult_rule.blacklist%
-
-!------- General Global rules filters ---------------------------------!
-%include ublockorigin-rules:rules/annoyance_domain.blacklist%
-%include ublockorigin-rules:rules/annoyance_rule.blacklist%
-%include ublockorigin-rules:rules/cookie_domain.blacklist%
-%include ublockorigin-rules:rules/cookie_rule.blacklist%
-
-!------- Noise Filters ------------------------------------------------!
-! %include ublockorigin-rules:rules/noise.txt%
 
 !------- @Yuki2718 many Filters ---------------------------------------!
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/anti-allowlist.txt%

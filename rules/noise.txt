@@ -1,3 +1,6 @@
+[Adblock Plus 2.0]
+! Title: Spirillen's – Noise Filters
+! Expires: 1 hour
 ! List url:
 ! https://mypdns.org/my-external-stuff/ublockorigin-rules/-/tree/master/rules/noise.txt
 !
