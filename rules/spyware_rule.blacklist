@@ -84,6 +84,7 @@
 /fingerprint.js$script,important
 /fingerprint2.js$script,important
 ##[href^="https://www.facebook.com"]
+##.facebook-login
 
 ! G.
 -google-tag-manager.$script,important
@@ -94,6 +95,7 @@
 /google-universal-analytics-$important
 /gtm.js$script
 ##a[href^="https://google.com"]
+##.google-login
 
 ! H.
 ||hyperlnk.xyz^$script,3p
