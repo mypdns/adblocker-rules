@@ -19,7 +19,7 @@ after_script:
   - echo "For example you might do some clean up here"
   - echo -e "After script section...\n"
   - git add .
-  - git commit -m "AdBlocker list updated. BuildID\: $CI_JOB_ID"
+  - git commit -m '"AdBlocker list updated. BuildID: $CI_JOB_ID"'
   - git status
   - git push "https://mypdns:${MYPDNS_CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
 
