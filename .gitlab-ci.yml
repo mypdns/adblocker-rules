@@ -1,0 +1,29 @@
+image: python:latest
+
+variables:
+  PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
+
+before_script:
+  - python --version  # For debugging
+  - if [ -f requirements.txt ]; then pip install --no-cache -I -r requirements.txt; fi
+#   - pip install virtualenv
+#   - virtualenv venv
+#   - source venv/bin/activate
+
+run:
+  stage: build
+  script:
+    flrender -v -i ublockorigin-rules=. ublockorigin-rules.template _public/blockrules.txt
+
+pages:
+  stage: deploy
+  script:
+    - mkdir .public
+    - cp -r _public/ .public/
+    - rm -rf public
+    - mv .public public
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
