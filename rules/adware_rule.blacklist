@@ -68,13 +68,14 @@ love4porn.com##^.ads
 /blockadblock.js$script,important
 ##.banner
 ##.banner-container
+##.botad$domain=here.xxx
 ###banner-ad
 ###BannerContainer
 ||/banners/*$domain=freefaucet.io,generichide
-bestwifeporn.com,pxrnxx.xyz##.bx-wrapper
 1on1-webcams.com,xlovecam.com##.bottomSlidebar
+babesandstars.com,castingcouch-x.com,cum4k.com,definebabe.com,holed.com,lubed.com,passion-hd.com,pornhubpremium.com,pornpros.com,spyfam.com##.btn-block
+bestwifeporn.com,pxrnxx.xyz##.bx-wrapper
 gamemodding.com##.big_banner
-##.botad$domain=here.xxx
 
 ! C.
 .com/ads-
@@ -90,6 +91,7 @@ celebjihad.com,nudeplaymates.net,pornhub.net.co##center
 ##.ezoic-ad
 ##[id="exo-native"]
 ||ads.exoclick.com/ad_track.js$script,important
+cum4k.com,passion-hd.com,holed.com,pornpros.com##.epoch-box
 
 ! F.
 
@@ -109,6 +111,7 @@ fetlifeblog.com,instakink.com,instasexyblog.com##a[href^="/go4/"]
 /js/popper.min.js$important
 /js/propellerads_tag_onload.js
 /js/propellerads_tag.js
+babesandstars.com,castingcouch-x.com,cum4k.com,definebabe.com,holed.com,lubed.com,passion-hd.com,pornhubpremium.com,pornpros.com,spyfam.com##[class*="join"]
 
 ! K.
 
@@ -139,6 +142,8 @@ camigula.com##.model-affiliate
 ##.push-subscription-prompt
 ###push-notifications
 ##popwindow
+cum4k.com,passion-hd.com,holed.com,pornpros.com##.payment-popup
+cum4k.com,passion-hd.com,holed.com,pornpros.com##.popup-content
 
 ! Q.
 
@@ -155,11 +160,14 @@ xxxjavmovies.com##.right-player-col
 /?spot_id=$script
 ##.side-bar-ad
 ##.spot-horizontal
+cum4k.com,passion-hd.com,holed.com,pornpros.com##.sale-special-container
 xjavhdporn.com##.sidebar
 
 ! T.
 ##.text_adv
 ##[href*="trustpilot.com/"]
+cum4k.com,passion-hd.com,holed.com,pornpros.com##.t2019-button
+cum4k.com,passion-hd.com,holed.com,pornpros.com###t2019-previews
 xxxjavmovies.com##.top-list
 xxxjavporn.cam###tracking-url
 
