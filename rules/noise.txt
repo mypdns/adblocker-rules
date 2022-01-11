@@ -107,10 +107,11 @@ imdb.com###titleVideoStrip
 subscene.com##.imdb
 
 ! T.
-!themoviedb.org##.actions
+themoviedb.org##.actions
+themoviedb.org##.join
 themoviedb.org##.no_border.card.video
-!themoviedb.org##.recommendations
 themoviedb.org##.play_trailer
+themoviedb.org##.recommendations
 twitch.tv##.community-highlight
 twitch.tv##.eXenLC
 twitch.tv##.front-page-carousel
