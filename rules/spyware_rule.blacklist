@@ -127,7 +127,7 @@
 ! P.
 /ping/gamp
 /ping/view
-/piwik.php$script,important
+/piwik.$script,important
 
 ! Q.
 
