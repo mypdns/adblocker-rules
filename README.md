@@ -151,10 +151,6 @@ Our HTML front end is <https://my-external-stuff.github.io/ublockorigin-rules/>
 ## Subscribe to the rules
 [Click here to activate these rules in you uBlock Origin][Subscribe]
 
-If the above link did not work, try [this one](https://subscribe.adblockplus.org/?location=https://my-external-stuff.github.io/ublockorigin-rules/blockrules.txt&title=Spirillens%20%E2%80%93%20Adblock%20Rules)
-
-Click here to <a href="abp:subscribe?location=https://my-external-stuff.github.io/uBlock-Origin-Rules/blockrules.txt&title=Spirillens%20–%20Adblock%20Rules" target="_top" title="Subscibe this list to uBlockOrigin">activate</a>
-in uBloc Origin
 
 ## External resources
 @Yuki2718 [/adblock](https://github.com/Yuki2718/adblock) (Pretty much
