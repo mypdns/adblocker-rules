@@ -88,6 +88,7 @@ imdb.com##.media-viewer__media-sheet
 imdb.com##.pro_logo_main_title
 imdb.com##.titleReviewBar
 imdb.com##.uc-add-wl-button-icon--add
+imdb.com##[class*="EmbeddableSection"]
 imdb.com##[href^="https://pro.imdb.com/"]
 imdb.com###add-photos-pro
 imdb.com###maindetails_sidebar_bottom
@@ -108,6 +109,7 @@ subscene.com##.imdb
 
 ! T.
 themoviedb.org##.actions
+themoviedb.org##.card.video
 themoviedb.org##.join
 themoviedb.org##.no_border.card.video
 themoviedb.org##.play_trailer
