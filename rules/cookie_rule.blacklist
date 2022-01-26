@@ -94,6 +94,8 @@
 ##.Gamma_Component.base.Cms_CookieConsent
 ###gdpr_message
 ###gdpr_overflow
+###gdpr-cookie-message
+###gdrpNotification
 svdelos.com##[class^="gdpr-"]
 
 ! H.
@@ -115,8 +117,10 @@ microsoft.com##.modal-dialog
 ##.notice--cookie
 ##.notice-cookies
 ###nextoutils_gestionCookies
+###notice-cookie-block
 
 ! O.
+###onetrust-consent-sdk
 
 ! P.
 ##.pmc-cookie-consent-block
