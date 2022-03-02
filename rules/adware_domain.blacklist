@@ -163,11 +163,12 @@ rule34.xxx##[href^="https://kanako.store/"]
 subscene.com##.details
 
 ! T.
-!||txxx.com/broomstick/ Brakes the frontpage.
 ||t.uc.cn^
 ||tapad.app^
 ||tv2a.dk/ads/
+!||txxx.com/broomstick/ Brakes the frontpage.
 ||txxx.com/diarrhoeatablets/
+thehollywoodgossip.com##.feed_holder
 themoviedb.org##.ott_offer
 thesun.co.uk##.widget-sticky
 trustpulse.com##.Campaign__innerWrapper.birmingham-c-wrapper
