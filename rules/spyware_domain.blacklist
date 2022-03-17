@@ -86,7 +86,7 @@ danskespil.dk###ensModalWrapper
 ||dyncdn.me/static/*/js/scrollspy.min.js$script,important
 ||dyncdn.me/static/*/js/showads.js$script,important
 ||dyncdn.me/static/*/js/expla*.js$script,important
-||ddos-guard.net^$important
+||check.ddos-guard.net^$important
 
 ! E.
 element14.com##.e14-cookie-directive
