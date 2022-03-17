@@ -98,6 +98,7 @@
 @@||g.doubleclick.net/gampad/ads?*wallpaper_1$xmlhttprequest,domain=spiegel.de,badfilter
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=spiegel.de,badfilter
 @@||g.doubleclick.net/tag/js/gpt.js$domain=spiegel.de,badfilter
+@@||check.ddos-guard.net/check.js$script,badfilter
 
 ! E.
 
