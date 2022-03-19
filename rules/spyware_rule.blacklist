@@ -99,8 +99,9 @@
 /google-analytics-for-wordpress/$script
 /google-universal-analytics-$important
 /gtm.js$script
-##a[href^="https://google.com"]
 ##.google-login
+##[id^="gdpr-"]
+##a[href^="https://google.com"]
 
 ! H.
 ||hyperlnk.xyz^$script,3p
