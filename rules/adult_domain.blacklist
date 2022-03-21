@@ -93,6 +93,8 @@ bangbros.com##.hidden-larger-tablet
 bangbros.com##.payment-options-wrapper
 bestpornfinder.net##.boxzilla-gif
 bestwebcamsites.com##.ntfc-bar
+bimbolive.com##.fancy_popup
+bimbolive.com##.member_join_popup
 bubbaporn.com##.productora
 
 ! C.
@@ -141,6 +143,7 @@ fakestube.com##p:nth-of-type(1)
 fakestube.com##p:nth-of-type(2)
 fakestube.com##p:nth-of-type(3)
 fakestube.com##p:nth-of-type(4)
+familyhookups.com##[id^="lightboxOverlay"]
 familyxxx.com##.lastPadding
 familyxxx.com##.unlock
 fapster.xxx##.fp-embed
@@ -189,14 +192,14 @@ hushlove.com###notice
 ||imgking.co^
 ||imgkings.com^$image
 ||imgprime.com^$image
+incestpornfamily.com##.pg_frame_modal
+incestpornfamily.com###slideApple
 indianpornmovies.info##.bottom_player_a
 indianpornmovies.info##.Hrz_Bns_Block
 indianpornmovies.info##.Player_Bns
 indianpornmovies.info##.Sub_Title
 indiansexmovies.com##.col-md-4
 indiansexmovies.com##.colored-block-white-gray
-incestpornfamily.com###slideApple
-incestpornfamily.com##.pg_frame_modal
 
 ! J.
 javloft.com##.embed-responsive
@@ -308,7 +311,17 @@ rule34.xxx##.horizontalFlexWithMargins
 ||streamtape.com/adult2.js$script,important
 ||stripst.com^$important
 ||szexkepek.net/webfile.php$image
-
+stepsiblingscaught.com##.form-join
+stepsiblingscaught.com##.header-banner
+stepsiblingscaught.com##.header-banner-wrapper
+stepsiblingscaught.com##.hover-join
+stepsiblingscaught.com##.masonry-ltr.tube-grid.container-fluid.content-grid
+stepsiblingscaught.com##.mb-3.container
+stepsiblingscaught.com##.my-3.container
+stepsiblingscaught.com##.series-banner
+stepsiblingscaught.com##.site-info-banner
+stepsiblingscaught.com##.watch-page-video-container > .container-fluid
+stepsiblingscaught.com##div.content-grid-header.position-relative.py-md-2.pt-2.mt-3.mb-2.content-grid-ribbon:nth-of-type(8)
 pornovideo.szex.hu###\31 8kapu
 sasisa.ru##.c2
 sexual-teens.com##div.container-fluid:nth-of-type(2) > .text-center.mobile-thumbs > a[href^="go.php"]:nth-of-type(2)
