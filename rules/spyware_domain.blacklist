@@ -105,6 +105,7 @@ element14.com##.e14-cookie-directive
 ||collector.githubapp.com^
 ||fonts.googleapis.com^$stylesheet
 ||fonts.gstatic.com^$important
+||geologie.*^
 ||github.com/_alive$xhr,important
 ||github.com/_private/browser/stats
 ||github.com/_ws$xhr,important
@@ -114,6 +115,7 @@ element14.com##.e14-cookie-directive
 ||github.githubassets.com/favicon.ico$image
 ||gitlab.com/-/cable$websocket,important
 ||google-analytics.com^$important
+||google.*^*recaptcha/$important
 ||google.*^$important
 ||google.com/recaptcha/$important,script
 ||googleapis.com^$important
@@ -191,6 +193,7 @@ stackoverflow.com##.facebook-login
 stackoverflow.com##.google-login
 
 ! T.
+||reddit.com/?request_timestamp=$important
 ||tv2a.dk/analytics/gallup/spring.js$script
 ||tv2a.dk/oil/$script
 

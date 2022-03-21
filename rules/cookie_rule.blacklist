@@ -50,6 +50,7 @@
 ###accept-cookies
 
 ! B.
+brack.ch###b2c-consent
 
 ! C.
 /cookie_accessor.min.js$script,important
