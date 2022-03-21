@@ -92,12 +92,13 @@ blackbuttpictures.com##[href*="/gogo/"]
 crocotube.com##.ct-video-title-sponsor
 
 ! D.
+||dr.dk/DR.Common.Banner.Ads/$xmlhttprequest
 devdungeon.com###block-block-14
 devdungeon.com###block-block-15
 devdungeon.com###block-block-6
 dmi.dk#?#.large-6:-abp-has(:scope > .section-1-ad)
 dmi.dk##.add-container
-||dr.dk/DR.Common.Banner.Ads/$xmlhttprequest
+dnsbl.info##.ja-gadget-virtual-assistant-subtle
 
 ! E.
 element14.com##.webinarPopup
@@ -141,6 +142,7 @@ linuxconfig.org##.custom
 
 ! P.
 ||parklogic.com^$important
+||popads.net^$important
 ||popcash.net^$important
 ||pubmatic.com^$important
 publicwww.com##.container > .service-wrapper
