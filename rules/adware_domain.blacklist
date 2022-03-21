@@ -60,17 +60,23 @@
 ! 9.
 
 ! A.
+||7kgd3hs1oh.execute-api.us-east-1.amazonaws.com^
+||add0n.com^
 ||adexplode.pw^
 ||adultsense.com^
 ||adultsense.info^
 ||adultsense.net^
 ||advertising.com^$important
+||amberdub.com^
 ||anymad.com^$important
+||auburn9819.com^
 ||sqs.us-east-1.amazonaws.com^$important
 ||statics-marketingsites-wcus-ms-com.akamaized.net^
 
 ! B.
+||bcdn87454132.com^
 ||bestcontentprogram.top^
+||bestcontentprovider.top^$3p
 ||bisonads.com^$important
 ||blkditsup.com^
 bilbasen.dk##.clearfix.row
@@ -101,6 +107,7 @@ dmi.dk##.add-container
 dnsbl.info##.ja-gadget-virtual-assistant-subtle
 
 ! E.
+||a.eachporn.com^
 element14.com##.webinarPopup
 
 ! F.
@@ -144,6 +151,7 @@ linuxconfig.org##.custom
 ||parklogic.com^$important
 ||popads.net^$important
 ||popcash.net^$important
+||pornogoogle.info^
 ||pubmatic.com^$important
 publicwww.com##.container > .service-wrapper
 publicwww.com##.container > div.row > div.col-sm-6.col-md-6
@@ -161,6 +169,7 @@ rule34.xxx##[href^="https://kanako.store/"]
 ! S.
 ##.socialShareMobile
 ||smartcj.com^$important
+||ssbyysdaj.com^
 ||strongcapitalads.ga^$important
 stackoverflow.com##.js-freemium-cta
 subscene.com##.details
