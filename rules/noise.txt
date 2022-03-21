@@ -88,7 +88,9 @@ imdb.com##.media-viewer__media-sheet
 imdb.com##.pro_logo_main_title
 imdb.com##.titleReviewBar
 imdb.com##.uc-add-wl-button-icon--add
+imdb.com##[class*="_EmbeddableIFrame-"]
 imdb.com##[class*="EmbeddableSection"]
+imdb.com##[class*="ProLink"]
 imdb.com##[href^="https://pro.imdb.com/"]
 imdb.com###add-photos-pro
 imdb.com###maindetails_sidebar_bottom

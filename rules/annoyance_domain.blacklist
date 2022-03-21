@@ -72,7 +72,14 @@ cyberciti.biz###card-149799
 cyberciti.biz###text-384338391
 
 ! D.
+dba.dk##.alert
+dba.dk##.facebookCounter
+dba.dk##.foot
+dba.dk##.save-search
+dba.dk###RelatedListingsByExternalId
+dba.dk###TopGalleryFeature
 dba.dk##div[id="dbashopping-widget"]
+dba.dk##nav.span3:nth-of-type(3)
 devdungeon.com##.col-sm-3
 devdungeon.com##.footer
 dmi.dk##.footer-app

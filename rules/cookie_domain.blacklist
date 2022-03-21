@@ -81,6 +81,7 @@ google.*##.Fgvgjc
 ! L.
 
 ! M.
+matrix.org##.notyf
 mxtoolbox.com##.in.fade.modal
 mxtoolbox.com###ctl00_ContentPlaceHolder1_panelPitch
 
@@ -112,7 +113,8 @@ ubuntu.com##.cookie-policy
 ! X.
 
 ! Y.
-youtube.com##.v2-dialog
+yahoo.com##[class^="consent-"]
 youtube.com##.opened
+youtube.com##.v2-dialog
 
 ! Z.

@@ -72,6 +72,7 @@
 ##.cookies-notice
 ##.cookies-notification:not(html):not(body)
 ##.cookies-popup
+##[class^="consent-"]
 ###catapult-cookie-bar
 ###cookie_box
 ###cookie-notice
@@ -92,6 +93,7 @@
 
 ! G.
 ##.Gamma_Component.base.Cms_CookieConsent
+##[id^="gdpr-"]
 ###gdpr_message
 ###gdpr_overflow
 ###gdpr-cookie-message

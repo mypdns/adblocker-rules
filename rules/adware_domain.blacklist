@@ -162,6 +162,7 @@ rule34.xxx##[href^="https://kanako.store/"]
 ||strongcapitalads.ga^$important
 stackoverflow.com##.js-freemium-cta
 subscene.com##.details
+subscene.com##.sustain
 
 ! T.
 ||t.uc.cn^
