@@ -95,6 +95,7 @@ brack.ch###b2c-consent
 ! G.
 ##.Gamma_Component.base.Cms_CookieConsent
 ##[id^="gdpr-"]
+archive.org##[id^="gdpr-"]
 ###gdpr_message
 ###gdpr_overflow
 ###gdpr-cookie-message
