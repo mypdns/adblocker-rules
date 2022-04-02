@@ -219,6 +219,9 @@ forum.opnsense.org##.news
 scandalplanet.com###get-full-access
 similarweb.com##.data-solution-banner
 similarweb.com##[class$="__upgrade"]
+stackoverflow.com##.js-big-bar
+stackoverflow.com##.ps-sticky
+stackoverflow.com##.s-popover
 
 ! T.
 twitch.tv##.channel-panels-container
