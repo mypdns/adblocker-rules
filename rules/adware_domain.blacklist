@@ -171,7 +171,9 @@ rule34.xxx##[href^="https://kanako.store/"]
 ||smartcj.com^$important
 ||ssbyysdaj.com^
 ||strongcapitalads.ga^$important
+! See cookie rules stackoverflow.com##.js-consent-banner
 stackoverflow.com##.js-freemium-cta
+stackoverflow.com##.s-popover
 subscene.com##.details
 subscene.com##.sustain
 
