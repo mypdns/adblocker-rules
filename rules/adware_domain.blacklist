@@ -161,6 +161,7 @@ publicwww.com##.container > div.row > div.col-sm-6.col-md-6
 
 ! R.
 ||redirect-ads.com^
+reck.dk##.notice-success.notice
 ripoffreport.com##.action-bar.row
 ripoffreport.com###live-popover
 rule34.xxx##[href^="https://buymyshit.moneygrubbingwhore.com/"]
@@ -172,8 +173,8 @@ rule34.xxx##[href^="https://kanako.store/"]
 ||ssbyysdaj.com^
 ||strongcapitalads.ga^$important
 ! See cookie rules stackoverflow.com##.js-consent-banner
-stackoverflow.com##.js-freemium-cta
 stackoverflow.com##.s-popover
+stackoverflow.com##.js-consent-banner
 subscene.com##.details
 subscene.com##.sustain
 

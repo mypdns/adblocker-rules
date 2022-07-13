@@ -220,11 +220,12 @@ forum.opnsense.org##.news
 scandalplanet.com###get-full-access
 
 ! T.
+||tv2net.zendesk.com^$script
+themoviedb.org##[class*="recommendations"]
 twitch.tv##.channel-panels-container
 twitch.tv##.extension-view__iframe
 twitch.tv##.front-page-carousel
-||tv2net.zendesk.com^$script
-themoviedb.org##[class*="recommendations"]
+twitter.com##.r-184en5c.r-ipm5af.r-zchlnj.r-u8s1d.r-1d2f490
 
 ! U.
 

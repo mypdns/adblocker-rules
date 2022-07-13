@@ -94,6 +94,7 @@ brack.ch###b2c-consent
 
 ! G.
 ##.Gamma_Component.base.Cms_CookieConsent
+##.gdpr-bottom-banner--new
 ##[id^="gdpr-"]
 ###gdpr_message
 ###gdpr_overflow
