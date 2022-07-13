@@ -106,6 +106,15 @@ imdb.com###titleVideoStrip
 # Adware (chat) noice
 ||solvemate.com^
 
+! P.
+! protonmail.com
+mail.protonmail.com##li.flex-item-noshrink:nth-of-type(1)
+account.protonmail.com##.p0-5
+
+! Q.
+
+! R.
+
 ! S.
 subscene.com##.imdb
 
@@ -123,7 +132,11 @@ twitch.tv##.gqzYpA
 twitch.tv##.headliner-ad
 twitch.tv##.top-bar
 
-! P.
-! protonmail.com
-mail.protonmail.com##li.flex-item-noshrink:nth-of-type(1)
-account.protonmail.com##.p0-5
+! U.
+
+! V.
+
+! X.
+
+! Y.
+youtube.com##ytd-popup-container.ytd-app.style-scope
