@@ -38,6 +38,11 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: ${{ matrix.python_version }}
+    
+      - name:  Python version
+        run: |
+            python --version
+            python3 --version
 
       - name: Install dependencies
         run: |
