@@ -84,12 +84,13 @@
 
 ! F.
 /feedburner.png$domain=opensourceforu.com,image
-/fingerprint.min.js$script,important
-/fingerprint2.min.js$script,important
 /fingerprint.js$script,important
+/fingerprint.min.js$script,important
 /fingerprint2.js$script,important
-##[href^="https://www.facebook.com"]
+/fingerprint2.min.js$script,important
+/forwardAdnuntiusPixelRequest$xhr,domain=eetgroup.com
 ##.facebook-login
+##[href^="https://www.facebook.com"]
 
 ! G.
 -google-tag-manager.$script,important
