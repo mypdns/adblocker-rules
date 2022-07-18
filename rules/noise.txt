@@ -57,10 +57,13 @@ brutalclips.com##.carousel-fade
 ||d1zcggttmijv1z.cloudfront.net^$script,important
 
 ! D.
-duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[href^="https://www.youtube.com/watch"]
-duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.results--sidebar
+||dr.dk/drdk-ensighten/*$script,1p
+||dr.dk/feature/drn-corona-frontpage-widget/*$1p
+||dr.dk/tjenester/corona-api/*$1p
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.footer
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.results--sidebar
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[class*="feedback"]
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[href^="https://www.youtube.com/watch"]
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(4)
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(5)
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(6)
