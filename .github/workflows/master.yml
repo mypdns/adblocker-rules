@@ -39,10 +39,8 @@ jobs:
         with:
           python-version: ${{ matrix.python_version }}
     
-      - name:  Python version
-        run: |
-            python --version
-            python3 --version
+      - name:  Get latest FOP
+        run: wget -O FOP.py "https://raw.githubusercontent.com/easylist/easylist/master/FOP.py"
 
       - name: Install dependencies
         run: |
