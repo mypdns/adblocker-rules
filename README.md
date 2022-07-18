@@ -41,7 +41,7 @@ following:
   in full. ***The grace period is excised***.
 
 `github.com` is in *only* a full backup of
-https://mypdns.org/my-external-stuff/ublockorigin-rules and solely used
+https://spirillen.atlassian.net/browse/UBOR and solely used
 to host the [webfront](#webfront).  
 We do not operate at Github do to there anti-privacy terms of usage.
 
@@ -177,9 +177,9 @@ Thanks to @Yuki2718, @THEtomaso, @krystian3w and everyone else who is
 spreading the knowledge of how rules should be made :smiley:
 
 <!-- Own Links -->
-[issues]: https://mypdns.org/my-external-stuff/ublockorigin-rules/-/issues
-[commits]: https://mypdns.org/my-external-stuff/ublockorigin-rules/commits/master
-[support]: https://mypdns.org/MypDNS/support/-/issues
+[issues]: https://spirillen.atlassian.net/jira/software/c/projects/UBOR/issues
+[commits]: https://gitlab.com/my-external-stuff/ublock-origin-rules
+[support]: https://spirillen.atlassian.net/jira/software/c/projects/UBOR/pages
 [Subscribe]: abp:subscribe?location=https://my-external-stuff.github.io/ublockorigin-rules/blockrules.txt&title=Spirillens%20%E2%80%93%20Adblock%20Rules
 
 <!-- External Links -->

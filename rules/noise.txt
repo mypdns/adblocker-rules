@@ -2,17 +2,17 @@
 ! Title: Spirillen's – Noise Filters
 ! Expires: 1 hour
 ! List url:
-! https://mypdns.org/my-external-stuff/ublockorigin-rules/-/tree/master/rules/noise.txt
+! https://spirillen.atlassian.net/browse/UBOR/-/tree/master/rules/noise.txt
 !
 ! License:
 ! https://mypdns.org/spirillen/ublockorigin-rules/-/blob/master/LICENSEE
-! Homepage: https://mypdns.org/my-external-stuff/ublockorigin-rules/
+! Homepage: https://spirillen.atlassian.net/browse/UBOR/
 !
 ! Please report any unblocked content or problems on the Issue board.
 ! GitHub issues:
-! - https://mypdns.org/my-external-stuff/ublockorigin-rules/issues
+! - https://spirillen.atlassian.net/browse/UBOR/issues
 ! Merge Request:
-! - https://mypdns.org/my-external-stuff/ublockorigin-rules/-/merge_requests
+! - https://spirillen.atlassian.net/browse/UBOR/-/merge_requests
 ! Email:
 !   - None
 ! CopyRight:
