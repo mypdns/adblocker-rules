@@ -84,7 +84,7 @@ g.alicdn.com/woodpeckerx/jssdk/wpkReporter.js
 ||disqus.com^$subdocument
 ||drtuber.*/ajax/log/*$important
 danskespil.dk###ensModalWrapper
-||dr.dk/drWebStat/$script
+||dr.dk/drWebStat/
 ||dyncdn.me/static/*/js/scrollspy.min.js$script,important
 ||dyncdn.me/static/*/js/showads.js$script,important
 ||dyncdn.me/static/*/js/expla*.js$script,important
