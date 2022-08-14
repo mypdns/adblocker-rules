@@ -133,6 +133,10 @@ element14.com##.e14-cookie-directive
 ! H.
 ||hcaptcha.com^$important
 ||hivetechnologylabs.com^$other,important,3p
+||smetrics.hpe.com^
+||etrack.ext.hpe.com^
+hpe.com##.nxt-share-widget
+hpe.com##.footer-social
 
 ! I.
 ||cookieapi*.incomit.dk^
