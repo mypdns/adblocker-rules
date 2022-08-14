@@ -78,6 +78,7 @@ g.alicdn.com/woodpeckerx/jssdk/wpkReporter.js
 ||clarity.ms^
 ||cloudflareinsights.com`
 ||cxense.com^$important
+||crowdin.com$3p,important
 
 ! D.
 ||check.ddos-guard.net^$important
