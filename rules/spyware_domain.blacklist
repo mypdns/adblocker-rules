@@ -164,6 +164,7 @@ listenbrainz.org###brainz-player
 ||nabble.com/trk0.js$script
 ||nabble.com/trk5.js$script
 ||netu.tv^
+||track.nzz.ch/cre-1.0/tracking/*$script,1p,important
 
 ! O.
 ||onetrust.com^$important
