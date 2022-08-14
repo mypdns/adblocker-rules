@@ -101,6 +101,7 @@ brack.ch###b2c-consent
 ###gdpr_overflow
 ###gdpr-cookie-message
 ###gdrpNotification
+archive.org##[id^="gdpr-"]
 svdelos.com##[class^="gdpr-"]
 
 ! H.
