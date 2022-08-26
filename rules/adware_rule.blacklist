@@ -140,6 +140,7 @@ bfore.ai##.notify-box
 ##.overlay
 
 ! P.
+/plugins/social-pug/*
 /pop_desc.js$domain=here.xxx
 /pop.js$script,domain=javside.com|popads.net
 /prebid.$domain=~prebid.org
@@ -188,9 +189,10 @@ xxxjavporn.cam###tracking-url
 2016porno.com##.videoright
 
 ! W.
+/wp-content/plugins/mailchimp/*
+##[href^="https://widget.watchmondo.com/"]
 ##a[href^="https://widget.watchmondo.com/home/redirectto"]
 thesun.co.uk##.widget-sticky
-##[href^="https://widget.watchmondo.com/"]
 
 ! X.
 xxxjavmovies.com##.bns-bl
