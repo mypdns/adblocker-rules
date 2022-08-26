@@ -147,6 +147,7 @@
 /snowplow/*$script
 
 ! T.
+/track/view/*
 ##[href^="https://twitter.com"]
 
 ! U.

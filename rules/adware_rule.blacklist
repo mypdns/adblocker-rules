@@ -142,6 +142,7 @@ bfore.ai##.notify-box
 ! P.
 /pop_desc.js$domain=here.xxx
 /pop.js$script,domain=javside.com|popads.net
+/prebid.$domain=~prebid.org
 ##.post__inarticle-ad-template-mobile
 ##.promo-message
 ##.push-subscription-prompt
