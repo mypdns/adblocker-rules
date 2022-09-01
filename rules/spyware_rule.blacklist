@@ -142,9 +142,10 @@
 /rank/html/rank.gif$image,important
 
 ! S.
-/socket-worker-*.js$script,domain=github.com
 /SentryInstance-$important
 /snowplow/*$script
+/socket-worker-*.js$script,domain=github.com
+/statisk/*$1p,domain=dr.dk
 
 ! T.
 /track/view/*
