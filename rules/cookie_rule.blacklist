@@ -77,6 +77,7 @@ brack.ch###b2c-consent
 ##.cookies-popup
 ##[class^="consent-"]
 ###catapult-cookie-bar
+###cookie_banner-wrapper
 ###cookie_box
 ###cookie-notice
 ###cookie.notice
@@ -135,6 +136,7 @@ microsoft.com##.modal-dialog
 
 ! P.
 ##.pmc-cookie-consent-block
+inhope.org##.popup
 ##.popup--dark
 ##.popup-consent
 ##.product-suggest
