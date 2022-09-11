@@ -142,6 +142,7 @@
 /rank/html/rank.gif$image,important
 
 ! S.
+/?sentry_key=
 /SentryInstance-$important
 /snowplow/*$script
 /socket-worker-*.js$script,domain=github.com
