@@ -1,5 +1,5 @@
 ! List url:
-! https://mypdns.org/my-privacy-dns/adblocker-rules/-/tree/master/rulesnew_filter.template
+! https://mypdns.org/my-privacy-dns/adblocker-rules/-/tree/master/domain_piracy_rules.blacklist
 !
 ! License:
 ! https://mypdns.org/my-privacy-dns/adblocker-rules/-/blob/master/LICENSE
@@ -80,6 +80,7 @@
 ! R.
 
 ! S.
+/scripts/js3caf.js$script,important
 
 ! T.
 

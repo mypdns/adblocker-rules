@@ -2,22 +2,24 @@
 ! Title: Spirillen's – Noise Filters
 ! Expires: 1 hour
 ! List url:
-! https://spirillen.atlassian.net/browse/UBOR/-/tree/master/rules/noise.txt
+! https://mypdns.org/my-privacy-dns/adblocker-rules/-/tree/master/rulesnoise.txt
 !
 ! License:
-! https://mypdns.org/spirillen/ublockorigin-rules/-/blob/master/LICENSEE
-! Homepage: https://spirillen.atlassian.net/browse/UBOR/
+! https://mypdns.org/my-privacy-dns/adblocker-rules/-/blob/master/LICENSE
+! Homepage: https://mypdns.org/my-privacy-dns/adblocker-rules/
 !
 ! Please report any unblocked content or problems on the Issue board.
 ! GitHub issues:
-! - https://spirillen.atlassian.net/browse/UBOR/issues
+! - https://mypdns.org/my-privacy-dns/matrix/-/issues
 ! Merge Request:
-! - https://spirillen.atlassian.net/browse/UBOR/-/merge_requests
+! - https://mypdns.org/my-privacy-dns/adblocker-rules/-/merge_requests
+!
 ! Email:
 !   - None
+!
 ! CopyRight:
 !   - https://mypdns.org/spirillen
-!   - https://archive.mypdns.org/p/Spirillen/
+!   - https://gitlab.com/spirillen
 !   - https://github.com/spirillen
 !   - https://bitbucket.org/spirillen/
 !   - The individual lists maintainers

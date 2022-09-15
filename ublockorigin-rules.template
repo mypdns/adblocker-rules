@@ -7,19 +7,20 @@
 !
 ! License:
 ! https://spirillen.atlassian.net/wiki/spaces/UOBR/pages/33102/LICENSE?atlOrigin=eyJpIjoiMWQ5NTc2Yzg2YmM5NDE5M2I0NTQ0ZjBhYzhiOWFmNWMiLCJwIjoiaiJ9
-! Homepage: https://spirillen.atlassian.net/browse/UBOR/
+! Homepage: https://mypdns.org/my-privacy-dns/adblocker-rules/
 !
 ! Please report any unblocked content or problems on the Issue board.
 ! My Privacy DNS issues:
-! - https://spirillen.atlassian.net/browse/UBOR/issues
+! - https://mypdns.org/my-privacy-dns/matrix/-/issues
 ! Merge Request:
-! - https://spirillen.atlassian.net/browse/UBOR/-/merge_requests
+! - https://mypdns.org/my-privacy-dns/adblocker-rules/-/merge_requests
+!
 ! Email:
 !   - jira@spirillen.atlassian.net
 !   - jira@mypdns.atlassian.net
 ! CopyRight:
 !   - https://mypdns.org/spirillen
-!   - https://archive.mypdns.org/p/Spirillen/
+!   - https://gitlab.com/spirillen
 !   - https://github.com/spirillen
 !   - https://gitlab.com/spirillen
 !   - https://bitbucket.org/spirillen/
@@ -56,9 +57,12 @@
 %include ublockorigin-rules:rules/anti_whitelist_domain.blacklist%
 %include ublockorigin-rules:rules/anti_whitelist_rule.blacklist%
 
-!------- Cookie rules filters ---------------------------------!
+!------- Cookie rules filters -----------------------------------------!
 %include ublockorigin-rules:rules/cookie_domain.blacklist%
 %include ublockorigin-rules:rules/cookie_rule.blacklist%
+
+!------- Pirated domain rules filters ---------------------------------!
+%include ublockorigin-rules:domain_piracy_rules.blacklist%
 
 !------- SpyWare List -------------------------------------------------!
 %include ublockorigin-rules:rules/spyware_domain.blacklist%
