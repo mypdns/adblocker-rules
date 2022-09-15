@@ -147,6 +147,7 @@ imdb.com##.ipc-promptable-base
 ! J.
 ||jsdelivr.net/*/js.cookie.min.js$script
 ||jetbrains.com^$third-party,important
+||jetbrains.com^$xhr,3p
 
 ! K.
 ||analytics.kurocore.com^$important
