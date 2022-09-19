@@ -142,23 +142,6 @@ gitlab.com###promote_repository_features
 gumtree.com##.fixed-bottom.gdpr-banner.notification
 webrtc.github.io/adapter/adapter-latest.js
 
-! GitLab (software)
-! Thank you GitLab.com for spamming my domain despite I told you not to in the config
-gitlab.com,mypdns.org##.gl-alert-layout-limited
-gitlab.com,mypdns.org##.gl-alert.gl-mb-6
-gitlab.com,mypdns.org##.gl-line-height-20.gl-py-6.gl-px-8.gl-card
-gitlab.com,mypdns.org##.gl-my-5.gl-alert-tip.gl-alert
-gitlab.com,mypdns.org##.hide.js-explore-groups-landing.content-block.landing.explore-groups
-gitlab.com,mypdns.org##.js-security-newsletter-callout
-gitlab.com,mypdns.org##.show.dropdown-menu-right.dropdown-menu > ul > li > .text-nowrap
-gitlab.com,mypdns.org##^.gl-banner
-gitlab.com,mypdns.org##^.js-autodevops-banner
-gitlab.com,mypdns.org##^.js-broadcast-notification-2
-gitlab.com,mypdns.org##^.js-epics-sidebar-callout
-gitlab.com,mypdns.org##^.js-mr-approval-callout
-gitlab.com,mypdns.org##^[class*="promotion-"]
-! GitLab (software)
-
 ! H.
 ||harald-nyborg.dk/assets/webshop-images/campaigns/weekly/banners/*$image
 harald-nyborg.dk##.frontpage-promotion
