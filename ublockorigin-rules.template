@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
-! Title: Spirillen's – Adblock Rules
+! Title: My Privacy DNS's Adblocker Rules
 ! Expires: 1 hour
 !
 ! List url:
 ! https://my-external-stuff.github.io/ublockorigin-rules/blockrules.txt
 !
 ! License:
-! https://spirillen.atlassian.net/wiki/spaces/UOBR/pages/33102/LICENSE?atlOrigin=eyJpIjoiMWQ5NTc2Yzg2YmM5NDE5M2I0NTQ0ZjBhYzhiOWFmNWMiLCJwIjoiaiJ9
-! Homepage: https://mypdns.org/my-privacy-dns/adblocker-rules/
+! https://mypdns.org/my-privacy-dns/adblocker-rules-/blob/master/LICENSE
+! Homepage: https://mypdns.org/my-privacy-dns/adblocker-rules
 !
 ! Please report any unblocked content or problems on the Issue board.
 ! My Privacy DNS issues:
@@ -16,16 +16,22 @@
 ! - https://mypdns.org/my-privacy-dns/adblocker-rules/-/merge_requests
 !
 ! Email:
-!   - jira@spirillen.atlassian.net
-!   - jira@mypdns.atlassian.net
+!   - incoming+my-privacy-dns-matrix-16-9002yhfr7lz94rweqg1exxjvh-issue@mypdns.org
+!
 ! CopyRight:
 !   - https://mypdns.org/spirillen
+!   - https://framagit.org/spirillen
 !   - https://gitlab.com/spirillen
 !   - https://github.com/spirillen
 !   - https://gitlab.com/spirillen
 !   - https://bitbucket.org/spirillen/
 !   - https://spirillen.atlassian.net/wiki/people/5bb90b589ba2930990f81dcd
+!   - https://spirillen.youtrack.cloud/users/spirillen
+!   - https://marsupilami.jetbrains.space/m/spirillen
+!   - https://spirillen.jetbrains.space/m/spirillen
 !   - The individual lists maintainers
+!   - The individual contributor
+!     https://mypdns.org/my-privacy-dns/adblocker-rules-/network/master
 !
 ! Description: This list is originally thought as a private project
 ! Between two friends @spirillen and @AnonymousPoster
