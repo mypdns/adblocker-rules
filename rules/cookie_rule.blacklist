@@ -538,7 +538,7 @@ microsoft.com##.modal-dialog
 ##.popup--dark
 ##.popup-consent
 ##.product-suggest
-9578n.com,inhope.org##.popup
+##[class^="popup"]
 
 ! Q.
 ##.qc-cmp2-container
