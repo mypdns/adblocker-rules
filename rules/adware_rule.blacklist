@@ -77,10 +77,12 @@ twentytwowords.com##.ad-units-wrapper
 ##.botad$domain=here.xxx
 ###banner-ad
 ###BannerContainer
+##div[id^="BannerPopup"]
 ||/banners/*$domain=freefaucet.io|zoofiliatube.xxx,generichide
 1on1-webcams.com,xlovecam.com##.bottomSlidebar
 babesandstars.com,castingcouch-x.com,cum4k.com,definebabe.com,holed.com,lubed.com,passion-hd.com,pornhubpremium.com,pornpros.com,spyfam.com##.btn-block
 bestwifeporn.com,pxrnxx.xyz##.bx-wrapper
+filmikisex.de,films-sex.de,filmssex.de,oferty-sex.de,ofertysex.de,pornafilm.de,sexdarmowe.de,sexfilmiki.de,sexfilmy.de,telefonla-sex.de,videolar-sex.de,videolarsex.de##div[id^="BannerPopup"]
 gamemodding.com##.big_banner
 
 ! C.
