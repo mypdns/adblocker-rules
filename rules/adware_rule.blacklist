@@ -154,6 +154,7 @@ bfore.ai##.notify-box
 ! P.
 /plugins/social-pug/*
 /pop_desc.js$domain=here.xxx
+/pop.go?ctrlid=
 /pop.js$script,domain=javside.com|popads.net
 /prebid.$domain=~prebid.org
 ##.post__inarticle-ad-template-mobile
