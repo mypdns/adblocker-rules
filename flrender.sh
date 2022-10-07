@@ -21,7 +21,20 @@ echo "..."
 echo ""
 
 # Conda installer
-if [ -d "~/miniconda" ]; then
+if [ ! -d "~/miniconda" ]; then
+
+    # install Conda
+    echo "Installing Conda"
+    echo ""
+    curl 'https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh' -o "${GIT_DIR}/miniconda.sh"
+    bash miniconda.sh -b -p "~/miniconda"
+    hash -r
+
+    if [ -f "~/miniconda/etc/profile.d/conda.sh" ]; then
+        source "~/miniconda/etc/profile.d/conda.sh"
+    fi
+
+else
     # Update Conda
     echo "Update Conda"
     echo ""
@@ -33,18 +46,6 @@ if [ -d "~/miniconda" ]; then
     conda update conda -c conda-canary
     conda update -yq conda
     conda config --set channel_priority false
-
-else
-    # install Conda
-    echo "Installing Conda"
-    echo ""
-    curl 'https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh' -o "${GIT_DIR}/miniconda.sh"
-    bash miniconda.sh -b -p "~/miniconda"
-    hash -r
-
-    if [ -f "~/miniconda/etc/profile.d/conda.sh" ]; then
-        source "~/miniconda/etc/profile.d/conda.sh"
-    fi
 fi
 
 # Env installer
