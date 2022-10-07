@@ -64,6 +64,8 @@ else
 fi
 
 # Activate Conda
+export PATH="${HOME}/miniconda/bin:${PATH}"
+source "${HOME}/miniconda/etc/profile.d/conda.sh"
 conda activate AdBlocker
 
 # Render the rules
