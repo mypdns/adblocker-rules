@@ -169,7 +169,7 @@ all the rules)
 @migueldemoura [ublock-umatrix-rulesets](https://github.com/migueldemoura/ublock-umatrix-rulesets/)
 
 And everyone else I've forgot to mention here.  
-Have a look in the [source list](/ublockorigin-rules.template)
+Have a look in the [source list](/adblocker-rules.template)
 
 
 ## Tanks

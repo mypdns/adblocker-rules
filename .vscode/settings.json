@@ -1,4 +1,5 @@
 {
-    "python.pythonPath": "/usr/bin/python3.9",
+    "python.pythonPath": "/usr/bin/python3.10",
     "python.formatting.provider": "black"
+]
 }

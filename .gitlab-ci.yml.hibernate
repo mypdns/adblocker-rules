@@ -25,7 +25,7 @@ after_script:
 run:
   stage: build
   script:
-    flrender -v -i ublockorigin-rules=. ublockorigin-rules.template _public/blockrules.txt
+    flrender -v -i ublockorigin-rules=. adblocker-rules.template _public/blockrules.txt
 
 # pages:
 #   stage: deploy

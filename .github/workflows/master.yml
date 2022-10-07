@@ -2,28 +2,28 @@ name: Deploy new rules
 on:
   push:
     branches:
-      - "master"
+      - 'master'
   pull_request:
     branches:
-      - "master"
+      - 'master'
   schedule:
     - cron: '01 * * * *'
 
 env:
-  GIT_NAME: "${{ secrets.GIT_NAME }}"
-  GIT_EMAIL: "${{ secrets.GIT_EMAIL }}"
-  GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+  GIT_NAME: '${{ secrets.GIT_NAME }}'
+  GIT_EMAIL: '${{ secrets.GIT_EMAIL }}'
+  GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
 
 jobs:
   buildrules:
     name: Trigger action
-    runs-on: "${{ matrix.os }}"
+    runs-on: '${{ matrix.os }}'
 
     strategy:
       fail-fast: false
       matrix:
         python_version:
-          - "3.10"
+          - '3.10'
         os:
           - ubuntu-22.04
 
@@ -31,15 +31,15 @@ jobs:
       - uses: actions/checkout@v2
         name: Clone repository
         with:
-          token: "${{ secrets.GITHUB_TOKEN }}"
+          token: '${{ secrets.GITHUB_TOKEN }}'
           fetch-depth: 5
 
       - name: Set up Python ${{ matrix.python_version }}
         uses: actions/setup-python@v2
         with:
           python-version: ${{ matrix.python_version }}
-    
-      - name:  Get latest FOP
+
+      - name: Get latest FOP
         run: wget -O FOP.py "https://raw.githubusercontent.com/easylist/easylist/master/FOP.py"
 
       - name: Install dependencies
@@ -49,7 +49,7 @@ jobs:
 
       - name: Render the rules
         run: |
-          flrender -v -i ublockorigin-rules=. ublockorigin-rules.template _public/blockrules.txt
+          flrender -v -i ublockorigin-rules=. adblocker-rules.template _public/blockrules.txt
 
       - name: Deploy
         run: |
