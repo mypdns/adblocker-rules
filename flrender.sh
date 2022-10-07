@@ -36,7 +36,7 @@ if [ -d "~/miniconda" ]; then
     conda update -yq conda
     # conda config --set channel_priority false
 
-elif [ ! -d "~/miniconda" ]; then
+else
     # install Conda
     echo "Installing Conda"
     echo ""
