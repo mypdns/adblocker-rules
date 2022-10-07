@@ -145,7 +145,7 @@ See the dialogue at [github][dialogue]
 
 
 ## Webfront
-Our HTML front end is [https://mypdns.github.io/adblocker-rules/]
+Our HTML front end is <https://mypdns.github.io/adblocker-rules/>
 
 
 ## Subscribe to the rules
