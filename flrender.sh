@@ -1,5 +1,7 @@
 #!/usr/bin/env sh
 
+set -e -x
+
 # This script is to run the flrender tool to generate new adblocker lists
 # from AdBlocker-rules.template.
 
@@ -20,21 +22,8 @@ echo "Any surprises that Ubuntu brakes everything??"
 echo "..."
 echo ""
 
-# Conda installer
-if [ ! -d "~/miniconda" ]; then
-
-    # install Conda
-    echo "Installing Conda"
-    echo ""
-    curl 'https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh' -o "${GIT_DIR}/miniconda.sh"
-    bash miniconda.sh -b -p "~/miniconda"
-    hash -r
-
-    if [ -f "~/miniconda/etc/profile.d/conda.sh" ]; then
-        source "~/miniconda/etc/profile.d/conda.sh"
-    fi
-
-else
+# Conda installer or update
+if [ -d "~/miniconda" ]; then
     # Update Conda
     echo "Update Conda"
     echo ""
@@ -45,7 +34,19 @@ else
 
     conda update conda -c conda-canary
     conda update -yq conda
-    conda config --set channel_priority false
+    # conda config --set channel_priority false
+
+elif [ ! -d "~/miniconda" ]; then
+    # install Conda
+    echo "Installing Conda"
+    echo ""
+    curl 'https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh' -o "${GIT_DIR}/miniconda.sh"
+    bash miniconda.sh -b -p "~/miniconda"
+    hash -r
+
+    if [ -f "~/miniconda/etc/profile.d/conda.sh" ]; then
+        source "~/miniconda/etc/profile.d/conda.sh"
+    fi
 fi
 
 # Env installer
