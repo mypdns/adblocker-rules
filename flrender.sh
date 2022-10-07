@@ -55,7 +55,10 @@ fi
 
 # Env installer
 if [ -n "$(conda info --envs | cut -d ' ' -f 1 | grep -i 'AdBlocker')" ]; then
-    echo "Update conda ENV"
+    echo "Create conda ENV"
+    conda config --add channels conda-forge
+    conda update conda -c conda-canary
+    conda config --set channel_priority false
     conda create -q -n AdBlocker \
         -f "${GIT_DIR}/.environment.yaml" --all
 else
