@@ -26,13 +26,13 @@ if [ -d "~/miniconda" ]; then
     echo "Update Conda"
     echo ""
 
-    if [ -f "~/miniconda/etc/profile.d/conda.sh" ]; then
-        source "~/miniconda/etc/profile.d/conda.sh"
-    fi
+    # if [ -f "~/miniconda/etc/profile.d/conda.sh" ]; then
+    #     source "~/miniconda/etc/profile.d/conda.sh"
+    # fi
 
-    # conda update conda -c conda-canary
-    # conda update -yq conda
-    # conda config --set channel_priority false
+    conda update conda -c conda-canary
+    conda update -yq conda
+    conda config --set channel_priority false
 
 else
     # install Conda
