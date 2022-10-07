@@ -145,7 +145,7 @@ See the dialogue at [github][dialogue]
 
 
 ## Webfront
-Our HTML front end is <https://my-external-stuff.github.io/ublockorigin-rules/>
+Our HTML front end is [https://mypdns.github.io/adblocker-rules/]
 
 
 ## Subscribe to the rules
@@ -180,7 +180,7 @@ spreading the knowledge of how rules should be made :smiley:
 [issues]: https://spirillen.atlassian.net/jira/software/c/projects/UBOR/issues
 [commits]: https://gitlab.com/my-external-stuff/ublock-origin-rules
 [support]: https://spirillen.atlassian.net/jira/software/c/projects/UBOR/pages
-[Subscribe]: abp:subscribe?location=https://my-external-stuff.github.io/ublockorigin-rules/blockrules.txt&title=Spirillens%20%E2%80%93%20Adblock%20Rules
+[Subscribe]: abp:subscribe?location=https://mypdns.github.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules
 
 <!-- External Links -->
 [redirect-engine]: https://github.com/gorhill/uBlock/blob/master/src/js/redirect-engine.js
