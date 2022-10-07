@@ -26,8 +26,9 @@ if [ -d "${HOME}/miniconda" ]; then
     echo "Update Conda"
     echo ""
 
-    export PATH="${HOME}/miniconda/bin:${PATH}"
-    source "${HOME}/miniconda/etc/profile.d/conda.sh"
+    if [ -f "${GIT_DIR}/miniconda/etc/profile.d/conda.sh" ]; then
+        source "${GIT_DIR}/miniconda/etc/profile.d/conda.sh"
+    fi
 
     conda update conda -c conda-canary
     conda update -yq conda
@@ -41,8 +42,9 @@ else
     bash miniconda.sh -b -p "${HOME}/miniconda"
     hash -r
 
-    export PATH="${HOME}/miniconda/bin:${PATH}"
-    source "${HOME}/miniconda/etc/profile.d/conda.sh"
+    if [ -f "${GIT_DIR}/miniconda/etc/profile.d/conda.sh" ]; then
+        source "${GIT_DIR}/miniconda/etc/profile.d/conda.sh"
+    fi
 
     conda config --set always_yes yes --set changeps1 no
     conda config --add channels conda-forge
@@ -63,9 +65,12 @@ else
 fi
 
 # Activate Conda
-export PATH="${HOME}/miniconda/bin:${PATH}"
-source "${HOME}/miniconda/etc/profile.d/conda.sh"
-conda activate AdBlocker
+if [ -f "${GIT_DIR}/miniconda/etc/profile.d/conda.sh" ]; then
+    source "${GIT_DIR}/miniconda/etc/profile.d/conda.sh"
+    conda activate AdBlocker
+else
+    echo "Conda not installed or active"
+fi
 
 # Render the rules
 flrender -v -i ublockorigin-rules=. adblocker-rules.template public/blockrules.txt
