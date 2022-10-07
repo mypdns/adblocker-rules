@@ -21,7 +21,7 @@ echo "..."
 echo ""
 
 # Conda installer
-if [ -d "${HOME}/miniconda" ]; then
+if [ -d "~/miniconda" ]; then
     # Update Conda
     echo "Update Conda"
     echo ""
@@ -39,7 +39,7 @@ else
     echo "Update Conda"
     echo ""
     curl 'https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh' -o "${GIT_DIR}/miniconda.sh"
-    bash miniconda.sh -b -p "${HOME}/miniconda"
+    bash miniconda.sh -b -p "~/miniconda"
     hash -r
 
     if [ -f "${GIT_DIR}/miniconda/etc/profile.d/conda.sh" ]; then
