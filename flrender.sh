@@ -26,31 +26,25 @@ if [ -d "~/miniconda" ]; then
     echo "Update Conda"
     echo ""
 
-    if [ -f "${GIT_DIR}/miniconda/etc/profile.d/conda.sh" ]; then
-        source "${GIT_DIR}/miniconda/etc/profile.d/conda.sh"
+    if [ -f "~/miniconda/etc/profile.d/conda.sh" ]; then
+        source "~/miniconda/etc/profile.d/conda.sh"
     fi
 
-    conda update conda -c conda-canary
-    conda update -yq conda
-    conda config --set channel_priority false
+    # conda update conda -c conda-canary
+    # conda update -yq conda
+    # conda config --set channel_priority false
 
 else
     # install Conda
-    echo "Update Conda"
+    echo "Installing Conda"
     echo ""
     curl 'https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh' -o "${GIT_DIR}/miniconda.sh"
     bash miniconda.sh -b -p "~/miniconda"
     hash -r
 
-    if [ -f "${GIT_DIR}/miniconda/etc/profile.d/conda.sh" ]; then
-        source "${GIT_DIR}/miniconda/etc/profile.d/conda.sh"
+    if [ -f "~/miniconda/etc/profile.d/conda.sh" ]; then
+        source "~/miniconda/etc/profile.d/conda.sh"
     fi
-
-    conda config --set always_yes yes --set changeps1 no
-    conda config --add channels conda-forge
-    conda update conda -c conda-canary
-    conda update -yq conda
-    conda config --set channel_priority false
 fi
 
 # Env installer
@@ -68,8 +62,8 @@ else
 fi
 
 # Activate Conda
-if [ -f "${GIT_DIR}/miniconda/etc/profile.d/conda.sh" ]; then
-    source "${GIT_DIR}/miniconda/etc/profile.d/conda.sh"
+if [ -f "~/miniconda/etc/profile.d/conda.sh" ]; then
+    source "~/miniconda/etc/profile.d/conda.sh"
     conda activate AdBlocker
 else
     echo "Conda not installed or active"
