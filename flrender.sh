@@ -55,8 +55,7 @@ fi
 if [ -n "$(conda info --envs | cut -d ' ' -f 1 | grep -i 'AdBlocker')" ]; then
     echo "Update conda ENV"
     conda create -q -n AdBlocker \
-        -f "${GIT_DIR}/.environment.yaml" \
-        --prefix "${HOME}/miniconda" --all
+        -f "${GIT_DIR}/.environment.yaml" --all
 else
     echo "Install fresh conda ENV"
     conda env update -n AdBlocker \
