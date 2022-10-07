@@ -82,6 +82,7 @@ else
 fi
 
 conda deactivate
+conda env remove -n AdBlocker
 
 #
 #
