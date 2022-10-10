@@ -29,9 +29,9 @@ echo ""
 cp -R _public/ public/
 flrender -v -i ublockorigin-rules=. adblocker-rules.template public/blockrules.txt
 
-if [ -f "public/blockrules.txt"]; then
-    rsync -avP --chown "$USER" "public/" "/var/www/mypdns.org/public/adblocker-rules/"
+if [ -d "public/"]; then
     if [ -d "public/" ]; then
+        rsync -avP --chown "$USER" "public/" "/var/www/mypdns.org/public/adblocker-rules/"
         rm -fr "public/"
     fi
 else
