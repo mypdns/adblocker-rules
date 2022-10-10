@@ -46,23 +46,16 @@
 
         <p>
             <?php
-                // Program to display URL of current page.
-                if (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on')
-                    $link = "https";
-                else $link = "http";
-                
-                // Here append the common URL characters.
-                $link .= "://";
-                
-                // Append the host(domain name, ip) to the URL.
-                $link .= $_SERVER['HTTP_HOST'];
-                
-                // Append the requested resource location to the URL
-                $link .= $_SERVER['REQUEST_URI'];
+                // Program to display current page URL.
+                $link = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] 
+                            === 'on' ? "https" : "http") . 
+                            "://" . $_SERVER['HTTP_HOST'] . 
+                            $_SERVER['REQUEST_URI'];
                 echo $link;
             ?>
+
             Click here to <a
-            href="abp:subscribe?location=./blockrules.txt&title=My%20Privacy%20DNS%20–%20Adblock%20Rules"
+            href="abp:subscribe?location=https://mypdns.org/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20–%20Adblock%20Rules"
             target="_top" title="Subscibe this list to adblocker">activate</a>
             in uBlock Origin or You can find the builded list
             <a href="./blockrules.txt">here</a>
