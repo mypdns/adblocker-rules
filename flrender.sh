@@ -29,10 +29,10 @@ echo ""
 cp -R _public/ public/
 flrender -v -i ublockorigin-rules=. adblocker-rules.template public/blockrules.txt
 
-if [ -d "public/"]; then
-    if [ -d "public/" ]; then
-        rsync -avP --chown "$USER" "public/" "/var/www/mypdns.org/public/adblocker-rules/"
-        rm -fr "public/"
+if [ -d "${GIT_DIR}/public/" ]; then
+    if [ -d "${GIT_DIR}/public/" ]; then
+        rsync -avP --chown "$USER" "${GIT_DIR}/public/" "/var/www/mypdns.org/public/adblocker-rules/"
+        rm -fr "${GIT_DIR}/public/"
     fi
 else
     echo "Script failed to generate output"
