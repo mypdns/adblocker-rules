@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-set -e -x
+set -e #-x
 
 # This script is to run the flrender tool to generate new adblocker lists
 # from AdBlocker-rules.template.
@@ -22,56 +22,11 @@ echo "Any surprises that Ubuntu brakes everything??"
 echo "..."
 echo ""
 
-# Conda installer or update
-if [ -d "${GIT_DIR}/miniconda" ]; then
-    # Update Conda
-    echo "Update Conda"
-    echo ""
-
-    # if [ -f "${GIT_DIR}/miniconda/etc/profile.d/conda.sh" ]; then
-    #     source "${GIT_DIR}/miniconda/etc/profile.d/conda.sh"
-    # fi
-
-    conda update conda -c conda-canary
-    conda update -yq conda
-    # conda config --set channel_priority false
-
-else
-    # install Conda
-    echo "Installing Conda"
-    echo ""
-    curl 'https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh' -o "${GIT_DIR}/miniconda.sh"
-    bash miniconda.sh -b -p "${GIT_DIR}/miniconda"
-    hash -r
-
-    if [ -f "${GIT_DIR}/miniconda/etc/profile.d/conda.sh" ]; then
-        source "${GIT_DIR}/miniconda/etc/profile.d/conda.sh"
-    fi
-fi
-
-# Env installer
-if [ -n "$(conda info --envs | cut -d ' ' -f 1 | grep -i 'AdBlocker')" ]; then
-    echo "Create conda ENV"
-    conda config --add channels conda-forge
-    conda update conda -c conda-canary
-    conda config --set channel_priority false
-    conda create -q -n AdBlocker \
-        -f "${GIT_DIR}/.environment.yaml" --all
-else
-    echo "Install fresh conda ENV"
-    conda env update -n AdBlocker \
-        -f "${GIT_DIR}/.environment.yaml" --prune
-fi
-
-# Activate Conda
-if [ -f "${GIT_DIR}/miniconda/etc/profile.d/conda.sh" ]; then
-    source "${GIT_DIR}/miniconda/etc/profile.d/conda.sh"
-    conda activate AdBlocker
-else
-    echo "Conda not installed or active"
-fi
+source "${HOME}/miniconda/etc/profile.d/conda.sh"
+conda activate AdBlocker
 
 # Render the rules
+cp -R _public/ public/
 flrender -v -i ublockorigin-rules=. adblocker-rules.template public/blockrules.txt
 
 if [ -f "public/blockrules.txt"]; then
@@ -86,18 +41,6 @@ else
 fi
 
 conda deactivate
-conda env remove -n AdBlocker
-
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
 #
 #
 # Copyright: https://mypdns.org/
