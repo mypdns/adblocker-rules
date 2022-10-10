@@ -62,6 +62,8 @@ bytbil.com##.uk-open.uk-modal
 ||cookiebot.com^$important
 ||cookieinformation.com^$important
 ||cookielaw.org^$important
+cams.com##.active.CamsViewer__RegisterOverlay
+cams.com##.ModalPortal.MuiDialog-root
 
 ! D.
 dr.dk###drcc-overlay
