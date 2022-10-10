@@ -68,7 +68,7 @@
 %include ublockorigin-rules:rules/cookie_rule.blacklist%
 
 !------- Pirated domain rules filters ---------------------------------!
-%include ublockorigin-rules:domain_piracy_rules.blacklist%
+%include ublockorigin-rules:rules/domain_piracy_rules.blacklist%
 
 !------- SpyWare List -------------------------------------------------!
 %include ublockorigin-rules:rules/spyware_domain.blacklist%
