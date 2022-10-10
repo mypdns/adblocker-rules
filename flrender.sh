@@ -23,7 +23,7 @@ echo "..."
 echo ""
 
 #source ~/miniconda/etc/profile.d/conda.sh
-conda activate AdBlocker
+#conda activate AdBlocker
 
 # Render the rules
 cp -R _public/ public/
@@ -36,11 +36,11 @@ if [ -f "public/blockrules.txt"]; then
     fi
 else
     echo "Script failed to generate output"
-    conda deactivate
+    # conda deactivate
     exit 99
 fi
 
-conda deactivate
+# conda deactivate
 #
 #
 # Copyright: https://mypdns.org/
