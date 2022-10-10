@@ -22,7 +22,7 @@ echo "Any surprises that Ubuntu brakes everything??"
 echo "..."
 echo ""
 
-source "~/miniconda/etc/profile.d/conda.sh"
+source ~/miniconda/etc/profile.d/conda.sh
 conda activate AdBlocker
 
 # Render the rules
