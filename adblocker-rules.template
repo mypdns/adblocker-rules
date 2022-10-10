@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: My Privacy DNS's Adblocker Rules
-! Expires: 1 hour
+! Expires: 1 hours
 !
 ! List url:
 ! https://my-external-stuff.github.io/ublockorigin-rules/blockrules.txt
@@ -32,6 +32,8 @@
 !   - The individual lists maintainers
 !   - The individual contributor
 !     https://mypdns.org/my-privacy-dns/adblocker-rules-/network/master
+!
+! Redirect: https://mypdns.org/adblocker-rules/blockrules.txt
 !
 ! Description: This list is originally thought as a private project
 ! Between two friends @spirillen and @AnonymousPoster
