@@ -5,6 +5,8 @@
 ! List url:
 ! https://mypdns.org/adblocker-rules/blockrules.txt
 !
+! Redirect: https://mypdns.org/adblocker-rules/blockrules.txt
+!
 ! License:
 ! https://mypdns.org/my-privacy-dns/adblocker-rules-/blob/master/LICENSE
 ! Homepage: https://mypdns.org/my-privacy-dns/adblocker-rules
@@ -32,8 +34,6 @@
 !   - The individual lists maintainers
 !   - The individual contributor
 !     https://mypdns.org/my-privacy-dns/adblocker-rules-/network/master
-!
-! Redirect: https://mypdns.org/adblocker-rules/blockrules.txt
 !
 ! Description: This list is originally thought as a private project
 ! Between two friends @spirillen and @AnonymousPoster
