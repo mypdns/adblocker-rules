@@ -452,6 +452,7 @@ brack.ch###b2c-consent
 ##.cwcookielaw
 ##[class^="consent-"]
 ###catapult-cookie-bar
+###cmp-app-container
 ###cookie_banner-wrapper
 ###cookie_box
 ###cookie-notice
