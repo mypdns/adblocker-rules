@@ -297,6 +297,7 @@ brack.ch###b2c-consent
 ##.cookie-panel-overlay
 ##.cookie-panel:not(body):not(html)
 ##.cookie-permission
+##.cookie-permission-container
 ##.cookie-policy-banner
 ##.cookie-policy-box
 ##.cookie-policy-message
