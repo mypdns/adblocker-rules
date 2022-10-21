@@ -540,7 +540,7 @@ microsoft.com##.modal-dialog
 ##.popup--dark
 ##.popup-consent
 ##.product-suggest
-##[class^="popup"]
+!to wide ##[class^="popup"]
 
 ! Q.
 ##.qc-cmp2-container
