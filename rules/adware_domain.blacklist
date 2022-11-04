@@ -220,11 +220,12 @@ tweak.dk##[href*="/advertorials"]
 tweak.dk###member_notice_desktop
 twitch.tv##.headliner-ad
 twitch.tv##.prime-offers
-tecmint.com##a[href^="https://newsletter.tecmint.com/subscription?"]
 tecmint.com##.after-post-box
+tecmint.com##.alertbox
 tecmint.com##.entry-content > center
 tecmint.com##.entry-header > center
 tecmint.com##.inside-article > center
+tecmint.com##a[href^="https://newsletter.tecmint.com/subscription?"]
 
 
 ! U.
