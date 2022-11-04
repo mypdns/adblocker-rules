@@ -138,6 +138,7 @@ themoviedb.org##.join
 themoviedb.org##.no_border.card.video
 themoviedb.org##.play_trailer
 themoviedb.org##.recommendations
+tmwvrnet.com##.content__sidebar
 twitch.tv##.community-highlight
 twitch.tv##.eXenLC
 twitch.tv##.front-page-carousel
