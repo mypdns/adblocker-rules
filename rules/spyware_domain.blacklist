@@ -154,9 +154,10 @@ hpe.com##.footer-social
 imdb.com##.ipc-promptable-base
 
 ! J.
-||jsdelivr.net/*/js.cookie.min.js$script
+|!jetbrains.space##.FlexStyles-horizontal.ksc-111
 ||jetbrains.com^$third-party,important
 ||jetbrains.com^$xhr,3p
+||jsdelivr.net/*/js.cookie.min.js$script
 
 ! K.
 ||analytics.kurocore.com^$important
