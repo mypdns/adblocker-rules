@@ -155,6 +155,8 @@ twitch.tv##.top-bar
 ! V.
 
 ! X.
+xxxreal.com##.mb-s
+xxxreal.com##.video-detail__pay-methods
 
 ! Y.
 youtube.com###comments
