@@ -211,6 +211,7 @@ listenbrainz.org###brainz-player
 speedostream.com##+js(aost, Object.getOwnPropertyDescriptor, /^/)
 stackoverflow.com##.facebook-login
 stackoverflow.com##.google-login
+survey-smiles.com
 
 ! T.
 ||reddit.com/?request_timestamp=$important
