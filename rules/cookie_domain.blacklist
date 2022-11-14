@@ -58,6 +58,7 @@ bundesregierung.de##.bpa-cookie-banner
 bytbil.com##.uk-open.uk-modal
 
 ! C.
+||cloudflare.com/ajax/libs/js-cookie/$script
 ||consent.dk^$important
 ||cookiebot.com^$important
 ||cookieinformation.com^$important
