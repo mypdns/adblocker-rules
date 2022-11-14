@@ -79,10 +79,10 @@ google.*##.dbsFrd
 google.*##.Fgvgjc
 
 ! H.
+##.cookie-permission-container
 hardware.info##.oreo
 heise.de##.ldb-container
-##.cookie-permission-container
-heise.de###sp_message_container_683251
+heise.de###sp_message_container_*
 hpe.com###hpe_privacy_banner_container
 
 ! I.
