@@ -136,7 +136,9 @@ subscene.com##.imdb
 themoviedb.org##.actions
 themoviedb.org##.card.video
 themoviedb.org##.join
+themoviedb.org##.networks
 themoviedb.org##.no_border.card.video
+themoviedb.org##.no_bottom_pad > strong
 themoviedb.org##.play_trailer
 themoviedb.org##.recommendations
 tmwvrnet.com##.content__sidebar
