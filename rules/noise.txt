@@ -154,4 +154,5 @@ twitch.tv##.top-bar
 ! X.
 
 ! Y.
+youtube.com###comments
 youtube.com##ytd-popup-container.ytd-app.style-scope
