@@ -523,12 +523,14 @@ hpe.com##.subscribe-card-cta
 ##.mediaPlayerSponsored
 javrip.net,pissrip.net##.message-alert
 microsoft.com##.modal-dialog
+infoworld.com##[class^="message-overlay"]
 
 ! N.
 ##.notice--cookie
 ##.notice-cookies
 ###nextoutils_gestionCookies
 ###notice-cookie-block
+infoworld.com##[id^="notice"]
 
 ! O.
 ##.overlayblackCookie
