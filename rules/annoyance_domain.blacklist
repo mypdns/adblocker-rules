@@ -213,6 +213,7 @@ startpage.com##.pp-dropdown
 ! T.
 ||tv2net.zendesk.com^$script
 themoviedb.org##[class*="recommendations"]
+tumblr.com###glass-container
 twitch.tv##.channel-panels-container
 twitch.tv##.extension-view__iframe
 twitch.tv##.front-page-carousel
