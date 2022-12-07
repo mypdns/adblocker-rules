@@ -147,6 +147,7 @@ element14.com##.e14-cookie-directive
 ||hivetechnologylabs.com^$other,important,3p
 ||hotelscombined.fi/res/js/perf.js$script,1p
 ||hotelscombined.fi/s/run/cspreport/*$other,1p
+||hotjar.com^
 ||smetrics.hpe.com^
 hpe.com##.footer-social
 hpe.com##.nxt-share-widget
