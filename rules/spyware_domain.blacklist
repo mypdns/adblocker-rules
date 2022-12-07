@@ -142,12 +142,14 @@ element14.com##.e14-cookie-directive
 ||webrtc.github.io^
 
 ! H.
+||etrack.ext.hpe.com^
 ||hcaptcha.com^$important
 ||hivetechnologylabs.com^$other,important,3p
+||hotelscombined.fi/res/js/perf.js$script,1p
+||hotelscombined.fi/s/run/cspreport/*$other,1p
 ||smetrics.hpe.com^
-||etrack.ext.hpe.com^
-hpe.com##.nxt-share-widget
 hpe.com##.footer-social
+hpe.com##.nxt-share-widget
 
 ! I.
 ||cookieapi*.incomit.dk^
