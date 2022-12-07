@@ -67,8 +67,9 @@ cams.com##.active.CamsViewer__RegisterOverlay
 cams.com##.ModalPortal.MuiDialog-root
 
 ! D.
-dr.dk###drcc-overlay
+||dalten.cz^
 dr.dk##.drc-cookie-policy
+dr.dk###drcc-overlay
 
 ! E.
 eldiplo.org##[class*="popup-dialog-"]
