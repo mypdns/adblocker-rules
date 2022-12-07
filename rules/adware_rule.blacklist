@@ -112,6 +112,7 @@ babesandstars.com,castingcouch-x.com,cum4k.com,definebabe.com,holed.com,lubed.co
 fetlifeblog.com,instakink.com,instasexyblog.com##a[href^="/go4/"]
 
 ! H.
+/^https?:\/\/((?!www)[a-z]{3,}|\d{2})?\.?[-0-9a-z]{6,}\.[a-z]{2,6}\/(?:[a-z]{6,8}\/)?\/?\?u=[0-9a-z]{7}&o=[0-9a-z]{7}/$document,match-case,domain=buzz|com|de|fun|guru|info|life|live|mobi|online|pw|site|space|top|us|xyz
 ##.happy-footer
 ##.happy-under-player
 nu.nl###header
