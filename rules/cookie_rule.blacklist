@@ -325,6 +325,7 @@ brack.ch###b2c-consent
 ##.cookieBanner:not(body)
 ##.cookiebanner:not(body)
 ##.cookieBannerContainer
+##.cookiebar
 ##.cookiebar:not(body)
 ##.cookieBar:not(body):not(html)
 ##.cookieBarContainer
