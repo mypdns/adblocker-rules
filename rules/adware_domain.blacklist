@@ -205,10 +205,17 @@ subscene.com##.sustain
 nyheder.tv2.dk##.tc_deck--col3center.tc_deck--color-base-red.tc_livedeck.tc_deck
 nyheder.tv2.dk##.tc_deck--col3center.tc_deck--color-black.tc_bgteaserdeck--logo.tc_bgteaserdeck.tc_deck
 nyheder.tv2.dk##.tc_grid--gutter.tc_grid > .tc_grid > section.tc_grid
+tecmint.com##.after-post-box
+tecmint.com##.alertbox
+tecmint.com##.entry-content > center
+tecmint.com##.entry-header > center
+tecmint.com##.inside-article > center
+tecmint.com##a[href^="https://newsletter.tecmint.com/subscription?"]
 the-star.co.ke##.pay-background
 thehollywoodgossip.com##.feed_holder
 thehollywoodgossip.com##.footer_sharing
 themoviedb.org##.ott_offer
+thesexscene.com##[class^="boxzilla-"]
 thesun.co.uk##.widget-sticky
 trustpulse.com##.Campaign__innerWrapper.birmingham-c-wrapper
 trustpulse.com##.Campaign--css.CampaignType--popup.Campaign.birmingham-campaign
@@ -221,12 +228,6 @@ tweak.dk##[href*="/advertorials"]
 tweak.dk###member_notice_desktop
 twitch.tv##.headliner-ad
 twitch.tv##.prime-offers
-tecmint.com##.after-post-box
-tecmint.com##.alertbox
-tecmint.com##.entry-content > center
-tecmint.com##.entry-header > center
-tecmint.com##.inside-article > center
-tecmint.com##a[href^="https://newsletter.tecmint.com/subscription?"]
 
 
 ! U.
