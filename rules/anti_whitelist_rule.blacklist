@@ -54,6 +54,7 @@
 @@/adservice.*.js?domain=$script,badfilter
 @@/ad/banner/_adsense_/_adserver/_adview_.ad.json,badfilter
 com#@#.ad-placement,badfilter
+@@||a.realsrv.com/video-slider.js$script,domain=verhentai.top,badfilter
 
 ! B.
 @@/blockadblock.$script,domain=blockadblock.com,badfilter

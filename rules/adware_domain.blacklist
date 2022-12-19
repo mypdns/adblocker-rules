@@ -128,6 +128,7 @@ firefox.com##.vpn-promo-banner
 ||greybison.com^$3p
 ||greystatic.com^$important
 ||parking.godaddy.com^$important
+gifhq.com#?#.content > div[class^="col-"] > div.card iframe[src^="https://syndication.realsrv.com/"]:upward(div[class^="col-"])
 
 ! H.
 ||haes.tech/ad/*
@@ -180,6 +181,8 @@ ripoffreport.com##.action-bar.row
 ripoffreport.com###live-popover
 rule34.xxx##[href^="https://buymyshit.moneygrubbingwhore.com/"]
 rule34.xxx##[href^="https://kanako.store/"]
+||realsrv.com^
+||realsrv.com^$popup
 
 ! S.
 ! See cookie rules stackoverflow.com##.js-consent-banner
