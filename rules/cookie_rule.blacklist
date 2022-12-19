@@ -16,16 +16,16 @@
 !   - incoming+my-privacy-dns-matrix-16-9002yhfr7lz94rweqg1exxjvh-issue@mypdns.org
 !
 ! CopyRight:
+! CopyRight:
 !   - https://mypdns.org/spirillen
+!   - https://bitbucket.org/spirillen/
 !   - https://framagit.org/spirillen
-!   - https://gitlab.com/spirillen
 !   - https://github.com/spirillen
 !   - https://gitlab.com/spirillen
-!   - https://bitbucket.org/spirillen/
-!   - https://spirillen.atlassian.net/wiki/people/5bb90b589ba2930990f81dcd
-!   - https://spirillen.youtrack.cloud/users/spirillen
 !   - https://marsupilami.jetbrains.space/m/spirillen
+!   - https://spirillen.atlassian.net/wiki/people/5bb90b589ba2930990f81dcd
 !   - https://spirillen.jetbrains.space/m/spirillen
+!   - https://spirillen.youtrack.cloud/users/spirillen
 !   - The individual lists maintainers
 !   - The individual contributor
 !   - https://mypdns.org/my-privacy-dns/adblocker-rules-/network/master
@@ -478,20 +478,6 @@ privatecasting-x.com##.cookie-request
 
 ! E.
 /eu_cookie_compliance.js$script,important
-! CopyRight:
-!   - https://mypdns.org/spirillen
-!   - https://framagit.org/spirillen
-!   - https://gitlab.com/spirillen
-!   - https://github.com/spirillen
-!   - https://gitlab.com/spirillen
-!   - https://bitbucket.org/spirillen/
-!   - https://spirillen.atlassian.net/wiki/people/5bb90b589ba2930990f81dcd
-!   - https://spirillen.youtrack.cloud/users/spirillen
-!   - https://marsupilami.jetbrains.space/m/spirillen
-!   - https://spirillen.jetbrains.space/m/spirillen
-!   - The individual lists maintainers
-!   - The individual contributor
-!
 
 ! F.
 ##.fancybox-overlay-fixed.fancybox-overlay
