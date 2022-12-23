@@ -226,6 +226,7 @@ stackoverflow.com##.google-login
 ||reddit.com/?request_timestamp=$important
 ||tv2a.dk/analytics/gallup/spring.js$script
 ||tv2a.dk/oil/$script
+||twitter.com^$3p
 
 ! U.
 ||image.uc.cn^
