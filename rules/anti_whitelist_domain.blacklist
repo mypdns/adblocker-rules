@@ -53,6 +53,9 @@
 @@||9cdn.net^*/js/tracking/$script,domain=nine.com.au,badfilter
 
 ! A.
+@@||adf.ly/ad/banner/*=$xmlhttprequest,badfilter
+@@||adf.ly/static/image/ad_top_bg2.png?$badfilter
+@@||adf.ly^$generichide,badfilter
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|kroger.com,badfilter
 @@||adobedtm.com/*-source.min.js$script,domain=atresplayer.com|backcountry.com|bt.com|dollargeneral.com|kroger.com|personal.natwest.com|verizon.com,badfilter
 @@||adobedtm.com/extensions/$script,domain=apple.com|foodnetwork.com|verizon.com,badfilter
@@ -65,12 +68,9 @@
 @@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|americanexpress.com|argos.co.uk|auspost.com.au|backcountry.com|bmw.com.au|collegeboard.org|costco.com|crackle.com|crimewatchdaily.com|directline.com|eonline.com|fcbarcelona.com|firststatesuper.com.au|godigit.com|hgtv.com|jeep.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|oprah.com|oracle.com|pnc.com|realtor.com|redbull.tv|repco.co.nz|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|stuff.co.nz|subaru.com|telegraph.co.uk|timewarnercable.com|usanetwork.com|vanityfair.com|wired.com|wowway.net,badfilter
 @@||adobedtm.com^*/satelliteLib-$script,domain=ceair.com|fcbarcelona.cn,badfilter
 @@||adsafeprotected.com/iasPET.$script,domain=reuters.com,badfilter
-@@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=ladbible.com,badfilter
 @@||adsafeprotected.com/services/$domain=reuters.com,badfilter
+@@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=ladbible.com,badfilter
 @@||analytics.amplitude.com^$~third-party,badfilter
-@@||adf.ly/static/image/ad_top_bg2.png?$badfilter
-@@||adf.ly/ad/banner/*=$xmlhttprequest,badfilter
-@@||adf.ly^$generichide,badfilter
 @@||wss.analyticacdn.com^$websocket,badfilter
 
 ! B.

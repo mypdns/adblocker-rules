@@ -7,7 +7,7 @@ on:
     branches:
       - 'master'
   schedule:
-    - cron: '01 * * * *'
+    - cron: '57 * * * *'
 
 env:
   GIT_NAME: '${{ secrets.GIT_NAME }}'
@@ -50,6 +50,7 @@ jobs:
       - name: Render the rules
         run: |
           flrender -v -i ublockorigin-rules=. adblocker-rules.template _public/blockrules.txt
+          rm blockrules.txt
 
       - name: Deploy
         run: |
