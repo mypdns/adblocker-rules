@@ -217,14 +217,14 @@ listenbrainz.org###brainz-player
 ||statsanalitic.net^$important
 ||statsy.net^$important
 ||subdomain.com/redirect*
+||survey-smiles.com^
 speedostream.com##+js(aost, Object.getOwnPropertyDescriptor, /^/)
 stackoverflow.com##.facebook-login
 stackoverflow.com##.google-login
-||survey-smiles.com^
 
 ! T.
 ||reddit.com/?request_timestamp=$important
-||tv2a.dk/analytics/gallup/spring.js$script
+||tv2a.dk/analytics/gallup/$script
 ||tv2a.dk/oil/$script
 ||twitter.com^$3p
 
