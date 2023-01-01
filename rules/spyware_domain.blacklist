@@ -84,9 +84,10 @@ g.alicdn.com/woodpeckerx/jssdk/wpkReporter.js
 ! C.
 ||clarity.microsoft.com^
 ||clarity.ms^
+||cloudflare.net^$xhr,important
 ||cloudflareinsights.com`
-||cxense.com^$important
 ||crowdin.com$3p,important
+||cxense.com^$important
 
 ! D.
 ||check.ddos-guard.net^$important
@@ -165,6 +166,7 @@ imdb.com##.ipc-promptable-base
 ||jetbrains.com^$xhr,3p
 ||jetbrains.space##.FlexStyles-horizontal.ksc-111
 ||jsdelivr.net/*/js.cookie.min.js$script
+||jsdelivr.net^$xhr,important
 
 ! K.
 ||analytics.kurocore.com^$important
