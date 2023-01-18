@@ -9,19 +9,19 @@ before_script:
   - export DEBIAN_FRONTEND=noninteractive
   - apt-get update
   - apt-get install -yqqf bash git pgp python3-pip python3.10
-  - git config --global user.email "pdns@pm.me"
+  - git config --global user.email "spirillen@danwin1210.de"
   - git config --global user.name "My Privacy DNS"
   - git remote set-url origin https://mypdns:$mypdns_CI_ACCESS_TOKEN@mypdns.org/$CI_PROJECT_PATH.git
   #   - python --version  # For debugging
   - if [ -f requirements.txt ]; then pip install --no-cache -I -r requirements.txt; fi
 
-after_script:
-  - echo -e "After script section...\n"
-  - git status
-  - git add _public/blockrules.txt
-  - git commit -m "AdBlocker list updated. BuildID $CI_JOB_ID [ci-skip]"
-  - git status
-  - git push "https://mypdns:${spirillen_CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
+# after_script:
+#   - echo -e "After script section...\n"
+#   - git status
+#   - git add _public/blockrules.txt
+#   - git commit -m "AdBlocker list updated. BuildID $CI_JOB_ID [ci-skip]"
+#   - git status
+#   - git push "https://mypdns:${spirillen_CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
 
 run:
   stage: build
