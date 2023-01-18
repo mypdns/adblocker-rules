@@ -1,16 +1,16 @@
 ! List url:
-! https://mypdns.org/my-privacy-dns/adblocker-rules-/tree/master/rules/anti_social_domain.blacklist
+! https://framagit.org/my-privacy-dns/adblocker-rules-/tree/master/rules/anti_social_domain.blacklist
 !
 ! License:
-! https://mypdns.org/my-privacy-dns/adblocker-rules-/blob/master/LICENSE
-! Homepage: https://mypdns.org/my-privacy-dns/adblocker-rules
+! https://framagit.org/my-privacy-dns/adblocker-rules-/blob/master/LICENSE
+! Homepage: https://framagit.org/my-privacy-dns/adblocker-rules
 !
 ! Please report any unblocked content or problems on the Issue board.
 ! My Privacy DNS issues:
-! - https://mypdns.org/my-privacy-dns/matrix/-/issues
+! - https://framagit.org/my-privacy-dns/matrix/-/issues
 !
 ! Merge Request:
-! - https://mypdns.org/my-privacy-dns/adblocker-rules/-/merge_requests
+! - https://framagit.org/my-privacy-dns/adblocker-rules/-/merge_requests
 !
 ! Email:
 !   - incoming+my-privacy-dns-matrix-16-9002yhfr7lz94rweqg1exxjvh-issue@mypdns.org
@@ -28,7 +28,7 @@
 !   - https://spirillen.jetbrains.space/m/spirillen
 !   - The individual lists maintainers
 !   - The individual contributor
-!   - https://mypdns.org/my-privacy-dns/adblocker-rules-/network/master
+!   - https://framagit.org/my-privacy-dns/adblocker-rules-/network/master
 
 ! 0.
 

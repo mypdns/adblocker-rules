@@ -1,7 +1,7 @@
 image: ubuntu:20.04
 
 variables:
-  PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
+  PIP_CACHE_DIR: '$CI_PROJECT_DIR/.cache/pip'
 
 before_script:
   - echo "Before script section"
@@ -11,7 +11,7 @@ before_script:
   - git config --global user.email "pdns@pm.me"
   - git config --global user.name "My Privacy DNS"
   - git remote set-url origin https://mypdns:$mypdns_CI_ACCESS_TOKEN@mypdns.org/$CI_PROJECT_PATH.git
-#   - python --version  # For debugging
+  #   - python --version  # For debugging
   - if [ -f requirements.txt ]; then pip install --no-cache -I -r requirements.txt; fi
 
 after_script:
@@ -24,18 +24,17 @@ after_script:
 
 run:
   stage: build
-  script:
-    flrender -v -i ublockorigin-rules=. adblocker-rules.template _public/blockrules.txt
+  script: flrender -v -i ublockorigin-rules=. adblocker-rules.template _public/blockrules.txt
 
-# pages:
-#   stage: deploy
-#   script:
-#     - mkdir .public
-#     - cp -r _public/ .public/
-#     - rm -rf public
-#     - mv .public public
-#   artifacts:
-#     paths:
-#       - public
-#   rules:
-#     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+pages:
+  stage: deploy
+  script:
+    - mkdir .public
+    - cp -r _public/ .public/
+    - rm -rf public
+    - mv .public public
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
