@@ -132,6 +132,8 @@ account.protonmail.com##.p0-5
 realjamvr.com##[class^="join-"]
 
 ! S.
+||smutty.com^$popup,1p
+||smutty.com^$script,1p
 smutty.com##.last.fdb_box_2011.span-16.revi
 smutty.com##.last.menu_h.span-24
 smutty.com##.last.otto
@@ -141,7 +143,6 @@ smutty.com##.menufixed
 smutty.com###reviews
 smutty.com###top-ad-block
 smutty.com##div.cc_cleaner:nth-of-type(4)
-subscene.com##.imdb
 
 ! T.
 themoviedb.org##.actions

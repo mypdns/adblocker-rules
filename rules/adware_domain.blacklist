@@ -121,6 +121,7 @@ element14.com##.webinarPopup
 fastspeed.dk###flowsPopup
 file-converter-online.com##.cc_banner-wrapper
 firefox.com##.vpn-promo-banner
+||funkydaters.com^
 
 ! G.
 ||getalltraffic.com^$important
@@ -187,11 +188,12 @@ rule34.xxx##[href^="https://kanako.store/"]
 ||realsrv.com^$popup
 
 ! S.
-! See cookie rules stackoverflow.com##.js-consent-banner
 ##.socialShareMobile
+||cdn-static3.com/cdn/push.min.js$script
 ||smartcj.com^$important
 ||ssbyysdaj.com^
 ||strongcapitalads.ga^$important
+||survey-smiles.com^
 sailboatdata.com##.desktop_ads
 sailboatdata.com###first-aside
 sailboatdata.com###second-aside
@@ -199,7 +201,6 @@ stackoverflow.com##.js-consent-banner
 stackoverflow.com##.s-popover
 subscene.com##.details
 subscene.com##.sustain
-||survey-smiles.com^
 
 ! T.
 !||txxx.com/broomstick/ Brakes the frontpage.
