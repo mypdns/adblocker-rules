@@ -45,8 +45,8 @@ fi
 #
 # Copyright: https://mypdns.org/
 # Content: https://mypdns.org/spirillen/
-# Source: https://mypdns.org/my-privacy-dns/adblocker-rules
-# License: https://mypdns.org/my-privacy-dns/adblocker-rules/-/blob/master/LICENSE
+# Source: https://framagit.org/my-privacy-dns/adblocker-rules
+# License: https://framagit.org/my-privacy-dns/adblocker-rules/-/blob/master/LICENSE
 # License: MCRAE GENERAL PUBLIC LICENSE (version 4.r53m2)
 #
 # You should have received a copy of the license along with this work.

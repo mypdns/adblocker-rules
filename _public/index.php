@@ -45,7 +45,7 @@
                 </p>
             </li>
             <li>
-                <a href="abp:subscribe?location=https://mypdns.org/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20–%20Adblock%20Rules&requiresLocation=https://mypdns.org/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules"
+                <a href="abp:subscribe?location=https://framagit.org/my-privacy-dns/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20–%20Adblock%20Rules&requiresLocation=https://framagit.org/my-privacy-dns/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules"
                     target="_top" title="Subscibe this list to adblocker">mypdns.org</a>
                 </p>
             </li>
