@@ -170,12 +170,13 @@
 @@||recaptcha.net/recaptcha/$badfilter
 
 ! S.
-@@||ced.sascdn.com/tag/*/smart.js$domain=dr.dk,badfilter
-@@||sascdn.com/diff/templates/ts/dist/banner/sas-banner-$script,domain=dr.dk,badfilter
 @@||cdn.segment.com/analytics-next/$domain=givingassistant.org,badfilter
 @@||cdn.segment.com/analytics.js/$script,domain=fender.com|givingassistant.org,badfilter
-@@||widgets.sprinklecontent.com/v2/$script,xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi,badfilter
+@@||ced.sascdn.com/tag/*/smart.js$domain=dr.dk,badfilter
+@@||sascdn.com/diff/templates/ts/dist/banner/sas-banner-$script,domain=dr.dk,badfilter
+@@||smutty.com/openx/ad.js$badfilter
 @@||stabila.com/bundles/marketingsuite/css/cookie-bar.css$badfilter
+@@||widgets.sprinklecontent.com/v2/$script,xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi,badfilter
 
 ! T.
 @@||platform.twitter.com/widgets/widget_iframe.$subdocument,badfilter
