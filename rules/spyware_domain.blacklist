@@ -214,6 +214,7 @@ listenbrainz.org###brainz-player
 ||sentry-cdn.com^
 ||shinobi.jp^$important
 ||shopping-2000.com^
+||smutty.com/ajax/trcking/trck.php$xhr,1p,important
 ||startpage.com^$removeparam=segment
 ||statsanalitic.net^$important
 ||statsy.net^$important
