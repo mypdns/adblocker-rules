@@ -118,7 +118,7 @@ imdb.com###titleVideoStrip
 
 *Promo*.jpg$domain=adultdvdempire.com,image
 
-# Adware (chat) noice
+!# Adware (chat) noice
 ||solvemate.com^
 
 ! P.
@@ -132,6 +132,15 @@ account.protonmail.com##.p0-5
 realjamvr.com##[class^="join-"]
 
 ! S.
+smutty.com##.last.fdb_box_2011.span-16.revi
+smutty.com##.last.menu_h.span-24
+smutty.com##.last.otto
+smutty.com##.last.small.span-24
+smutty.com##.last.span-14
+smutty.com##.menufixed
+smutty.com###reviews
+smutty.com###top-ad-block
+smutty.com##div.cc_cleaner:nth-of-type(4)
 subscene.com##.imdb
 
 ! T.
