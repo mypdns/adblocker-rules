@@ -15,17 +15,19 @@ before_script:
   #   - python --version  # For debugging
   - if [ -f requirements.txt ]; then python3.10 -m pip install --no-cache -I -r requirements.txt; fi
 
-# after_script:
-#   - echo -e "After script section...\n"
-#   - git status
-#   - git add _public/blockrules.txt
-#   - git commit -m "AdBlocker list updated. BuildID $CI_JOB_ID [ci-skip]"
-#   - git status
-#   - git push "https://mypdns:${spirillen_CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
+after_script:
+  - echo -e "After script section...\n"
+  - git status
+  - git add _public/blockrules.txt
+  - git commit -m "AdBlocker list updated. BuildID $CI_JOB_ID [ci-skip]"
+  - git status
+  - git push "https://spirillen:${mypdns_CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
 
 run:
   stage: build
-  script: flrender -v -i ublockorigin-rules=. adblocker-rules.template _public/blockrules.txt
+  script:
+    - if [ -f _public/blockrules.txt ]; then rm -f _public/blockrules.txt; done
+    - flrender -v -i ublockorigin-rules=. adblocker-rules.template _public/blockrules.txt
 
 pages:
   stage: deploy
