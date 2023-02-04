@@ -8,7 +8,7 @@ before_script:
   - echo "Before script section"
   - export DEBIAN_FRONTEND=noninteractive
   - apt-get update
-  - apt-get install -yqqf bash git pgp python3-pip python3.10
+  - apt-get install -yqqf bash git pgp python3-pip python3.10 rsync
   - git config --global user.email "spirillen@danwin1210.de"
   - git config --global user.name "spirillen"
   - git remote set-url origin https://spirillen:$mypdns_CI_ACCESS_TOKEN@framagit.org/$CI_PROJECT_PATH.git
@@ -38,7 +38,7 @@ pages:
     CACHE_COMPRESSION_LEVEL: 'fastest'
   script:
     - mkdir .public
-    - cp -r _public/ .public/
+    - cp -r _public/* .public/
     - rm -rf public
     - mv .public public
     - ls -lha public/
