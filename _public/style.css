@@ -4,7 +4,7 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-size: 100% 100%;
+  /*background-size: 100% 100%;*/
   font-family: sans-serif;
   margin: auto;
   max-width: 1280px;
