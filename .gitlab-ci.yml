@@ -17,6 +17,7 @@ before_script:
 
 after_script:
   - echo -e "After script section...\n"
+  - git pull --rebase
   - git status
   - git rev-parse --short HEAD > .build.id
   - git add _public/blockrules.txt .build.id
