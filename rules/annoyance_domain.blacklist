@@ -103,6 +103,7 @@ docs.gitlab.com##li.p-2.nav-item:nth-of-type(2)
 forum.gitlab.com###banner
 gitee.com##.transition
 github.com#@#.flash-error.flash-full.flash
+github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.col-lg-4.col-md-3.width-fit.team-left-column
 github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-3.col-lg-3.col-md-3.col-12.team-left-column
 github.com##.border-bottom.hide-sm.hide-md.hide-lg.mt-5.pr-lg-5.pr-md-4.pr-3.col-lg-3.col-md-3.col-12.team-left-column
 github.com##.box-shadow-large.Box.mt-6.p-3.text-left.Popover-message--large.Popover-message--top-left.Popover-message
@@ -115,6 +116,7 @@ github.com##.js-banner.border-gray-light.border.rounded-1.text-center.p-4.conten
 github.com##.js-cookie-consent-banner
 github.com##.js-cookie-consent-preferences-link-container
 github.com##.js-header-promo-hide
+github.com##.js-notice.mb-3.color-border-default.rounded-2.border.overflow-hidden.position-relative
 github.com##.js-notifications-list-protip.text-gray.flex-items-center.d-flex
 github.com##.js-unwatch-suggestions.js-notice.flash
 github.com##.mb-3.js-details-container.Details.border-black-fade.Box-row--yellow.Box
