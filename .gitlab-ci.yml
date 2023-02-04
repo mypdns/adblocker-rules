@@ -31,6 +31,7 @@ run:
   script:
     - if [ -f _public/blockrules.txt ]; then rm -f _public/blockrules.txt; fi
     - flrender -v -i ublockorigin-rules=. adblocker-rules.template _public/blockrules.txt
+    - bash -c 'sed -i "s/\! BuildID:/\! BuildID: $BUILD/g" _public/blockrules.txt'
 
 pages:
   stage: deploy
@@ -43,7 +44,6 @@ pages:
     - rsync -avP _public/* .public/
     - rm -rf public
     - mv .public public
-    # - wget -O public/blockrules.txt "https://framagit.org/my-privacy-dns/adblocker-rules/-/raw/master/_public/blockrules.txt"
     - ls -lha public/
   artifacts:
     paths:
