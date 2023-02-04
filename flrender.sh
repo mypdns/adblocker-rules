@@ -20,10 +20,19 @@ cd "${GIT_DIR}"
 # Remove old blocklist
 if [ -f _public/blockrules.txt ]; then rm -f _public/blockrules.txt; fi
 
+ls -lha _public/
+
 # Render the rules
 flrender -v -i ublockorigin-rules=. adblocker-rules.template _public/blockrules.txt
 
-sed -i -e "s/\! BuildID:/\! BuildID: $BUILD/g" _public/blockrules.txt
+ls -lha _public/
+
+head -n 5 _public/blockrules.txt
+
+# sed -i -e "s/\! BuildID:/\! BuildID: $BUILD/g" _public/blockrules.txt
+perl -pi -e 's/\! BuildID:/\! BuildID: $BUILD/g' _public/blockrules.txt | head -n 5
+
+head -n 5 _public/blockrules.txt
 
 git add _public/blockrules.txt && git commit -am "New build"
 
