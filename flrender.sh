@@ -12,37 +12,19 @@ set -e #-x
 # We use git dir to make it CI independent
 GIT_DIR="$(git rev-parse --show-toplevel)"
 
+BUILD="$(git rev-parse --short HEAD)"
+
 # Goto repo root
 cd "${GIT_DIR}"
 
-echo "..."
-echo "Let's install conda to prevent uncontrolled things to happens"
-echo ""
-echo "Any surprises that Ubuntu brakes everything??"
-echo "..."
-echo ""
-
-#source ~/miniconda/etc/profile.d/conda.sh
-#conda activate AdBlocker
+# Remove old blocklist
+if [ -f _public/blockrules.txt ]; then rm -f _public/blockrules.txt; fi
 
 # Render the rules
-cp -R _public/ public/
-flrender -v -i ublockorigin-rules=. adblocker-rules.template public/blockrules.txt
+flrender -v -i ublockorigin-rules=. adblocker-rules.template _public/blockrules.txt
 
-if [ -d "${GIT_DIR}/public/" ]; then
-    if [ -d "${GIT_DIR}/public/" ]; then
-        rsync -avP --chown "$USER" "${GIT_DIR}/public/" "/var/www/mypdns.org/public/adblocker-rules/"
-        rm -fr "${GIT_DIR}/public/"
-    fi
-else
-    echo "Script failed to generate output"
-    # conda deactivate
-    exit 99
-fi
+sed -i "s/\! BuildID:/\! BuildID: $BUILD/g" _public/blockrules.txt
 
-# conda deactivate
-#
-#
 # Copyright: https://mypdns.org/
 # Content: https://mypdns.org/spirillen/
 # Source: https://framagit.org/my-privacy-dns/adblocker-rules
