@@ -23,7 +23,9 @@ if [ -f _public/blockrules.txt ]; then rm -f _public/blockrules.txt; fi
 # Render the rules
 flrender -v -i ublockorigin-rules=. adblocker-rules.template _public/blockrules.txt
 
-sed -i "s/\! BuildID:/\! BuildID: $BUILD/g" _public/blockrules.txt
+sed -i -e "s/\! BuildID:/\! BuildID: $BUILD/g" _public/blockrules.txt
+
+git add _public/blockrules.txt && git commit -am "New build"
 
 # Copyright: https://mypdns.org/
 # Content: https://mypdns.org/spirillen/
