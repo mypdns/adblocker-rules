@@ -38,10 +38,10 @@ pages:
     CACHE_COMPRESSION_LEVEL: 'fastest'
   script:
     - mkdir .public
-    - cp -r _public/* .public/
+    - rsync -avP _public/* .public/
     - rm -rf public
     - mv .public public
-    - wget -O public/blockrules.txt "https://framagit.org/my-privacy-dns/adblocker-rules/-/raw/master/_public/blockrules.txt"
+    # - wget -O public/blockrules.txt "https://framagit.org/my-privacy-dns/adblocker-rules/-/raw/master/_public/blockrules.txt"
     - ls -lha public/
   artifacts:
     paths:
