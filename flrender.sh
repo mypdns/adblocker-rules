@@ -29,12 +29,12 @@ ls -lha _public/
 
 head -n 5 _public/blockrules.txt
 
-# sed -i -e "s/\! BuildID:/\! BuildID: $BUILD/g" _public/blockrules.txt
-perl -pi -e 's/\! BuildID:/\! BuildID: $BUILD/g' _public/blockrules.txt | head -n 5
+sed -i -e "s/\! BuildID:/\! BuildID: $BUILD/g" _public/blockrules.txt | head -n 5
+# perl -pi -e 's/\! BuildID:/\! BuildID: $BUILD/g' _public/blockrules.txt | head -n 5
 
 head -n 5 _public/blockrules.txt
 
-git add _public/blockrules.txt && git commit -am "New build"
+git add _public/blockrules.txt && git commit -am "New build" && git push
 
 # Copyright: https://mypdns.org/
 # Content: https://mypdns.org/spirillen/
