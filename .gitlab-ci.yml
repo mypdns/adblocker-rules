@@ -18,15 +18,16 @@ before_script:
 after_script:
   - echo -e "After script section...\n"
   - git status
-  - git add _public/blockrules.txt
+  - git rev-parse --short HEAD | tee > build.id
+  - git add _public/blockrules.txt build.id
   - git commit -m "AdBlocker list updated. BuildID $CI_JOB_ID [ci-skip]"
-  - git status
   - git push "https://spirillen:${mypdns_CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
+  - git status
 
 run:
   stage: build
   script:
-    - if [ -f _public/blockrules.txt ]; then rm -f _public/blockrules.txt; done
+    - if [ -f _public/blockrules.txt ]; then rm -f _public/blockrules.txt; fi
     - flrender -v -i ublockorigin-rules=. adblocker-rules.template _public/blockrules.txt
 
 pages:
