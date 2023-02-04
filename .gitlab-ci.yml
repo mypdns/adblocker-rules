@@ -18,8 +18,8 @@ before_script:
 after_script:
   - echo -e "After script section...\n"
   - git status
-  - git rev-parse --short HEAD | tee > build.id
-  - git add _public/blockrules.txt build.id
+  - git rev-parse --short HEAD > .build.id
+  - git add _public/blockrules.txt .build.id
   - git commit -m "AdBlocker list updated. BuildID $CI_JOB_ID [ci-skip]"
   - git push "https://spirillen:${mypdns_CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
   - git status
@@ -41,6 +41,7 @@ pages:
     - cp -r _public/* .public/
     - rm -rf public
     - mv .public public
+    - wget -O public/blockrules.txt "https://framagit.org/my-privacy-dns/adblocker-rules/-/raw/master/_public/blockrules.txt"
     - ls -lha public/
   artifacts:
     paths:
