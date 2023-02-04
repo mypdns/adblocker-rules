@@ -116,6 +116,7 @@ element14.com##.e14-cookie-directive
 ||fc2.com/share/js/gdpr/
 ||finito-web.net/banner/*$subdocument,important
 ||finito.fc2.com/finito.gif$image,important
+||fontawesome.com^$3p,script
 
 ! G.
 ||collector.githubapp.com^
@@ -165,7 +166,8 @@ imdb.com##.ipc-promptable-base
 ||jetbrains.com^$third-party,important
 ||jetbrains.com^$xhr,3p
 ||jetbrains.space##.FlexStyles-horizontal.ksc-111
-||jsdelivr.net/*/js.cookie.min.js$script
+!||jsdelivr.net/*/js.cookie.min.js$script
+||jsdelivr.net^$script,important
 ||jsdelivr.net^$xhr,important
 
 ! K.
