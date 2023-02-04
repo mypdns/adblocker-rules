@@ -52,18 +52,18 @@
 ! 9.
 
 ! A.
+/ads.js$script,1p,domain=bbwsexclips.com|pornplaza.net|bbwsexclips.com|pussy-porn.com|porno-fetish.net|lesbianxvideos.com|ayporno.net|lesbianadult.org|pornogif.org|fullhdporno.org
 ##[href*="admjmp.com"]
 ###age-check
 ||/ad_track.js$script
 ||/advertise.js$script,important,domain=freelatinapics.com|nudeblackporn.com
+||/openx/$script,important
 ||alxbgo.com^$third-party
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,rmetartx.com,ylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.active
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,rmetartx.com,ylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.age-compliance
-v2.metart.com##.free-access-modal.modal-dialog
-/ads.js$script,1p,domain=bbwsexclips.com|pornplaza.net|bbwsexclips.com|pussy-porn.com|porno-fetish.net|lesbianxvideos.com|ayporno.net|lesbianadult.org|pornogif.org|fullhdporno.org
-
 javrip.net,pissrip.net##.adult-warning
 m.proporn.com,yeptube.com,vivatube.com##.ad
+v2.metart.com##.free-access-modal.modal-dialog
 
 ! B.
 /back$script,important,domain=teenasspussy.com

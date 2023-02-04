@@ -57,6 +57,7 @@
 /analytics/event
 /api/tracking/*
 ##[href^="https://www.amazon.com"]
+||/ajax/trcking/trck.php$1p,important
 
 ! B.
 ##a[href^="https://bit.ly/"]
