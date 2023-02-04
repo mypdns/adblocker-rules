@@ -10,10 +10,10 @@ before_script:
   - apt-get update
   - apt-get install -yqqf bash git pgp python3-pip python3.10
   - git config --global user.email "spirillen@danwin1210.de"
-  - git config --global user.name "My Privacy DNS"
-  - git remote set-url origin https://mypdns:$mypdns_CI_ACCESS_TOKEN@mypdns.org/$CI_PROJECT_PATH.git
+  - git config --global user.name "spirillen"
+  - git remote set-url origin https://spirillen:$mypdns_CI_ACCESS_TOKEN@framagit.org/$CI_PROJECT_PATH.git
   #   - python --version  # For debugging
-  - if [ -f requirements.txt ]; then pip install --no-cache -I -r requirements.txt; fi
+  - if [ -f requirements.txt ]; then python3.10 -m pip install --no-cache -I -r requirements.txt; fi
 
 # after_script:
 #   - echo -e "After script section...\n"
@@ -29,11 +29,16 @@ run:
 
 pages:
   stage: deploy
+  variables:
+    FF_USE_FASTZIP: 'true'
+    ARTIFACT_COMPRESSION_LEVEL: 'slowest'
+    CACHE_COMPRESSION_LEVEL: 'fastest'
   script:
     - mkdir .public
     - cp -r _public/ .public/
     - rm -rf public
     - mv .public public
+    - ls -lha public/
   artifacts:
     paths:
       - public
