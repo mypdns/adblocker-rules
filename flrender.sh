@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-set -e #-x
+set -e -x
 
 # This script is to run the flrender tool to generate new adblocker lists
 # from AdBlocker-rules.template.
