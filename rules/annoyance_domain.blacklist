@@ -131,6 +131,8 @@ github.com##.ws-normal.text-left.p-3.box-shadow-large.Box.Popover-message
 github.com###sponsor-button-repo
 github.com##^.my-3.p-3.Box
 github.com##a.dropdown-item:nth-of-type(3)
+github.com##a.dropdown-item:nth-of-type(8)
+github.com##a.dropdown-item:nth-of-type(9)
 github.com##li > .btn-sm.btn
 gitlab.com##.content-block.bordered-box
 gitlab.com##.content-block.landing.bordered-box
