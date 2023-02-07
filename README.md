@@ -19,13 +19,13 @@ this is purely a side project.
 
 ## Disclaimer
 I can't guarantee these filers won't cause problems. If you found
-problems, [report][issues] it by filling in all the mandatory items in Issue
-template; otherwise reports can be ignored. Anyone who uses any of my
-filters/codes shall be deemed to have agreed that I have no responsibility
-or liability for costs, losses, damages, etc. arising from the use of
-the filters/codes. Unless Subscribe link is provided these filters are
-assumed to be copied and pasted, or imported, into My filters/rules
-(uBlock Origin) or User Rules (AdGuard).
+problems, [report][issues] it by filling in all the mandatory items in
+Issue template; otherwise reports can be ignored. Anyone who uses any of
+my filters/codes shall be deemed to have agreed that I have no
+responsibility or liability for costs, losses, damages, etc. arising
+from the use of the filters/codes. Unless Subscribe link is provided
+these filters are assumed to be copied and pasted, or imported, into My
+filters/rules (uBlock Origin) or User Rules (AdGuard).
 
 
 ## Issues and comments
@@ -145,7 +145,8 @@ See the dialogue at [github][dialogue]
 
 
 ## Webfront
-Our HTML front end is <https://mypdns.github.io/adblocker-rules/>
+Our HTML front end is Framagit <https://my-privacy-dns.frama.io/adblocker-rules/>
+GitHub <https://mypdns.github.io/adblocker-rules/>
 
 
 ## Subscribe to the rules
@@ -180,7 +181,7 @@ spreading the knowledge of how rules should be made :smiley:
 [issues]: https://spirillen.atlassian.net/jira/software/c/projects/UBOR/issues
 [commits]: https://gitlab.com/my-external-stuff/ublock-origin-rules
 [support]: https://spirillen.atlassian.net/jira/software/c/projects/UBOR/pages
-[Subscribe]: abp:subscribe?location=https://mypdns.github.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules
+[Subscribe]: abp:subscribe?location=https://my-privacy-dns.frama.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules
 
 <!-- External Links -->
 [redirect-engine]: https://github.com/gorhill/uBlock/blob/master/src/js/redirect-engine.js
