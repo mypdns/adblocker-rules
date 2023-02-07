@@ -57,6 +57,9 @@ jobs:
       - name: Deploy
         run: |
           cd _public
+          # As we have no parts of the third world country (USA) domestic
+          # Recism issues, we keep the original branch refs 'master'
+          git config --global init.defaultBranch master
           git init
           git add -A
           git config --local user.email "action@github.com"
