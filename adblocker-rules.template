@@ -8,7 +8,7 @@
 ! List url:
 ! https://framagit.org/my-privacy-dns/adblocker-rules/blockrules.txt
 !
-! Redirect: https://framagit.org/my-privacy-dns/adblocker-rules/blockrules.txt
+! Redirect: https://my-privacy-dns.frama.io/adblocker-rules/blockrules.txt
 !
 ! License:
 ! https://framagit.org/my-privacy-dns/adblocker-rules-/blob/master/LICENSE
@@ -38,9 +38,9 @@
 !     https://framagit.org/my-privacy-dns/adblocker-rules-/network/master
 !
 ! Description: This list is originally thought as a private project
-! Between two friends @spirillen and @AnonymousPoster
-! But it have come to our attention that other are using it as well and
-! That is nice to see, if you have any fixes, rules or just some decent
+! between two friends @spirillen and @AnonymousPoster
+! but it have come to our attention that other are using it as well and
+! that is nice to see, if you have any fixes, rules or just some decent
 ! clean-up of rules, you are most welcome to participate.
 !
 ! Versus any other project I participates to, this is more lazy and
@@ -82,16 +82,27 @@
 %include ublockorigin-rules:rules/whitelist_domain.whitelist%
 %include ublockorigin-rules:rules/whitelist_rule.whitelist%
 
+!------- My Privacy DNS filters ----------------------------------------!
+https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/adware/domains.list
+https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/adware/onions.list
+https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/adware/tld.list
+https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/adware/wildcard.list
+https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/sharked-domains/domains.list
+https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/sharked-domains/wildcard.list
+https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/tracking/domains.list
+https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/tracking/onions.list
+https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/tracking/tld.list
+https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/tracking/wildcard.list
+
+! ------ External Blacklists ------------------------------------------!
+
 !------- @Yuki2718 many Filters ---------------------------------------!
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/anti-allowlist.txt%
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules.txt%
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules-mob.txt%
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules.txt%
-! %include https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/static-rules.txt%
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt%
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/social-plus.txt%
-! %include https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/tracking-plus.txt%
-! %include https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/blog-parts-adult.txt%
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/blog-parts.txt%
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/blogroll.txt%
 %include https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances-plus.txt%
@@ -109,11 +120,14 @@
 !------- @ryanbr Easylist Cookie List ---------------------------------!
 %include https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-cookiemonster.txt%
 
-!------- Anti-Facebook List -------------------------------------------!
+!------- @ryanbr Anti-Facebook List -----------------------------------!
 %include https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-antifacebook.txt%
 
 !------- Fanboy's Annoyance List (@ryanbr) ----------------------------!
 ! %include https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-annoyance.txt%
+
+!------- Fanboy's Social Blocking List --------------------------------!
+!%include https://easylist.to/easylist/fanboy-social.txt%
 
 !------- webannoyances by @yourduskquibbles ---------------------------!
 %include https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt%
@@ -133,9 +147,6 @@
 !------- Spam404 ------------------------------------------------------!
 %include https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt%
 
-!------- Fanboy's Social Blocking List --------------------------------!
-!%include https://easylist.to/easylist/fanboy-social.txt%
-
 !------- uBlock filters – Annoyances ----------------------------------!
 %include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt%
 %include https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badlists.txt%
@@ -154,7 +165,7 @@
 %include https://someonewhocares.org/hosts/hosts%
 
 !------- Peter @pgl yoyo.org ------------------------------------------!
-%include https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext%
+%include https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus;showintro=0%
 
 !------- @migueldemoura ublock-umatrix-rulesets -----------------------!
 %include https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/uBlock/list%
@@ -162,3 +173,315 @@
 !------- @Piperun's IP-Logger Filter ----------------------------------!
 ! License: GNU General Public License v2.0
 %include https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist%
+
+!------- EasyList -----------------------------------------------------!
+!-----------------------General advert blocking filters-----------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_block_dimensions.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_block_popup.txt%
+!------------------------General element hiding rules-------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_hide.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist_general_hide.txt%
+!---------------------------Third-party advertisers---------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt%
+!-----------------------------Third-party adverts-----------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty_popup.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty_popup.txt%
+!----------------------Specific advert blocking filters-----------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_block_popup.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block_popup.txt%
+!------------------------Specific element hiding rules------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_hide_abp.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_hide.txt%
+!-----------------------Allowlists to fix broken sites------------------------!
+!%include https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist_dimensions.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_allowlist_popup.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_allowlist.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_allowlist_popup.txt%
+!--------------------------General blocking rules-----------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_general_block.txt%
+!------------------------General element hiding rules-------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_general_hide.txt%
+!-------------------------Third-party blocking rules--------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_thirdparty.txt%
+!--------------------------Specific blocking filters--------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_block.txt%
+!------------------------Specific element hiding rules------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_uBO.txt%
+!------------------------Rules for international sites------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_international_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_international_specific_block.txt%
+!---------------------------------Allowlists----------------------------------!
+!%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_allowlist_general_hide.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_allowlist.txt%
+!--------------------------General blocking rules-----------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_general_block.txt%
+!------------------------General element hiding rules-------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_general_hide.txt%
+!-------------------------Third-party blocking rules--------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_thirdparty.txt%
+!--------------------------Specific blocking filters--------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_block.txt%
+!------------------------Specific element hiding rules------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_ABP.txt%
+!------------------------Rules for international sites------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_international_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_international_specific_block.txt%
+!---------------------------------Allowlists----------------------------------!
+!%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_allowlist_general_hide.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_allowlist.txt%
+!-----------------General tracking systems-----------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_general.txt%
+!-----------------Third-party tracking domains-----------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt%
+!-----------------International third-party tracking domains-----------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt%
+!-----------------Third-party tracking services-----------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt%
+!-----------------International third-party tracking services-----------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty_international.txt%
+!-----------------Individual tracking systems-----------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt%
+!-----------------Individual cname tracking systems-----------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt%
+!-----------------International individual tracking systems-----------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_international.txt%
+!-----------------------Allowlists to fix broken sites------------------------!
+!%include https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_allowlist.txt%
+!----------------Allowlists to fix broken international sites-----------------!
+!%include https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_allowlist_international.txt%
+!--------------------------General blocking rules-----------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_general_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_general_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_general_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_general_block.txt%
+!------------------------General element hiding rules-------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_general_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_general_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_general_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_general_hide.txt%
+!-------------------------Third-party blocking rules--------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_thirdparty.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_thirdparty.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_thirdparty.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_thirdparty.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_sounds_thirdparty.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_thirdparty.txt%
+!--------------------------Specific blocking filters--------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_specific_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_specific_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_specific_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_block.txt%
+!------------------------Specific element hiding rules------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_specific_uBO.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_specific_uBO.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_specific_uBO.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_uBO.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_uBO.txt%
+!------------------------Rules for international sites------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_international.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_international.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_international_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_international_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_international_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_international_specific_block.txt%
+!---------------------------------Allowlists----------------------------------!
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_allowlist_general_hide.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_allowlist_general_hide.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_allowlist_general_hide.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_allowlist.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_allowlist_general_hide.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_allowlist_general_hide.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_allowlist.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_allowlist.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_allowlist.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_allowlist.txt%
+!--------------------------General blocking rules-----------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_general_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_general_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_general_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_general_block.txt%
+!------------------------General element hiding rules-------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_general_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_general_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_general_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_general_hide.txt%
+!-------------------------Third-party blocking rules--------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_thirdparty.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_thirdparty.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_thirdparty.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_thirdparty.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_sounds_thirdparty.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_thirdparty.txt%
+!--------------------------Specific blocking filters--------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_specific_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_specific_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_specific_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_block.txt%
+!------------------------Specific element hiding rules------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_specific_ABP.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_ABP.txt%
+!------------------------Rules for international sites------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_international.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_international.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_international_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_international_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_international_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_international_specific_block.txt%
+!---------------------------------Allowlists----------------------------------!
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_allowlist_general_hide.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_allowlist_general_hide.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_allowlist_general_hide.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_allowlist.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_allowlist_general_hide.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_allowlist_general_hide.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_allowlist.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_allowlist.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_allowlist.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_allowlist.txt%
+!--------------------------General blocking rules-----------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_general_block.txt%
+!------------------------General element hiding rules-------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_general_hide.txt%
+!-------------------------Third-party blocking rules--------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_thirdparty.txt%
+!--------------------------Specific blocking filters--------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_block.txt%
+!------------------------Specific element hiding rules------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_hide.txt%
+!------------------------Rules for international sites------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_international_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_international_specific_block.txt%
+!---------------------------------Allowlists----------------------------------!
+!%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_allowlist_general_hide.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_allowlist.txt%
+!--------------------------General blocking rules-----------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_general_block.txt%
+!------------------------General element hiding rules-------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_general_hide.txt%
+!-------------------------Third-party blocking rules--------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_thirdparty.txt%
+!--------------------------Specific blocking filters--------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_specific_block.txt%
+!------------------------Specific element hiding rules------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_specific_uBO.txt%
+!------------------------Rules for international sites------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_international_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_international_hide.txt%
+!---------------------------------Allowlists----------------------------------!
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_allowlist.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_allowlist_general_hide.txt%
+!--------------------------General blocking rules-----------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_general_block.txt%
+!------------------------General element hiding rules-------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_general_hide.txt%
+!-------------------------Third-party blocking rules--------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_thirdparty.txt%
+!--------------------------Specific blocking filters--------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_specific_block.txt%
+!------------------------Specific element hiding rules------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_specific_ABP.txt%
+!------------------------Rules for international sites------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_international_block.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_international_hide.txt%
+!---------------------------------Allowlists----------------------------------!
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_allowlist.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_allowlist_general_hide.txt%
+!--------------------------General blocking rules-----------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_general_block.txt%
+!------------------------General element hiding rules-------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_general_hide.txt%
+!-------------------------Third-party blocking rules--------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_thirdparty.txt%
+!--------------------------Specific blocking filters--------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_block.txt%
+!------------------------Specific element hiding rules------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_uBO.txt%
+!------------------------Rules for international sites------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_international.txt%
+!---------------------------------Allowlists----------------------------------!
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_allowlist_general_hide.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_allowlist.txt%
+!--------------------------General blocking rules-----------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_general_block.txt%
+!------------------------General element hiding rules-------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_general_hide.txt%
+!-------------------------Third-party blocking rules--------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_thirdparty.txt%
+!--------------------------Specific blocking filters--------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_block.txt%
+!------------------------Specific element hiding rules------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_hide.txt%
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_ABP.txt%
+!------------------------Rules for international sites------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_international.txt%
+!---------------------------------Allowlists----------------------------------!
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_allowlist_general_hide.txt%
+!%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_allowlist.txt%
+!-------------------------Third-party blocking rules--------------------------!
+%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_sounds_thirdparty.txt%
+
+!------- UrlHaus ------------------------------------------------------!
+%include https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-online.txt%%
+%include https://malware-filter.gitlab.io/malware-filter/tracking-filter.txt%
+
+!------- @PeterDaveHello url shorteneres ---------------------------------!
+%include https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list%
+
+!------- AdSpyglass: 0i0i0i0.com disguised advertising networks -------!
+%include https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/adspyglass.txt%
+
+!------- ahacdn.me: cdn18685953.ahacdn.me disguised advertising networks -!
+! Disabled, because contains more than 22000 rules
+%include https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/ahacdn_me.txt%
+
+!------- Clickaine: api.clickaine.com disguised advertising networks --!
+%include https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/clickaine.txt%
+
+!------- ads2.bid: ads.bid disguised advertising networks -------------!
+%include https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/ads2_bid.txt%
+
+!------- heleric.com: heleric.com disguised advertising networks ------!
+%include https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/heleric_com.txt%
+
+!------- NameSilo: ab1n.net disguised advertising networks ------------!
+%include https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/namesilo.txt%
+
+!------- PopCash: popcashjs.b-cdn.net disguised advertising networks --!
+%include https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/popcash.txt%
+
+!------- Webair: ak-is2.net disguised advertising networks ------------!
+%include https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/webair.txt%
+
+!------- External sources ---------------------------------------------!
+!%include /tmp/external_sources.txt%

@@ -1,0 +1,2063 @@
+{
+    "name": "My Privacy DNS",
+    "description": "My Privacy DNS list, adblockers",
+    "homepage": "https://my-privacy-dns.frama.io/adblocker-rules/",
+    "license": "MCRAE GENERAL PUBLIC LICENSE (version 4.r53m2)",
+    "sources": [
+        {
+            "name": "My Privacy DNS Filter adult_domain.blacklist",
+            "source": "rules/adult_domain.blacklist",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "My Privacy DNS Filter adult_rule.blacklist",
+            "source": "rules/adult_rule.blacklist",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "My Privacy DNS Filter adware_domain.blacklist",
+            "source": "rules/adware_domain.blacklist",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "My Privacy DNS Filter adware_rule.blacklist",
+            "source": "rules/adware_rule.blacklist",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "My Privacy DNS Filter annoyance_domain.blacklist",
+            "source": "rules/annoyance_domain.blacklist",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "My Privacy DNS Filter annoyance_rule.blacklist",
+            "source": "rules/annoyance_rule.blacklist",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "My Privacy DNS Filter anti_social_domain.blacklist",
+            "source": "rules/anti_social_domain.blacklist",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "My Privacy DNS Filter anti_social_rule.blacklist",
+            "source": "rules/anti_social_rule.blacklist",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "My Privacy DNS Filter anti_whitelist_domain.blacklist",
+            "source": "rules/anti_whitelist_domain.blacklist",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "My Privacy DNS Filter anti_whitelist_rule.blacklist",
+            "source": "rules/anti_whitelist_rule.blacklist",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "My Privacy DNS Filter cookie_domain.blacklist",
+            "source": "rules/cookie_domain.blacklist",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "My Privacy DNS Filter cookie_rule.blacklist",
+            "source": "rules/cookie_rule.blacklist",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "My Privacy DNS Filter domain_piracy_rules.blacklist",
+            "source": "rules/domain_piracy_rules.blacklist",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "My Privacy DNS Filter spyware_domain.blacklist",
+            "source": "rules/spyware_domain.blacklist",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "My Privacy DNS Filter spyware_rule.blacklist",
+            "source": "rules/spyware_rule.blacklist",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "My Privacy DNS Filter whitelist_domain.whitelist",
+            "source": "rules/whitelist_domain.whitelist",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "My Privacy DNS Filter whitelist_rule.whitelist",
+            "source": "rules/whitelist_rule.whitelist",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdWare Domain list",
+            "source": "https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/adware/domains.list",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments",
+                "Compress"
+            ]
+        },
+        {
+            "name": "AdWare onion list",
+            "source": "https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/adware/onions.list",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments",
+                "Compress"
+            ]
+        },
+        {
+            "name": "AdWare .TLD list",
+            "source": "https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/adware/tld.list",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments",
+                "Compress"
+            ]
+        },
+        {
+            "name": "AdWare wildcard list",
+            "source": "https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/adware/wildcard.list",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments",
+                "Compress"
+            ]
+        },
+        {
+            "name": "tracking Domain list",
+            "source": "https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/tracking/domains.list",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments",
+                "Compress"
+            ]
+        },
+        {
+            "name": "tracking onions list",
+            "source": "https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/tracking/onions.list",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments",
+                "Compress"
+            ]
+        },
+        {
+            "name": "tracking .TLD list",
+            "source": "https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/tracking/tld.list",
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments",
+                "Compress"
+            ]
+        },
+        {
+            "name": "tracking wildcard list",
+            "source": "https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/tracking/wildcard.list",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@Yuki2718 many Filters",
+            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/anti-allowlist.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@Yuki2718 many Filters",
+            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@Yuki2718 many Filters",
+            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules-mob.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@Yuki2718 many Filters",
+            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@Yuki2718 many Filters",
+            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@Yuki2718 many Filters",
+            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/social-plus.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@Yuki2718 many Filters",
+            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/blog-parts.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@Yuki2718 many Filters",
+            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/blogroll.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@Yuki2718 many Filters",
+            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances-plus.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@Yuki2718 many Filters",
+            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@Yuki2718 many Filters",
+            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@Yuki2718 many Filters",
+            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-mob.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@Yuki2718 many Filters",
+            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-paranoid.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@Yuki2718 many Filters",
+            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-social.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@Yuki2718 many Filters",
+            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/mob-app.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@Yuki2718 many Filters",
+            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/sabre-filters2.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Base filter ad servers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Base filter adservers firstparty",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Base filter anti adblock",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/antiadblock.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Base filter banner sizes",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/banner_sizes.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Base filter content blocker",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/content_blocker.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Base filter cryptominers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Base filter css extended",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/css_extended.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Base filter foreign",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/foreign.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Base filter general elemhide",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/general_elemhide.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Base filter general extensions",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/general_extensions.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Base filter general url",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/general_url.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Base filter specific",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/specific.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdSpyglass : 0i0i0i0.com disguised advertising networks",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/adspyglass.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Clickaine : api.clickaine.com disguised advertising networks",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/clickaine.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "ads2.bid : ads.bid disguised advertising networks",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/ads2_bid.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "heleric.com : heleric.com disguised advertising networks",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/heleric_com.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "NameSilo : ab1n.net disguised advertising networks",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/namesilo.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "PopCash : popcashjs.b-cdn.net disguised advertising networks",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/popcash.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Webair : ak-is2.net disguised advertising networks",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/webair.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard UsefulAdsFilter filter ad servers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/UsefulAdsFilter/sections/usefulads.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ],
+            "exclusions": [
+                "/(?!^(\\|\\||@@\\|\\|))^.+/"
+            ]
+        },
+        {
+            "name": "AdGuard Base filter ad servers first-party",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Mobile Ads filter ad servers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList ad servers",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList Germany ad servers",
+            "source": "https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Tracking Protection filter third-party trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Tracking Protection filter first-party trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Tracking Protection filter mobile trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyPrivacy tracking servers",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyPrivacy international tracking servers",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyPrivacy third-party tracking servers",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyPrivacy third-party international tracking servers",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty_international.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Base filter cryptominers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard SpywareFilter cookies general",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/cookies_general.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard SpywareFilter cookies specific",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/cookies_specific.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard SpywareFilter css extended",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/css_extended.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard SpywareFilter general elemhide",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/general_elemhide.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard SpywareFilter general extensions",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/general_extensions.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard SpywareFilter general url",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/general_url.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard SpywareFilter Mobile",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard SpywareFilter specific",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/specific.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard SpywareFilter tracking servers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard SpywareFilter tracking servers firstparty",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard TrackParamFilter general url",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TrackParamFilter/sections/general_url.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard TrackParamFilter specific",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TrackParamFilter/sections/specific.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard AnnoyancesFilter cookies general",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Cookies/sections/cookies_general.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard AnnoyancesFilter cookies specific",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Cookies/sections/cookies_specific.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard AnnoyancesFilter annoyances",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Other/sections/annoyances.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard AnnoyancesFilter self promo",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Other/sections/self-promo.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard AnnoyancesFilter tweaks",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Other/sections/tweaks.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard AnnoyancesFilter Popups antiadblock.txt",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/antiadblock.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard AnnoyancesFilter Popups popups general",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/popups_general.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard AnnoyancesFilter Popups popups specific",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/popups_specific.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard AnnoyancesFilter Popups push-notifications_general",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/push-notifications_general.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard AnnoyancesFilter Popups push-notifications_specific",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/push-notifications_specific.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard AnnoyancesFilter Popups subscriptions_general",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/subscriptions_general.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard AnnoyancesFilter Popups subscriptions_specific.txt",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/subscriptions_specific.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard AnnoyancesFilter Widgets widgets",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Widgets/sections/widgets.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "affilbox.cz : cz.affilbox.cz disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/affilbox_cz.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "2cnt.net : pl02.prolitteris.2cnt.net disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/2cnt_net.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "A8.net : a8.net disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/a8_net.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Act-On : actonservice.com and actonsoftware.com disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/act-on.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Actionlink.jp : mm.actionlink.jp disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/actionlink_jp.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AD EBiS : ebis.ne.jp disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/ad-ebis.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Adobe Experience Cloud (formerly Omniture) : 2o7.net disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/adobe-experience-cloud-(formerly-omniture).txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AT Internet (formerly XiTi) : at-o.net disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/at-internet-(formerly-xiti).txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Commanders Act : tagcommander.com disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/commanders-act.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Criteo : dnsdelegation.io disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/criteo.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "DataUnlocker : dataunlocker.com disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/dataunlocker.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Ensighten : nc0.co disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/ensighten.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Eulerian : eulerian.net disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/eulerian.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Fathom : fathomdns.com disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/fathom.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "GENIEE : genieespv.jp disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/geniee.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "GMO Internet Group : ad-cloud.jp disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/gmo-internet-group.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "INFOnline : iocnt.net disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/infonline.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Keyade : k.keyade.com disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/keyade.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "NP6 : tracking.bp01.net disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/np6.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Oracle Eloqua : hs.eloqua.com disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/oracle-eloqua.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Otto Group : oghub.io disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/otto-group.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Parse.ly : parsely.com disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/parse_ly.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Plausible Analytics : custom.plausible.io disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/plausible-analytics.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "RedTrack : rdtk.io disguised advertising networks",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/redtrack.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Webtrekk : webtrekk.net disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/webtrekk.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Wizaly : wizaly.com disguised trackers",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/wizaly.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "ABPindo ad servers",
+            "source": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "hostsVN ad servers",
+            "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Adguard Additional rules",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt",
+            "transformations": [
+                "Validate"
+            ],
+            "type": "adblock"
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block_popup.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_hide.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty_popup.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_general_block.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_general_hide.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_international_specific_block.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_international_specific_hide.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_ABP.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_block.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_hide.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_specific_uBO.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_thirdparty.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_block_dimensions.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_block_popup.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_block.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_hide.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_block_popup.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_block.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_hide_abp.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_hide.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty_popup.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_general.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_international.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty_international.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_general_block.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_general_hide.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_international.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_specific_block.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_specific_hide.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_specific_uBO.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_thirdparty.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_general_block.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_general_hide.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_international_block.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_international_hide.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_specific_ABP.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_specific_block.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_specific_hide.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_specific_uBO.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_thirdparty.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_block.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_hide.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_specific_block.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_specific_hide.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_specific_uBO.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_thirdparty.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_general_block.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_general_hide.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_international.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_ABP.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_block.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_hide.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_uBO.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_thirdparty.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "EasyList",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_sounds_thirdparty.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@ryanbr Fanboy's Enhanced Tracking List",
+            "source": "https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/enhancedstats-addon.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@ryanbr Easylist Cookie List",
+            "source": "https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-cookiemonster.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@ryanbr Anti-Facebook List",
+            "source": "https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/fanboy-antifacebook.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Fanboy's Social Blocking List",
+            "source": "https://easylist.to/easylist/fanboy-social.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "webannoyances by @yourduskquibbles",
+            "source": "https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Base filter",
+            "source": "https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Tracking Protection filter",
+            "source": "https://filters.adtidy.org/extension/ublock/filters/3.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Social Media filter",
+            "source": "https://filters.adtidy.org/extension/ublock/filters/4.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Annoyances filter",
+            "source": "https://filters.adtidy.org/extension/ublock/filters/14.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Spam404",
+            "source": "https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "uBlock filters – Annoyances",
+            "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "uBlock filters – Annoyances",
+            "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badlists.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "uBlock filters – Annoyances",
+            "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "uBlock filters – Annoyances",
+            "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "uBlock filters – Annoyances",
+            "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "uBlock filters – Annoyances",
+            "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "uBlock filters – Annoyances",
+            "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/legacy.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "uBlock filters – Annoyances",
+            "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "uBlock filters – Annoyances",
+            "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Dan Pollock",
+            "source": "https://someonewhocares.org/hosts/hosts",
+            "type": "hosts",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Peter @pgl yoyo.org",
+            "source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus;showintro=0",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@migueldemoura ublock-umatrix-rulesets",
+            "source": "https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/uBlock/list",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@Piperun's IP-Logger Filter",
+            "source": "https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "UrlHaus",
+            "source": "https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-online.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "UrlHaus",
+            "source": "https://malware-filter.gitlab.io/malware-filter/tracking-filter.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "@PeterDaveHello url shorteneres",
+            "source": "https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdSpyglass: 0i0i0i0.com disguised advertising networks",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/adspyglass.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "ahacdn.me: cdn18685953.ahacdn.me disguised advertising networks",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/ahacdn_me.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Clickaine: api.clickaine.com disguised advertising networks",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/clickaine.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "ads2.bid: ads.bid disguised advertising networks",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/ads2_bid.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "heleric.com: heleric.com disguised advertising networks",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/heleric_com.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "NameSilo: ab1n.net disguised advertising networks",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/namesilo.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "PopCash: popcashjs.b-cdn.net disguised advertising networks",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/popcash.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Webair: ak-is2.net disguised advertising networks",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/trackers/webair.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        }
+    ],
+    "transformations": [
+        "Compress",
+        "Deduplicate",
+        "InsertFinalNewLine",
+        "RemoveComments",
+        "RemoveEmptyLines",
+        "TrimLines"
+    ],
+    "exclusions": [],
+    "exclusions_sources": [
+        "tools/global_exclusions.txt"
+    ],
+    "inclusions": [
+        "*"
+    ],
+    "inclusions_sources": [
+        "tools/global_inclusions.txt"
+    ]
+}

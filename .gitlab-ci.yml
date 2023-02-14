@@ -8,7 +8,7 @@ before_script:
   - echo "Before script section"
   - export DEBIAN_FRONTEND=noninteractive
   - apt-get update
-  - apt-get install -yqqf bash git pgp python3-pip python3.10 rsync
+  - apt-get install -yqqf bash git pgp python3-pip python3.10 rsync npm
   - git config --global user.email "spirillen@danwin1210.de"
   - git config --global user.name "spirillen"
   - git remote set-url origin https://spirillen:$mypdns_CI_ACCESS_TOKEN@framagit.org/$CI_PROJECT_PATH.git
@@ -31,7 +31,8 @@ run:
   stage: build
   script:
     # - flrender -v -i ublockorigin-rules=. adblocker-rules.template _public/blockrules.txt
-    - sh flrender.sh
+    # - sh flrender.sh
+    - sh tools/hostlistcompiler.sh
 
 pages:
   stage: deploy

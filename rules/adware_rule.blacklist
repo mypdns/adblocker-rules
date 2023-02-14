@@ -1,34 +1,11 @@
+[Adblock Plus 2.0]
+! Title: My Privacy DNS
+! Last modified: %timestamp%
+! Expires: 1 hours (update frequency)
 ! List url:
-! https://framagit.org/my-privacy-dns/adblocker-rules-/tree/master/rules/adware_rule.blacklist
+! https://framagit.org/my-privacy-dns/adblocker-rules-/tree/master/rules/whitelist_rule.whitelist
 !
-! License:
-! https://framagit.org/my-privacy-dns/adblocker-rules-/blob/master/LICENSE
-! Homepage: https://framagit.org/my-privacy-dns/adblocker-rules
-!
-! Please report any unblocked content or problems on the Issue board.
-! My Privacy DNS issues:
-! - https://framagit.org/my-privacy-dns/matrix/-/issues
-!
-! Merge Request:
-! - https://framagit.org/my-privacy-dns/adblocker-rules/-/merge_requests
-!
-! Email:
-!   - gitlab-incoming+my-privacy-dns-matrix-84843-2do0wa4e2cze1gzsxfje50w0m-issue@framagit.org
-!
-! CopyRight:
-!   - https://mypdns.org/spirillen
-!   - https://framagit.org/spirillen
-!   - https://gitlab.com/spirillen
-!   - https://github.com/spirillen
-!   - https://gitlab.com/spirillen
-!   - https://bitbucket.org/spirillen/
-!   - https://spirillen.atlassian.net/wiki/people/5bb90b589ba2930990f81dcd
-!   - https://spirillen.youtrack.cloud/users/spirillen
-!   - https://marsupilami.jetbrains.space/m/spirillen
-!   - https://spirillen.jetbrains.space/m/spirillen
-!   - The individual lists maintainers
-!   - The individual contributor
-!   - https://framagit.org/my-privacy-dns/adblocker-rules-/network/master
+%include easylist:template_header.txt%
 
 ! 0.
 
@@ -51,10 +28,12 @@
 ! 9.
 
 ! A.
+://ads.
 !/ads.v*.js?v=*$important
 !/ads.v5.js?v=3$important
 /ads.js$script,important,domain=evoload.io,here.xxx,mixdrop.co,xn--icktho51h7xpyfnezf.com
 /ads.v*.js?v=*$important
+/adsbygoogle.js$script,important
 /adsense/*/caf.js$script,important
 /adsmb.js$script,important
 ##.ad-on-video
@@ -66,6 +45,7 @@
 ###advads_ad_widget-
 ##^.adsbygoogle
 ##div[class^="ad_unit_"]
+||adservice.*^
 fluttercampus.com##.adboxlarge
 love4porn.com##^.ads
 twentytwowords.com##.ad-units-wrapper
@@ -86,6 +66,7 @@ gamemodding.com##.big_banner
 
 ! C.
 .com/ads-
+.com/ads/$image
 /click$domain=pornclubvideo.com
 /js/coza-banner.js
 ##.cc_banner-wrapper
@@ -95,6 +76,7 @@ gamemodding.com##.big_banner
 celebjihad.com,nudeplaymates.net,pornhub.net.co##center
 
 ! D.
+||doubleclick.*^
 
 ! E.
 ##.ezfound

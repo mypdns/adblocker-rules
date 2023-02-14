@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Spirillen's – Noise Filters
-! Expires: 1 hour
+! Expires: 1 hours
 ! List url:
 ! https://framagit.org/my-privacy-dns/adblocker-rules-/tree/master/rules/noise.txt
 !
