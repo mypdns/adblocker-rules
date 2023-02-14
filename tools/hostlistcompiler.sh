@@ -12,7 +12,7 @@ npm i -g @adguard/hostlist-compiler
 hostlist-compiler -c "$GIT_DIR/tools/hostscompilerconf.json" \
     -o "$GIT_DIR/_public/blockrules.txt"
 
-ehco "List the first 15 lines"
+echo "List the first 15 lines"
 echo ""
 head -n 15 _public/blockrules.txt
 echo ""
