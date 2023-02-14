@@ -46,6 +46,7 @@ pages:
     - rm -rf public
     - mv .public public
     - ls -lha public/
+    - head -n 15 public/blockrules.txt
   artifacts:
     paths:
       - public
