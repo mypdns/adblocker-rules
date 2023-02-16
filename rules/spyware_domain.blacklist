@@ -70,6 +70,7 @@ g.alicdn.com/woodpeckerx/jssdk/wpkReporter.js
 ! D.
 ||check.ddos-guard.net^$important
 ||danzz.ch^$ping,domain=nzz.ch
+||discourse-cdn.com^$3p
 ||disqus.com/embed.js$script
 ||disqus.com^$subdocument
 ||dr.dk/drWebStat/$,domain=dr.dk
