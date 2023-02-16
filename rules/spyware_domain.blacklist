@@ -128,6 +128,7 @@ element14.com##.e14-cookie-directive
 ||live.github.com/_luau/*$websocket,important
 ||live.github.com/_ws/*$websocket,important
 ||webrtc.github.io^
+next.gforge.com##.ng-scope.row
 
 ! H.
 ||etrack.ext.hpe.com^
