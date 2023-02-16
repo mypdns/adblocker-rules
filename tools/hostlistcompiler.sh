@@ -20,7 +20,7 @@ echo ""
 head -n 15 _public/blockrules.txt
 echo ""
 
-git add _public/blockrules.txt
-git commit -m "AdBlocker list updated. BuildID $BUILD"
-git pull --rebase
-git push "https://spirillen:${mypdns_CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME} [skip-ci]"
+# git add _public/blockrules.txt
+# git commit -m "AdBlocker list updated. BuildID $BUILD"
+# git pull --rebase
+# git push "https://spirillen:${mypdns_CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME} [skip-ci]"
