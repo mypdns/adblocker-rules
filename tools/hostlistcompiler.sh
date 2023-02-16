@@ -23,4 +23,4 @@ echo ""
 git add _public/blockrules.txt
 git commit -m "AdBlocker list updated. BuildID $BUILD"
 git pull --rebase
-git push "https://spirillen:${mypdns_CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
+git push "https://spirillen:${mypdns_CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME} [skip-ci]"
