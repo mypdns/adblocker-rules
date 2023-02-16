@@ -144,6 +144,7 @@ hpe.com##.nxt-share-widget
 ||inran.biz^$important
 ||investingchannel.com/static/uat.js$script
 imdb.com##.ipc-promptable-base
+itslinuxfoss.com##[id^="ez-video-wrap-"]
 
 ! J.
 ||jetbrains.com^$third-party,important
@@ -174,11 +175,17 @@ listenbrainz.org###brainz-player
 ||track.nzz.ch/cre-1.0/tracking/*$script,1p,important
 
 ! O.
-||onetrust.com^$important
-||omblockedips.com^$important
 ||api.omnicar.io^
+||omblockedips.com^$important
 ||omnicar.io^
+||onetrust.com^$important
 ||serviceagreement.omnicar.io^
+opensource.com##.account__item.facebook
+opensource.com##.account__item.rss
+opensource.com##.account__item.twitter
+opensource.com##.pin-top.show
+opensource.com###block-socialmediashareicons
+
 
 ! P.
 !||cdn.polyfill.io/v2/*$script
