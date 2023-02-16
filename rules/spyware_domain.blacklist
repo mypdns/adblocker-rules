@@ -59,7 +59,7 @@ g.alicdn.com/woodpeckerx/jssdk/wpkReporter.js
 ||search.brave.com^$removeparam=source
 
 ! C.
-||cdnjs.cloudflare.com^$script
+||cdnjs.cloudflare.com^$script,font
 ||clarity.microsoft.com^
 ||clarity.ms^
 ||cloudflare.net^$xhr,important
