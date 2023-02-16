@@ -178,6 +178,7 @@ _prebid_$badfilter
 ||analytics.
 ||analytics.google.com
 ||apis.google.com
+||discourse-cdn.com/
 ||doubleclick.com^
 ||doubleclick.de^
 ||doubleclick.net/
