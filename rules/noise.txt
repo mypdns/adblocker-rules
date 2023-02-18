@@ -164,6 +164,9 @@ twitch.tv##.top-bar
 
 ! V.
 
+! W.
+||login.wikimedia.org^$script,domain=wikipedia.org
+
 ! X.
 xxxreal.com##.mb-s
 xxxreal.com##.video-detail__pay-methods
