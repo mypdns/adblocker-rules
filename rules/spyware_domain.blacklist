@@ -75,6 +75,7 @@ g.alicdn.com/woodpeckerx/jssdk/wpkReporter.js
 ||disqus.com^$subdocument
 ||dr.dk/drWebStat/$,domain=dr.dk
 ||dr.dk/hydra/assets/*$script,domain=dr.dk
+||dr.dk/hydra/assets/ArticlePage.*.js$script,domain=dr.dk
 ||drtuber.*/ajax/log/*$important
 ||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion^$ping,xhr,1p,important
 ||dyncdn.me/static/*/js/expla*.js$script,important

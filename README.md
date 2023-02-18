@@ -7,6 +7,7 @@ The uBlock, adBlock like filters you will find inside this repository
 will in some degree be a supportive to the more common know filters like
 [EasyList][EasyList] or [AdGuard][AdGuard].
 
+## About
 Some important notes is this project started as a private project,
 however as the time how parsed by, it looks like other users are using
 one or more of our rules and filter, just as we are including 3rd party
@@ -27,6 +28,41 @@ from the use of the filters/codes. Unless Subscribe link is provided
 these filters are assumed to be copied and pasted, or imported, into My
 filters/rules (uBlock Origin) or User Rules (AdGuard).
 
+
+## Webfront
+Our HTML front end can be found at
+- Framagit: <https://my-privacy-dns.frama.io/adblocker-rules/>
+- GitHub: <https://mypdns.github.io/adblocker-rules/>
+
+
+## Subscribe to the rules
+[Click here to activate these rules in you uBlock Origin][Subscribe]
+
+The following Lnks will provide you with different resulting filters.
+Framagit Editions should be the most advanced and compressed thanks to
+the @adguard/hostlist-compiler compiler, where the GH editions relay on
+the abp filter script.
+
+- Framagit edition via [adblocker.mypdns.org][Subscribe]
+- Framagit edition via [my-privacy-dns.frama.io][Subscribefg]
+- Github edition via [mypdns.github.io][Subscribegh]
+
+You should also be able to subscripbe directly to the rules by
+right-click any of the following urls, choose <uBlock Origin> =>
+<Subscribe to the filterlist>
+
+- <a href="abp:subscribe?location=https://adblocker.mypdns.org/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules&requiresLocation=https://adblocker.mypdns.org/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules%20%E2%80%93%20Framagit%20Edition"
+    title="Subscribe to My Privacy DNS adblocker rurless (Framagit
+    edition)">adblocker.mypdns.org | Adblock Rules (Framagit edition)
+    </a>
+- <a href="abp:subscribe?location=https://my-privacy-dns.frama.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20–%20Adblock%20Rules&requiresLocation=https://framagit.org/my-privacy-dns/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules%20%E2%80%93%20Framagit%20Edition"
+    target="_top" title="Subscribe this list to adblockers (Framagit
+    edition)">my-privacy-dns.frama.io | Adblock Rules (Framagit edition)
+    </a>
+- <a href="abp:subscribe?location=https://mypdns.github.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20–%20Adblock%20Rules&requiresLocation=https://mypdns.github.io/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules%20%E2%80%93%20Github%20Edition"
+    target="_top" title="Subscribe to My Privacy DNS adblocker rurles
+    (Github edition)">mypdns.github.io | Adblock Rules (Github edition)
+    </a>
 
 ## Issues and comments
 The one and only place to report any issues or post a comment are as
@@ -144,15 +180,6 @@ is a valid filter, it disables the whitelisted rule only on `example.com`.
 See the dialogue at [github][dialogue]
 
 
-## Webfront
-Our HTML front end is Framagit <https://my-privacy-dns.frama.io/adblocker-rules/>
-GitHub <https://mypdns.github.io/adblocker-rules/>
-
-
-## Subscribe to the rules
-[Click here to activate these rules in you uBlock Origin][Subscribe]
-
-
 ## External resources
 @Yuki2718 [/adblock](https://github.com/Yuki2718/adblock) (Pretty much
 all the rules)
@@ -175,7 +202,7 @@ And everyone else I've forgot to mention here.
 Have a look in the [source list](/adblocker-rules.template)
 
 
-## Tanks
+## Tanks to
 Thanks to @Yuki2718, @THEtomaso, @krystian3w and everyone else who is
 spreading the knowledge of how rules should be made :smiley:
 
@@ -183,7 +210,9 @@ spreading the knowledge of how rules should be made :smiley:
 [issues]: https://spirillen.atlassian.net/jira/software/c/projects/UBOR/issues
 [commits]: https://gitlab.com/my-external-stuff/ublock-origin-rules
 [support]: https://spirillen.atlassian.net/jira/software/c/projects/UBOR/pages
-[Subscribe]: abp:subscribe?location=https://my-privacy-dns.frama.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules
+[Subscribe]: abp:subscribe?location=https://adblocker.mypdns.org/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Framagit%20Edition%20%E2%80%93%20Adblock%20Rules
+[Subscribefg]: abp:subscribe?location=https://my-privacy-dns.frama.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Framagit%20Edition%20%E2%80%93%20Adblock%20Rules
+[Subscribegh]: abp:subscribe?location=https://mypdns.github.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Github%20Edition%20%E2%80%93%20Adblock%20Rules
 
 <!-- External Links -->
 [redirect-engine]: https://github.com/gorhill/uBlock/blob/master/src/js/redirect-engine.js
