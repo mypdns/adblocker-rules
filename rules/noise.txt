@@ -71,6 +71,7 @@ brutalclips.com##.carousel-fade
 ||dr.dk/drdk-ensighten/*$script,1p
 ||dr.dk/feature/drn-corona-frontpage-widget/*$1p
 ||dr.dk/tjenester/corona-api/*$1p
+dr.dk##.dre-footer
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.footer
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[class*="feedback"]
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(4)
