@@ -2,7 +2,7 @@
 ! Title: My Privacy DNS
 ! Last modified: %timestamp%
 ! Expires: 1 hours (update frequency)
-%include easylist:template_header.txt%
+%include ublockorigin-rules:template_header.txt%
 !
 ! List url:
 ! https://framagit.org/my-privacy-dns/adblocker-rules-/tree/master/rules/adult_domain.blacklist

@@ -5,7 +5,7 @@
 ! List url:
 ! https://framagit.org/my-privacy-dns/adblocker-rules-/tree/master/rules/whitelist_rule.whitelist
 !
-%include easylist:template_header.txt%
+%include ublockorigin-rules:template_header.txt%
 
 ! 0.
 
