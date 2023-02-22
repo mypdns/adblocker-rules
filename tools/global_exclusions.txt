@@ -184,6 +184,7 @@ _prebid_$badfilter
 ||doubleclick.net/
 ||doubleclick.net^*/
 ||doubleclick.net^$
+||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion^
 ||google-analytics.com/
 ||google-analytics.com^*/
 ||google-analytics.com^$
