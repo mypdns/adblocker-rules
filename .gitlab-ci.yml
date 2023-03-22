@@ -29,6 +29,7 @@ after_script:
 
 run:
   stage: build
+  allow_failure: true
   script:
     # - flrender -v -i ublockorigin-rules=. adblocker-rules.template _public/blockrules.txt
     # - sh flrender.sh
@@ -57,4 +58,3 @@ pages:
   rules:
     #- if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
-    - allow_failure: true
