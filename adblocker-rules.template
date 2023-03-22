@@ -426,7 +426,6 @@ https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/tracking/wildcard
 %include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_block.txt%
 !------------------------Specific element hiding rules------------------------!
 %include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_hide.txt%
-%include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_uBO.txt%
 !------------------------Rules for international sites------------------------!
 %include https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_international.txt%
 !---------------------------------Allowlists----------------------------------!
