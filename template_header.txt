@@ -1,7 +1,7 @@
 !
 ! License:
 ! MCRAE GENERAL PUBLIC LICENSE (version 4.r53m2)
-! https://0xacab.org/my-privacy-dns/adblocker-rules-/blob/master/LICENSE
+! https://0xacab.org/my-privacy-dns/adblocker-rules/-/blob/master/LICENSE
 ! Homepage: https://0xacab.org/my-privacy-dns/adblocker-rules
 !
 ! Please report any unblocked content or problems on the Issue board.
@@ -27,4 +27,4 @@
 !   - https://spirillen.jetbrains.space/m/spirillen
 !   - The individual lists maintainers
 !   - The individual contributor
-!     https://0xacab.org/my-privacy-dns/adblocker-rules-/network/master
+!     https://0xacab.org/my-privacy-dns/adblocker-rules/activity

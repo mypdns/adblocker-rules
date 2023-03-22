@@ -11,7 +11,7 @@ before_script:
   - apt-get install -yqqf bash git pgp python3-pip python3.10 rsync npm
   - git config --global user.email "spirillen@danwin1210.de"
   - git config --global user.name "spirillen"
-  - git remote set-url origin https://spirillen:$mypdns_CI_ACCESS_TOKEN@0xacab.org/$CI_PROJECT_PATH.git
+  - git remote set-url origin https://spirillen:$CI_ACCESS_TOKEN@0xacab.org/$CI_PROJECT_PATH.git
   #   - python --version  # For debugging
   - if [ -f requirements.txt ]; then python3.10 -m pip install --no-cache -I -r requirements.txt; fi
 
@@ -24,7 +24,7 @@ after_script:
   - git add _public/blockrules.txt
   - git commit -m "AdBlocker list updated. BuildID $CI_JOB_ID [ci-skip]"
   - git pull --rebase
-  - git push "https://spirillen:${mypdns_CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
+  - git push "https://spirillen:${CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
   - git status
 
 run:
@@ -36,7 +36,7 @@ run:
     # - git add _public/blockrules.txt
     # - git commit -m "AdBlocker list updated. BuildID $BUILD"
     # - git pull --rebase
-    # - git push "https://spirillen:${mypdns_CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
+    # - git push "https://spirillen:${CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
 
 pages:
   stage: deploy
@@ -55,4 +55,5 @@ pages:
     paths:
       - public
   rules:
-    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+    #- if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH

@@ -34,7 +34,7 @@ sed -i -e "s/\! BuildID:/\! BuildID: $BUILD/g" _public/blockrules.txt
 head -n 5 _public/blockrules.txt
 
 # git add _public/blockrules.txt && git commit -am "New build"
-# git push "https://spirillen:${mypdns_CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
+# git push "https://spirillen:${CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
 
 # Copyright: https://mypdns.org/
 # Content: https://mypdns.org/spirillen/

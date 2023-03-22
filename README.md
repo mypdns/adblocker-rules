@@ -31,7 +31,7 @@ filters/rules (uBlock Origin) or User Rules (AdGuard).
 
 ## Webfront
 Our HTML front end can be found at
-- Framagit: <https://my-privacy-dns.frama.io/adblocker-rules/>
+- 0xacab: <https://my-privacy-dns.frama.io/adblocker-rules/>
 - GitHub: <https://mypdns.github.io/adblocker-rules/>
 
 
@@ -39,25 +39,25 @@ Our HTML front end can be found at
 [Click here to activate these rules in you uBlock Origin][Subscribe]
 
 The following Lnks will provide you with different resulting filters.
-Framagit Editions should be the most advanced and compressed thanks to
+0xacab Editions should be the most advanced and compressed thanks to
 the @adguard/hostlist-compiler compiler, where the GH editions relay on
 the abp filter script.
 
-- Framagit edition via [adblocker.mypdns.org][Subscribe]
-- Framagit edition via [my-privacy-dns.frama.io][Subscribefg]
+- 0xacab edition via [adblocker.mypdns.org][Subscribe]
+- 0xacab edition via [my-privacy-dns.frama.io][Subscribefg]
 - Github edition via [mypdns.github.io][Subscribegh]
 
 You should also be able to subscripbe directly to the rules by
 right-click any of the following urls, choose <uBlock Origin> =>
 <Subscribe to the filterlist>
 
-- <a href="abp:subscribe?location=https://adblocker.mypdns.org/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules&requiresLocation=https://adblocker.mypdns.org/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules%20%E2%80%93%20Framagit%20Edition"
-    title="Subscribe to My Privacy DNS adblocker rurless (Framagit
-    edition)">adblocker.mypdns.org | Adblock Rules (Framagit edition)
+- <a href="abp:subscribe?location=https://adblocker.mypdns.org/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules&requiresLocation=https://adblocker.mypdns.org/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules%20%E2%80%93%200xacab%20Edition"
+    title="Subscribe to My Privacy DNS adblocker rurless (0xacab
+    edition)">adblocker.mypdns.org | Adblock Rules (0xacab edition)
     </a>
-- <a href="abp:subscribe?location=https://my-privacy-dns.frama.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20–%20Adblock%20Rules&requiresLocation=https://0xacab.org/my-privacy-dns/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules%20%E2%80%93%20Framagit%20Edition"
-    target="_top" title="Subscribe this list to adblockers (Framagit
-    edition)">my-privacy-dns.frama.io | Adblock Rules (Framagit edition)
+- <a href="abp:subscribe?location=https://my-privacy-dns.frama.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20–%20Adblock%20Rules&requiresLocation=https://0xacab.org/my-privacy-dns/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules%20%E2%80%93%200xacab%20Edition"
+    target="_top" title="Subscribe this list to adblockers (0xacab
+    edition)">my-privacy-dns.frama.io | Adblock Rules (0xacab edition)
     </a>
 - <a href="abp:subscribe?location=https://mypdns.github.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20–%20Adblock%20Rules&requiresLocation=https://mypdns.github.io/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules%20%E2%80%93%20Github%20Edition"
     target="_top" title="Subscribe to My Privacy DNS adblocker rurles
@@ -210,8 +210,8 @@ spreading the knowledge of how rules should be made :smiley:
 [issues]: https://spirillen.atlassian.net/jira/software/c/projects/UBOR/issues
 [commits]: https://gitlab.com/my-external-stuff/ublock-origin-rules
 [support]: https://spirillen.atlassian.net/jira/software/c/projects/UBOR/pages
-[Subscribe]: abp:subscribe?location=https://adblocker.mypdns.org/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Framagit%20Edition%20%E2%80%93%20Adblock%20Rules
-[Subscribefg]: abp:subscribe?location=https://my-privacy-dns.frama.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Framagit%20Edition%20%E2%80%93%20Adblock%20Rules
+[Subscribe]: abp:subscribe?location=https://adblocker.mypdns.org/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%200xacab%20Edition%20%E2%80%93%20Adblock%20Rules
+[Subscribefg]: abp:subscribe?location=https://my-privacy-dns.frama.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%200xacab%20Edition%20%E2%80%93%20Adblock%20Rules
 [Subscribegh]: abp:subscribe?location=https://mypdns.github.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Github%20Edition%20%E2%80%93%20Adblock%20Rules
 
 <!-- External Links -->

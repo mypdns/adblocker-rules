@@ -5,7 +5,7 @@
 ! https://0xacab.org/my-privacy-dns/adblocker-rules-/tree/master/rules/noise.txt
 !
 ! License:
-! https://0xacab.org/my-privacy-dns/adblocker-rules-/blob/master/LICENSE
+! https://0xacab.org/my-privacy-dns/adblocker-rules/-/blob/master/LICENSE
 ! Homepage: https://0xacab.org/my-privacy-dns/adblocker-rules
 !
 ! Please report any unblocked content or problems on the Issue board.
@@ -30,7 +30,7 @@
 !   - https://spirillen.jetbrains.space/m/spirillen
 !   - The individual lists maintainers
 !   - The individual contributor
-!   - https://0xacab.org/my-privacy-dns/adblocker-rules-/network/master
+!   - https://0xacab.org/my-privacy-dns/adblocker-rules/activity
 
 ! WARNING!!!!
 ! Notice, The following filters, WILL bring the sites down from fully function
