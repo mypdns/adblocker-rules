@@ -5,7 +5,7 @@
 %include ublockorigin-rules:template_header.txt%
 !
 ! List url:
-! https://framagit.org/my-privacy-dns/adblocker-rules-/tree/master/rules/adult_domain.blacklist
+! https://0xacab.org/my-privacy-dns/adblocker-rules-/tree/master/rules/adult_domain.blacklist
 
 ! 0.
 0000114.com##[src^="/ads123/"]

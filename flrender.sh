@@ -38,8 +38,8 @@ head -n 5 _public/blockrules.txt
 
 # Copyright: https://mypdns.org/
 # Content: https://mypdns.org/spirillen/
-# Source: https://framagit.org/my-privacy-dns/adblocker-rules
-# License: https://framagit.org/my-privacy-dns/adblocker-rules/-/blob/master/LICENSE
+# Source: https://0xacab.org/my-privacy-dns/adblocker-rules
+# License: https://0xacab.org/my-privacy-dns/adblocker-rules/-/blob/master/LICENSE
 # License: MCRAE GENERAL PUBLIC LICENSE (version 4.r53m2)
 #
 # You should have received a copy of the license along with this work.

@@ -1,22 +1,22 @@
 !
 ! License:
 ! MCRAE GENERAL PUBLIC LICENSE (version 4.r53m2)
-! https://framagit.org/my-privacy-dns/adblocker-rules-/blob/master/LICENSE
-! Homepage: https://framagit.org/my-privacy-dns/adblocker-rules
+! https://0xacab.org/my-privacy-dns/adblocker-rules-/blob/master/LICENSE
+! Homepage: https://0xacab.org/my-privacy-dns/adblocker-rules
 !
 ! Please report any unblocked content or problems on the Issue board.
 ! My Privacy DNS issues:
-! - https://framagit.org/my-privacy-dns/matrix/-/issues
+! - https://0xacab.org/my-privacy-dns/matrix/-/issues
 !
 ! Merge Request:
-! - https://framagit.org/my-privacy-dns/adblocker-rules/-/merge_requests
+! - https://0xacab.org/my-privacy-dns/adblocker-rules/-/merge_requests
 !
 ! Email:
 !   - gitlab-incoming+my-privacy-dns-matrix-84843-2do0wa4e2cze1gzsxfje50w0m-issue@framagit.org
 !
 ! CopyRight:
 !   - https://mypdns.org/spirillen
-!   - https://framagit.org/spirillen
+!   - https://0xacab.org/spirillen
 !   - https://gitlab.com/spirillen
 !   - https://github.com/spirillen
 !   - https://gitlab.com/spirillen
@@ -27,4 +27,4 @@
 !   - https://spirillen.jetbrains.space/m/spirillen
 !   - The individual lists maintainers
 !   - The individual contributor
-!     https://framagit.org/my-privacy-dns/adblocker-rules-/network/master
+!     https://0xacab.org/my-privacy-dns/adblocker-rules-/network/master

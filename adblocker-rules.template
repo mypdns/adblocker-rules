@@ -6,26 +6,26 @@
 ! Expires: 1 hours
 !
 ! List url:
-! https://framagit.org/my-privacy-dns/adblocker-rules/blockrules.txt
+! https://0xacab.org/my-privacy-dns/adblocker-rules/blockrules.txt
 !
 ! Redirect: https://my-privacy-dns.frama.io/adblocker-rules/blockrules.txt
 !
 ! License:
-! https://framagit.org/my-privacy-dns/adblocker-rules-/blob/master/LICENSE
-! Homepage: https://framagit.org/my-privacy-dns/adblocker-rules
+! https://0xacab.org/my-privacy-dns/adblocker-rules-/blob/master/LICENSE
+! Homepage: https://0xacab.org/my-privacy-dns/adblocker-rules
 !
 ! Please report any unblocked content or problems on the Issue board.
 ! My Privacy DNS issues:
-! - https://framagit.org/my-privacy-dns/matrix/-/issues
+! - https://0xacab.org/my-privacy-dns/matrix/-/issues
 ! Merge Request:
-! - https://framagit.org/my-privacy-dns/adblocker-rules/-/merge_requests
+! - https://0xacab.org/my-privacy-dns/adblocker-rules/-/merge_requests
 !
 ! Email:
 !   - gitlab-incoming+my-privacy-dns-matrix-84843-2do0wa4e2cze1gzsxfje50w0m-issue@framagit.org
 !
 ! CopyRight:
 !   - https://mypdns.org/spirillen
-!   - https://framagit.org/spirillen
+!   - https://0xacab.org/spirillen
 !   - https://bitbucket.org/spirillen/
 !   - https://github.com/spirillen
 !   - https://gitlab.com/spirillen
@@ -35,7 +35,7 @@
 !   - https://spirillen.youtrack.cloud/users/spirillen
 !   - The individual lists maintainers
 !   - The individual contributor
-!     https://framagit.org/my-privacy-dns/adblocker-rules-/network/master
+!     https://0xacab.org/my-privacy-dns/adblocker-rules-/network/master
 !
 ! Description: This list is originally thought as a private project
 ! between two friends @spirillen and @AnonymousPoster
@@ -83,16 +83,16 @@
 %include ublockorigin-rules:rules/whitelist_rule.whitelist%
 
 !------- My Privacy DNS filters ----------------------------------------!
-https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/adware/domains.list
-https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/adware/onions.list
-https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/adware/tld.list
-https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/adware/wildcard.list
-https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/sharked-domains/domains.list
-https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/sharked-domains/wildcard.list
-https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/tracking/domains.list
-https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/tracking/onions.list
-https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/tracking/tld.list
-https://framagit.org/my-privacy-dns/matrix/-/raw/master/source/tracking/wildcard.list
+%include https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/adware/domains.list%
+%include https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/adware/onions.list%
+%include https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/adware/tld.list%
+%include https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/adware/wildcard.list%
+%include https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/sharked-domains/domains.list%
+%include https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/sharked-domains/wildcard.list%
+%include https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/tracking/domains.list%
+%include https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/tracking/onions.list%
+%include https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/tracking/tld.list%
+%include https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/tracking/wildcard.list%
 
 ! ------ External Blacklists ------------------------------------------!
 

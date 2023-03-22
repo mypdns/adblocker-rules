@@ -55,7 +55,7 @@ right-click any of the following urls, choose <uBlock Origin> =>
     title="Subscribe to My Privacy DNS adblocker rurless (Framagit
     edition)">adblocker.mypdns.org | Adblock Rules (Framagit edition)
     </a>
-- <a href="abp:subscribe?location=https://my-privacy-dns.frama.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20–%20Adblock%20Rules&requiresLocation=https://framagit.org/my-privacy-dns/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules%20%E2%80%93%20Framagit%20Edition"
+- <a href="abp:subscribe?location=https://my-privacy-dns.frama.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20–%20Adblock%20Rules&requiresLocation=https://0xacab.org/my-privacy-dns/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules%20%E2%80%93%20Framagit%20Edition"
     target="_top" title="Subscribe this list to adblockers (Framagit
     edition)">my-privacy-dns.frama.io | Adblock Rules (Framagit edition)
     </a>
