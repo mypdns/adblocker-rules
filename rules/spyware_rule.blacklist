@@ -132,6 +132,7 @@
 /SentryInstance-$important
 /snowplow/*$script
 /socket-worker-*.js$script,domain=github.com
+/static/*/stats.js$script,1p,domain=a678yt.com
 /statisk/*$1p,domain=dr.dk
 ||smetrics.*^
 

@@ -25,6 +25,7 @@ _prebid_$badfilter
 @@.jp/af/$image,domain=chobirich.com|gendama.jp|manpukujima.com|netmile.co.jp|pointtown.com
 @@.jp/affiliate/$image,domain=dietnavi.com|gendama.jp|manpukujima.com|moppy.jp|t-mall.tsite.jp
 @@/\/js\/[_0-9a-zA-Z]{4,12}\/(?:ad[-a-z]{4}|bannerpump|nugg\.min|transad|[a-z]{2}ads|[a-z]{3}-(?:adscript|inspire-ad|rail-ads))\.js\?_v=[0-9a-f]{8}$/$script,~third-party
+@@/^https?:\/\/(www\.)?.*\/ad[vs](er(ve)?t?(ise|ising|isement)?)?([_-a-zA-Z0-9.]{1,17})?\.js/$script
 @@/300x250.$image,domain=gpoint.co.jp|point.i2i.jp
 @@/ad_banner/*$image,domain=manpukujima.com
 @@/ad_images/*$image,domain=dietnavi.com
