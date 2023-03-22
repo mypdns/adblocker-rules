@@ -11,7 +11,7 @@ before_script:
   - apt-get install -yqqf bash git pgp python3-pip python3.10 rsync npm
   - git config --global user.email "spirillen@danwin1210.de"
   - git config --global user.name "spirillen"
-  - git remote set-url origin https://spirillen:$mypdns_CI_ACCESS_TOKEN@framagit.org/$CI_PROJECT_PATH.git
+  - git remote set-url origin https://spirillen:$mypdns_CI_ACCESS_TOKEN@0xacab.org/$CI_PROJECT_PATH.git
   #   - python --version  # For debugging
   - if [ -f requirements.txt ]; then python3.10 -m pip install --no-cache -I -r requirements.txt; fi
 
