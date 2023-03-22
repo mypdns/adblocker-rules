@@ -44,14 +44,13 @@ the @adguard/hostlist-compiler compiler, where the GH editions relay on
 the abp filter script.
 
 - 0xacab edition via [adblocker.mypdns.org][Subscribe]
-- 0xacab edition via [my-privacy-dns.frama.io][Subscribefg]
-- Github edition via [mypdns.github.io][Subscribegh]
+- Github No longer Supported
 
 You should also be able to subscripbe directly to the rules by
 right-click any of the following urls, choose <uBlock Origin> =>
 <Subscribe to the filterlist>
 
-- <a href="abp:subscribe?location=https://adblocker.mypdns.org/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules&requiresLocation=https://adblocker.mypdns.org/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules%20%E2%80%93%200xacab%20Edition"
+- <a href="abp:subscribe?location=https://my-privacy-dns.itcouldbewor.se/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules&requiresLocation=https://my-privacy-dns.itcouldbewor.se/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules%20%E2%80%93%200xacab%20Edition"
     title="Subscribe to My Privacy DNS adblocker rurless (0xacab
     edition)">adblocker.mypdns.org | Adblock Rules (0xacab edition)
     </a>
@@ -207,12 +206,10 @@ Thanks to @Yuki2718, @THEtomaso, @krystian3w and everyone else who is
 spreading the knowledge of how rules should be made :smiley:
 
 <!-- Own Links -->
-[issues]: https://spirillen.atlassian.net/jira/software/c/projects/UBOR/issues
-[commits]: https://gitlab.com/my-external-stuff/ublock-origin-rules
-[support]: https://spirillen.atlassian.net/jira/software/c/projects/UBOR/pages
-[Subscribe]: abp:subscribe?location=https://adblocker.mypdns.org/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%200xacab%20Edition%20%E2%80%93%20Adblock%20Rules
-[Subscribefg]: abp:subscribe?location=https://my-privacy-dns.frama.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%200xacab%20Edition%20%E2%80%93%20Adblock%20Rules
-[Subscribegh]: abp:subscribe?location=https://mypdns.github.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Github%20Edition%20%E2%80%93%20Adblock%20Rules
+[issues]: https://0xacab.org/my-privacy-dns/matrix/-/issues
+[commits]: https://0xacab.org/my-privacy-dns/adblocker-rules
+[support]: https://0xacab.org/my-privacy-dns/support
+[Subscribe]: abp:subscribe?location=https://my-privacy-dns.itcouldbewor.se/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%200xacab%20Edition%20%E2%80%93%20Adblock%20Rules
 
 <!-- External Links -->
 [redirect-engine]: https://github.com/gorhill/uBlock/blob/master/src/js/redirect-engine.js

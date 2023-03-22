@@ -1,5 +1,5 @@
 # The Docker image that will be used to build your app
-image: ubuntu:22.04
+image: ubuntu:latest
 
 variables:
   PIP_CACHE_DIR: '$CI_PROJECT_DIR/.cache/pip'
