@@ -72,6 +72,8 @@
 @@||cbsi.com/dist/optanon.js$script,domain=cbsnews.com|zdnet.com,badfilter
 
 ! D.
+@@.doubleclick.net^$domain=mcstatic.com,badfilter
+@@||check.ddos-guard.net/check.js$script,badfilter
 @@||datadoghq-browser-agent.com/datadog-rum-us.js$script,domain=usa.experian.com,badfilter
 @@||doubleclick.net/gampad/*adPositionName%3Dsuperbanner_$xmlhttprequest,domain=spiegel.de,badfilter
 @@||doubleclick.net/getconfig$xmlhttprequest,domain=spiegel.de,badfilter
@@ -79,7 +81,7 @@
 @@||g.doubleclick.net/gampad/ads?*wallpaper_1$xmlhttprequest,domain=spiegel.de,badfilter
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=spiegel.de,badfilter
 @@||g.doubleclick.net/tag/js/gpt.js$domain=spiegel.de,badfilter
-@@||check.ddos-guard.net/check.js$script,badfilter
+@@doubleclick.net/ads/preferences/,badfilter
 
 ! E.
 
@@ -87,6 +89,7 @@
 @@||fastwhitecat.com/wp-content/plugins/duracelltomi-google-tag-manager/$script,domain=fastwhitecat.com,badfilter
 
 ! G.
+@@/googleads.g.doubleclick.net/[a-z0-9]*$/$xmlhttprequest,domain=sovetromantica.com
 @@||cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/vendor/adobe/$badfilter
 @@||google.*-youtube.jpg$badfilter
 @@||google.*/gplus-64.png$badfilter

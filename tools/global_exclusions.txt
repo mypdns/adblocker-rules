@@ -136,6 +136,7 @@ _prebid_$badfilter
 @@||serve.adnetasia.com/promoload?d=$script
 @@||serve.adtrackers.net/promoload?d=$script
 @@||serve.bannertrack.net/promoload?d=$script
+@@||static.doubleclick.net/instream/ad_status.js|$script
 @@||thetvdb.com/banners/$image
 @@||torrentz.adnetasia.com/mgid/ad.js|
 @@||torrentz.adtrackers.net/mgid/ad.js|
@@ -183,7 +184,9 @@ _prebid_$badfilter
 ||doubleclick.com^
 ||doubleclick.de^
 ||doubleclick.net/
+||doubleclick.net^
 ||doubleclick.net^*/
+||doubleclick.net^*/trackimp/$third-party
 ||doubleclick.net^$
 ||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion^
 ||google-analytics.com/
