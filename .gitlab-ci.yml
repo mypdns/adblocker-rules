@@ -3,6 +3,7 @@ image: ubuntu:latest
 
 variables:
   PIP_CACHE_DIR: '$CI_PROJECT_DIR/.cache/pip'
+  GIT_STRATEGY: clone
 
 before_script:
   - echo "Before script section"

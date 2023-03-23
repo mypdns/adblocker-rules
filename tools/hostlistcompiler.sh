@@ -10,7 +10,7 @@ GIT_DIR="$(git rev-parse --show-toplevel)"
 # apt-get install -yqqf npm
 
 git checkout master
-git pull -f
+# git pull -f
 
 npm i -g @adguard/hostlist-compiler
 
