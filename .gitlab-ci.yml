@@ -18,14 +18,11 @@ before_script:
 
 after_script:
   - echo -e "After script section...\n"
-  # - git checkout master
-  # - git pull --rebase
   - git status
-  # - git rev-parse --short HEAD > .build.id
   - git add _public/blockrules.txt
   - git commit -m "AdBlocker list updated. BuildID $CI_JOB_ID [ci-skip]"
   - git pull --rebase
-  - git push "https://spirillen:${CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
+  - git push origin master "https://spirillen:${CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
   - git status
 
 run:
@@ -43,9 +40,7 @@ run:
 pages:
   stage: deploy
   variables:
-    FF_USE_FASTZIP: 'true'
-    ARTIFACT_COMPRESSION_LEVEL: 'slowest'
-    CACHE_COMPRESSION_LEVEL: 'fastest'
+    GIT_STRATEGY: clone
   script:
     - mkdir .public
     - rsync -avP _public/* .public/
@@ -57,5 +52,4 @@ pages:
     paths:
       - public
   rules:
-    #- if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
-    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
