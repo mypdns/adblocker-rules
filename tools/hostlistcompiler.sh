@@ -13,6 +13,8 @@ git checkout master
 
 npm i -g @adguard/hostlist-compiler
 
+sed -i "s/framagit/0xacab/g" "$GIT_DIR/tools/hostscompilerconf.json"
+
 hostlist-compiler -c "$GIT_DIR/tools/hostscompilerconf.json" \
     -o "$GIT_DIR/_public/blockrules.txt"
 
