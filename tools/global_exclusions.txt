@@ -146,6 +146,7 @@ _prebid_$badfilter
 @@||yahoo.bannertrack.net/serv?s=$script
 /.*[ ]noop$/
 /(?!^(\\|\\||@@\\|\\|))^.+/
+/\|\|.*/.googlecode/.com.*/
 /\|\|google.*\/.*/
 /\|\|google.com\/.*/
 /\|\|googleoptimize.com$/

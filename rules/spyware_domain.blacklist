@@ -122,6 +122,7 @@ element14.com##.e14-cookie-directive
 ||google.*^*recaptcha/$important
 ||google.*^$important
 ||googleapis.com^$important
+||googlecode.com^
 ||googleoptimize.com
 ||googlesyndication.com^$important
 ||googletagmanager.*^$important
