@@ -141,6 +141,7 @@
 ||smetrics.*^
 
 ! T.
+/track-perf$xhr,domain=bookyogaretreats.com
 /track/view/*
 ##[href^="https://twitter.com"]
 
