@@ -85,6 +85,7 @@
 /ga_xdcom.html
 /google-analytics-for-wordpress/$script
 /google-universal-analytics-$important
+/googletranslate/
 /gtm.js$script
 ##.google-login
 ##[id^="gdpr-"]
