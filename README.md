@@ -31,8 +31,8 @@ filters/rules (uBlock Origin) or User Rules (AdGuard).
 
 ## Webfront
 Our HTML front end can be found at
-- 0xacab: <https://my-privacy-dns.frama.io/adblocker-rules/>
-- GitHub: <https://mypdns.github.io/adblocker-rules/>
+- 0xacab: <https://my-privacy-dns.itcouldbewor.se/adblocker-rules/>
+- GitHub: No longer Supported as they have incorporated SpyWare
 
 
 ## Subscribe to the rules
@@ -54,14 +54,7 @@ right-click any of the following urls, choose <uBlock Origin> =>
     title="Subscribe to My Privacy DNS adblocker rurless (0xacab
     edition)">adblocker.mypdns.org | Adblock Rules (0xacab edition)
     </a>
-- <a href="abp:subscribe?location=https://my-privacy-dns.frama.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20–%20Adblock%20Rules&requiresLocation=https://0xacab.org/my-privacy-dns/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules%20%E2%80%93%200xacab%20Edition"
-    target="_top" title="Subscribe this list to adblockers (0xacab
-    edition)">my-privacy-dns.frama.io | Adblock Rules (0xacab edition)
-    </a>
-- <a href="abp:subscribe?location=https://mypdns.github.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20–%20Adblock%20Rules&requiresLocation=https://mypdns.github.io/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules%20%E2%80%93%20Github%20Edition"
-    target="_top" title="Subscribe to My Privacy DNS adblocker rurles
-    (Github edition)">mypdns.github.io | Adblock Rules (Github edition)
-    </a>
+- mypdns.github.io | No longer Supported
 
 ## Issues and comments
 The one and only place to report any issues or post a comment are as
@@ -76,9 +69,7 @@ following:
   in full. ***The grace period is excised***.
 
 `github.com` is in *only* a full backup of
-https://spirillen.atlassian.net/browse/UBOR and solely used
-to host the [webfront](#webfront).  
-We do not operate at Github do to there anti-privacy terms of usage.
+We do no longer operate at `Github` do to there anti-privacy terms of usage.
 
 # Writing filters
 
@@ -95,7 +86,7 @@ We do not operate at Github do to there anti-privacy terms of usage.
 | `anti_whitelist_*.blacklist` | Found a rules elsewhere your would like to encounter, this is the filters for it.                                                                                                                                                                               |
 | `cookie_*.blacklist`         | Everything preventing cookies being set, where not needed or used for any sorts of tracking/spying/logging :cookie: (1st & 3rd party)                                                                                                                           |
 | `noise.txt`                  | :warning: **_WARNING_**! The following filter, WILL bring interruption to sites functionality. These rules are to clean up sites by removing all the unnecessary noise, bit like @yourduskquibbles webannoyances, but breaking things doesn't matter **AT ALL** |
-| `spyware_*.blacklist`        | Filter preventing any kind of tracking, spying and alike. If you have to ask, you need to read https://mypdns.org/MypDNS/support/-/wikis/SpyWare                                                                                                                |
+| `spyware_*.blacklist`        | Filter preventing any kind of tracking, spying and alike. If you have to ask, you need to read [SpyWare Wiki](https://0xacab.org/my-privacy-dns/matrix/-/wikis/Categories/Spyware/SpyWare)                                                                      |
 | `whitelist_*.whitelist`      | Probably not very used... But it can come in handy sometimes protecting something to keep is spinning....                                                                                                                                                       |
 
 
@@ -124,7 +115,8 @@ any local firewall rule is bypassed.
 
 
 ## Writing filter guides
-Howto? [block whitelisted spyware](https://github.com/easylist/easylist/issues/4529)
+Howto? block whitelisted spyware: (~~`https://github.com/easylist/easylist/issues/4529`~~
+SpyWare infected domain)
 
 `$` always needs to exist, if you're going to use a modifier.  
 `,` are used to separate multiple modifier.
@@ -180,22 +172,27 @@ See the dialogue at [github][dialogue]
 
 
 ## External resources
-@Yuki2718 [/adblock](https://github.com/Yuki2718/adblock) (Pretty much
-all the rules)
+@Yuki2718 `/adblock` (~~`https://github.com/Yuki2718/adblock`~~ Spyware
+infected domain) (Pretty much all the rules)
 
-@yourduskquibbles [/webannoyances](https://github.com/yourduskquibbles/webannoyances)
+@yourduskquibbles `/webannoyances` (~~`https://github.com/yourduskquibbles/webannoyances`~~
+Spyware infected domain)
 
-@ryanbr [fanboy-adblock](https://github.com/ryanbr/fanboy-adblock)
+@ryanbr `fanboy-adblock` (~~`https://github.com/ryanbr/fanboy-adblock`~~
+Spyware infected domain)
 
 @pgl [yoyo.org](https://pgl.yoyo.org/)
 
 @EasyList [easylist.to][easylist.to]
 
-@Spam404 [/Spam404/lists](https://github.com/Spam404/lists)
+@Spam404 `/Spam404/lists` (~~`https://github.com/Spam404/lists`~~
+Spyware infected domain)
 
-@migueldemoura [ublock-umatrix-rulesets](https://github.com/migueldemoura/ublock-umatrix-rulesets/)
+@migueldemoura `ublock-umatrix-rulesets` (~~`https://github.com/migueldemoura/ublock-umatrix-rulesets/`~~
+Spyware infected domain)
 
-@PeterDaveHello [url shorteneres](https://github.com/PeterDaveHello/url-shorteners)
+@PeterDaveHello `url shorteneres` (~~`https://github.com/PeterDaveHello/url-shorteners`~~
+Spyware infected domain)
 
 And everyone else I've forgot to mention here.  
 Have a look in the [source list](/adblocker-rules.template)
