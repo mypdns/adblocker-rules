@@ -53,6 +53,8 @@ g.alicdn.com/woodpeckerx/jssdk/wpkReporter.js
 
 ! B.
 ||api.bouyguestelecom.fr/traces-techniques
+||barefoot.pics^$important,all
+||bathtub.pics^$important,all
 ||bibliotek.dk/sites/default/files/advagg_js/js___cR-M$script
 ||bing.com/*/metrics.js$important
 ||bloomberg.com/ccpa.js
@@ -61,7 +63,10 @@ g.alicdn.com/woodpeckerx/jssdk/wpkReporter.js
 bibliotek.dk##[class*="recommender"]
 
 ! C.
+||catsnthing.com^$important,all
+||catsnthings.fun^$important,all
 ||cdnjs.cloudflare.com^$script,font,stylesheet
+||cheapcinema.club^$important,all
 ||clarity.microsoft.com^
 ||clarity.ms^
 ||cloudflare.net^$xhr,important
@@ -72,6 +77,7 @@ bibliotek.dk##[class*="recommender"]
 ! D.
 ||check.ddos-guard.net^$important
 ||danzz.ch^$ping,domain=nzz.ch
+||dateing.club^$important,all
 ||discourse-cdn.com^$3p
 ||disqus.com/embed.js$script
 ||disqus.com^$subdocument
@@ -102,6 +108,9 @@ element14.com##.e14-cookie-directive
 ||finito-web.net/banner/*$subdocument,important
 ||finito.fc2.com/finito.gif$image,important
 ||fontawesome.com^$3p,script
+||foot.wiki^$important,all
+||fortnight.space^$important,all
+||fortnitechat.site^$important,all
 
 ! G.
 ||analytics.google.*^$important
@@ -109,6 +118,10 @@ element14.com##.e14-cookie-directive
 ||collector.githubapp.com^
 ||fonts.googleapis.com^$stylesheet
 ||fonts.gstatic.com^$important
+||gamer.hair^$important,all
+||gamer.tattoo^$important,all
+||gamergirl.pro^$important,all
+||gamingfun.me^$important,all
 ||geologie.*^
 ||github.com/_alive$xhr,important
 ||github.com/_private/browser/stats
@@ -138,6 +151,7 @@ next.gforge.com##.ng-scope.row
 ! H.
 ||etrack.ext.hpe.com^
 ||hcaptcha.com^$important
+||headshot.monster^$important,all
 ||hivetechnologylabs.com^$other,important,3p
 ||hotelscombined.fi/res/js/perf.js$script,1p
 ||hotelscombined.fi/s/run/cspreport/*$other,1p
@@ -148,16 +162,20 @@ hpe.com##.nxt-share-widget
 
 ! I.
 ||cookieapi*.incomit.dk^
+||imagehost.pics^$important,all
+||imagevault.cloud^$important,all
+||imghost.pics^$important,all
 ||inran.biz^$important
 ||investingchannel.com/static/uat.js$script
 imdb.com##.ipc-promptable-base
 itslinuxfoss.com##[id^="ez-video-wrap-"]
 
 ! J.
+!||jsdelivr.net/*/js.cookie.min.js$script
 ||jetbrains.com^$third-party,important
 ||jetbrains.com^$xhr,3p
 ||jetbrains.space##.FlexStyles-horizontal.ksc-111
-!||jsdelivr.net/*/js.cookie.min.js$script
+||joinmy.site^$important,all
 ||jsdelivr.net^$script,important
 ||jsdelivr.net^$xhr,important
 
@@ -170,9 +188,15 @@ listenbrainz.org###brainz-player
 
 ! M.
 ||marketo.com^$important
+||massive.boats^$important,all
+||massive.mom^$important,all
 ||mb3admin.com^$important
 ||missiveapp.com^$3p
 ||msecnd.net/script/raptor-2.1.0.js$important
+||mymassive.store^$important,all
+||mymassive.top^$important,all
+||mymassive.yachts^$important,all
+||myprivate.pics^$important,all
 ||track.mailerlite.com^
 
 ! N.
@@ -180,6 +204,7 @@ listenbrainz.org###brainz-player
 ||nabble.com/trk0.js$script
 ||nabble.com/trk5.js$script
 ||netu.tv^
+||noodshare.pics^$important,all
 ||track.nzz.ch/cre-1.0/tracking/*$script,1p,important
 
 ! O.
@@ -198,10 +223,15 @@ opensource.com###block-socialmediashareicons
 ! P.
 !||cdn.polyfill.io/v2/*$script
 ||perfdrive.com^$important
+||photovault.pics^$important,all
+||pichost.pics^$important,all
+||picshost.pics^$important,all
 ||pingtopingsrv*.life^
 ||piwik.pro^$important
 ||piwikpro.de^$important
+||plz.life^$important,all
 ||polyfill.io^$third-party
+||progaming.monster^$important,all
 ||pubmatic.com^$important
 ||pusher.com^$third-party
 
@@ -212,13 +242,22 @@ opensource.com###block-socialmediashareicons
 ||recaptcha.net^$important
 
 ! S.
+||screenshare.pics^$important,all
+||screenshot.best^$important,all
 ||sentry-cdn.com^
+||shareit.pics^$important,all
 ||shinobi.jp^$important
+||shipment.website^$important,all
 ||shopping-2000.com^
+||shrekis.life^$important,all
 ||startpage.com^$removeparam=segment
 ||statsanalitic.net^$important
 ||statsy.net^$important
+||stonks.boats^$important,all
+||stonks.fun^$important,all
+||stopify.co^$important,all
 ||subdomain.com/redirect*
+||sugma.mom^$important,all
 ||survey-smiles.com^
 speedostream.com##+js(aost, Object.getOwnPropertyDescriptor, /^/)
 stackoverflow.com##.facebook-login
@@ -226,6 +265,10 @@ stackoverflow.com##.google-login
 
 ! T.
 ||reddit.com/?request_timestamp=$important
+||thisdomainislong.lol^$important,all
+||toes.beauty^$important,all
+||toldyouso.lol^$important,all
+||toldyouso.pics^$important,all
 ||tv2a.dk/analytics/gallup/$script
 ||tv2a.dk/oil/$script
 ||twitter.com^$3p
@@ -246,8 +289,10 @@ stackoverflow.com##.google-login
 ! X.
 
 ! Y.
-||yandexcdn.com/js/*$script,important
 ||maps.yandex.net^$important
+||yandexcdn.com/js/*$script,important
+||yourmy.monster^$important,all
+||yum.mom^$important,all
 
 ! Z.
 ||zap.buzz^$subdocument
