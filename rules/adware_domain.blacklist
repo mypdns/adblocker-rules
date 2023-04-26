@@ -187,6 +187,7 @@ stackoverflow.com##.ps-relative.js-freemium-cta
 stackoverflow.com##.s-popover
 subscene.com##.details
 subscene.com##.sustain
+subscene.com##[src^="https://watchpedia.com/"]
 
 ! T.
 !||txxx.com/broomstick/ Brakes the frontpage.
