@@ -114,6 +114,7 @@
 ! H.
 @@||hcaptcha.com^*/api.js?,badfilter
 @@||hcaptcha.com/captcha/$script,subdocument,badfilter
+@@||href.li^$document,badfilter
 
 ! I.
 
