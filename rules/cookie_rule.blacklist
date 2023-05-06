@@ -467,6 +467,7 @@ privatecasting-x.com##.cookie-request
 ! G.
 ##.Gamma_Component.base.Cms_CookieConsent
 ##.gdpr-bottom-banner--new
+##.gdpr-full-screen-infobar
 ##[id^="gdpr-"]
 ###gdpr
 ###gdpr_message
