@@ -91,11 +91,11 @@ pages:
   variables:
     GIT_STRATEGY: clone
   script:
-    - apk add rsync
-    # - mkdir .public
-    - rsync -avP _public/ public/
+    # - apk add rsync
     # - rm -rf public
-    # - mv _public public
+    # - mkdir public
+    # - rsync -avP _public/ public/
+    - mv _public public
     - ls -lha public/
     - head -n 15 public/blockrules.txt
   artifacts:
