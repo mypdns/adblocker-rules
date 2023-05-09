@@ -81,7 +81,7 @@ run:
   image: node:latest
   script:
     - npm i -g @adguard/hostlist-compiler
-    - npm audit fix --force
+    # - npm audit fix --force
     - hostlist-compiler -c tools/hostscompilerconf.json \
       -o _public/blockrules.txt
 
