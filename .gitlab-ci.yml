@@ -18,7 +18,7 @@ after_script:
   - echo -e "After script section...\n"
   - git status
   - git add _public/blockrules.txt
-  - git commit -m "AdBlocker list updated. BuildID $CI_JOB_ID [ci-skip]"
+  - git commit -m "AdBlocker list updated. BuildID $CI_JOB_ID"
   - git pull --rebase
   - git push origin master "https://spirillen:${CI_ACCESS_TOKEN}@${CI_REPOSITORY_URL#*@}" "HEAD:${CI_COMMIT_REF_NAME}" -o skip-ci
   - git status
