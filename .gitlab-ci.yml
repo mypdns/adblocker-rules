@@ -82,7 +82,7 @@ run:
   script:
     - npm i -g @adguard/hostlist-compiler
     # - npm audit fix --force
-    - hostlist-compiler -c tools/hostscompilerconf.json \
+    - hostlist-compiler -c tools/hostscompilerconf.json
       -o _public/blockrules.txt
 
 pages:
@@ -91,10 +91,11 @@ pages:
   variables:
     GIT_STRATEGY: clone
   script:
+    - apk add rsync
     # - mkdir .public
-    # - rsync -avP _public/* .public/
+    - rsync -avP _public/ public/
     # - rm -rf public
-    - cp -R _public/* public/
+    # - mv _public public
     - ls -lha public/
     - head -n 15 public/blockrules.txt
   artifacts:
