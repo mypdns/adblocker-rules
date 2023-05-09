@@ -19,17 +19,16 @@ variables:
 cache:
   key: $CI_COMMIT_SHORT_SHA
   paths:
-    - public/
+    - _public/
 
 run:
   stage: build
   image: node:latest
   script:
-    - mkdir -p public/
     - npm i -g @adguard/hostlist-compiler
     - hostlist-compiler -c tools/hostscompilerconf.json
-      -o public/blockrules.txt
-    - hostlist-compiler -c tools/noise.json -o public/noise.txt
+      -o _public/blockrules.txt
+    - hostlist-compiler -c tools/noise.json -o _public/noise.txt
 
 pages:
   stage: deploy
@@ -37,9 +36,10 @@ pages:
   variables:
     GIT_STRATEGY: clone
   script:
-    # - mv _public public
+    - mv _public public
     - ls -lha public/
     - head -n 15 public/blockrules.txt
+    - head -n 15 public/noise.txt
   artifacts:
     paths:
       - public
