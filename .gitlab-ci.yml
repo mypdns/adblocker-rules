@@ -60,7 +60,7 @@ run:
     # - git config --global user.email "${GITLAB_USER_EMAIL}"
     # - git config --global user.name "${GITLAB_USER_LOGIN}"
     # - git remote set-url origin https://spirillen:$CI_ACCESS_TOKEN@0xacab.org/$CI_PROJECT_PATH.git
-    - sh tools/hostlistcompiler.sh
+    - bash tools/hostlistcompiler.sh
     - echo -e "After script section...\n"
     # - echo ""
     # - git status

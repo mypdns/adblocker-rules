@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 
 set -eu -o pipefail # fail on error and report it, debug all lines
 
