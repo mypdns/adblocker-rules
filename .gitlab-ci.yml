@@ -25,7 +25,7 @@ run:
   stage: build
   image: node:latest
   script:
-    - RUN mkdir -p public/
+    - mkdir -p public/
     - npm i -g @adguard/hostlist-compiler
     - hostlist-compiler -c tools/hostscompilerconf.json
       -o public/blockrules.txt
