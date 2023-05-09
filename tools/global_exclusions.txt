@@ -215,3 +215,9 @@ file-scheme * 1p-script block
 file-scheme * inline-script block
 no-csp-reports: * true
 no-large-media: behind-the-scene false
+||cookieinformation.com^$3p,domain=lundbeck.com
+||cookieinformation.com/*/*.js$third-party
+||cookieinformation.com^$subdocument,third-party
+||cookieinformation.com^$third-party
+||cookieinformation.com/tcf-cmp.js$all
+||cookieinformation.com/uc.js$all
