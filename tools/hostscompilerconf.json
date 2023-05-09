@@ -357,6 +357,51 @@
             ]
         },
         {
+            "name": "AdblockPlus(minus) EasyList China",
+            "source": "https://easylist-downloads.adblockplus.org/easylistchina.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdblockPlus(minus) RU AdList",
+            "source": "https://easylist-downloads.adblockplus.org/advblock.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdblockPlus(minus) Nordic Filters",
+            "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersABP-Inclusion.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdblockPlus(minus) ABPVN List",
+            "source": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdblockPlus(minus) Adblock Warning Removal List",
+            "source": "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        }
+        {
             "name": "AdGuard Base filter ad servers",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt",
             "type": "adblock",
@@ -458,6 +503,24 @@
         {
             "name": "AdGuard Base filter specific",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/specific.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Chinese filter",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt",
+            "type": "adblock",
+            "transformations": [
+                "Compress",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Japanese filter",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt",
             "type": "adblock",
             "transformations": [
                 "Compress",
