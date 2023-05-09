@@ -1,0 +1,24 @@
+{
+    "name": "My Privacy DNS",
+    "description": "My Privacy DNS list, adblockers",
+    "homepage": "https://my-privacy-dns.frama.io/adblocker-rules/",
+    "license": "MCRAE GENERAL PUBLIC LICENSE (version 4.r53m2)",
+    "sources": [
+        {
+            "name": "My Privacy DNS Noise Filter",
+            "source": "rules/noise.txt",
+            "type": "adblock"
+        }
+    ],
+    "transformations": [
+        "Compress",
+        "Deduplicate",
+        "InsertFinalNewLine",
+        "RemoveComments",
+        "RemoveEmptyLines",
+        "TrimLines"
+    ],
+    "inclusions": [
+        "*"
+    ]
+}

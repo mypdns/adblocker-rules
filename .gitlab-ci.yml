@@ -8,10 +8,7 @@ variables:
 
 default:
   cache:
-    key:
-      files:
-        - blockrules.txt
-        - noise.txt
+    key: $CI_COMMIT_SHORT_SHA
     paths:
       - _public/
 
@@ -20,9 +17,9 @@ run:
   image: node:latest
   script:
     - npm i -g @adguard/hostlist-compiler
-    # - npm audit fix --force
     - hostlist-compiler -c tools/hostscompilerconf.json
       -o _public/blockrules.txt
+    - hostlist-compiler -c tools/noise.json -o _public/noise.txt
 
 pages:
   stage: deploy
@@ -30,12 +27,8 @@ pages:
   variables:
     GIT_STRATEGY: clone
   script:
-    # - apk add rsync
-    # - rm -rf public
-    # - mkdir public
-    # - rsync -avP _public/ public/
     - mv _public public
-    - cp rules/noise.txt public/noise.txt
+    # - cp rules/noise.txt public/noise.txt
     - ls -lha public/
     - head -n 15 public/blockrules.txt
   artifacts:
