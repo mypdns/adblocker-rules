@@ -1,7 +1,7 @@
 {
     "name": "My Privacy DNS",
     "description": "My Privacy DNS list, adblockers",
-    "homepage": "https://my-privacy-dns.frama.io/adblocker-rules/",
+    "homepage": "https://my-privacy-dns.itcouldbewor.se/adblocker-rules/",
     "license": "MCRAE GENERAL PUBLIC LICENSE (version 4.r53m2)",
     "sources": [
         {
