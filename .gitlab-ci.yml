@@ -6,11 +6,20 @@ variables:
   PIP_CACHE_DIR: '$CI_PROJECT_DIR/.cache/pip'
   GIT_STRATEGY: clone
 
-default:
-  cache:
-    key: $CI_COMMIT_SHORT_SHA
-    paths:
-      - _public/
+# https://about.gitlab.com/blog/2022/09/12/a-visual-guide-to-gitlab-ci-caching/#local-cache-docker-volume
+# We can use file names as keys as well https://docs.gitlab.com/ee/ci/yaml/index.html#cachekeyfiles
+# default:
+#   cache:
+#     key: $CI_COMMIT_REF_NAME
+#     key:
+#       files:
+#         - blockrules.txt
+#         - noise.txt
+
+cache:
+  key: $CI_COMMIT_SHORT_SHA
+  paths:
+    - public/
 
 run:
   stage: build
@@ -18,8 +27,8 @@ run:
   script:
     - npm i -g @adguard/hostlist-compiler
     - hostlist-compiler -c tools/hostscompilerconf.json
-      -o _public/blockrules.txt
-    - hostlist-compiler -c tools/noise.json -o _public/noise.txt
+      -o public/blockrules.txt
+    - hostlist-compiler -c tools/noise.json -o public/noise.txt
 
 pages:
   stage: deploy
@@ -27,8 +36,7 @@ pages:
   variables:
     GIT_STRATEGY: clone
   script:
-    - mv _public public
-    # - cp rules/noise.txt public/noise.txt
+    # - mv _public public
     - ls -lha public/
     - head -n 15 public/blockrules.txt
   artifacts:
