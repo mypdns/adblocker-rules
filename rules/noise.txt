@@ -174,8 +174,11 @@ xxxreal.com##.mb-s
 xxxreal.com##.video-detail__pay-methods
 
 ! Y.
+!youtube.com###secondary
 youtube.com##.iron-selected.ytd-c4-tabbed-header-renderer.style-scope
+youtube.com##.ytp-player-content
 youtube.com###comments
+youtube.com###offer-module
 youtube.com##tp-yt-paper-tab.ytd-c4-tabbed-header-renderer.style-scope:nth-of-type(3)
 youtube.com##ytd-popup-container.ytd-app.style-scope
 youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
