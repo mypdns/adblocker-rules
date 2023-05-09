@@ -9,7 +9,7 @@ GIT_DIR="$(git rev-parse --show-toplevel)"
 # export DEBIAN_FRONTEND=noninteractive
 # apt-get install -yqqf npm
 
-git checkout master
+git switch master
 # git pull -f
 
 npm i -g @adguard/hostlist-compiler

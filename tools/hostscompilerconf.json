@@ -400,7 +400,7 @@
                 "Compress",
                 "RemoveComments"
             ]
-        }
+        },
         {
             "name": "AdGuard Base filter ad servers",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt",
