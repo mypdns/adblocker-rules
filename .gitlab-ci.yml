@@ -8,7 +8,10 @@ variables:
 
 default:
   cache:
-    key: $CI_COMMIT_REF_NAME
+    key:
+      files:
+        - blockrules.txt
+        - noise.txt
     paths:
       - _public/
 
@@ -96,6 +99,7 @@ pages:
     # - mkdir public
     # - rsync -avP _public/ public/
     - mv _public public
+    - cp rules/noise.txt public/noise.txt
     - ls -lha public/
     - head -n 15 public/blockrules.txt
   artifacts:
