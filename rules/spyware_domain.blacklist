@@ -3,7 +3,7 @@
 ! Last modified: %timestamp%
 ! Expires: 1 hours (update frequency)
 ! List url:
-! https://0xacab.org/my-privacy-dns/adblocker-rules-/tree/master/rules/whitelist_rule.whitelist
+! https://0xacab.org/my-privacy-dns/adblocker-rules-/tree/master/rules/spyware_domain.blacklist
 !
 %include ublockorigin-rules:template_header.txt%
 
@@ -229,6 +229,7 @@ opensource.com###block-socialmediashareicons
 ||pingtopingsrv*.life^
 ||piwik.pro^$important
 ||piwikpro.de^$important
+||plausible.io/js/script.js$script
 ||plz.life^$important,all
 ||polyfill.io^$third-party
 ||progaming.monster^$important,all
@@ -262,6 +263,7 @@ opensource.com###block-socialmediashareicons
 speedostream.com##+js(aost, Object.getOwnPropertyDescriptor, /^/)
 stackoverflow.com##.facebook-login
 stackoverflow.com##.google-login
+
 
 ! T.
 ||reddit.com/?request_timestamp=$important
