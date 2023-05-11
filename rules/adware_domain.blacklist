@@ -153,6 +153,7 @@ linuxconfig.org##.custom
 mail.proton.me##.bg-primary
 mail.proton.me##.modal-two-backdrop--in
 mail.proton.me##.offer-main-wrapper
+mail.proton.me##.p-0-5.on-tablet-text-left.text-center.relative.bg-promotion.flex-nowrap.flex
 mail.proton.me##.topnav-listItem--noCollapse.flex-item-noshrink.topnav-listItem
 mail.proton.me####.bg-primary.no-print
 publicwww.com##.container > .service-wrapper
