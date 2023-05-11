@@ -2,7 +2,6 @@
     "name": "My Privacy DNS",
     "description": "My Privacy DNS, adblockers list",
     "homepage": "https://my-privacy-dns.itcouldbewor.se/adblocker-rules/",
-    "Expires": "4 hours (update frequency)",
     "license": "MCRAE GENERAL PUBLIC LICENSE (version 4.r53m2)",
     "sources": [
         {
