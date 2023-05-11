@@ -4,7 +4,7 @@
 [![AdGuard syntax](_public/icons/adguard-syntax.svg)](https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters)
 [![ko-fi](_public/icons/ko-fi.png)](https://ko-fi.com/X8X37FUGU)
 [![Donate](_public/icons/donate.png)](https://0xacab.org/my-privacy-dns/matrix/-/blob/master/DONATION.md)
-[![My Privacy DNS](_public/icons/logo.png)](https://0xacab.org/my-privacy-dns/matrix "This project is part of My Privacy DNS")
+[![My Privacy DNS](_public/icons/logo-h128.png)](https://0xacab.org/my-privacy-dns/matrix "This project is part of My Privacy DNS")
 
 # Contents
 The uBlock, adBlock like filters you will find inside this repository
@@ -201,6 +201,10 @@ Spyware infected domain)
 And everyone else I've forgot to mention here.  
 Have a look in the [source list](/adblocker-rules.template)
 
+## Mirror list
+
+The following repositories are official mirrors and should (when things
+goes right) be updated by [push on commit][poc]
 
 ## Tanks to
 Thanks to @Yuki2718, @THEtomaso, @krystian3w and everyone else who is
@@ -219,3 +223,4 @@ spreading the knowledge of how rules should be made :smiley:
 [EasyList]: https://github.com/easylist/easylist
 [easylist.to]: https://easylist.to
 [AdGuard]: https://adguard.com/
+[poc]: 
