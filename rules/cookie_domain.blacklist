@@ -53,6 +53,7 @@ dr.dk###drcc-overlay
 eldiplo.org##[class*="popup-dialog-"]
 
 ! F.
+ft.dk###\*0\:0
 
 ! G.
 docs.google.com###core-js-error-dialog-overlay
@@ -107,6 +108,7 @@ stackoverflow.com##.js-consent-banner
 stackoverflow.com##.s-popover
 
 ! T.
+||trck2gocookie.com^$important
 ||tv2a.dk/consent/$script
 ||tv2login.dk/api/login/v1/users/current/consents$xmlhttprequest
 teufelaudio.at##.privacy-layer--open
