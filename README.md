@@ -1,5 +1,4 @@
 
-[![Github Mirror](_public/icons/github.png)](https://github.com/mypdns/adblocker-rules "My Privacy DNS Github mirror")
 [![uBlock syntax](_public/icons/ublock-origin-syntax.svg)](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
 [![AdGuard syntax](_public/icons/adguard-syntax.svg)](https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters)
 [![ko-fi](_public/icons/ko-fi.png)](https://ko-fi.com/X8X37FUGU)
@@ -201,10 +200,25 @@ Spyware infected domain)
 And everyone else I've forgot to mention here.  
 Have a look in the [source list](/adblocker-rules.template)
 
-## Mirror list
+## Official mirrors
 
 The following repositories are official mirrors and should (when things
 goes right) be updated by [push on commit][poc]
+
+| Project         | Host                                                       | Metode (push \| pull) |
+| :-------------- | :--------------------------------------------------------- | --------------------: |
+| Adblocker Rules | `https://git.disroot.org/my-privacy-dns/adblocker-rules`   |                  push |
+| Adblocker Rules | `https://git.kescher.at/my-privacy-dns/adblocker-rules`    |                  pull |
+| Adblocker Rules | `https://gitea.slowb.ro/spirillen/adblocker-rules`         |                  pull |
+| Adblocker Rules | `https://github.com/mypdns/adblocker-rules`                |                  push |
+| Adblocker Rules | `https://gitlab.com/my-privacy-dns/matrix/adblocker-rules` |                  push |
+| Adblocker Rules | `https://notabug.org/my-privacy-dns/adblocker-rules`       |                  pull |
+| ============    | =====================================================      |      ================ |
+| Matrix          | `https://git.disroot.org/my-privacy-dns/matrix`            |                  push |
+| Matrix          | `https://gitea.slowb.ro/spirillen/matrix`                  |                  push |
+| Matrix          | `https://github.com/mypdns/matrix`                         |                  push |
+| Matrix          | `https://gitlab.com/my-privacy-dns/matrix/matrix`          |                  push |
+| Matrix          | `https://notabug.org/my-privacy-dns/matrix`                |                  pull |
 
 ## Tanks to
 Thanks to @Yuki2718, @THEtomaso, @krystian3w and everyone else who is
@@ -223,4 +237,4 @@ spreading the knowledge of how rules should be made :smiley:
 [EasyList]: https://github.com/easylist/easylist
 [easylist.to]: https://easylist.to
 [AdGuard]: https://adguard.com/
-[poc]: 
+[poc]: https://0xacab.org/help/user/project/repository/mirror/push.md "Push mirroring"
