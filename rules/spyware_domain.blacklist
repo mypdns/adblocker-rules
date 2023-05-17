@@ -60,6 +60,7 @@ g.alicdn.com/woodpeckerx/jssdk/wpkReporter.js
 ||bloomberg.com/ccpa.js
 ||buzama.com^$important
 ||search.brave.com^$removeparam=source
+bibliotek.dk##.external
 bibliotek.dk##[class*="recommender"]
 
 ! C.
