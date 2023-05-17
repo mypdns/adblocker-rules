@@ -52,6 +52,8 @@ g.alicdn.com/woodpeckerx/jssdk/plugins/performance.js
 g.alicdn.com/woodpeckerx/jssdk/wpkReporter.js
 
 ! B.
+##[href*="adm.biblioteksvagten.dk"]
+||adm.biblioteksvagten.dk^
 ||api.bouyguestelecom.fr/traces-techniques
 ||barefoot.pics^$important,all
 ||bathtub.pics^$important,all
@@ -60,7 +62,6 @@ g.alicdn.com/woodpeckerx/jssdk/wpkReporter.js
 ||bloomberg.com/ccpa.js
 ||buzama.com^$important
 ||search.brave.com^$removeparam=source
-bibliotek.dk##.external
 bibliotek.dk##[class*="recommender"]
 
 ! C.
