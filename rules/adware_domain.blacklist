@@ -138,6 +138,7 @@ linuxconfig.org##.custom
 ! M.
 ||mailerlite.com^
 ||media-amazon.com/images/*/imdbads/*$important
+merriam-webster.com##.large-view
 
 ! N.
 ||nsimg.*^$important
