@@ -109,16 +109,16 @@
             ]
         },
         {
-            "name": "My Privacy DNS Filter spyware_domain.blacklist",
-            "source": "rules/spyware_domain.blacklist",
+            "name": "My Privacy DNS Filter privacy.domain",
+            "source": "rules/privacy.domain",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
             ]
         },
         {
-            "name": "My Privacy DNS Filter spyware_rule.blacklist",
-            "source": "rules/spyware_rule.blacklist",
+            "name": "My Privacy DNS Filter privacy.rules",
+            "source": "rules/privacy.rules",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"

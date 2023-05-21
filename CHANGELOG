@@ -3,14 +3,19 @@ Changelog
 This changelog is only used for "Major" changes to the list setup, like
 new files, sorting or including new external sources.
 
-18. July 2022
+21. May 2023
+  - Ranaming our two spyware files into `privacy.rules` & `privacy.domain`
+    This is done to make the rules cover broader as it infact already
+    includes both spyware and tracking rules.    
+
+1.  July 2022
   - Update of urls to point to Jira support board.
   - Updated urls to match confluence:
     https://spirillen.atlassian.net/wiki/spaces/UOBR
   - Change CI OS to match ubuntu 22.04 for builds
   - Add link to GitLab and Jira (atlassian)
 
-19. May 2021
+2.  May 2021
   - Added a new list `rules/noise.txt` which is to remove all the noises
     from a any webpage. Noise is useless junk that have nothing to do with
     how @spirillen is using a website.

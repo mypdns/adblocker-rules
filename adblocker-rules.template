@@ -75,8 +75,8 @@
 %include ublockorigin-rules:rules/domain_piracy_rules.blacklist%
 
 !------- SpyWare List -------------------------------------------------!
-%include ublockorigin-rules:rules/spyware_domain.blacklist%
-%include ublockorigin-rules:rules/spyware_rule.blacklist%
+%include ublockorigin-rules:rules/privacy.domain%
+%include ublockorigin-rules:rules/privacy.rules%
 
 !------- White List ---------------------------------------------------!
 %include ublockorigin-rules:rules/whitelist_domain.whitelist%
