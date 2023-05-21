@@ -268,13 +268,15 @@ stackoverflow.com##.google-login
 
 
 ! T.
+||assets.tumblr.com/*/x.gif$image,1p
+||px.srvcs.tumblr.com^
 ||reddit.com/?request_timestamp=$important
 ||thisdomainislong.lol^$important,all
 ||toes.beauty^$important,all
 ||toldyouso.lol^$important,all
 ||toldyouso.pics^$important,all
-||tv2a.dk/analytics/gallup/$script
-||tv2a.dk/oil/$script
+||tv2a.dk/analytics/gallup/$script,domain=tv2.dk
+||tv2a.dk/oil/$script,domain=tv2.dk
 ||twitter.com^$3p
 
 ! U.

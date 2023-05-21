@@ -109,8 +109,9 @@ stackoverflow.com##.s-popover
 
 ! T.
 ||trck2gocookie.com^$important
-||tv2a.dk/consent/$script
-||tv2login.dk/api/login/v1/users/current/consents$xmlhttprequest
+||tumblr.com/*/consent$subdocument,1p,important
+||tv2a.dk/consent/$script,domain=tv2.dk
+||tv2login.dk/api/login/v1/users/current/consents$xmlhttprequest,domain=tv2.dk
 teufelaudio.at##.privacy-layer--open
 
 ! U.
