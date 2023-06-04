@@ -298,6 +298,9 @@ stackoverflow.com##.google-login
 ||maps.yandex.net^$important
 ||yandexcdn.com/js/*$script,important
 ||yourmy.monster^$important,all
+||youtube.com/redirect?$doc,removeparam=event
+||youtube.com/redirect?$doc,removeparam=redir_token
+||youtube.com/redirect?$doc,removeparam=v
 ||yum.mom^$important,all
 
 ! Z.
