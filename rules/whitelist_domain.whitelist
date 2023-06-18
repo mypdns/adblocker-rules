@@ -44,6 +44,14 @@
 ! F.
 
 ! G.
+! Github
+@@avatars.githubusercontent.com^$domain=github.com
+@@github.com^*?notification_referrer_id=$document,removeparam=notification_referrer_id
+@@github.com^$image,doc,script,xhr,domain=github.com
+@@github.com^$inline-font,1p
+@@github.githubassets.com^$domain=github.com
+@@githubusercontent.com^$domain=github.com
+@@raw.githubusercontent.com^$domain=github.com
 
 ! H.
 
@@ -83,6 +91,8 @@
 ! X.
 
 ! Y.
+! 2023-05-21 https://www.youtube.com
+@@||googleusercontent.com^$image,domain=youtube.com
 @@||ytimg.com^$image,domain=youtube.com
 
 ! Z.

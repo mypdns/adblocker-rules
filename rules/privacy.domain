@@ -126,6 +126,7 @@ element14.com##.e14-cookie-directive
 ||gamingfun.me^$important,all
 ||geologie.*^
 ||github.com/_alive$xhr,important
+||collector.github.com^$1p,important
 ||github.com/_private/browser/stats
 ||github.com/_ws$xhr,important
 ||github.com/openreplay/*$important
