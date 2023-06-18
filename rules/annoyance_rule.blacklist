@@ -46,15 +46,15 @@ dr.dk##.dre-read-more-link
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.footer
 
 ! G.
-0xacab.org,framagit.org,gitlab.com,mypdns.org##.gl-alert-layout-limited
-0xacab.org,framagit.org,gitlab.com,mypdns.org##.gl-alert.gl-mb-6
-0xacab.org,framagit.org,gitlab.com,mypdns.org##.gl-line-height-20.gl-py-6.gl-px-8.gl-card
-0xacab.org,framagit.org,gitlab.com,mypdns.org##.gl-my-5.gl-alert-tip.gl-alert
-0xacab.org,framagit.org,gitlab.com,mypdns.org##^.gl-banner
+0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##.gl-alert-layout-limited
+0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##.gl-alert.gl-mb-6
+0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##.gl-line-height-20.gl-py-6.gl-px-8.gl-card
+0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##.gl-my-5.gl-alert-tip.gl-alert
+0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##[class^=".gl-banner"]
 
 ! H.
 /html$elemhide?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
-0xacab.org,framagit.org,gitlab.com,mypdns.org##.hide.js-explore-groups-landing.content-block.landing.explore-groups
+0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##.hide.js-explore-groups-landing.content-block.landing.explore-groups
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.header__clickable
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.highlight_sponsored
 
@@ -65,11 +65,11 @@ duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-feedback-btn-wrap
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-ia-modules
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-video-privacy-leave
-0xacab.org,framagit.org,gitlab.com,mypdns.org##.js-security-newsletter-callout
-0xacab.org,framagit.org,gitlab.com,mypdns.org##^.js-autodevops-banner
-0xacab.org,framagit.org,gitlab.com,mypdns.org##^.js-broadcast-notification-2
-0xacab.org,framagit.org,gitlab.com,mypdns.org##^.js-epics-sidebar-callout
-0xacab.org,framagit.org,gitlab.com,mypdns.org##^.js-mr-approval-callout
+0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##.js-security-newsletter-callout
+0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##^.js-autodevops-banner
+0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##^.js-broadcast-notification-2
+0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##^.js-epics-sidebar-callout
+0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##^.js-mr-approval-callout
 
 ! K.
 
@@ -103,7 +103,7 @@ duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###
 
 ! P.
 /public/$third-party?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
-0xacab.org,framagit.org,gitlab.com,mypdns.org##[class*="promotion-"]
+0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##[class*="promotion-"]
 
 ! Q.
 ^*^q=$elemhide?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
@@ -117,7 +117,7 @@ dailyporn.club,gumtree.com##.right
 ! S.
 /share/spice/amazon/$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
 dharma-production.com##.subscribe
-0xacab.org,framagit.org,gitlab.com,mypdns.org##.show.dropdown-menu-right.dropdown-menu > ul > li > .text-nowrap
+0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##.show.dropdown-menu-right.dropdown-menu > ul > li > .text-nowrap
 
 ! T.
 /t/*$important?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com

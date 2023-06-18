@@ -30,6 +30,8 @@
 ! A.
 /analytics/event
 /api/tracking/*
+##[href*="https://itunes.apple.com/app/"]
+##[href^="https://play.google.com/store/"]
 ##[href^="https://www.amazon.com"]
 ||/ajax/trcking/trck.php$1p,important
 ||analytics.*^

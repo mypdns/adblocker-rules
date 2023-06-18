@@ -100,6 +100,7 @@ github.com##.mb-2.Box-header--blue.Box-header
 github.com##.mb-3.js-details-container.Details.border-black-fade.Box-row--yellow.Box
 github.com##.mt-3.flash-warn.flash
 github.com##.p-2.border-bottom.js-notice
+github.com##.Popover-message
 github.com##.protip
 github.com##.rounded-1.mb-4.text-center.p-4.signup-prompt
 github.com##.rounded-1.signup-prompt-bg
