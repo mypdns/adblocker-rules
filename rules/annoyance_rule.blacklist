@@ -54,8 +54,9 @@ duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.
 
 ! H.
 /html$elemhide?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
-duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.highlight_sponsored
 0xacab.org,framagit.org,gitlab.com,mypdns.org##.hide.js-explore-groups-landing.content-block.landing.explore-groups
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.header__clickable
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.highlight_sponsored
 
 ! I.
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.ia-modules
@@ -93,8 +94,8 @@ answear.ua,bournemouthecho.co.uk,businessoffashion.com,dharma-production.com,job
 !joyourself.com,liveprivates.com,lsawards.com,maturescam.com,mycams.com,mytrannycams.com,livesexasian.com,cameraboys.com,livesex.com##.notifier-wrapper
 ##.notification-warning
 ##.notifier-wrapper
-##^.notification-warning
-##^.notifier-wrapper
+##[class^="notification-warning"]
+##[class^="notifier-wrapper"]
 askubuntu.com,serverfault.com,stackexchange.com###noscript-warning
 
 ! O.
@@ -102,7 +103,7 @@ duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###
 
 ! P.
 /public/$third-party?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
-0xacab.org,framagit.org,gitlab.com,mypdns.org##^[class*="promotion-"]
+0xacab.org,framagit.org,gitlab.com,mypdns.org##[class*="promotion-"]
 
 ! Q.
 ^*^q=$elemhide?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com

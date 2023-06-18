@@ -36,6 +36,8 @@
 
 ! B.
 /api/bfb_write_log
+/assets/browser-detect-*.js$script,important
+/assets/browser-update-*.js$script,important
 ##a[href^="https://bit.ly/"]
 
 ! C.
@@ -81,6 +83,7 @@
 -google-tag-manager
 -google-tag-manager.$script,important
 .gif?*&stat=
+/assets/google-tag-manager-*$script,important
 /ga_proxy.js$script
 /ga_xdcom.html
 /google-analytics-for-wordpress/$script
@@ -95,6 +98,7 @@
 ||hyperlnk.xyz^$script,3p
 
 ! I.
+proxyrarbg.to,rarbggo.to##.is_country
 
 ! J.
 ||javhd.com^$ping

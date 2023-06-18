@@ -28,6 +28,7 @@
 ! 9.
 
 ! A.
+||aparat.com^$third-party
 
 ! B.
 bluehouse.is##.jss184
@@ -50,6 +51,7 @@ dr.dk##.drc-cookie-policy
 dr.dk###drcc-overlay
 
 ! E.
+||trustseal.enamad.ir^$third-party,cookie
 eldiplo.org##[class*="popup-dialog-"]
 
 ! F.
@@ -79,7 +81,7 @@ infoworld.com###sp_message_container_527464
 logitech.com##.secondary-content-ctn
 
 ! M.
-@@||mypdns.org^$cookie,important
+@@||mypdns.org^$cookie
 ||myprivacy.dpgmedia.nl^
 matrix.org##.notyf
 midtfynsenergi.dk##.cdk-overlay-container

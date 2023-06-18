@@ -51,7 +51,7 @@
 @@||wss.analyticacdn.com^$websocket,badfilter
 
 ! B.
-@@||files.bbci.co.uk^*/cookie-banner/$script,domain=bbc.co.uk,important
+@@||files.bbci.co.uk^*/cookie-banner/$script,domain=bbc.co.uk,badfilter
 
 ! C.
 @@||api.cxense.com/document/search?$xmlhttprequest,domain=friday.kodansha.co.jp,badfilter

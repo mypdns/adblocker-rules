@@ -31,7 +31,7 @@
 ://ads.
 !/ads.v*.js?v=*$important
 !/ads.v5.js?v=3$important
-/ads.js$script,important,domain=evoload.io,here.xxx,mixdrop.co,xn--icktho51h7xpyfnezf.com
+/ads.js$script,important,domain=evoload.io|here.xxx|mixdrop.co|xn--icktho51h7xpyfnezf.com|bbwsexclips.com|pornplaza.net|bbwsexclips.com|pussy-porn.com|porno-fetish.net|lesbianxvideos.com|ayporno.net|lesbianadult.org|pornogif.org|fullhdporno.org
 /ads.v*.js?v=*$important
 /adsbygoogle.js$script,important
 /adsense/*/caf.js$script,important
@@ -44,7 +44,7 @@
 ##.advertisement
 ##.alignright:has(.adsbygoogle)
 ###advads_ad_widget-
-##^.adsbygoogle
+##[class^=".adsbygoogle"]
 ##div[class^="ad_unit_"]
 ||adservice.*^
 fluttercampus.com##.adboxlarge
@@ -55,7 +55,6 @@ twentytwowords.com##.ad-units-wrapper
 /blockadblock.js$script,important
 ##.banner
 ##.banner-container
-##.botad$domain=here.xxx
 ###banner-ad
 ###BannerContainer
 ||/banners/*$domain=freefaucet.io|zoofiliatube.xxx,generichide
@@ -64,6 +63,8 @@ babesandstars.com,castingcouch-x.com,cum4k.com,definebabe.com,holed.com,lubed.co
 bestwifeporn.com,pxrnxx.xyz##.bx-wrapper
 filmikisex.de,films-sex.de,filmssex.de,oferty-sex.de,ofertysex.de,pornafilm.de,sexdarmowe.de,sexfilmiki.de,sexfilmy.de,telefonla-sex.de,videolar-sex.de,videolarsex.de##div[id^="BannerPopup"]
 gamemodding.com##.big_banner
+here.xxx,jagaporn.com##.botad
+isico.or.jp,kitagawamura.jp##^#banner_footer1
 
 ! C.
 .com/ads-
@@ -109,6 +110,7 @@ nu.nl###header
 /js/popper.min.js$important
 /js/propellerads_tag_onload.js
 /js/propellerads_tag.js
+askubuntu.com,stackexchange.com##.js-announcement-banner
 babesandstars.com,castingcouch-x.com,cum4k.com,definebabe.com,holed.com,lubed.com,passion-hd.com,pornhubpremium.com,pornpros.com,spyfam.com,teamskeet.com##[class*="join"]
 
 ! K.

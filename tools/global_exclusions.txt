@@ -8,6 +8,7 @@ _prebid_$badfilter
 -google-analytics
 -google-tag-manager
 ://ads.$domain=~
+.*\.,cookie$
 .com/ads/$image
 .in/ads.$badfilter
 .in/ads/$badfilter
@@ -145,6 +146,8 @@ _prebid_$badfilter
 @@||yahoo.adnetasia.com/serv?s=$script
 @@||yahoo.adtrackers.net/serv?s=$script
 @@||yahoo.bannertrack.net/serv?s=$script
+*###kaprila_linktable
+*$1p,strict3p,script,header=via:1.1 google
 /.*[ ]noop$/
 /(?!^(\\|\\||@@\\|\\|))^.+/
 /\|\|.*/.googlecode/.com.*/
@@ -165,6 +168,7 @@ _prebid_$badfilter
 /^@@\|\|googletagmanager.com.*/
 /^\*.*denyallow.*/
 /^\*[ ].*/
+/ads.js$script,important,domain=evoload.io,here.xxx,mixdrop.co,xn--icktho51h7xpyfnezf.com
 #@#.ad-content
 #@#.ad-placeholder
 #@#.adBanner
@@ -173,6 +177,8 @@ _prebid_$badfilter
 #@#.adsBox
 #@#.adsbygoogle
 #@##iqadtile5
+##.botad$domain=here.xxx
+##^.adsbygoogle
 ||adservice.google.*/
 ||adservice.google.ca^
 ||adservice.google.co.za^
@@ -181,6 +187,7 @@ _prebid_$badfilter
 ||adservice.google.nl
 ||analytics.
 ||analytics.google.com
+||aparat.com^$third-party,cookie
 ||apis.google.com
 ||cookieinformation.com/*/*.js$third-party
 ||cookieinformation.com/tcf-cmp.js$all
@@ -217,8 +224,33 @@ _prebid_$badfilter
 ||googletagservices.com/
 ||pagead2.googlesyndication.com/
 ||smetrics.
+||trustseal.enamad.ir^$third-party,cookie
 ||tumblr.com^
+archive.is,archive.today,archive.vn,archive.fo,archive.md,archive.li,archive.ph,archivecaslytosk.onion,archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion,btdig.com,filecr.com,gommonauti.it,gugo.site,krunker.io,lyckansforskola.com,sybertrek.com,##+js(aopw, navigator.brave)
 file-scheme * 1p-script block
 file-scheme * inline-script block
+investorvillage.com#%#//scriptlet('abort-current-inline-script', ' update_visit_count')
+isico.or.jp,kitagawamura.jp,##^#banner_footer1
+m.qoo10.jp#%#//scriptlet('abort-current-inline-script', '$', 'layerpopup_mainBanner')
+mail.tm##:xpath(//*[contains(text(),"blocker")])
+masterduelmeta.com##:xpath(//*[contains(text(),"adblock")]):upward(3)
 no-csp-reports: * true
 no-large-media: behind-the-scene false
+pakomanmama.com###list:has-text(PR()
+spankwire.com##:xpath(//*[contains(text(),"Advertisement")]):upward(1)
+www.reddit.com##.bottom-bar, .XPromoBottomBar
+www.reddit.com##.useApp,.TopNav__promoButton
+www.reddit.com##.XPromoInFeed
+www.reddit.com##.XPromoPopup
+www.reddit.com##.XPromoPopupRpl
+www.reddit.com##.XPromoPopupRplNew
+www.reddit.com##^xpromo-nsfw-blocking-modal
+www.reddit.com##+js(aeld, touchmove)
+www.reddit.com##body:style(pointer-events: auto !important;)
+www.reddit.com##body.scroll-disabled:style(overflow: visible !important; position: static !important;)
+www.reddit.com##body.scroll-is-blocked:style(overflow: visible !important; position: static !important;)
+www.reddit.com##div.prompt
+www.reddit.com##img[id="post-image"]:style(object-fit: fill !important;)
+www.reddit.com##xpromo-app-selector
+www.reddit.com##xpromo-new-app-selector
+yun.ir#%#//scriptlet('set-cookie-reload', 'bypasstimer', '10')

@@ -58,6 +58,9 @@ adultdvdempire.com##.pricing-container
 adultdvdempire.com##.sale
 adultdvdempire.com##.main-nav-container
 avgle.com##.alert-dismissable
+askubuntu.com,stackexchange.com##.js-footer
+askubuntu.com,stackexchange.com###sidebar
+askubuntu.com,stackexchange.com##.left-sidebar
 
 ! B.
 
@@ -75,10 +78,12 @@ celeb.gate.cc###celeb__posts
 ||dr.dk/tjenester/corona-api/*$1p
 dr.dk##.dre-footer
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.footer
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-header-aside-item-social
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[class*="feedback"]
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(4)
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(5)
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(6)
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-header-aside-item-social.social.header__label.header--aside__social.header--aside__item
 
 ! E.
 edbpriser.dk##.popular-now
@@ -176,9 +181,11 @@ xxxreal.com##.video-detail__pay-methods
 ! Y.
 !youtube.com###secondary
 youtube.com##.iron-selected.ytd-c4-tabbed-header-renderer.style-scope
+youtube.com##.ytd-live-chat-frame
 youtube.com##.ytp-player-content
 youtube.com###comments
 youtube.com###offer-module
 youtube.com##tp-yt-paper-tab.ytd-c4-tabbed-header-renderer.style-scope:nth-of-type(3)
+youtube.com##ytd-item-section-renderer.ytd-section-list-renderer.style-scope:nth-of-type(1)
 youtube.com##ytd-popup-container.ytd-app.style-scope
 youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope

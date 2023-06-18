@@ -83,7 +83,7 @@ bibliotek.dk##[class*="recommender"]
 ||discourse-cdn.com^$3p
 ||disqus.com/embed.js$script
 ||disqus.com^$subdocument
-||dr.dk/drWebStat/$,domain=dr.dk
+||dr.dk/drWebStat/$domain=dr.dk
 ||dr.dk/hydra/assets/*$script,domain=dr.dk
 ||dr.dk/hydra/assets/ArticlePage.*.js$script,domain=dr.dk
 ||drtuber.*/ajax/log/*$important
@@ -176,10 +176,10 @@ itslinuxfoss.com##[id^="ez-video-wrap-"]
 !||jsdelivr.net/*/js.cookie.min.js$script
 ||jetbrains.com^$third-party,important
 ||jetbrains.com^$xhr,3p
-||jetbrains.space##.FlexStyles-horizontal.ksc-111
 ||joinmy.site^$important,all
 ||jsdelivr.net^$script,important
 ||jsdelivr.net^$xhr,important
+jetbrains.space##.FlexStyles-horizontal.ksc-111
 
 ! K.
 ||analytics.kurocore.com^$important
@@ -284,6 +284,7 @@ stackoverflow.com##.google-login
 ||pre-mpnewyear.uc.cn^
 ||track.uc.cn^
 ||uplynk.com^$important
+ubuntu.com##+js(addEventListener-defuser, DOMContentLoaded, js-revoke-cookie-manager)
 
 ! V.
 
