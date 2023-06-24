@@ -169,6 +169,7 @@ _prebid_$badfilter
 /^\*.*denyallow.*/
 /^\*[ ].*/
 /ads.js$script,important,domain=evoload.io,here.xxx,mixdrop.co,xn--icktho51h7xpyfnezf.com
+/cookie-consent-$script,domain=~cookielaw.org|~github.com|~gitlab.com
 #@#.ad-content
 #@#.ad-placeholder
 #@#.adBanner
