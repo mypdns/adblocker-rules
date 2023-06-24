@@ -168,8 +168,19 @@ _prebid_$badfilter
 /^@@\|\|googletagmanager.com.*/
 /^\*.*denyallow.*/
 /^\*[ ].*/
+/adlink-$domain=~adlinktech.com|~github.com|~github.io
 /ads.js$script,important,domain=evoload.io,here.xxx,mixdrop.co,xn--icktho51h7xpyfnezf.com
+/adservice.$domain=~adservice.io|~github.com|~githubusercontent.com
+/adsmanager/*$domain=~github.com
 /cookie-consent-$script,domain=~cookielaw.org|~github.com|~gitlab.com
+/cookie-manager/*$domain=~github.com
+/dynatrace-$~image,domain=~dynatrace-managed.com|~dynatrace.com|~dynatracelabs.com|~github.com|~github.io
+/dynatrace.$~third-party,domain=~dynatrace.com|~dynatrace.jbhunt.com|~dynatrace.udemy.com|~dynatrace.zoom.us|~dynatracelabs.com|~github.com|~github.io
+/dynatrace/*$domain=~dynatrace-managed.com|~dynatrace.com|~dynatracelabs.com|~github.com|~github.io
+/googleads-$domain=~github.com|~github.io
+/googleads/*$domain=~github.com|~github.io
+/matomo/*$domain=~github.com|~hub.docker.com|~matomo.org|~wordpress.org
+/shopify/track$domain=~github.com
 #@#.ad-content
 #@#.ad-placeholder
 #@#.adBanner
