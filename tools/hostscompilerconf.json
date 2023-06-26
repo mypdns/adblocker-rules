@@ -1517,6 +1517,21 @@
             ]
         },
         {
+            "name": "iam-py-test: Private list",
+            "source": "https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/personal/iam-py-test.txt",
+            "type": "adblock"
+        },
+        {
+            "name": "iam-py-test: antimalware.txt",
+            "source": "https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antimalware.txt",
+            "type": "adblock"
+        },
+        {
+            "name": "iam-py-test: PUP list",
+            "source": "https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antipup.txt",
+            "type": "adblock"
+        },
+        {
             "name": "@ryanbr Fanboy's Enhanced Tracking List",
             "source": "https://raw.githubusercontent.com/ryanbr/fanboy-adblock/master/enhancedstats-addon.txt",
             "type": "adblock",
