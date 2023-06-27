@@ -1364,7 +1364,7 @@
             ]
         },
         {
-            "name": "EasyList",
+            "name": "EasyList: fanboy newsletter specific uBO",
             "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_specific_uBO.txt",
             "type": "adblock",
             "transformations": [
@@ -1373,7 +1373,7 @@
             ]
         },
         {
-            "name": "EasyList",
+            "name": "EasyList: fanboy newsletter thirdparty",
             "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_thirdparty.txt",
             "type": "adblock",
             "transformations": [
@@ -1382,7 +1382,7 @@
             ]
         },
         {
-            "name": "EasyList",
+            "name": "EasyList: fanboy notifications general block",
             "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_block.txt",
             "type": "adblock",
             "transformations": [
@@ -1391,7 +1391,7 @@
             ]
         },
         {
-            "name": "EasyList",
+            "name": "EasyList: fanboy notifications general hide",
             "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_hide.txt",
             "type": "adblock",
             "transformations": [
@@ -1400,7 +1400,7 @@
             ]
         },
         {
-            "name": "EasyList",
+            "name": "EasyList: fanboy notifications specific block",
             "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_specific_block.txt",
             "type": "adblock",
             "transformations": [
@@ -1409,7 +1409,7 @@
             ]
         },
         {
-            "name": "EasyList",
+            "name": "EasyList: fanboy notifications specific hide",
             "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_specific_hide.txt",
             "type": "adblock",
             "transformations": [
@@ -1418,7 +1418,7 @@
             ]
         },
         {
-            "name": "EasyList",
+            "name": "EasyList: fanboy notifications specific uBO",
             "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_specific_uBO.txt",
             "type": "adblock",
             "transformations": [
@@ -1427,7 +1427,7 @@
             ]
         },
         {
-            "name": "EasyList",
+            "name": "EasyList: fanboy notifications thirdparty",
             "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_thirdparty.txt",
             "type": "adblock",
             "transformations": [
@@ -1445,7 +1445,7 @@
             ]
         },
         {
-            "name": "EasyList",
+            "name": "EasyList: fanboy social general hide",
             "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_general_hide.txt",
             "type": "adblock",
             "transformations": [
@@ -1454,7 +1454,7 @@
             ]
         },
         {
-            "name": "EasyList",
+            "name": "EasyList: fanboy social international",
             "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_international.txt",
             "type": "adblock",
             "transformations": [
@@ -1463,7 +1463,7 @@
             ]
         },
         {
-            "name": "EasyList",
+            "name": "EasyList: fanboy social specific ABP",
             "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_ABP.txt",
             "type": "adblock",
             "transformations": [
@@ -1472,7 +1472,7 @@
             ]
         },
         {
-            "name": "EasyList",
+            "name": "EasyList: fanboy social specific block",
             "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_block.txt",
             "type": "adblock",
             "transformations": [
@@ -1481,7 +1481,7 @@
             ]
         },
         {
-            "name": "EasyList",
+            "name": "EasyList: fanboy social specific hide",
             "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_hide.txt",
             "type": "adblock",
             "transformations": [
@@ -1490,7 +1490,7 @@
             ]
         },
         {
-            "name": "EasyList",
+            "name": "EasyList: fanboy social specific uBO",
             "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_specific_uBO.txt",
             "type": "adblock",
             "transformations": [
@@ -1499,7 +1499,7 @@
             ]
         },
         {
-            "name": "EasyList",
+            "name": "EasyList: fanboy social thirdparty",
             "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_thirdparty.txt",
             "type": "adblock",
             "transformations": [
@@ -1508,28 +1508,13 @@
             ]
         },
         {
-            "name": "EasyList",
+            "name": "EasyList: fanboy sounds thirdparty",
             "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_sounds_thirdparty.txt",
             "type": "adblock",
             "transformations": [
                 "Compress",
                 "RemoveComments"
             ]
-        },
-        {
-            "name": "iam-py-test: Private list",
-            "source": "https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/personal/iam-py-test.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "iam-py-test: antimalware.txt",
-            "source": "https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antimalware.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "iam-py-test: PUP list",
-            "source": "https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antipup.txt",
-            "type": "adblock"
         },
         {
             "name": "@ryanbr Fanboy's Enhanced Tracking List",

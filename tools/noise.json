@@ -8,6 +8,11 @@
             "name": "My Privacy DNS Noise Filter",
             "source": "rules/noise.txt",
             "type": "adblock"
+        },
+        {
+            "name": "iam-py-test: Private list",
+            "source": "https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/personal/iam-py-test.txt",
+            "type": "adblock"
         }
     ],
     "transformations": [
