@@ -5,8 +5,9 @@
 [![Donate](_public/icons/donate.png)](https://0xacab.org/my-privacy-dns/matrix/-/blob/master/DONATION.md)
 [![My Privacy DNS](_public/icons/logo-h128.png)](https://0xacab.org/my-privacy-dns/matrix "This project is part of My Privacy DNS")
 
-# Contents
-The uBlock, adBlock like filters you will find inside this repository
+# Adblocker Rules
+
+These adblock filters you will find inside this repository
 will in some degree be a supportive to the more common know filters like
 [EasyList][EasyList] or [AdGuard][AdGuard].
 
@@ -29,7 +30,7 @@ my filters/codes shall be deemed to have agreed that I have no
 responsibility or liability for costs, losses, damages, etc. arising
 from the use of the filters/codes. Unless Subscribe link is provided
 these filters are assumed to be copied and pasted, or imported, into My
-filters/rules (uBlock Origin) or User Rules (AdGuard).
+filters/rules (Adblock Plus / uBlock Origin) or User Rules (AdGuard).
 
 
 ## Webfront
@@ -39,7 +40,7 @@ Our HTML front end can be found at
 
 
 ## Subscribe to the rules
-[Click here to activate these rules in you uBlock Origin][Subscribe]
+[Click here to activate these rules in your Adblocker][Subscribe]
 
 The following Lnks will provide you with different resulting filters.
 0xacab Editions should be the most advanced and compressed thanks to
@@ -50,7 +51,7 @@ the abp filter script.
 - Github No longer Supported
 
 You should also be able to subscripbe directly to the rules by
-right-click any of the following urls, choose <uBlock Origin> =>
+right-click any of the following urls, choose <Adblocker> =>
 <Subscribe to the filterlist>
 
 - <a href="abp:subscribe?location=https://my-privacy-dns.itcouldbewor.se/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules&requiresLocation=https://my-privacy-dns.itcouldbewor.se/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules%20%E2%80%93%200xacab%20Edition"
