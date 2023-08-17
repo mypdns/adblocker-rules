@@ -106,6 +106,7 @@ proxyrarbg.to,rarbggo.to##.is_country
 ##[href="https://jeded.com"]
 ||javhd.com^$ping
 ||static.javhd.com/sb/$image
+serverfault.com,superuser.com,stackoverflow.com,askubuntu.com,stackexchange.com##+js(acis, StackExchange.ga.init)
 
 ! K.
 /klaviyo.js$script
