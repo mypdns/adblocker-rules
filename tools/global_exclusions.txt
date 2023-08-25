@@ -122,6 +122,7 @@ _prebid_$badfilter
 @@||crunchyroll.adtrackers.net/vast?fg=$script
 @@||crunchyroll.bannertrack.net/vast?fg=$script
 @@||fundingchoicesmessages.google.com^$script,domain=bbc.com|soranews24.com|youpouch.com
+@@||gutefrage.net^$generichide
 @@||href.li^$document
 @@||ox-d.adclixx.net/auid=$script
 @@||ox-d.adnetasia.com/auid=$script
