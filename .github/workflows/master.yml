@@ -41,7 +41,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          apt install nodejs npm -y
+          sudo apt install nodejs npm -y
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install --no-cache -I -r requirements.txt; fi
 
