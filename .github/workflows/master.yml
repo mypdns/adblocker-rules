@@ -48,6 +48,9 @@ jobs:
       - name: Install hostlist-compiler
         run: |
           npm i -g @adguard/hostlist-compiler
+
+      - name: compile
+        run: |
           hostlist-compiler -c tools/hostscompilerconf.json -o _public/blockrules.txt
           hostlist-compiler -c tools/noise.json -o _public/noise.txt
 
