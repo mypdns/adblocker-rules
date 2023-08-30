@@ -142,7 +142,7 @@
         },
         {
             "name": "AdWare Domain list",
-            "source": "https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/adware/domains.list",
+            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/domains.list",
             "type": "adblock",
             "transformations": [
                 "RemoveComments",
@@ -151,7 +151,7 @@
         },
         {
             "name": "AdWare onion list",
-            "source": "https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/adware/onions.list",
+            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/onions.list",
             "type": "adblock",
             "transformations": [
                 "RemoveComments",
@@ -160,7 +160,7 @@
         },
         {
             "name": "AdWare .TLD list",
-            "source": "https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/adware/tld.list",
+            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/tld.list",
             "type": "adblock",
             "transformations": [
                 "RemoveComments",
@@ -169,7 +169,7 @@
         },
         {
             "name": "AdWare wildcard list",
-            "source": "https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/adware/wildcard.list",
+            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/wildcard.list",
             "type": "adblock",
             "transformations": [
                 "RemoveComments",
@@ -178,7 +178,7 @@
         },
         {
             "name": "tracking Domain list",
-            "source": "https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/tracking/domains.list",
+            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/tracking/domains.list",
             "type": "adblock",
             "transformations": [
                 "RemoveComments",
@@ -187,7 +187,7 @@
         },
         {
             "name": "tracking onions list",
-            "source": "https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/tracking/onions.list",
+            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/tracking/onions.list",
             "type": "adblock",
             "transformations": [
                 "RemoveComments",
@@ -196,7 +196,7 @@
         },
         {
             "name": "tracking .TLD list",
-            "source": "https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/tracking/tld.list",
+            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/tracking/tld.list",
             "type": "adblock",
             "transformations": [
                 "RemoveComments",
@@ -205,7 +205,7 @@
         },
         {
             "name": "tracking wildcard list",
-            "source": "https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/tracking/wildcard.list",
+            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/tracking/wildcard.list",
             "type": "adblock",
             "transformations": [
                 "Compress",
