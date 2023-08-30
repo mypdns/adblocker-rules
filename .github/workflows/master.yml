@@ -25,7 +25,7 @@ jobs:
         python_version:
           - '3.11'
         os:
-          - node #ubuntu-22.04
+          - ubuntu-22.04
 
     steps:
       - uses: actions/checkout@v2
@@ -41,6 +41,7 @@ jobs:
 
       - name: Install dependencies
         run: |
+          apt install nodejs npm -y
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install --no-cache -I -r requirements.txt; fi
 
