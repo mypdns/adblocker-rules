@@ -6,16 +6,6 @@ variables:
   PIP_CACHE_DIR: '$CI_PROJECT_DIR/.cache/pip'
   GIT_STRATEGY: clone
 
-# https://about.gitlab.com/blog/2022/09/12/a-visual-guide-to-gitlab-ci-caching/#local-cache-docker-volume
-# We can use file names as keys as well https://docs.gitlab.com/ee/ci/yaml/index.html#cachekeyfiles
-# default:
-#   cache:
-#     key: $CI_COMMIT_REF_NAME
-#     key:
-#       files:
-#         - blockrules.txt
-#         - noise.txt
-
 cache:
   key: $CI_COMMIT_SHORT_SHA
   paths:
