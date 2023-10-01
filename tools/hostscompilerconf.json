@@ -5,104 +5,104 @@
     "license": "MCRAE GENERAL PUBLIC LICENSE (version 4.r53m2)",
     "sources": [
         {
-            "name": "My Privacy DNS Filter adult_domain,txt",
-            "source": "rules/adult_domain,txt",
+            "name": "My Privacy DNS Filter adult_domain.txt",
+            "source": "rules/adult_domain.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
             ]
         },
         {
-            "name": "My Privacy DNS Filter adult_rule,txt",
-            "source": "rules/adult_rule,txt",
+            "name": "My Privacy DNS Filter adult_rule.txt",
+            "source": "rules/adult_rule.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
             ]
         },
         {
-            "name": "My Privacy DNS Filter adware_domain,txt",
-            "source": "rules/adware_domain,txt",
+            "name": "My Privacy DNS Filter adware_domain.txt",
+            "source": "rules/adware_domain.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
             ]
         },
         {
-            "name": "My Privacy DNS Filter adware_rule,txt",
-            "source": "rules/adware_rule,txt",
+            "name": "My Privacy DNS Filter adware_rule.txt",
+            "source": "rules/adware_rule.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
             ]
         },
         {
-            "name": "My Privacy DNS Filter annoyance_domain,txt",
-            "source": "rules/annoyance_domain,txt",
+            "name": "My Privacy DNS Filter annoyance_domain.txt",
+            "source": "rules/annoyance_domain.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
             ]
         },
         {
-            "name": "My Privacy DNS Filter annoyance_rule,txt",
-            "source": "rules/annoyance_rule,txt",
+            "name": "My Privacy DNS Filter annoyance_rule.txt",
+            "source": "rules/annoyance_rule.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
             ]
         },
         {
-            "name": "My Privacy DNS Filter anti_social_domain,txt",
-            "source": "rules/anti_social_domain,txt",
+            "name": "My Privacy DNS Filter anti_social_domain.txt",
+            "source": "rules/anti_social_domain.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
             ]
         },
         {
-            "name": "My Privacy DNS Filter anti_social_rule,txt",
-            "source": "rules/anti_social_rule,txt",
+            "name": "My Privacy DNS Filter anti_social_rule.txt",
+            "source": "rules/anti_social_rule.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
             ]
         },
         {
-            "name": "My Privacy DNS Filter anti_whitelist_domain,txt",
-            "source": "rules/anti_whitelist_domain,txt",
+            "name": "My Privacy DNS Filter anti_whitelist_domain.txt",
+            "source": "rules/anti_whitelist_domain.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
             ]
         },
         {
-            "name": "My Privacy DNS Filter anti_whitelist_rule,txt",
-            "source": "rules/anti_whitelist_rule,txt",
+            "name": "My Privacy DNS Filter anti_whitelist_rule.txt",
+            "source": "rules/anti_whitelist_rule.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
             ]
         },
         {
-            "name": "My Privacy DNS Filter cookie_domain,txt",
-            "source": "rules/cookie_domain,txt",
+            "name": "My Privacy DNS Filter cookie_domain.txt",
+            "source": "rules/cookie_domain.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
             ]
         },
         {
-            "name": "My Privacy DNS Filter cookie_rule,txt",
-            "source": "rules/cookie_rule,txt",
+            "name": "My Privacy DNS Filter cookie_rule.txt",
+            "source": "rules/cookie_rule.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
             ]
         },
         {
-            "name": "My Privacy DNS Filter domain_piracy_rules,txt",
-            "source": "rules/domain_piracy_rules,txt",
+            "name": "My Privacy DNS Filter domain_piracy_rules.txt",
+            "source": "rules/domain_piracy_rules.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"

@@ -82,6 +82,7 @@ jobs:
           directory: _public
 
   qodana:
+    needs: build
     runs-on: ubuntu-latest
     permissions:
       contents: write
