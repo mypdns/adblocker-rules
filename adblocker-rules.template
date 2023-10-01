@@ -6,26 +6,25 @@
 ! Expires: 1 hours
 !
 ! List url:
-! https://0xacab.org/my-privacy-dns/adblocker-rules/blockrules.txt
+! https://github.com/mypdns/adblocker-rules/blockrules.txt
 !
 ! Redirect: https://my-privacy-dns.frama.io/adblocker-rules/blockrules.txt
 !
 ! License:
-! https://0xacab.org/my-privacy-dns/adblocker-rules/-/blob/master/LICENSE
-! Homepage: https://0xacab.org/my-privacy-dns/adblocker-rules
+! https://github.com/mypdns/adblocker-rules/blob/master/LICENSE.md
+! Homepage: https://github.com/mypdns/adblocker-rules
 !
 ! Please report any unblocked content or problems on the Issue board.
 ! My Privacy DNS issues:
-! - https://0xacab.org/my-privacy-dns/matrix/-/issues
+! - https://github.com/mypdns/adblocker-rules/issues
 ! Merge Request:
-! - https://0xacab.org/my-privacy-dns/adblocker-rules/-/merge_requests
+! - https://github.com/mypdns/adblocker-rules/pulls
 !
 ! Email:
 !   - 0xacab+my-privacy-dns-matrix-4707-issue-@riseup.net
 !
 ! CopyRight:
 !   - https://mypdns.org/spirillen
-!   - https://0xacab.org/spirillen
 !   - https://bitbucket.org/spirillen/
 !   - https://github.com/spirillen
 !   - https://gitlab.com/spirillen
@@ -35,7 +34,7 @@
 !   - https://spirillen.youtrack.cloud/users/spirillen
 !   - The individual lists maintainers
 !   - The individual contributor
-!     https://0xacab.org/my-privacy-dns/adblocker-rules/activity
+!     https://github.com/mypdns/adblocker-rules/activity
 !
 ! Description: This list is originally thought as a private project
 ! between two friends @spirillen and @AnonymousPoster

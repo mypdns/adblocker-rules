@@ -3,7 +3,7 @@
 ! Last modified: %timestamp%
 ! Expires: 1 hours (update frequency)
 ! List url:
-! https://0xacab.org/my-privacy-dns/adblocker-rules-/tree/master/rules/annoyance_rule.blacklist
+! https://github.com/mypdns/adblocker-rules/blob/master/rules/annoyance_rule.blacklist
 !
 %include ublockorigin-rules:template_header.txt%
 
@@ -46,11 +46,6 @@ dr.dk##.dre-read-more-link
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.footer
 
 ! G.
-0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##.gl-alert-layout-limited
-0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##.gl-alert.gl-mb-6
-0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##.gl-line-height-20.gl-py-6.gl-px-8.gl-card
-0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##.gl-my-5.gl-alert-tip.gl-alert
-0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##[class^=".gl-banner"]
 
 ! H.
 /html$elemhide?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
@@ -63,13 +58,9 @@ duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.
 
 ! J.
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-feedback-btn-wrap
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-hl-button.header__clickable
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-ia-modules
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-video-privacy-leave
-0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##.js-security-newsletter-callout
-0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##^.js-autodevops-banner
-0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##^.js-broadcast-notification-2
-0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##^.js-epics-sidebar-callout
-0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##^.js-mr-approval-callout
 
 ! K.
 

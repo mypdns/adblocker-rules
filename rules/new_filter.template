@@ -3,7 +3,7 @@
 ! Last modified: %timestamp%
 ! Expires: 1 hours (update frequency)
 ! List url:
-! https://0xacab.org/my-privacy-dns/adblocker-rules-/tree/master/rules/new_filter.template
+! https://github.com/mypdns/adblocker-rules/blob/master/rules/new_filter.template
 !
 %include ublockorigin-rules:template_header.txt%
 

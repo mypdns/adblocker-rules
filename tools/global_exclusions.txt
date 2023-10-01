@@ -209,14 +209,13 @@ _prebid_$badfilter
 ||cookieinformation.com^$subdocument,third-party
 ||cookieinformation.com^$third-party
 ||discourse-cdn.com/
-||doubleclick.com^
-||doubleclick.de^
 ||doubleclick.net/
 ||doubleclick.net^
 ||doubleclick.net^*/
 ||doubleclick.net^*/trackimp/$third-party
 ||doubleclick.net^$
 ||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion^
+||github.com^
 ||google-analytics.com/
 ||google-analytics.com^*/
 ||google-analytics.com^$

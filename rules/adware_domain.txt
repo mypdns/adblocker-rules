@@ -3,7 +3,7 @@
 ! Last modified: %timestamp%
 ! Expires: 1 hours (update frequency)
 ! List url:
-! https://0xacab.org/my-privacy-dns/adblocker-rules-/tree/master/rules/adware_domain.blacklist
+! https://github.com/mypdns/adblocker-rules/blob/master/rules/adware_domain.blacklist
 !
 %include ublockorigin-rules:template_header.txt%
 
@@ -29,6 +29,9 @@
 3dporn.com.es##.redirect-content
 
 ! 4.
+404media.co##.js-popup
+404media.co##.outpost-pub-container
+404media.co##.subscribe
 
 ! 5.
 
@@ -80,6 +83,8 @@ bookyogaretreats.com##.in.modal-sticker
 ||cloudfront.net/slickadd.min.js$script
 ||cstwpush.com^$important
 crocotube.com##.ct-video-title-sponsor
+dash.cloudflare.com##.c_go.c_fw.c_gb.c_ex.c_ew.c_ev.c_eu.c_an.c_sb
+dash.cloudflare.com##.c_k.c_fw.c_ax.c_nn.c_bv
 
 ! D.
 ||doubleclick.net^$important
@@ -87,6 +92,7 @@ crocotube.com##.ct-video-title-sponsor
 devdungeon.com###block-block-14
 devdungeon.com###block-block-15
 devdungeon.com###block-block-6
+digitalocean.com##.TopHatNavigationStyles__StyledTopHatNavigation-sc-1yvs29j-0
 dmi.dk#?#.large-6:-abp-has(:scope > .section-1-ad)
 dmi.dk##.add-container
 dnsbl.info##.ja-gadget-virtual-assistant-subtle
@@ -132,9 +138,11 @@ javtrex.com##.ads-desktops
 ! K.
 
 ! L.
-linuxconfig.org##.custom
 learnubuntu.com##.hide-mobile
 learnubuntu.com##.post-width
+linuxconfig.org##.custom
+lyrics.com##h3.text-center.lyric-artist > span
+lyrics.com##h3.text-center.lyric-artist:nth-of-type(1)
 
 ! M.
 ||mailerlite.com^
@@ -160,6 +168,8 @@ mail.proton.me##.offer-main-wrapper
 mail.proton.me##.p-0-5.on-tablet-text-left.text-center.relative.bg-promotion.flex-nowrap.flex
 mail.proton.me##.topnav-listItem--noCollapse.flex-item-noshrink.topnav-listItem
 mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion##.bg-promotion
+mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion##.button-promotion
+pawoo.net##.pawoo-announcements
 publicwww.com##.container > .service-wrapper
 publicwww.com##.container > div.row > div.col-sm-6.col-md-6
 
@@ -254,9 +264,13 @@ twitch.tv##.prime-offers
 ||watchmondo.com^$3p,important
 ||worldtraffic.trade^
 ||wpadmngr.com^
+w3schools.com###coursera_link
+w3schools.com###sn_ad_label_adngin-sidebar_top-0
 
 ! X.
 
 ! Y.
+youtube.com##[id^="premium-upsell-link"]
+youtube.com##ytd-reel-shelf-renderer.ytd-structured-description-content-renderer.style-scope
 
 ! Z.

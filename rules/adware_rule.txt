@@ -3,7 +3,7 @@
 ! Last modified: %timestamp%
 ! Expires: 1 hours (update frequency)
 ! List url:
-! https://0xacab.org/my-privacy-dns/adblocker-rules-/tree/master/rules/adware_rule.blacklist
+! https://github.com/mypdns/adblocker-rules/blob/master/rules/adware_rule.blacklist
 !
 %include ublockorigin-rules:template_header.txt%
 
@@ -43,12 +43,13 @@
 ##.adv-aside
 ##.advertisement
 ##.alignright:has(.adsbygoogle)
-###advads_ad_widget-
 ##[class^=".adsbygoogle"]
+###advads_ad_widget-
 ##div[class^="ad_unit_"]
 ||adservice.*^
 fluttercampus.com##.adboxlarge
 love4porn.com##^.ads
+reck.dk##.aDBc-sidebar
 twentytwowords.com##.ad-units-wrapper
 
 ! B.
@@ -78,6 +79,7 @@ isico.or.jp,kitagawamura.jp##^#banner_footer1
 celebjihad.com,nudeplaymates.net,pornhub.net.co##center
 
 ! D.
+##.dismissable-banner
 ||doubleclick.*^
 
 ! E.
@@ -89,6 +91,7 @@ babesandstars.com,castingcouch-x.com,cum4k.com,definebabe.com,holed.com,lubed.co
 
 ! F.
 9578n.com,b9329.com,2125t.com,nntfrrz.com,8234x.com##.fadeInUp.animated
+reck.dk##.frash-notice-rate
 
 ! G.
 ##.__give_away.bc_popalert
@@ -168,12 +171,14 @@ xxxjavmovies.com##.right-player-col
 
 ! S.
 /?spot_id=$script
+/wp-content/plugins/stom-popups/*$script
 ##.side-bar-ad
 ##.spot-horizontal
 ##[id^="slideout"]
 ###ssh-sftp-updater-support-dashnotice
 babesandstars.com,castingcouch-x.com,cum4k.com,definebabe.com,holed.com,lubed.com,passion-hd.com,pornhubpremium.com,pornpros.com,spyfam.com,teamskeet.com##.sale-special-container
 eachporn.com,anyporn.com,bigtitslust.com,fpo.xxx,freeporn8.com,pervertslut.com,sexpornimages.com,sortporn.com,xhamster.com##.sponsor
+reck.dk##.smush_upgrade
 xjavhdporn.com##.sidebar
 
 ! T.

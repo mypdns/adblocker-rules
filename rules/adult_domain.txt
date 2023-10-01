@@ -5,7 +5,7 @@
 %include ublockorigin-rules:template_header.txt%
 !
 ! List url:
-! https://0xacab.org/my-privacy-dns/adblocker-rules-/tree/master/rules/adult_domain.blacklist
+! https://github.com/mypdns/adblocker-rules/blob/master/rules/adult_domain.blacklist
 
 ! 0.
 0000114.com##[src^="/ads123/"]
@@ -62,6 +62,11 @@ animehentaihub.com##.code-block
 animehentaihub.com##.happy-header
 antpool.com##div.v-transfer-dom
 asexyporn.com##.pyp
+atkpremium.com##[href*="/tour/webcam"]
+atkpremium.com##[href*="http://www.atkdvd.com/"]
+atkpremium.com###bottom_login
+atkpremium.com###footer_bg
+atkpremium.com###footer_wrapper
 avgle.com##.col-sm-5.col-md-4
 aznude.com##.increase-height
 aznude.com##.random-links
@@ -211,6 +216,7 @@ hqasianporn.org##.coverup
 hushlove.com###notice
 
 ! I.
+||imgbox.com/images/background-body.png$image
 ||imgking.co^
 ||imgkings.com^$image
 ||imgprime.com^$image
@@ -374,10 +380,14 @@ teenfidelity.com##.promoBar
 teenfidelity.com###navbar-tour > .is-size-4-widescreen.is-size-6.is-uppercase.navbar-end > .navbar-item:nth-of-type(2)
 the-sex.me##.thumb-ad
 the-sex.me###disclaimer
+thefappening.pro##.button-wrapper
+thefappening.pro##.comments-area
+thefappening.pro##.sopot
+thefappening.pro###colophon
 thegay.com,txxx.com##.fiioed
 thegay.com##.video-page__content > .right
-tini-porno.com##.hidden-sm.sidebar.col-sm-4
 tini-porno.com
+tini-porno.com##.hidden-sm.sidebar.col-sm-4
 tini-porno.com###\31 8kapu
 tini-porno.com###text-2 > div.textwidget:nth-of-type(1)
 topminecraftservers.org##.embed-responsive

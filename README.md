@@ -226,8 +226,8 @@ Thanks to @Yuki2718, @THEtomaso, @krystian3w and everyone else who is
 spreading the knowledge of how rules should be made :smiley:
 
 <!-- Own Links -->
-[issues]: https://0xacab.org/my-privacy-dns/matrix/-/issues
-[commits]: https://0xacab.org/my-privacy-dns/adblocker-rules
+[issues]: https://github.com/mypdns/adblocker-rules/issues
+[commits]: https://github.com/mypdns/adblocker-rules
 [support]: https://0xacab.org/my-privacy-dns/support
 [Subscribe]: abp:subscribe?location=https://my-privacy-dns.itcouldbewor.se/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%200xacab%20Edition%20%E2%80%93%20Adblock%20Rules
 

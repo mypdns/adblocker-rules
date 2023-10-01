@@ -3,7 +3,7 @@
 ! Last modified: %timestamp%
 ! Expires: 1 hours (update frequency)
 ! List url:
-! https://0xacab.org/my-privacy-dns/adblocker-rules-/tree/master/rules/whitelist_rule.whitelist
+! https://github.com/mypdns/adblocker-rules/blob/master/rules/whitelist_rule.whitelist
 !
 %include ublockorigin-rules:template_header.txt%
 
@@ -88,5 +88,6 @@ joyourself.com,lsawards.com,maturescam.com,mytrannycams.com,livesexasian.com,cam
 ! X.
 
 ! Y.
+@@||ytimg.com^$image,domain=youtube.com
 
 ! Z.

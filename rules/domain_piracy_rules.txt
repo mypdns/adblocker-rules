@@ -3,7 +3,7 @@
 ! Last modified: %timestamp%
 ! Expires: 1 hours (update frequency)
 ! List url:
-! https://0xacab.org/my-privacy-dns/adblocker-rules-/tree/master/rules/rules/anti_social_domain.blacklist
+! https://github.com/mypdns/adblocker-rules/blob/master/rules/domain_piracy_rules.blacklist
 !
 %include ublockorigin-rules:template_header.txt%
 
@@ -28,14 +28,14 @@
 ! 9.
 
 ! A.
+ahlefind.com/match-
+s3-us-west-2.amazonaws.com/tld-buns/_xxx.svg
 
 ! B.
 
 ! C.
 
 ! D.
-||discord.com^$important
-||discordapp.com^$important
 
 ! E.
 
@@ -60,12 +60,17 @@
 ! O.
 
 ! P.
+/images/parked-on-the-bun.png
+/parking-lander/static/js/$script
+||parking.bodiscdn.com^
+parkingcrew.net$3p
 
 ! Q.
 
 ! R.
 
 ! S.
+/scripts/js3caf.js$script,important
 
 ! T.
 

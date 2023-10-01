@@ -3,7 +3,7 @@
 ! Last modified: %timestamp%
 ! Expires: 1 hours (update frequency)
 ! List url:
-! https://0xacab.org/my-privacy-dns/adblocker-rules-/tree/master/rules/whitelist_domain.whitelist
+! https://github.com/mypdns/adblocker-rules/blob/master/rules/whitelist_domain.whitelist
 !
 %include ublockorigin-rules:template_header.txt%
 
@@ -33,11 +33,16 @@
 @@||atlassian.com^$1p
 
 ! B.
+@@||bitbucket.org$domain=bitbucket.org
+bitbucket.org##.e1sgjb1l0.css-s1rlud
 
 ! C.
+@@||d301sr5gafysq2.cloudfront.net^$domain=bitbucket.org
+@@||d3bpeqsaub0i6y.cloudfront.net/stylesheets/*$stylesheet,domain=meta.discourse.org
 @@||go.celebjihad.live^$domain=celebjihad.com
 
 ! D.
+@@||discourse-cdn.com^$domain=meta.discourse.org
 
 ! E.
 
@@ -45,8 +50,12 @@
 
 ! G.
 ! Github
+@@||avatars.githubusercontent.com^$domain=github.com
+@@||github.githubassets.com^$domain=github.com
+@@||raw.githubusercontent.com^$domain=github.com
 @@avatars.githubusercontent.com^$domain=github.com
 @@github.com^*?notification_referrer_id=$document,removeparam=notification_referrer_id
+@@github.com^$domain=github.com
 @@github.com^$image,doc,script,xhr,domain=github.com
 @@github.com^$inline-font,1p
 @@github.githubassets.com^$domain=github.com
@@ -56,12 +65,15 @@
 ! H.
 
 ! I.
+@@||i.imgbox.com^$document,domain=i.imgbox.com
 
 ! J.
+@@||jetbrains.com^$1p
 
 ! K.
 
 ! L.
+@@||discourse-cdn.com^$domain=community.letsencrypt.org
 
 ! M.
 @@||mypdns.org^$ghide

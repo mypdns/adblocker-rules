@@ -3,7 +3,7 @@
 ! Last modified: %timestamp%
 ! Expires: 1 hours (update frequency)
 ! List url:
-! https://0xacab.org/my-privacy-dns/adblocker-rules-/tree/master/rules/annoyance_domain.blacklist
+! https://github.com/mypdns/adblocker-rules/blob/master/rules/annoyance_domain.blacklist
 !
 %include ublockorigin-rules:template_header.txt%
 

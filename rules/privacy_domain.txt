@@ -3,7 +3,7 @@
 ! Last modified: %timestamp%
 ! Expires: 1 hours (update frequency)
 ! List url:
-! https://0xacab.org/my-privacy-dns/adblocker-rules-/tree/master/rules/privacy.domain
+! https://github.com/mypdns/adblocker-rules/blob/master/rules/privacy.domain
 !
 %include ublockorigin-rules:template_header.txt%
 
@@ -113,10 +113,12 @@ element14.com##.e14-cookie-directive
 ||foot.wiki^$important,all
 ||fortnight.space^$important,all
 ||fortnitechat.site^$important,all
+||kit.fontawesome.com^$script,important
 
 ! G.
 ||analytics.google.*^$important
 ||apis.google.com^$important
+||collector.github.com^$1p,important
 ||collector.githubapp.com^
 ||fonts.googleapis.com^$stylesheet
 ||fonts.gstatic.com^$important
@@ -126,7 +128,6 @@ element14.com##.e14-cookie-directive
 ||gamingfun.me^$important,all
 ||geologie.*^
 ||github.com/_alive$xhr,important
-||collector.github.com^$1p,important
 ||github.com/_private/browser/stats
 ||github.com/_ws$xhr,important
 ||github.com/openreplay/*$important
@@ -144,6 +145,7 @@ element14.com##.e14-cookie-directive
 ||googletagmanager.*^$important
 ||googletagservices.*^
 ||googleusercontent.com^$important
+||googlevideo.com^3p
 ||gstatic.com^
 ||gstaticadssl.l.google.com^$important
 ||live.github.com/_luau/*$websocket,important
@@ -295,6 +297,7 @@ ubuntu.com##+js(addEventListener-defuser, DOMContentLoaded, js-revoke-cookie-man
 ||webvisor.org^
 
 ! X.
+||xn--931a.moe/assets/info.jpg$image
 
 ! Y.
 ||maps.yandex.net^$important
@@ -303,6 +306,7 @@ ubuntu.com##+js(addEventListener-defuser, DOMContentLoaded, js-revoke-cookie-man
 ||youtube.com/redirect?$doc,removeparam=event
 ||youtube.com/redirect?$doc,removeparam=redir_token
 ||youtube.com/redirect?$doc,removeparam=v
+||youtube.com^3p
 ||yum.mom^$important,all
 
 ! Z.

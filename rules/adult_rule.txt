@@ -3,7 +3,7 @@
 ! Last modified: %timestamp%
 ! Expires: 1 hours (update frequency)
 ! List url:
-! https://0xacab.org/my-privacy-dns/adblocker-rules-/tree/master/rules/adult_rule.blacklist
+! https://github.com/mypdns/adblocker-rules/blob/master/rules/adult_rule.blacklist
 !
 %include ublockorigin-rules:template_header.txt%
 
@@ -55,6 +55,7 @@ pornpicvip.com##.boxzilla-overlay
 ##.containerModal-warning
 ##[href*="chaturbate.com"]
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.container.content > div:nth-of-type(1) > div > .hidden-xs
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.count-btn
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.col-xs-12.col-sm-12.col-md-12.col-lg-4
 artificialintelligencestechnology.com,tecmint.com,embetronicx.com,arabtimesonline.com,javsister.com,desiflix.club,vladan.fr###custom_html-9
 pennbookcenter.com,floxblog.com,aceofhacking.com,watchtheoffice.cc,newtechworld.net,gfxdrug.com,collegelearners.com,tecmint.com,romadd.com,firesticktricks.com###custom_html-4
@@ -69,13 +70,15 @@ alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,g
 tecmint.com##.dgd_stb_box
 
 ! E.
-##a[href*="expeers-vehumbers.com/"]
-###erotikusmodalbox
 /exit-popup/*$script,domain=myallaccesspass.com|teendreams.com,important
+###erotikusmodalbox
+##a[href*="expeers-vehumbers.com/"]
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.eFUQHF.sc-hvagB
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.email-signup-form-box
 
 ! F.
 /frodo.php$image
+brattysis.com,daddyslilangel.com,detentiongirls.com,familyswap.xxx,littleasians.com,myfamilypies.com,nubiles-porn.com,nubiles.net,princesscum.com,shoplyfter.com##.footer-container
 brattysis.com,daddyslilangel.com,detentiongirls.com,familyswap.xxx,littleasians.com,myfamilypies.com,nubiles-porn.com,nubiles.net,princesscum.com,shoplyfter.com##.form-join
 brattysis.com,daddyslilangel.com,detentiongirls.com,familyswap.xxx,littleasians.com,myfamilypies.com,nubiles-porn.com,nubiles.net,princesscum.com,shoplyfter.com##.form-join-horizontal
 bubbaporn.com,serviporno.com##.footer-iframe
@@ -83,11 +86,15 @@ v2.metart.com##.free-access-modal.modal-dialog
 
 ! G.
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com,metart.com##gallery-purchase
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.gallery-activity
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.gallery-join
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.gallery-purchase
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.guest-panel
 
 ! H.
 ##[href^="https://hornygirlhere.com/"]
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.helper
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.hidden-sm.hidden-xs.hKxtfS.sc-dWdcrH
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,rmetartx.com,ylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.hSaKRS.sc-iqHYGH
 brattysis.com,daddyslilangel.com,detentiongirls.com,familyswap.xxx,littleasians.com,myfamilypies.com,nubiles-porn.com,nubiles.net,princesscum.com,shoplyfter.com##.header-banner
 brattysis.com,daddyslilangel.com,detentiongirls.com,familyswap.xxx,littleasians.com,myfamilypies.com,nubiles-porn.com,nubiles.net,princesscum.com,shoplyfter.com##.header-banner-wrapper
@@ -95,7 +102,6 @@ brattysis.com,daddyslilangel.com,detentiongirls.com,familyswap.xxx,littleasians.
 brattysis.com,daddyslilangel.com,detentiongirls.com,familyswap.xxx,littleasians.com,myfamilypies.com,nubiles-porn.com,nubiles.net,princesscum.com,shoplyfter.com##.hidden-tablet
 brattysis.com,daddyslilangel.com,detentiongirls.com,familyswap.xxx,littleasians.com,myfamilypies.com,nubiles-porn.com,nubiles.net,princesscum.com,shoplyfter.com##.hover-join
 brattysis.com,daddyslilangel.com,detentiongirls.com,familyswap.xxx,littleasians.com,myfamilypies.com,nubiles-porn.com,nubiles.net,princesscum.com,shoplyfter.com###memberFeatureModal
-metartx.com##.hidden-sm.hidden-xs.hKxtfS.sc-dWdcrH
 
 ! I.
 /ISG_BannerGetFooter.php
@@ -109,6 +115,7 @@ metartx.com##.hidden-sm.hidden-xs.hKxtfS.sc-dWdcrH
 
 ! J.
 ##[href^="https://javhd.com/"]
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.join-btn
 annasassets.com,brattybrittany.com,cassieleanne.com,facedownassupuniversity.com,karashandfull.com,karenandamy.com,karendreams.com,karensdreamgirls.com,karensdreams.com,karisweets.com,katesplayground.com,kathyash.com,krissylove.com,loveleia.com,megan-summers.com,meganqt.com,nextdoornikki.com,phil-flash.com,princessblueyez.com,publicagent.com,sweetteentease.com,t-h-u-m-b-s.com,taylortwins.com,teenkasia.com,teenkasia.pl,teensinlingerie.com,thesweetsets.com,thezipsets.com,tiffanyteen.com##[href*="/join"]
 brattysis.com,daddyslilangel.com,detentiongirls.com,familyswap.xxx,littleasians.com,myfamilypies.com,nubiles-porn.com,nubiles.net,princesscum.com,shoplyfter.com##.join-link
 brattysis.com,daddyslilangel.com,detentiongirls.com,familyswap.xxx,littleasians.com,myfamilypies.com,nubiles-porn.com,nubiles.net,princesscum.com,shoplyfter.com##.justify-content-center.row
@@ -128,12 +135,15 @@ kink.com##.store
 ##a[href*="/linkout/livecams/"]
 ##a[href^="https://livehdcams.com/"]
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.live-girls.more-girls
-freebunker.com,pornbus.org###layer
+brattysis.com,daddyslilangel.com,detentiongirls.com,familyswap.xxx,littleasians.com,myfamilypies.com,nubiles-porn.com,nubiles.net,princesscum.com,shoplyfter.com##li.nav-item:nth-of-type(6)
 familyhookups.com##[id^="lightboxOverlay"]
+freebunker.com,pornbus.org###layer
 
 ! M.
 /media/promotions/^domain=metart.com|metart.com|met-art.com|sexart.com|thelifeerotic.com|vivthomas.com|lovehairy.com|errotica-archives.com|domai.com|goddessnudes.com|eroticbeauty.com|alsscan.com|rylskyart.com|eternaldesire.com|stunning18.com|live.tv
 ##[href*=".mypornlocker.com/"]
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.model-activity
+alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.model-ranking
 brattysis.com,daddyslilangel.com,detentiongirls.com,familyswap.xxx,littleasians.com,myfamilypies.com,nubiles-porn.com,nubiles.net,princesscum.com,shoplyfter.com##.mx-2.btn-lg.btn-cta.btn
 joyourself.com,liveprivates.com,lsawards.com,maturescam.com,mycams.com,mytrannycams.com,livesexasian.com,cameraboys.com,livesex.com##.mc_bonus_animation
 joyourself.com,liveprivates.com,lsawards.com,maturescam.com,mycams.com,mytrannycams.com,livesexasian.com,cameraboys.com,livesex.com##.mc_centered_inline

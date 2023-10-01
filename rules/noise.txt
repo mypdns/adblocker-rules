@@ -2,27 +2,26 @@
 ! Title: Spirillen's – Noise Filters
 ! Expires: 1 hours
 ! List url:
-! https://0xacab.org/my-privacy-dns/adblocker-rules-/tree/master/rules/noise.txt
+! https://github.com/mypdns/adblocker-rules/blob/master/rules/noise.txt
 !
 ! License:
-! https://0xacab.org/my-privacy-dns/adblocker-rules/-/blob/master/LICENSE
-! Homepage: https://0xacab.org/my-privacy-dns/adblocker-rules
+! https://github.com/mypdns/adblocker-rules/blob/master/LICENSE.md
+! Homepage: https://github.com/mypdns/adblocker-rules
 !
 ! Please report any unblocked content or problems on the Issue board.
 ! GitHub issues:
-! - https://0xacab.org/my-privacy-dns/matrix/-/issues
+! - https://github.com/mypdns/adblocker-rules/issues
 ! Merge Request:
-! - https://0xacab.org/my-privacy-dns/adblocker-rules/-/merge_requests
+! - https://github.com/mypdns/adblocker-rules/pulls
 !
 ! Email:
 !   - 0xacab+my-privacy-dns-matrix-4707-issue-@riseup.net
 !
 ! CopyRight:
 !   - https://mypdns.org/spirillen
-!   - https://0xacab.org/spirillen
 !   - https://gitlab.com/spirillen
 !   - https://github.com/spirillen
-!   - https://gitlab.com/spirillen
+!   - https://matrix.rocks/@spirillen
 !   - https://bitbucket.org/spirillen/
 !   - https://spirillen.atlassian.net/wiki/people/5bb90b589ba2930990f81dcd
 !   - https://spirillen.youtrack.cloud/users/spirillen
@@ -30,7 +29,7 @@
 !   - https://spirillen.jetbrains.space/m/spirillen
 !   - The individual lists maintainers
 !   - The individual contributor
-!   - https://0xacab.org/my-privacy-dns/adblocker-rules/activity
+!   - https://github.com/mypdns/adblocker-rules/activity
 
 ! WARNING!!!!
 ! Notice, The following filters, WILL bring the sites down from fully function
@@ -42,25 +41,26 @@
 ##a[href*="youtube.com"]
 
 ! A.
-adultdvdempire.com##.well
-adultdvdempire.com##.sticky-tagline
-adultdvdempire.com##.btn-success.btn
-adultdvdempire.com###nav-unlimited
-adultdvdempire.com##.main-nav
-adultdvdempire.com###UserOptions
-adultdvdempire.com###site-nav-account
+*Promo*.jpg$domain=adultdvdempire.com,image
 adultdvdempire.com##.beacon
-adultdvdempire.com##.site_footer
-adultdvdempire.com##.nav-cart
+adultdvdempire.com##.btn-success.btn
 adultdvdempire.com##.in.fade.modal
-adultdvdempire.com###signUpModal
+adultdvdempire.com##.main-nav
+adultdvdempire.com##.main-nav-container
+adultdvdempire.com##.nav-cart
 adultdvdempire.com##.pricing-container
 adultdvdempire.com##.sale
-adultdvdempire.com##.main-nav-container
-avgle.com##.alert-dismissable
+adultdvdempire.com##.site_footer
+adultdvdempire.com##.sticky-tagline
+adultdvdempire.com##.well
+adultdvdempire.com###nav-unlimited
+adultdvdempire.com###signUpModal
+adultdvdempire.com###site-nav-account
+adultdvdempire.com###UserOptions
 askubuntu.com,stackexchange.com##.js-footer
-askubuntu.com,stackexchange.com###sidebar
 askubuntu.com,stackexchange.com##.left-sidebar
+askubuntu.com,stackexchange.com###sidebar
+avgle.com##.alert-dismissable
 
 ! B.
 
@@ -98,6 +98,9 @@ teamskeet.com##.footerWrapper
 github.com###sponsor-button-repo
 
 ! H.
+hegre.com##.right.column
+hegre.com##.text-box-wrapper
+hegre.com##.record-comments
 
 ! I.
 ||imdb.com/embeddable/IMDbEmbeddableStaticDistProd/*$subdocument
@@ -122,10 +125,18 @@ imdb.com###titleFAQ
 imdb.com###titleUserReviewsTeaser
 imdb.com###titleVideoStrip
 
-*Promo*.jpg$domain=adultdvdempire.com,image
+! J.
 
-!# Adware (chat) noice
-||solvemate.com^
+! K.
+
+! L.
+
+! M.
+
+! N.
+namesilo.com##.d-lg-b.d-n.mt-lg-32.mt-16
+
+! O.
 
 ! P.
 ! protonmail.com
@@ -140,6 +151,7 @@ realjamvr.com##[class^="join-"]
 ! S.
 ||smutty.com^$popup,1p
 ||smutty.com^$script,1p
+||solvemate.com^
 smutty.com##.last.fdb_box_2011.span-16.revi
 smutty.com##.last.menu_h.span-24
 smutty.com##.last.otto
