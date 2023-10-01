@@ -681,15 +681,6 @@
             ]
         },
         {
-            "name": "AdGuard SpywareFilter css extended",
-            "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/css_extended.txt",
-            "type": "adblock",
-            "transformations": [
-                "Compress",
-                "RemoveComments"
-            ]
-        },
-        {
             "name": "AdGuard SpywareFilter general elemhide",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/general_elemhide.txt",
             "type": "adblock",
