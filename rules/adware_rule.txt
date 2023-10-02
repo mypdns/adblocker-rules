@@ -179,6 +179,10 @@ xxxjavmovies.com##.right-player-col
 babesandstars.com,castingcouch-x.com,cum4k.com,definebabe.com,holed.com,lubed.com,passion-hd.com,pornhubpremium.com,pornpros.com,spyfam.com,teamskeet.com##.sale-special-container
 eachporn.com,anyporn.com,bigtitslust.com,fpo.xxx,freeporn8.com,pervertslut.com,sexpornimages.com,sortporn.com,xhamster.com##.sponsor
 reck.dk##.smush_upgrade
+reck.dk##.sui-modal
+reck.dk##[class*="sui-cross-sell"]
+reck.dk##[class^="sui-footer"]
+reck.dk###sui-cross-sell-footer
 xjavhdporn.com##.sidebar
 
 ! T.
