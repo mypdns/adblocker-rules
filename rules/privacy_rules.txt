@@ -120,6 +120,7 @@ serverfault.com,superuser.com,stackoverflow.com,askubuntu.com,stackexchange.com#
 /metrica/watch.js$script
 /metrika/watch.js
 /metrics/statsd/*
+||mypdns.*^$all,domain=~mypdns.org,to=~mypdns.org
 
 ! N.
 /noui/eventlogger.js
