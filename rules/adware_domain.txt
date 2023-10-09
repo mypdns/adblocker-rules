@@ -83,6 +83,7 @@ bookyogaretreats.com##.in.modal-sticker
 ||cloudfront.net/slickadd.min.js$script
 ||cstwpush.com^$important
 crocotube.com##.ct-video-title-sponsor
+cyberciti.biz##.card-body
 dash.cloudflare.com##.c_go.c_fw.c_gb.c_ex.c_ew.c_ev.c_eu.c_an.c_sb
 dash.cloudflare.com##.c_k.c_fw.c_ax.c_nn.c_bv
 
