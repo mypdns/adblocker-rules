@@ -82,6 +82,12 @@ bookyogaretreats.com##.in.modal-sticker
 ||chaussew.net^
 ||cloudfront.net/slickadd.min.js$script
 ||cstwpush.com^$important
+computersalg.dk##.insurrence
+computersalg.dk##.KlarnaMasterContainer
+computersalg.dk##.solvemate
+computersalg.dk##.swal2-popup
+computersalg.dk##.v-product-details-banner-centercontainer
+computersalg.dk###bannerclicklink_2140
 crocotube.com##.ct-video-title-sponsor
 cyberciti.biz##.card-body
 dash.cloudflare.com##.c_go.c_fw.c_gb.c_ex.c_ew.c_ev.c_eu.c_an.c_sb
