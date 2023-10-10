@@ -177,6 +177,7 @@ mail.proton.me##.topnav-listItem--noCollapse.flex-item-noshrink.topnav-listItem
 mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion##.bg-promotion
 mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion##.button-promotion
 pawoo.net##.pawoo-announcements
+pricerunner.dk##.pr-1hay6gt-Card-root
 publicwww.com##.container > .service-wrapper
 publicwww.com##.container > div.row > div.col-sm-6.col-md-6
 
