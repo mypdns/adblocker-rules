@@ -115,11 +115,12 @@ serverfault.com,superuser.com,stackoverflow.com,askubuntu.com,stackexchange.com#
 ! L.
 
 ! M.
-/matomo.js$script,important
-/matomo/*$script,important
+@@||mypdns.github.io/adblocker-rules/*$xhr
+/matomo.js$script,domain=~go.matrix.rocks,important
+/matomo/*$script,domain=~go.matrix.rocks,important
 /metrica/watch.js$script
-/metrika/watch.js
 /metrics/statsd/*
+/metrika/watch.js
 ||mypdns.*^$all,domain=~mypdns.org,to=~mypdns.org
 
 ! N.
