@@ -162,6 +162,8 @@ serverfault.com,superuser.com,stackoverflow.com,askubuntu.com,stackexchange.com#
 ! V.
 
 ! W.
+/wp-content/plugins/simple-download-monitor/*$script
+/wp-content/plugins/wp-google-search/*$script
 onlyfans.com,alive.github.com,jaws.dditscdn.com,metartnetwork.com,analyticacdn.com^$websocket,important
 
 ! X.

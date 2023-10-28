@@ -186,6 +186,7 @@ jetbrains.space##.FlexStyles-horizontal.ksc-111
 
 ! K.
 ||analytics.kurocore.com^$important
+||kiltin.dk/wp-content/c3719bf7eee1429aaa71297c45fdedd1.js$script,1p
 
 ! L.
 listenbrainz.org##.bottom-right-0-2-4
