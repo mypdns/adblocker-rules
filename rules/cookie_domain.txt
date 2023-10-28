@@ -67,7 +67,6 @@ google.*##.Fgvgjc
 ##.cookie-permission-container
 hardware.info##.oreo
 heise.de##.ldb-container
-heise.de###sp_message_container_*
 hpe.com###hpe_privacy_banner_container
 
 ! I.
