@@ -233,6 +233,7 @@ opensource.com###block-socialmediashareicons
 ||pichost.pics^$important,all
 ||picshost.pics^$important,all
 ||pingtopingsrv*.life^
+||pitch.com/proxy/*$1p
 ||piwik.pro^$important
 ||piwikpro.de^$important
 ||plausible.io/js/script.js$script
