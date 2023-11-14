@@ -164,7 +164,7 @@ serverfault.com,superuser.com,stackoverflow.com,askubuntu.com,stackexchange.com#
 ! W.
 /wp-content/plugins/simple-download-monitor/*$script
 /wp-content/plugins/wp-google-search/*$script
-onlyfans.com,alive.github.com,jaws.dditscdn.com,metartnetwork.com,analyticacdn.com^$websocket,important
+||onlyfans.com,alive.github.com,jaws.dditscdn.com,metartnetwork.com,analyticacdn.com^$websocket,important
 
 ! X.
 ||highwebmedia.com,api-gateway.dditsadn.com,icfcdn.com,traffictrade.pro,trackingcheckinapi2-prod.spvyig3fxm.us-east-2.elasticbeanstalk.com^$xhr,important
