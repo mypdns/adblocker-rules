@@ -280,5 +280,7 @@ w3schools.com###sn_ad_label_adngin-sidebar_top-0
 ! Y.
 youtube.com##[id^="premium-upsell-link"]
 youtube.com##ytd-reel-shelf-renderer.ytd-structured-description-content-renderer.style-scope
+youtube.com##ytd-offline-promo-renderer
+youtube.com##tp-yt-iron-overlay-backdrop
 
 ! Z.
