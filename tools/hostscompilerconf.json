@@ -1746,8 +1746,7 @@
             "source": "https://openphish.com/feed.txt",
             "type": "hosts",
             "transformations": [
-                "Compress",
-                "RemoveComments"
+                "InsertFinalNewLine"
             ]
         }
     ],
