@@ -1752,7 +1752,6 @@
                 "Deduplicate",
                 "RemoveEmptyLines",
                 "TrimLines",
-                "RemoveEmptyLines",
                 "InsertFinalNewLine"
             ]
         }
