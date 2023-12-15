@@ -28,14 +28,14 @@ jobs:
           - ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@main
         name: Clone repository
         with:
           token: '${{ secrets.GITHUB_TOKEN }}'
           fetch-depth: 5
 
       - name: Set up Python ${{ matrix.python_version }}
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python_version }}
 
@@ -71,7 +71,7 @@ jobs:
         run: |
           cd _public
           # As we have no parts of the third world country (USA) domestic
-          # Recism issues, we keep the original branch refs 'master'
+          # Racism issues, we keep the original branch refs 'master'
           git config --global init.defaultBranch master
           git init
           git add -A
@@ -95,7 +95,7 @@ jobs:
   #     pull-requests: write
   #     checks: write
   #   steps:
-  #     - uses: actions/checkout@v3
+  #     - uses: actions/checkout@main
   #       with:
   #         ref: ${{ github.event.pull_request.head.sha }} # to check out the actual pull request commit, not the merge commit
   #         fetch-depth: 0 # a full history is required for pull request analysis

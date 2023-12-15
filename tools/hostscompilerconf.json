@@ -1740,11 +1740,6 @@
         "Compress",
         "RemoveComments"
       ]
-    },
-    {
-      "namw": "openphish feed",
-      "source": "https://openphish.com/feed.txt",
-      "type": "hosts"
     }
   ],
   "transformations": [
