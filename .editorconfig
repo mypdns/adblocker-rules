@@ -10,10 +10,14 @@ tab_width = 4
 charset = utf-8
 trim_trailing_whitespace = true
 
+[*.html]
+trim_trailing_whitespace = false
 
-[*.{yaml,yml}]
-indent_size = 2
-tab_width = 2
+[*.md]
+trim_trailing_whitespace = false
+
+[*.py]
+trim_trailing_whitespace = false
 
 [*.sh]
 trim_trailing_whitespace = false
@@ -21,11 +25,6 @@ trim_trailing_whitespace = false
 [*.{txt,rst}]
 trim_trailing_whitespace = false
 
-[*.py]
-trim_trailing_whitespace = false
-
-[*.md]
-trim_trailing_whitespace = false
-
-[*.html]
-trim_trailing_whitespace = false
+[*.{yaml,yml}]
+indent_size = 2
+tab_width = 2
