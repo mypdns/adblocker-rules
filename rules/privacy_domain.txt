@@ -114,6 +114,7 @@ element14.com##.e14-cookie-directive
 ||fortnight.space^$important,all
 ||fortnitechat.site^$important,all
 ||kit.fontawesome.com^$script,important
+||static.foxnews.com/static/isa/app/lib/afpid.js^$script,important
 
 ! G.
 ||analytics.google.*^$important
