@@ -29,20 +29,22 @@
 ! 9.
 
 ! A.
-##[href*="admjmp.com"]
 ###age-check
-||/ad_track.js$script
-||/advertise.js$script,important,domain=freelatinapics.com|nudeblackporn.com
-||/openx/$script,important
-||alxbgo.com^$third-party
+##[href*="admjmp.com"]
+/ageGate.php
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,rmetartx.com,ylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.active
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,rmetartx.com,ylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.age-compliance
 javrip.net,pissrip.net##.adult-warning
 m.proporn.com,yeptube.com,vivatube.com##.ad
 v2.metart.com##.free-access-modal.modal-dialog
+||/ad_track.js$script
+||/advertise.js$script,important,domain=freelatinapics.com|nudeblackporn.com
+||/openx/$script,important
+||alxbgo.com^$third-party
 
 ! B.
 /back$script,important,domain=teenasspussy.com
+/build/disclaimer.
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.bQeYRl.sc-eLgOdN
 hoertjes.net###bottom
 m.proporn.com,m.yeptube.com,vivatube.com##[class^=".box_spots"]
@@ -51,9 +53,10 @@ pornpicvip.com##.boxzilla
 pornpicvip.com##.boxzilla-overlay
 
 ! C.
-/catfish/pc/catfish.png$image,domain=realitykings.com
 ##.containerModal-warning
 ##[href*="chaturbate.com"]
+/catfish/pc/catfish.png$image,domain=realitykings.com
+/content-warning-
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.container.content > div:nth-of-type(1) > div > .hidden-xs
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.count-btn
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.col-xs-12.col-sm-12.col-md-12.col-lg-4
@@ -66,6 +69,15 @@ tecmint.com###custom_html-8
 
 ! D.
 /d/count.php^$document,important,domain=teenasspussy.com
+/disclaim-element.
+/disclaimer-$script
+/disclaimer-new.
+/disclaimer.$script
+/disclaimer.json
+/disclaimer.php$subdocument
+/disclaimer_$script
+/disclaimerjs.
+/disclaimerweb.
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.dTlKOF.sc-kmASHI.container.content > div > div > .panels.man-ui
 tecmint.com##.dgd_stb_box
 
@@ -200,13 +212,14 @@ alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,g
 pornhdtube.tv##.video-overlay
 
 ! W.
+###warning-popup
+/wp-content/*/disclame-
 /wp-content/*/wps-disclaimer/*$script
 /wp-content/plugins/elfsight-popup-cc/
-###warning-popup
-||warrnamboolcam.com/js/jquery-3.5.1.min.js$script,domain=www.warrnamboolcam.com
 brattysis.com,daddyslilangel.com,detentiongirls.com,familyswap.xxx,littleasians.com,myfamilypies.com,nubiles-porn.com,nubiles.net,princesscum.com,shoplyfter.com##.watch-page-join-header
 brattysis.com,daddyslilangel.com,detentiongirls.com,familyswap.xxx,littleasians.com,myfamilypies.com,nubiles-porn.com,nubiles.net,princesscum.com,shoplyfter.com##.watch-page-video-container > .container-fluid
 porn555.com,pornforrelax.com,sss.xxx,tuberel.com##.vda-item
+||warrnamboolcam.com/js/jquery-3.5.1.min.js$script,domain=www.warrnamboolcam.com
 
 ! X.
 ##a[href^="https://xossipfap.net"]
@@ -214,3 +227,7 @@ porn555.com,pornforrelax.com,sss.xxx,tuberel.com##.vda-item
 ! Y.
 
 ! Z.
+
+! Special
+-age-verification/
+-topDisclaimer_
