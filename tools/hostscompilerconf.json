@@ -751,11 +751,6 @@
         },
         {
             "name": "EasyList",
-            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "EasyList",
             "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_international.txt",
             "type": "adblock"
         },

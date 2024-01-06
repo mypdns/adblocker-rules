@@ -3,9 +3,17 @@ Changelog
 This changelog is only used for "Major" changes to the list setup, like
 new files, sorting or including new external sources.
 
+6. January 2024
+    Version 0.0.4
+
+  - Updated the many lists of Fanboys (@ryanbr) from EasyList
+  - Cleaned up a couple of dead files of EasyLists as they apparently
+    have change the number of active maintained sources.
+  - Fixed the url in the import template.
+
 21. May 2023
-  - Ranaming our two spyware files into `privacy.rules` & `privacy.domain`
-    This is done to make the rules cover broader as it infact already
+  - Renaming our two spyware files into `privacy.rules` & `privacy.domain`
+    This is done to make the rules cover broader as it in fact already
     includes both spyware and tracking rules.    
 
 1.  July 2022
