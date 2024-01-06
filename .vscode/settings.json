@@ -1,5 +1,11 @@
 {
-    "python.pythonPath": "/usr/bin/python3.10",
+    "title": "Adblock Rules",
+    "description": "Adblock Rules for uBlock Origin by My Privacy DNS",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.colorCustomizations": {
+        "editorLineNumber.foreground": "#00ff00"
+    },
+    "workbench.settings.editor": "json",
+    "python.pythonPath": "/usr/bin/python3.11",
     "python.formatting.provider": "black"
-]
 }

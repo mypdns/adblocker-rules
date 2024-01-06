@@ -885,11 +885,6 @@
             "type": "adblock"
         },
         {
-            "name": "EasyList @ryanbr (Fanboy) newsletter shopping specific ABP",
-            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_shopping_specific_ABP.txt",
-            "type": "adblock"
-        },
-        {
             "name": "EasyList @ryanbr (Fanboy) newsletter shopping specific block",
             "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_shopping_specific_block.txt",
             "type": "adblock"
