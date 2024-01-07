@@ -1100,6 +1100,26 @@
             "type": "hosts"
         },
         {
+            "name": "Persian Blocker ",
+            "source": "https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianAnnoyance.txt",
+            "type": "adblock"
+        },
+        {
+            "name": "Persian Blocker ",
+            "source": "https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlocker.txt",
+            "type": "adblock"
+        },
+        {
+            "name": "Persian Blocker ",
+            "source": "https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt",
+            "type": "adblock"
+        },
+        {
+            "name": "Persian Blocker ",
+            "source": "https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersonalBlocker.txt",
+            "type": "adblock"
+        },
+        {
             "name": "Peter @pgl yoyo.org",
             "source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus;showintro=0",
             "type": "adblock"
