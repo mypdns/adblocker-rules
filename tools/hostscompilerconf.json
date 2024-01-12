@@ -1100,22 +1100,22 @@
             "type": "hosts"
         },
         {
-            "name": "Persian Blocker ",
+            "name": "Persian Blocker Annoyance",
             "source": "https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianAnnoyance.txt",
             "type": "adblock"
         },
         {
-            "name": "Persian Blocker ",
+            "name": "Persian Blocker Blocker",
             "source": "https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlocker.txt",
             "type": "adblock"
         },
         {
-            "name": "Persian Blocker ",
+            "name": "Persian Blocker Blocker Hosts",
             "source": "https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt",
             "type": "adblock"
         },
         {
-            "name": "Persian Blocker ",
+            "name": "Persian Blocker Personal Blocker",
             "source": "https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersonalBlocker.txt",
             "type": "adblock"
         },

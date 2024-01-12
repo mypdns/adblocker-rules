@@ -1,0 +1,16 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# Explicitly declare text files you want to always be normalized and converted
+# to native line endings on checkout.
+*.c text
+*.h text
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
+*.jpg binary
+
+# Override classification for *.txt files, so they are highlighted as adblock files.
+# By default, Adblock language doesn't show up in the repository's language statistics,
+# but adding "linguist-detectable" will resolve this.
+*.txt linguist-language=AdBlock linguist-detectable
