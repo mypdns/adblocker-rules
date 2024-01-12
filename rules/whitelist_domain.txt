@@ -69,6 +69,10 @@ bitbucket.org##.e1sgjb1l0.css-s1rlud
 
 ! J.
 @@||jetbrains.com^$1p
+@@||resources.jetbrains.com/writerside/apidoc/*/app.js$script,important,domain=docs.matrix.rocks
+@@||jetbrains.com/apple-touch-icon.png$image,important,domain=docs.matrix.rocks
+@@||jetbrains.com/favicon-16x16.png$image,important,domain=docs.matrix.rocks
+@@||resources.jetbrains.com/storage/jetbrains-sans/*$font,important,domain=docs.matrix.rocks
 
 ! K.
 

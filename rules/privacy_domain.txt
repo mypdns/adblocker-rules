@@ -178,7 +178,7 @@ itslinuxfoss.com##[id^="ez-video-wrap-"]
 
 ! J.
 !||jsdelivr.net/*/js.cookie.min.js$script
-||jetbrains.com^$third-party,important
+||jetbrains.com^$third-party
 ||jetbrains.com^$xhr,3p
 ||joinmy.site^$important,all
 ||jsdelivr.net^$script,important
