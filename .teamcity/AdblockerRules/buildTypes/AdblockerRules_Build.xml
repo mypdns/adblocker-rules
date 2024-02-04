@@ -56,6 +56,17 @@ git commit -m "Release $(git --git-dir ../.git rev-parse --short HEAD)"]]></para
           <param name="use.custom.script" value="true" />
         </parameters>
       </runner>
+      <runner id="Qodana_Test" name="Qodana Test" type="Qodana">
+        <parameters>
+          <param name="code-inspection-profile-name" value="qodana.recommended" />
+          <param name="code-inspection-xml-config" value="Default" />
+          <param name="namesAndTags" value="custom" />
+          <param name="namesAndTagsCustom" value="%env.SHELL%" />
+          <param name="report-as-test" value="true" />
+          <param name="secure:cloud-token" value="credentialsJSON:0a49e1c8-3917-431d-97b1-ff55e1a7e557" />
+          <param name="teamcity.step.mode" value="default" />
+        </parameters>
+      </runner>
     </build-runners>
     <vcs-settings>
       <vcs-entry-ref root-id="AdblockerRules_HttpsGithubComMypdnsAdblockerRulesGitRefsHeadsMaster" />
