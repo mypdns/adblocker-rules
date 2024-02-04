@@ -23,14 +23,6 @@
           <param name="use.custom.script" value="true" />
         </parameters>
       </runner>
-      <runner id="Install_hostlist_compiler" name="Install hostlist-compiler" type="nodejs-runner">
-        <parameters>
-          <param name="plugin.docker.imageId" value="node:lts" />
-          <param name="plugin.docker.imagePlatform" value="linux" />
-          <param name="shellScript" value="npm i -g @adguard/hostlist-compiler" />
-          <param name="teamcity.step.mode" value="default" />
-        </parameters>
-      </runner>
     </build-runners>
     <vcs-settings>
       <vcs-entry-ref root-id="AdblockerRules_HttpsGithubComMypdnsAdblockerRulesGitRefsHeadsMaster" />
