@@ -41,6 +41,17 @@ hostlist-compiler -c tools/noise.json -o _public/noise.txt]]></param>
           <param name="use.custom.script" value="true" />
         </parameters>
       </runner>
+      <runner id="Qodana_Test" name="Qodana Test" type="Qodana">
+        <parameters>
+          <param name="code-inspection-profile-name" value="qodana.recommended" />
+          <param name="code-inspection-xml-config" value="Default" />
+          <param name="namesAndTags" value="custom" />
+          <param name="namesAndTagsCustom" value="%env.SHELL%" />
+          <param name="report-as-test" value="true" />
+          <param name="secure:cloud-token" value="credentialsJSON:0a49e1c8-3917-431d-97b1-ff55e1a7e557" />
+          <param name="teamcity.step.mode" value="default" />
+        </parameters>
+      </runner>
       <runner id="Deploy" name="Deploy" type="simpleRunner">
         <parameters>
           <param name="script.content"><![CDATA[cd _public
@@ -54,17 +65,6 @@ git config --local user.name "GitHub Action"
 git commit -m "Release $(git --git-dir ../.git rev-parse --short HEAD)"]]></param>
           <param name="teamcity.step.mode" value="default" />
           <param name="use.custom.script" value="true" />
-        </parameters>
-      </runner>
-      <runner id="Qodana_Test" name="Qodana Test" type="Qodana">
-        <parameters>
-          <param name="code-inspection-profile-name" value="qodana.recommended" />
-          <param name="code-inspection-xml-config" value="Default" />
-          <param name="namesAndTags" value="custom" />
-          <param name="namesAndTagsCustom" value="%env.SHELL%" />
-          <param name="report-as-test" value="true" />
-          <param name="secure:cloud-token" value="credentialsJSON:0a49e1c8-3917-431d-97b1-ff55e1a7e557" />
-          <param name="teamcity.step.mode" value="default" />
         </parameters>
       </runner>
     </build-runners>
