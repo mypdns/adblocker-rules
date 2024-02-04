@@ -31,14 +31,6 @@
           <param name="teamcity.step.mode" value="default" />
         </parameters>
       </runner>
-      <runner id="compile" name="compile" type="simpleRunner">
-        <parameters>
-          <param name="script.content"><![CDATA[hostlist-compiler -c tools/hostscompilerconf.json -o _public/blockrules.txt
-hostlist-compiler -c tools/noise.json -o _public/noise.txt]]></param>
-          <param name="teamcity.step.mode" value="default" />
-          <param name="use.custom.script" value="true" />
-        </parameters>
-      </runner>
     </build-runners>
     <vcs-settings>
       <vcs-entry-ref root-id="AdblockerRules_HttpsGithubComMypdnsAdblockerRulesGitRefsHeadsMaster" />
