@@ -26,10 +26,7 @@
       <runner id="Install_hostlist_compiler" name="Install hostlist-compiler" type="nodejs-runner">
         <parameters>
           <param name="plugin.docker.imageId" value="node:lts" />
-          <param name="plugin.docker.imagePlatform" value="linux" />
-          <param name="shellScript"><![CDATA[npm i -g @adguard/hostlist-compiler
-hostlist-compiler -c tools/hostscompilerconf.json -o _public/blockrules.txt
-hostlist-compiler -c tools/noise.json -o _public/noise.txt]]></param>
+          <param name="shellScript" value="npm i -g @adguard/hostlist-compiler" />
           <param name="teamcity.step.mode" value="default" />
         </parameters>
       </runner>
