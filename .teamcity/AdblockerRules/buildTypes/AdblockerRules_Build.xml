@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build-type xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="27db3a4b-fa98-447b-8314-caf8c4d5ba7c" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2021.1/project-config.xsd">
+  <name>Build</name>
+  <description />
+  <settings>
+    <options>
+      <option name="publishArtifactCondition" value="SUCCESSFUL" />
+    </options>
+    <parameters />
+    <build-runners>
+      <runner id="Install_dependencies" name="Install dependencies" type="simpleRunner">
+        <parameters>
+          <param name="script.content"><![CDATA[sudo apt install aptitude -y -f
+          # sudo aptitude install nodejs npm -y -f
+          sudo apt-get update && sudo apt-get install -y ca-certificates curl gnupg
+          curl -fsSL https://deb.nodesource.com/gpgkey/nodesource-repo.gpg.key | sudo gpg --dearmor -o /etc/apt/keyrings/nodesource.gpg
+          NODE_MAJOR=20
+          echo "deb [arch=amd64 signed-by=/etc/apt/keyrings/nodesource.gpg] https://deb.nodesource.com/node_$NODE_MAJOR.x nodistro main" | sudo tee /etc/apt/sources.list.d/nodesource.list
+          sudo apt-get update && sudo aptitude install nodejs -y
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install --no-cache -I -r requirements.txt; fi]]></param>
+          <param name="teamcity.step.mode" value="default" />
+          <param name="use.custom.script" value="true" />
+        </parameters>
+      </runner>
+      <runner id="Install_hostlist_compiler" name="Install hostlist-compiler" type="nodejs-runner">
+        <parameters>
+          <param name="plugin.docker.imageId" value="node:lts" />
+          <param name="plugin.docker.imagePlatform" value="linux" />
+          <param name="shellScript" value="npm i -g @adguard/hostlist-compiler" />
+          <param name="teamcity.step.mode" value="default" />
+        </parameters>
+      </runner>
+      <runner id="compile" name="compile" type="simpleRunner">
+        <parameters>
+          <param name="script.content"><![CDATA[hostlist-compiler -c tools/hostscompilerconf.json -o _public/blockrules.txt
+hostlist-compiler -c tools/noise.json -o _public/noise.txt]]></param>
+          <param name="teamcity.step.mode" value="default" />
+          <param name="use.custom.script" value="true" />
+        </parameters>
+      </runner>
+      <runner id="Deploy" name="Deploy" type="simpleRunner">
+        <parameters>
+          <param name="script.content"><![CDATA[cd _public
+# As we have no parts of the third world country (USA) domestic
+# Racism issues, we keep the original branch refs 'master'
+git config --global init.defaultBranch master
+git init
+git add -A
+git config --local user.email "action@github.com"
+git config --local user.name "GitHub Action"
+git commit -m "Release $(git --git-dir ../.git rev-parse --short HEAD)"]]></param>
+          <param name="teamcity.step.mode" value="default" />
+          <param name="use.custom.script" value="true" />
+        </parameters>
+      </runner>
+    </build-runners>
+    <vcs-settings>
+      <vcs-entry-ref root-id="AdblockerRules_HttpsGithubComMypdnsAdblockerRulesGitRefsHeadsMaster" />
+    </vcs-settings>
+    <requirements />
+    <build-triggers>
+      <build-trigger id="TRIGGER_1" type="vcsTrigger">
+        <parameters>
+          <param name="branchFilter" value="+:*" />
+          <param name="enableQueueOptimization" value="true" />
+          <param name="quietPeriodMode" value="DO_NOT_USE" />
+        </parameters>
+      </build-trigger>
+      <build-trigger id="TRIGGER_2" type="schedulingTrigger">
+        <parameters>
+          <param name="branchFilter" value="+:*" />
+          <param name="cronExpression_dm" value="*" />
+          <param name="cronExpression_dw" value="?" />
+          <param name="cronExpression_hour" value="*/4" />
+          <param name="cronExpression_min" value="4" />
+          <param name="cronExpression_month" value="*" />
+          <param name="cronExpression_sec" value="0" />
+          <param name="cronExpression_year" value="*" />
+          <param name="dayOfWeek" value="Sunday" />
+          <param name="enableQueueOptimization" value="true" />
+          <param name="hour" value="12" />
+          <param name="minute" value="0" />
+          <param name="promoteWatchedBuild" value="true" />
+          <param name="revisionRule" value="lastFinished" />
+          <param name="revisionRuleBuildBranch" value="+:&lt;default&gt;" />
+          <param name="schedulingPolicy" value="cron" />
+          <param name="timezone" value="SERVER" />
+          <param name="triggerBuildWithPendingChangesOnly" value="true" />
+        </parameters>
+      </build-trigger>
+    </build-triggers>
+    <build-extensions>
+      <extension id="perfmon" type="perfmon">
+        <parameters>
+          <param name="teamcity.perfmon.feature.enabled" value="true" />
+        </parameters>
+      </extension>
+    </build-extensions>
+    <cleanup />
+  </settings>
+</build-type>
+
