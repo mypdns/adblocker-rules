@@ -41,6 +41,21 @@ hostlist-compiler -c tools/noise.json -o _public/noise.txt]]></param>
           <param name="use.custom.script" value="true" />
         </parameters>
       </runner>
+      <runner id="Deploy" name="Deploy" type="simpleRunner">
+        <parameters>
+          <param name="script.content"><![CDATA[cd _public
+# As we have no parts of the third world country (USA) domestic
+# Racism issues, we keep the original branch refs 'master'
+git config --global init.defaultBranch master
+git init
+git add -A
+git config --local user.email "action@github.com"
+git config --local user.name "GitHub Action"
+git commit -m "Release $(git --git-dir ../.git rev-parse --short HEAD)"]]></param>
+          <param name="teamcity.step.mode" value="default" />
+          <param name="use.custom.script" value="true" />
+        </parameters>
+      </runner>
     </build-runners>
     <vcs-settings>
       <vcs-entry-ref root-id="AdblockerRules_HttpsGithubComMypdnsAdblockerRulesGitRefsHeadsMaster" />
