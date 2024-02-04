@@ -55,7 +55,7 @@ jobs:
         run: |
           npm i -g @adguard/hostlist-compiler
 
-      - name: compile
+      - name: Compiling blacklists
         run: |
           hostlist-compiler -c tools/hostscompilerconf.json -o _public/blockrules.txt
           hostlist-compiler -c tools/noise.json -o _public/noise.txt
@@ -87,19 +87,19 @@ jobs:
           force: true
           directory: _public
 
-  # qodana:
-  #   needs: buildrules
-  #   runs-on: ubuntu-latest
-  #   permissions:
-  #     contents: write
-  #     pull-requests: write
-  #     checks: write
-  #   steps:
-  #     - uses: actions/checkout@main
-  #       with:
-  #         ref: ${{ github.event.pull_request.head.sha }} # to check out the actual pull request commit, not the merge commit
-  #         fetch-depth: 0 # a full history is required for pull request analysis
-  #     - name: 'Qodana Scan'
-  #       uses: JetBrains/qodana-action@v2023.2
-  #       env:
-  #         QODANA_TOKEN: ${{ secrets.QODANA_TOKEN }} # read the steps about it below
+  qodana:
+    needs: buildrules
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      checks: write
+    steps:
+      - uses: actions/checkout@main
+        with:
+          ref: ${{ github.event.pull_request.head.sha }} # to check out the actual pull request commit, not the merge commit
+          fetch-depth: 0 # a full history is required for pull request analysis
+      - name: 'Qodana Scan'
+        uses: JetBrains/qodana-action@v2023.2
+        env:
+          QODANA_TOKEN: ${{ secrets.QODANA_TOKEN }} # read the steps about it below
