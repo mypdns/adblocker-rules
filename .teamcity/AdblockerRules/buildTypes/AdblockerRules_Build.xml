@@ -37,7 +37,7 @@
         <parameters>
           <param name="script.content"><![CDATA[hostlist-compiler -c tools/hostscompilerconf.json -o _public/blockrules.txt
 hostlist-compiler -c tools/noise.json -o _public/noise.txt]]></param>
-          <param name="teamcity.step.mode" value="execute_if_success" />
+          <param name="teamcity.step.mode" value="default" />
           <param name="use.custom.script" value="true" />
         </parameters>
       </runner>
