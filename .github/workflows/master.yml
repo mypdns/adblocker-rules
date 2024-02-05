@@ -90,7 +90,6 @@ jobs:
   qodana:
     needs: buildrules
     runs-on: ubuntu-latest
-    using: 'node20'
     permissions:
       contents: write
       pull-requests: write
