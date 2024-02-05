@@ -104,13 +104,13 @@ jobs:
         with:
           node-version: "20"
       - name: 'Qodana Scan'
-        uses: JetBrains/qodana-action@v2023.2
+        uses: JetBrains/qodana-action@v2023.3
         with:
           pr-mode: false
           args: --apply-fixes
           push-fixes: pull-request
-          contents: write
-          pull-requests: write
-          checks: write
         env:
           QODANA_TOKEN: ${{ secrets.QODANA_TOKEN }} # read the steps about it below
+      - uses: github/codeql-action/upload-sarif@v2
+        with:
+          sarif_file: ${{ runner.temp }}/qodana/results/qodana.sarif.json
