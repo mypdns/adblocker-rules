@@ -99,7 +99,18 @@ jobs:
         with:
           ref: ${{ github.event.pull_request.head.sha }} # to check out the actual pull request commit, not the merge commit
           fetch-depth: 0 # a full history is required for pull request analysis
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20"
       - name: 'Qodana Scan'
         uses: JetBrains/qodana-action@v2023.2
+        with:
+          pr-mode: false
+          args: --apply-fixes
+          push-fixes: pull-request
+          contents: write
+          pull-requests: write
+          checks: write
         env:
           QODANA_TOKEN: ${{ secrets.QODANA_TOKEN }} # read the steps about it below
