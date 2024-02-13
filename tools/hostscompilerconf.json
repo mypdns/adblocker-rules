@@ -1156,6 +1156,16 @@
             "transformations": [
                 "InsertFinalNewLine"
             ]
+        },
+        {
+            "name": "Geoffrey Frogeye First Party trackers",
+            "source": "https://hostfiles.frogeye.fr/firstparty-trackers.txt",
+            "type": "hosts"
+        },
+        {
+            "name": "Geoffrey Frogeye Multi Party Trackers",
+            "source": "https://hostfiles.frogeye.fr/multiparty-trackers.txt",
+            "type": "hosts"
         }
     ],
     "transformations": [
