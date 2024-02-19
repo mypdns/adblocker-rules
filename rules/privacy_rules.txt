@@ -152,6 +152,7 @@ serverfault.com,superuser.com,stackoverflow.com,askubuntu.com,stackexchange.com#
 /swell-ct-ad-data
 /swell-ct-pv^
 ||smetrics.*^
+/stats/nakedtits.js$script,1p,domain=nakedtits.com
 
 ! T.
 /track-perf$xhr,domain=bookyogaretreats.com
