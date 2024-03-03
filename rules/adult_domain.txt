@@ -82,6 +82,8 @@ aznude.com##footer
 ||brasil-encontro.com^
 ||bravoporn.com/v/pop.php$document
 ||lab.blackpics.net/iframe.php$subdocument
+babesource.com##.aside-banners
+babesource.com##.social
 bang.com##.hidden-\@xs.col-md-5.col-sm-12
 bang.com##.top-announcement-wrapper
 bang.com##.topnav-nav.nav
