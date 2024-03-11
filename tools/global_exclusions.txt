@@ -116,6 +116,7 @@ _prebid_$badfilter
 @@||assets.jimstatic.com/
 @@||audiotag.info/
 @@||banner.blog.with2.net
+@@||cdn.fluidplayer.com/*/current/fluidplayer.min.js
 @@||cloudfront.net/assets/$script,3p,badfilter
 @@||crunchyroll.adclixx.net/vast?fg=$script
 @@||crunchyroll.adnetasia.com/vast?fg=$script
