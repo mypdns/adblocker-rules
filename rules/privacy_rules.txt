@@ -174,5 +174,7 @@ serverfault.com,superuser.com,stackoverflow.com,askubuntu.com,stackexchange.com#
 
 ! Y.
 /yandex-metrica-watch/watch.js$script
+##[src^="https://www.youtube.com/"]
+##[src^="https://www.google.*/"]
 
 ! Z.
