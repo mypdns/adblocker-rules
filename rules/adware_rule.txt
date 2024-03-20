@@ -44,7 +44,7 @@
 ##.advertisement
 ##.alignright:has(.adsbygoogle)
 ##[class^=".adsbygoogle"]
-###adPosition
+golinuxcloud.com###adPosition
 ###advads_ad_widget-
 ##div[class^="ad_unit_"]
 ||adservice.*^
@@ -91,7 +91,7 @@ celebjihad.com,nudeplaymates.net,pornhub.net.co##center
 babesandstars.com,castingcouch-x.com,cum4k.com,definebabe.com,holed.com,lubed.com,passion-hd.com,pornhubpremium.com,pornpros.com,spyfam.com,teamskeet.com##.epoch-box
 
 ! F.
-###fixBanner
+golinuxcloud.com###fixBanner
 9578n.com,b9329.com,2125t.com,nntfrrz.com,8234x.com##.fadeInUp.animated
 reck.dk##.frash-notice-rate
 
