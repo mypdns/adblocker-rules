@@ -91,6 +91,7 @@ bitbucket.org##.e1sgjb1l0.css-s1rlud
 ! Q.
 
 ! R.
+@@||tube.reck.dk/api/v1/metrics/playback$xhr,domain=tube.reck.dk
 
 ! S.
 @@||sexvid.xxx/contents/content_sources/*$image,domain=sexvid.xxx
