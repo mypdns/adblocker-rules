@@ -118,8 +118,8 @@ serverfault.com,superuser.com,stackoverflow.com,askubuntu.com,stackexchange.com#
 @@||mypdns.github.io/adblocker-rules/*$xhr
 /matomo-connect.js$script,important
 /matomo-script.js$script,important
-/matomo.js$script,domain=~go.matrix.rocks,important
-/matomo/*$script,domain=~go.matrix.rocks,important
+/matomo.js$script,domain=~go.matrix.rocks
+/matomo/*$script,domain=~go.matrix.rocks
 /metrica/watch.js$script
 /metrics/statsd/*
 /metrika/watch.js
