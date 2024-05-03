@@ -134,9 +134,13 @@ cockmeter.com###upp_r
 ||cn.dap.dmm.co.jp^$important
 ||cn.dap.dmm.com^$important
 ||i3.dmm.com^$important
+dadcrush.com##.container.newest-models
+dadcrush.com##.join-div
 dadcrush.com##.promo-bar-container
-darkcategories.com###s-container
+dadcrush.com##.rta-logo
+dadcrush.com##.sub-footer
 darkcategories.com##.gallery-right
+darkcategories.com###s-container
 designsbydaffy.com##.m1938-container
 dmm.co.jp###id_top_disclaimer_parent
 dmm.com###id_top_disclaimer_parent
