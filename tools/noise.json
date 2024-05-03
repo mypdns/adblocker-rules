@@ -21,7 +21,8 @@
         "InsertFinalNewLine",
         "RemoveComments",
         "RemoveEmptyLines",
-        "TrimLines"
+        "TrimLines",
+        "Validate"
     ],
     "inclusions": [
         "*"

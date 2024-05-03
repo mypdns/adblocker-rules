@@ -1174,7 +1174,8 @@
         "InsertFinalNewLine",
         "RemoveComments",
         "RemoveEmptyLines",
-        "TrimLines"
+        "TrimLines",
+        "Validate"
     ],
     "exclusions": [],
     "exclusions_sources": [
