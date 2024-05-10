@@ -1174,16 +1174,14 @@
         "InsertFinalNewLine",
         "RemoveComments",
         "RemoveEmptyLines",
-        "TrimLines",
-        "Validate"
+        "TrimLines"
     ],
     "exclusions": [],
     "exclusions_sources": [
         "tools/global_exclusions.txt"
     ],
     "inclusions": [
-        "*",
-        "@@github.com^$domain=github.com"
+        "*"
     ],
     "inclusions_sources": [
         "tools/global_inclusions.txt"
