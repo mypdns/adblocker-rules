@@ -453,12 +453,12 @@
         },
         {
             "name": "EasyPrivacy third-party tracking servers",
-            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_third party.txt",
             "type": "adblock"
         },
         {
             "name": "EasyPrivacy third-party international tracking servers",
-            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty_international.txt",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_third party_international.txt",
             "type": "adblock"
         },
         {
@@ -631,12 +631,12 @@
         },
         {
             "name": "EasyList",
-            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty_popup.txt",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_third party_popup.txt",
             "type": "adblock"
         },
         {
             "name": "EasyList",
-            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_third party.txt",
             "type": "adblock"
         },
         {
@@ -681,7 +681,7 @@
         },
         {
             "name": "EasyList",
-            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_thirdparty.txt",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_cookie/easylist_cookie_third party.txt",
             "type": "adblock"
         },
         {
@@ -736,12 +736,12 @@
         },
         {
             "name": "EasyList",
-            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty_popup.txt",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_third party_popup.txt",
             "type": "adblock"
         },
         {
             "name": "EasyList",
-            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_third party.txt",
             "type": "adblock"
         },
         {
@@ -761,12 +761,12 @@
         },
         {
             "name": "EasyList",
-            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty_international.txt",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_third party_international.txt",
             "type": "adblock"
         },
         {
             "name": "EasyList",
-            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_third party.txt",
             "type": "adblock"
         },
         {
@@ -805,8 +805,8 @@
             "type": "adblock"
         },
         {
-            "name": "Easylist @ryanbr (Fanboy) agegate Thirdparty",
-            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_agegate_thirdparty.txt",
+            "name": "Easylist @ryanbr (Fanboy) agegate third party",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_agegate_third party.txt",
             "type": "adblock"
         },
         {
@@ -851,7 +851,7 @@
         },
         {
             "name": "EasyList @ryanbr (Fanboy) annoyance ",
-            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_thirdparty.txt",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_annoyance_third party.txt",
             "type": "adblock"
         },
         {
@@ -915,8 +915,8 @@
             "type": "adblock"
         },
         {
-            "name": "EasyList: fanboy newsletter thirdparty",
-            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_thirdparty.txt",
+            "name": "EasyList: fanboy newsletter third party",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_newsletter_third party.txt",
             "type": "adblock"
         },
         {
@@ -950,8 +950,8 @@
             "type": "adblock"
         },
         {
-            "name": "EasyList: fanboy notifications thirdparty",
-            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_thirdparty.txt",
+            "name": "EasyList: fanboy notifications third party",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_third party.txt",
             "type": "adblock"
         },
         {
@@ -990,13 +990,13 @@
             "type": "adblock"
         },
         {
-            "name": "EasyList: fanboy social thirdparty",
-            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_thirdparty.txt",
+            "name": "EasyList: fanboy social third party",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_social_third party.txt",
             "type": "adblock"
         },
         {
-            "name": "EasyList: fanboy sounds thirdparty",
-            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_sounds_thirdparty.txt",
+            "name": "EasyList: fanboy sounds third party",
+            "source": "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_sounds_third party.txt",
             "type": "adblock"
         },
         {
@@ -1182,7 +1182,8 @@
         "tools/global_exclusions.txt"
     ],
     "inclusions": [
-        "*"
+        "*",
+        "@@github.com^$domain=github.com"
     ],
     "inclusions_sources": [
         "tools/global_inclusions.txt"
