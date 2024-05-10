@@ -202,6 +202,7 @@ _prebid_$badfilter
 ||analytics.
 ||analytics.google.com
 ||aparat.com^$third-party,cookie
+||api2.branch.io^$dnsrewrite=0.0.0.0
 ||apis.google.com
 ||cookieinformation.com/*/*.js$third-party
 ||cookieinformation.com/tcf-cmp.js$all
