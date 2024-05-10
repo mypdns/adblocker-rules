@@ -119,3 +119,6 @@ dmypy.json
 
 miniconda/**
 miniconda.sh
+
+# AgLint
+node_modules/**

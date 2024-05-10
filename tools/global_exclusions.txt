@@ -216,7 +216,7 @@ _prebid_$badfilter
 ||doubleclick.net^*/
 ||doubleclick.net^*/trackimp/$third-party
 ||doubleclick.net^$
-||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion^
+!||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion^
 ||github.com^
 ||githubusercontent.com^
 ||google-analytics.com/
