@@ -167,14 +167,16 @@ hpe.com##.footer-social
 hpe.com##.nxt-share-widget
 
 ! I.
+imdb.com##.ipc-promptable-base
+itslinuxfoss.com##[id^="ez-video-wrap-"]
 ||cookieapi*.incomit.dk^
 ||imagehost.pics^$important,all
 ||imagevault.cloud^$important,all
 ||imghost.pics^$important,all
+||imgur.com/*.gif^$inline-font,3p,important
+||imgur.com/freTg.gif$image,important
 ||inran.biz^$important
 ||investingchannel.com/static/uat.js$script
-imdb.com##.ipc-promptable-base
-itslinuxfoss.com##[id^="ez-video-wrap-"]
 
 ! J.
 !||jsdelivr.net/*/js.cookie.min.js$script

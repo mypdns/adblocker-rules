@@ -48,6 +48,7 @@
 @@||livesupport.hetzner.de/fonts/*$font,domain=www.hetzner.com
 
 ! I.
+@@||imgur.com^$image,3p
 
 ! J.
 
