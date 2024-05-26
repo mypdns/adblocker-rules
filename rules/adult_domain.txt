@@ -84,6 +84,7 @@ aznude.com##footer
 ||lab.blackpics.net/iframe.php$subdocument
 babesource.com##.aside-banners
 babesource.com##.banner-asd
+babesource.com##.box-massage__head
 babesource.com##.social
 bang.com##.hidden-\@xs.col-md-5.col-sm-12
 bang.com##.top-announcement-wrapper
