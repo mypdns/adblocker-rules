@@ -277,3 +277,6 @@ spreading the knowledge of how rules should be made :smiley:
 [easylist.to]: https://easylist.to
 
 [AdGuard]: https://adguard.com/
+
+[poc]: https://0xacab.org/help/user/project/repository/mirror/push.md "Push mirroring"
+.
