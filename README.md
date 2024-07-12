@@ -1,8 +1,8 @@
 [![uBlock syntax](_public/icons/ublock-origin-syntax.svg)](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
 [![AdGuard syntax](_public/icons/adguard-syntax.svg)](https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters)
 [![ko-fi](_public/icons/ko-fi.png)](https://ko-fi.com/X8X37FUGU)
-[![Donate](_public/icons/donate.png)](https://0xacab.org/my-privacy-dns/matrix/-/blob/master/DONATION.md)
-[![My Privacy DNS](_public/icons/logo-h128.png)](https://0xacab.org/my-privacy-dns/matrix "This project is part of My Privacy DNS")
+[![Donate](_public/icons/donate.png)](https://github.com/mypdns/matrix/blob/master/DONATION.md)
+[![My Privacy DNS](_public/icons/logo-h128.png)](https://github.com/mypdns/matrix "This project is part of My Privacy DNS")
 
 # Adblocker Rules
 
