@@ -132,6 +132,7 @@ imdb.com###titleVideoStrip
 
 ! M.
 miniwa.moe##.global-notice.alert
+misskey.io,matrix.rocks##._shadow._panel
 
 ! N.
 namesilo.com##.d-lg-b.d-n.mt-lg-32.mt-16
