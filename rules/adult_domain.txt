@@ -41,17 +41,18 @@
 ! 9.
 
 ! A.
-||adsessionserv.com^
-||allfeetlinks.com/thumb.php$important
-||analxxxvideo.com/app.js$script,important
-||angela69.com^
 aa8499.com##.mask__2kqMd
+adultdvdempire.com##.col-md-2.col-sm-3.col-xs-12
+adultdvdempire.com##.purchase-options__container
+amateur-pussies.com###toptrade1
 amateur-pussies.com##.footer
 amateur-pussies.com##.sidebar
 amateur-pussies.com##.sidebar-video-right
 amateur-pussies.com##[href="https://milf-sex-clips.com"]
 amateur-pussies.com##[href="https://private-sex-tapes.com/"]
-amateur-pussies.com###toptrade1
+anal-angels.com##.aside-join
+anal-angels.com##.join-block
+anal-angels.com##.video-aside
 ancensored.com##.blue
 ancensored.com##.left
 ancensored.com##.live-block
@@ -62,17 +63,21 @@ animehentaihub.com##.code-block
 animehentaihub.com##.happy-header
 antpool.com##div.v-transfer-dom
 asexyporn.com##.pyp
-atkpremium.com##[href*="/tour/webcam"]
-atkpremium.com##[href*="http://atkdvd.com/"]
 atkpremium.com###bottom_login
 atkpremium.com###footer_bg
 atkpremium.com###footer_wrapper
+atkpremium.com##[href*="/tour/webcam"]
+atkpremium.com##[href*="http://atkdvd.com/"]
 avgle.com##.col-sm-5.col-md-4
 aznude.com##.increase-height
 aznude.com##.random-links
 aznude.com##.recommended
 aznude.com##.watch-all-btn
 aznude.com##footer
+||adsessionserv.com^
+||allfeetlinks.com/thumb.php$important
+||analxxxvideo.com/app.js$script,important
+||angela69.com^
 
 ! B.
 ||bang.com^$popup,important
@@ -140,8 +145,8 @@ dadcrush.com##.join-div
 dadcrush.com##.promo-bar-container
 dadcrush.com##.rta-logo
 dadcrush.com##.sub-footer
-darkcategories.com##.gallery-right
 darkcategories.com###s-container
+darkcategories.com##.gallery-right
 designsbydaffy.com##.m1938-container
 dmm.co.jp###id_top_disclaimer_parent
 dmm.com###id_top_disclaimer_parent
@@ -151,7 +156,15 @@ drtuber.desi##.drt-preloader
 drtuber.desi##[class^="drt-sponsor-"]
 drtuber.desi##[id*="spot_video_"]
 dxlive.com##.age_display
+forum.drunkenstepfather.com##[src="/wp-content/uploads/DS-header.jpg"]
+forum.drunkenstepfather.com##[src="image.php?u=13604&type=sigpic&dateline=1535907260"]
+forum.drunkenstepfather.com##[src="image.php?u=15383&type=sigpic&dateline=1297290058"]
+forum.drunkenstepfather.com##body > table > tbody > tr > td > form
 video.doxysexy.com##.bigClickTeasersBlock
+||imagebam.com^$image,domain=drunkenstepfather.com
+||imagebam.com^$inline-font,domain=drunkenstepfather.com
+||lakecityquietpills.com^$domain=forum.drunkenstepfather.com
+
 
 ! E.
 blog.eldernode.com##.footer-section
