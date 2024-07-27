@@ -223,6 +223,8 @@ sailboatdata.com###second-aside
 stackoverflow.com##.js-consent-banner
 stackoverflow.com##.ps-relative.js-freemium-cta
 stackoverflow.com##.s-popover
+stockvault.net##.nobottommargin > .bottommargin-sm.center
+stockvault.net##.promo
 subscene.com##.details
 subscene.com##.sustain
 subscene.com##[src^="https://watchpedia.com/"]
