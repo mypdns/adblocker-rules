@@ -155,9 +155,11 @@ serverfault.com,superuser.com,stackoverflow.com,askubuntu.com,stackexchange.com#
 /stats/nakedtits.js$script,1p,domain=nakedtits.com
 
 ! T.
+##[href^="https://t.co/"]
+##[href^="https://t.me/"]
+##[href^="https://twitter.com"]
 /track-perf$xhr,domain=bookyogaretreats.com
 /track/view/*
-##[href^="https://twitter.com"]
 
 ! U.
 /udf-event-track
@@ -170,6 +172,7 @@ serverfault.com,superuser.com,stackoverflow.com,askubuntu.com,stackexchange.com#
 ||onlyfans.com,alive.github.com,jaws.dditscdn.com,metartnetwork.com,analyticacdn.com^$websocket,important
 
 ! X.
+##[href^="https://x.com/"]
 ||highwebmedia.com,api-gateway.dditsadn.com,icfcdn.com,traffictrade.pro,trackingcheckinapi2-prod.spvyig3fxm.us-east-2.elasticbeanstalk.com^$xhr,important
 
 ! Y.
