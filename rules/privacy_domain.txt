@@ -305,12 +305,15 @@ ubuntu.com##+js(addEventListener-defuser, DOMContentLoaded, js-revoke-cookie-man
 ||xn--931a.moe/assets/info.jpg$image
 
 ! Y.
+youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.eom-v1-dialog
 ||maps.yandex.net^$important
 ||yandexcdn.com/js/*$script,important
 ||yourmy.monster^$important,all
+||youtube.com/api/stats/*$xhr
 ||youtube.com/redirect?$doc,removeparam=event
 ||youtube.com/redirect?$doc,removeparam=redir_token
 ||youtube.com/redirect?$doc,removeparam=v
+||youtube.com/youtubei/v1/log_event$xhr
 ||youtube.com^3p
 ||yum.mom^$important,all
 
