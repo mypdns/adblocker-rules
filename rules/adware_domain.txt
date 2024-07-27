@@ -167,15 +167,15 @@ merriam-webster.com##.large-view
 ||popcash.net^$important
 ||pornogoogle.info^
 ||pubmatic.com^$important
-mail.proton.me##.bg-info.no-print.text-bold.relative.text-center.flex-nowrap.flex-item-noshrink.flex
-mail.proton.me##.bg-primary
-mail.proton.me##.bg-primary.no-print
-mail.proton.me##.modal-two-backdrop--in
-mail.proton.me##.offer-main-wrapper
-mail.proton.me##.p-0-5.on-tablet-text-left.text-center.relative.bg-promotion.flex-nowrap.flex
-mail.proton.me##.topnav-listItem--noCollapse.flex-item-noshrink.topnav-listItem
-mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion##.bg-promotion
-mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion##.button-promotion
+mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.bg-info.no-print.text-bold.relative.text-center.flex-nowrap.flex-item-noshrink.flex
+mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.bg-primary
+mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.bg-primary.no-print
+mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.modal-two-backdrop--in
+mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.offer-main-wrapper
+mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.p-0-5.on-tablet-text-left.text-center.relative.bg-promotion.flex-nowrap.flex
+mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.topnav-listItem--noCollapse.flex-item-noshrink.topnav-listItem
+mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.bg-promotion
+mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.button-promotion
 pawoo.net##.pawoo-announcements
 pricerunner.dk##.pr-1hay6gt-Card-root
 publicwww.com##.container > .service-wrapper
