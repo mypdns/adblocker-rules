@@ -86,7 +86,6 @@ duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##l
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-header-aside-item-social.social.header__label.header--aside__social.header--aside__item
 
 ! E.
-edbpriser.dk##.popular-now
 blog.eldernode.com##.navbar-collapse
 
 ! F.
@@ -132,6 +131,7 @@ imdb.com###titleVideoStrip
 ! L.
 
 ! M.
+miniwa.moe##.global-notice.alert
 
 ! N.
 namesilo.com##.d-lg-b.d-n.mt-lg-32.mt-16
