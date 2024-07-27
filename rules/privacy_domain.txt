@@ -316,6 +316,7 @@ youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.eom-v1-dialog
 ||youtube.com/redirect?$doc,removeparam=redir_token
 ||youtube.com/redirect?$doc,removeparam=v
 ||youtube.com/youtubei/v1/log_event$xhr
+||youtube.com/youtubei/v1/log_event$xhr,1p,important
 ||youtube.com^3p
 ||yum.mom^$important,all
 

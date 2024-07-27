@@ -109,8 +109,8 @@ bitbucket.org##.e1sgjb1l0.css-s1rlud
 ! X.
 
 ! Y.
-! 2023-05-21 https://www.youtube.com
 @@||googleusercontent.com^$image,domain=youtube.com
+@@||www.youtube.com^$domain=www.youtube.com
 @@||ytimg.com^$image,domain=youtube.com
 
 ! Z.

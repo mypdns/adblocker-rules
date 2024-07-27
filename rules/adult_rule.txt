@@ -176,6 +176,7 @@ bubbaporn.com,serviporno.com###overlay-video
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.page-content > div:nth-of-type(3)
 popcode*.js$domain=vipergirls.to
 /poppy/*$domain=hclips.com|hdzog.com|hotmovs.com|porn555.com|pornforrelax.com|pornj.com|pornl.com|pornq.com|puporn.com|see.xxx|shemalez.com|thegay.com|thegay.porn|tubepornclassic.com|tuberel.com|txxx.com|upornia.com|voyeurhit.com
+@@||images.psmcdn.net/design/tour/dc/tour/pics/$inline-font,domain=dadcrush.com
 
 ! Q.
 
