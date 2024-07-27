@@ -137,9 +137,7 @@ cockmeter.com##.aside-itempage-col
 cockmeter.com###upp_r
 
 ! D.
-||cn.dap.dmm.co.jp^$important
-||cn.dap.dmm.com^$important
-||i3.dmm.com^$important
+##[href^="https://join.dadcrush.com/"]
 dadcrush.com##.container.newest-models
 dadcrush.com##.join-div
 dadcrush.com##.promo-bar-container
@@ -161,8 +159,13 @@ forum.drunkenstepfather.com##[src="image.php?u=13604&type=sigpic&dateline=153590
 forum.drunkenstepfather.com##[src="image.php?u=15383&type=sigpic&dateline=1297290058"]
 forum.drunkenstepfather.com##body > table > tbody > tr > td > form
 video.doxysexy.com##.bigClickTeasersBlock
+||cn.dap.dmm.co.jp^$important
+||cn.dap.dmm.com^$important
+||i3.dmm.com^$important
 ||imagebam.com^$image,domain=drunkenstepfather.com
 ||imagebam.com^$inline-font,domain=drunkenstepfather.com
+||join.dadcrush.com/track/$subdocument
+||join.dadcrush.com^$subdocument
 ||lakecityquietpills.com^$domain=forum.drunkenstepfather.com
 
 
