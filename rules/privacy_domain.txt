@@ -53,6 +53,7 @@ g.alicdn.com/woodpeckerx/jssdk/wpkReporter.js
 
 ! B.
 ##[href*="adm.biblioteksvagten.dk"]
+bibliotek.dk##[class*="recommender"]
 ||adm.biblioteksvagten.dk^
 ||api.bouyguestelecom.fr/traces-techniques
 ||barefoot.pics^$important,all
@@ -61,8 +62,8 @@ g.alicdn.com/woodpeckerx/jssdk/wpkReporter.js
 ||bing.com/*/metrics.js$important
 ||bloomberg.com/ccpa.js
 ||buzama.com^$important
+||samtykke.bilbasen.dk^$important
 ||search.brave.com^$removeparam=source
-bibliotek.dk##[class*="recommender"]
 
 ! C.
 ||catsnthing.com^$important,all
@@ -242,6 +243,7 @@ opensource.com###block-socialmediashareicons
 ||plausible.io/js/script.js$script
 ||plz.life^$important,all
 ||polyfill.io^$third-party
+||privacy-mgmt.com^
 ||progaming.monster^$important,all
 ||pubmatic.com^$important
 ||pusher.com^$third-party
