@@ -25,7 +25,7 @@
 
 ! 3.
 3danimeworld.com##.maintable > tbody > tr > td > table > tbody > tr > td > table > tbody > tr > td > table > tbody > tr > td > center
-||www.3danimeworld.com/images/*.gif$image
+||3danimeworld.com/images/*.gif$image
 
 ! 4.
 4kpornvideos.tv##.b-secondary-column
@@ -49,8 +49,8 @@ aa8499.com##.mask__2kqMd
 amateur-pussies.com##.footer
 amateur-pussies.com##.sidebar
 amateur-pussies.com##.sidebar-video-right
-amateur-pussies.com##[href="https://www.milf-sex-clips.com"]
-amateur-pussies.com##[href="https://www.private-sex-tapes.com/"]
+amateur-pussies.com##[href="https://milf-sex-clips.com"]
+amateur-pussies.com##[href="https://private-sex-tapes.com/"]
 amateur-pussies.com###toptrade1
 ancensored.com##.blue
 ancensored.com##.left
@@ -63,7 +63,7 @@ animehentaihub.com##.happy-header
 antpool.com##div.v-transfer-dom
 asexyporn.com##.pyp
 atkpremium.com##[href*="/tour/webcam"]
-atkpremium.com##[href*="http://www.atkdvd.com/"]
+atkpremium.com##[href*="http://atkdvd.com/"]
 atkpremium.com###bottom_login
 atkpremium.com###footer_bg
 atkpremium.com###footer_wrapper
@@ -154,10 +154,27 @@ dxlive.com##.age_display
 video.doxysexy.com##.bigClickTeasersBlock
 
 ! E.
-eachporn.com##.item[style]
 blog.eldernode.com##.footer-section
-blog.eldernode.com##.sticky-top.sidebar
 blog.eldernode.com##.sign-up-section
+blog.eldernode.com##.sticky-top.sidebar
+eachporn.com##.item[style]
+eroticbeauties.net##.footer
+eroticbeauties.net##.friends.container
+eroticbeauties.net##.headerlink
+eroticbeauties.net##.panel-default.panel:nth-of-type(2)
+eroticbeauties.net##.panel-default.panel:nth-of-type(4)
+eroticbeauties.net##.panel-default.panel:nth-of-type(6)
+eroticbeauties.net##.panel-default.panel:nth-of-type(7)
+eroticbeauties.net##.right-column-index
+eroticbeauties.net##.simg.text-left.jumbotron
+eroticbeauties.net##.slickGallery
+eroticbeauties.net##.slidenow
+eroticbeauties.net##.slidenow-2
+eroticbeauties.net##.small-thumb-container
+eroticbeauties.net##.sponsor-banner-2022
+eroticbeauties.net##.submenu
+eroticbeauties.net##.top-referrers
+eroticbeauties.net##[href^="https://eroticbeauties.net/go/"]
 
 
 ! F.
