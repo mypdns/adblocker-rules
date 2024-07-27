@@ -66,6 +66,7 @@ bitbucket.org##.e1sgjb1l0.css-s1rlud
 
 ! I.
 @@||i.imgbox.com^$document,domain=i.imgbox.com
+@@||imagebam.com^$image,domain=forum.drunkenstepfather.com
 
 ! J.
 @@||jetbrains.com^$1p
