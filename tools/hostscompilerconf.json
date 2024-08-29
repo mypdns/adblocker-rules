@@ -177,6 +177,11 @@
             ]
         },
         {
+            "name": "BarbBlock",
+            "source": "https://raw.githubusercontent.com/Anonymous941/BarbBlock/main/blocklists/ublock-origin.txt",
+            "type": "adblock"
+        },
+        {
             "name": "tracking Domain list",
             "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/tracking/domains.list",
             "type": "adblock",
