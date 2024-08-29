@@ -41,8 +41,9 @@ bytbil.com##.uk-open.uk-modal
 ||cookiebot.com^$important
 ||cookieinformation.com^$important
 ||cookielaw.org^$important
-cams.com##.active.CamsViewer__RegisterOverlay
 cams.com##.ModalPortal.MuiDialog-root
+cams.com##.active.CamsViewer__RegisterOverlay
+checkmk.com##.cookiefirst-root
 cherryservers.com##.shadow-raised.bg-opacity-70.bg-black.z-50.py-3.bottom-0.inset-x-0.fixed
 
 ! D.
