@@ -62,6 +62,9 @@
 ! D.
 /d/count.php^$domain=teenasspussy.com|realteenbeauty.com
 /devtools-detector.
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.DrcNDXeWs90rE8UOUh96.XvPRmQVeIoCP5lQhICTv > li:nth-of-type(5)
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.footer
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li:nth-of-type(6) > .d26Geqs1C__RaCO7MUs2.wZ4JdaHxSAhGy1HoNVja.kFFXe30DOpq5j1hbWU1q
 ||direct-webcams.com/api/events$xhr
 ||direct-webcams.com/api/metrics$xhr
 
@@ -135,6 +138,7 @@ serverfault.com,superuser.com,stackoverflow.com,askubuntu.com,stackexchange.com#
 /ping/gamp
 /ping/view
 /piwik.$script,important
+/pixel.png$image
 
 ! Q.
 
@@ -149,10 +153,12 @@ serverfault.com,superuser.com,stackoverflow.com,askubuntu.com,stackexchange.com#
 /socket-worker-*.js$script,domain=github.com
 /static/*/stats.js$script,1p,domain=a678yt.com
 /statisk/*$1p,domain=dr.dk
+/stats/nakedtits.js$script,1p,domain=nakedtits.com
 /swell-ct-ad-data
 /swell-ct-pv^
+adultdvdempire.com##.site__beacon
+||simply.com$3p
 ||smetrics.*^
-/stats/nakedtits.js$script,1p,domain=nakedtits.com
 
 ! T.
 ##[href^="https://t.co/"]

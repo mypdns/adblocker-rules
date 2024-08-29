@@ -176,6 +176,7 @@ itslinuxfoss.com##[id^="ez-video-wrap-"]
 ||imghost.pics^$important,all
 ||imgur.com/*.gif^$inline-font,3p,important
 ||imgur.com/freTg.gif$image,important
+||imgur.com/freTg.gif$image,important
 ||inran.biz^$important
 ||investingchannel.com/static/uat.js$script
 
@@ -232,6 +233,7 @@ opensource.com###block-socialmediashareicons
 
 ! P.
 !||cdn.polyfill.io/v2/*$script
+pixels.com###globalForegroundDiv
 ||perfdrive.com^$important
 ||photovault.pics^$important,all
 ||pichost.pics^$important,all
@@ -240,6 +242,7 @@ opensource.com###block-socialmediashareicons
 ||pitch.com/proxy/*$1p
 ||piwik.pro^$important
 ||piwikpro.de^$important
+||pixels.com/js/fullResolution.js$script,1p
 ||plausible.io/js/script.js$script
 ||plz.life^$important,all
 ||polyfill.io^$third-party
@@ -278,6 +281,7 @@ stackoverflow.com##.google-login
 
 
 ! T.
+themoviedb.org##.no_border.card.video
 ||assets.tumblr.com/*/x.gif$image,1p
 ||px.srvcs.tumblr.com^
 ||reddit.com/?request_timestamp=$important

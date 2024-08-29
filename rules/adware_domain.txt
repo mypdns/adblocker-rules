@@ -118,6 +118,8 @@ firefox.com##.vpn-promo-banner
 ||funkydaters.com^
 
 ! G.
+galaxy3yrfbwlwo72q3v2wlyjinqr2vejgpkxb22ll5pcpuaxlnqjiid.onion##[href^="/hx"]
+gifhq.com#?#.content > div[class^="col-"] > div.card iframe[src^="https://syndication.realsrv.com/"]:upward(div[class^="col-"])
 ||admob.google.*^$important
 ||ads.google.*^$important
 ||adservice.google.*^$important
@@ -127,7 +129,6 @@ firefox.com##.vpn-promo-banner
 ||greybison.com^$3p
 ||greystatic.com^$important
 ||parking.godaddy.com^$important
-gifhq.com#?#.content > div[class^="col-"] > div.card iframe[src^="https://syndication.realsrv.com/"]:upward(div[class^="col-"])
 
 ! H.
 ||haes.tech/ad/*
@@ -170,12 +171,13 @@ merriam-webster.com##.large-view
 mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.bg-info.no-print.text-bold.relative.text-center.flex-nowrap.flex-item-noshrink.flex
 mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.bg-primary
 mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.bg-primary.no-print
+mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.bg-promotion
+mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.button-promotion
 mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.modal-two-backdrop--in
 mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.offer-main-wrapper
 mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.p-0-5.on-tablet-text-left.text-center.relative.bg-promotion.flex-nowrap.flex
+mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.spotlight-inner
 mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.topnav-listItem--noCollapse.flex-item-noshrink.topnav-listItem
-mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.bg-promotion
-mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.button-promotion
 pawoo.net##.pawoo-announcements
 pricerunner.dk##.pr-1hay6gt-Card-root
 publicwww.com##.container > .service-wrapper

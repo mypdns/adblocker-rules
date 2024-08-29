@@ -129,8 +129,11 @@ imdb.com###titleVideoStrip
 ! K.
 
 ! L.
+lyrics.com##.col-sm-pull-8.col-sm-4
 
 ! M.
+matrix.rocks##._shadow._panel
+miniwa.moe##.global-notice-list
 miniwa.moe##.global-notice.alert
 misskey.io,matrix.rocks##._shadow._panel
 
@@ -171,13 +174,16 @@ themoviedb.org##.networks
 themoviedb.org##.no_border.card.video
 themoviedb.org##.no_bottom_pad > strong
 themoviedb.org##.play_trailer
+themoviedb.org##.poster.header > .flex-col.flex
 themoviedb.org##.recommendations
 tmwvrnet.com##.content__sidebar
 twitch.tv##.community-highlight
 twitch.tv##.eXenLC
 twitch.tv##.front-page-carousel
 twitch.tv##.gqzYpA
+twitch.tv##.happening-now-notification
 twitch.tv##.headliner-ad
+twitch.tv##.lonoQi.Layout-sc-1xcs6mc-0
 twitch.tv##.top-bar
 
 ! U.

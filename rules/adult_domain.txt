@@ -295,6 +295,9 @@ livejasmin.com###react-container
 
 ! M.
 ||a.montlusa.top/loader$subdocument
+metarthunter.com##.image-banner
+metarthunter.com##[href^="https://www.metarthunter.com/go/"]
+metarthunter.com##.list-triple
 
 ! N.
 ||nakedgirls.org/wp-content/cache/min/1/9fcd011c46522a73b34f64eb7ca6b479.js$script
