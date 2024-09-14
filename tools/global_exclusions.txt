@@ -157,6 +157,7 @@
 @@||banner.blog.with2.net
 @@||cdn.fluidplayer.com/*/current/fluidplayer.min.js
 @@||challenges.cloudflare.com/turnstile/$script
+@@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js
 @@||cloudfront.net/assets/$script,3p,badfilter
 @@||crunchyroll.adclixx.net/vast?fg=$script
 @@||crunchyroll.adnetasia.com/vast?fg=$script
