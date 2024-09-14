@@ -102,6 +102,7 @@ duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##l
 
 ! H.
 ||hyperlnk.xyz^$script,3p
+/hcdn-cgi/jschallenge$script
 
 ! I.
 proxyrarbg.to,rarbggo.to##.is_country
