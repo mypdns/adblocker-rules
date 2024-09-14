@@ -1,37 +1,69 @@
-_300x250_$badfilter
-_300x250.$badfilter
-_468x60.$badfilter
-_ads_updater-$badfilter
-_google_ads.$badfilter
-_prebid_$badfilter
+##.botad$domain=here.xxx
+##^.adsbygoogle
+#@##iqadtile5
+#@#.ad-content
+#@#.ad-placeholder
+#@#.adBanner
+#@#.adbanner
+#@#.ads-iframe
+#@#.adsBox
+#@#.adsbygoogle
+*###kaprila_linktable
+*$1p,strict3p,script,header=via:1.1 google
 -auto-ads-$badfilter
 -google-analytics
 -google-tag-manager
-://ads.$domain=~
 .*\.,cookie$
 .com/ads/$image
 .in/ads.$badfilter
 .in/ads/$badfilter
 .in/ads/$domain=~atagawadive.in
 .info/ads/$badfilter
-@@_160x600.$image,domain=elne.jp
-@@_300_250$image,domain=chobirich.com|gpoint.co.jp
-@@_300x250$image,domain=chobirich.com|elne.jp|gpoint.co.jp|point.i2i.jp
-@@_728_90_$image,domain=moraerumall.com
-@@_728_90.$image,domain=moraerumall.com
-@@://affiliate.sonicsense.jp/data.php?$image,domain=yentame.net
-@@://promo.norton.com/aff/banner/$image,domain=t-mall.tsite.jp
+/(?!^(\\|\\||@@\\|\\|))^.+/
+/.*[ ]noop$/
+/\|\|.*/.googlecode/.com.*/
+/\|\|google.*\/.*/
+/\|\|google.com\/.*/
+/\|\|googleoptimize.com$/
+/^@@\|\|.*.207.net.*/
+/^@@\|\|.*.2o7.net.*/
+/^@@\|\|.*.adsbygoogle.js.*/
+/^@@\|\|.*.cookieinformation.com.*/
+/^@@\|\|.*.doubleclick.net.*/
+/^@@\|\|.*.google.com.*/
+/^@@\|\|.*.googleadservices.com.*/
+/^@@\|\|.*.googleapis.com.*/
+/^@@\|\|.*.googlesyndication.com.*/
+/^@@\|\|.*.scorecardresearch.com.*/
+/^@@\|\|google-analytics.com.*/
+/^@@\|\|googletagmanager.com.*/
+/^\*.*denyallow.*/
+/^\*[ ].*/
+/adlink-$domain=~adlinktech.com|~github.com|~github.io
+/ads.js$script,important,domain=evoload.io,here.xxx,mixdrop.co,xn--icktho51h7xpyfnezf.com
+/adservice.$domain=~adservice.io|~github.com|~githubusercontent.com
+/adsmanager/*$domain=~github.com
+/cookie-consent-$script,domain=~cookielaw.org|~github.com|~gitlab.com
+/cookie-manager/*$domain=~github.com
+/dynatrace-$~image,domain=~dynatrace-managed.com|~dynatrace.com|~dynatracelabs.com|~github.com|~github.io
+/dynatrace.$~third-party,domain=~dynatrace.com|~dynatrace.jbhunt.com|~dynatrace.udemy.com|~dynatrace.zoom.us|~dynatracelabs.com|~github.com|~github.io
+/dynatrace/*$domain=~dynatrace-managed.com|~dynatrace.com|~dynatracelabs.com|~github.com|~github.io
+/googleads-$domain=~github.com|~github.io
+/googleads/*$domain=~github.com|~github.io
+/matomo/*$domain=~github.com|~hub.docker.com|~matomo.org|~wordpress.org
+/shopify/track$domain=~github.com
+://ads.$domain=~
 @@.com/upload_image/$image,domain=chobirich.com|dietnavi.com|gendama.jp|point.i2i.jp|pointtown.com
 @@.jp/ad/$image,domain=chobirich.com|cmnw.jp|gendama.jp|moppy.jp|netmile.co.jp|pint.yattayo.net|pointi.jp|pointtown.com
 @@.jp/af/$image,domain=chobirich.com|gendama.jp|manpukujima.com|netmile.co.jp|pointtown.com
 @@.jp/affiliate/$image,domain=dietnavi.com|gendama.jp|manpukujima.com|moppy.jp|t-mall.tsite.jp
+@@/300x250.$image,domain=gpoint.co.jp|point.i2i.jp
 @@/\/js\/[_0-9a-zA-Z]{4,12}\/(?:ad[-a-z]{4}|bannerpump|nugg\.min|transad|[a-z]{2}ads|[a-z]{3}-(?:adscript|inspire-ad|rail-ads))\.js\?_v=[0-9a-f]{8}$/$script,~third-party
 @@/^https?:\/\/(www\.)?.*\/ad[vs](er(ve)?t?(ise|ising|isement)?)?([_-a-zA-Z0-9.]{1,17})?\.js/$script
-@@/300x250.$image,domain=gpoint.co.jp|point.i2i.jp
-@@/ad_banner/*$image,domain=manpukujima.com
-@@/ad_images/*$image,domain=dietnavi.com
 @@/ad/banner/_adsense_/_adserver/_adview_.ad.js
 @@/ad/banner/_adsense_/_adserver/_adview_.ad.js$script,xmlhttprequest,~third-party
+@@/ad_banner/*$image,domain=manpukujima.com
+@@/ad_images/*$image,domain=dietnavi.com
 @@/ads-prebid.js$script,~third-party
 @@/adsense.js?adsdata=$script,~third-party
 @@/adv/ads/popunder.js?$script,~third-party
@@ -52,6 +84,13 @@ _prebid_$badfilter
 @@/static/image/ad_top_bg2.png?&ad_box_=$image,~third-party
 @@/wp-content/plugins/imedia-basic/adserver-$script,~third-party
 @@/wp-content/plugins/wordpress-popup/assets/js/adb.min.js?$script,~third-party
+@@://affiliate.sonicsense.jp/data.php?$image,domain=yentame.net
+@@://promo.norton.com/aff/banner/$image,domain=t-mall.tsite.jp
+@@_160x600.$image,domain=elne.jp
+@@_300_250$image,domain=chobirich.com|gpoint.co.jp
+@@_300x250$image,domain=chobirich.com|elne.jp|gpoint.co.jp|point.i2i.jp
+@@_728_90.$image,domain=moraerumall.com
+@@_728_90_$image,domain=moraerumall.com
 @@||addthis.com/
 @@||admob.google.com
 @@||adobedtm.com/
@@ -81,8 +120,8 @@ _prebid_$badfilter
 @@||akamaihd.net/nbad/player/v*/nba/site*/player/scripts/nlad.js$domain=nba.com
 @@||akamaihd.net/origin-com-store-webassets/$script,document
 @@||akamaihd.net/rsrc.php/$domain=facebook.com
-@@||akamaihd.net/worldwide_analytics/tagcommander/ads/ads.js
 @@||akamaihd.net/worldwide_analytics/tagcommander/Ubisoft$domain=account.ubisoft.com|connect.ubisoft.com|store.ubi.com
+@@||akamaihd.net/worldwide_analytics/tagcommander/ads/ads.js
 @@||akamaihd.net^*/ad*.js$script
 @@||amazon-adsystem.com/
 @@||amazonaws.com/ads/
@@ -117,6 +156,7 @@ _prebid_$badfilter
 @@||audiotag.info/
 @@||banner.blog.with2.net
 @@||cdn.fluidplayer.com/*/current/fluidplayer.min.js
+@@||challenges.cloudflare.com/turnstile/$script
 @@||cloudfront.net/assets/$script,3p,badfilter
 @@||crunchyroll.adclixx.net/vast?fg=$script
 @@||crunchyroll.adnetasia.com/vast?fg=$script
@@ -148,51 +188,40 @@ _prebid_$badfilter
 @@||yahoo.adnetasia.com/serv?s=$script
 @@||yahoo.adtrackers.net/serv?s=$script
 @@||yahoo.bannertrack.net/serv?s=$script
-*###kaprila_linktable
-*$1p,strict3p,script,header=via:1.1 google
-/.*[ ]noop$/
-/(?!^(\\|\\||@@\\|\\|))^.+/
-/\|\|.*/.googlecode/.com.*/
-/\|\|google.*\/.*/
-/\|\|google.com\/.*/
-/\|\|googleoptimize.com$/
-/^@@\|\|.*.207.net.*/
-/^@@\|\|.*.2o7.net.*/
-/^@@\|\|.*.adsbygoogle.js.*/
-/^@@\|\|.*.cookieinformation.com.*/
-/^@@\|\|.*.doubleclick.net.*/
-/^@@\|\|.*.google.com.*/
-/^@@\|\|.*.googleadservices.com.*/
-/^@@\|\|.*.googleapis.com.*/
-/^@@\|\|.*.googlesyndication.com.*/
-/^@@\|\|.*.scorecardresearch.com.*/
-/^@@\|\|google-analytics.com.*/
-/^@@\|\|googletagmanager.com.*/
-/^\*.*denyallow.*/
-/^\*[ ].*/
-/adlink-$domain=~adlinktech.com|~github.com|~github.io
-/ads.js$script,important,domain=evoload.io,here.xxx,mixdrop.co,xn--icktho51h7xpyfnezf.com
-/adservice.$domain=~adservice.io|~github.com|~githubusercontent.com
-/adsmanager/*$domain=~github.com
-/cookie-consent-$script,domain=~cookielaw.org|~github.com|~gitlab.com
-/cookie-manager/*$domain=~github.com
-/dynatrace-$~image,domain=~dynatrace-managed.com|~dynatrace.com|~dynatracelabs.com|~github.com|~github.io
-/dynatrace.$~third-party,domain=~dynatrace.com|~dynatrace.jbhunt.com|~dynatrace.udemy.com|~dynatrace.zoom.us|~dynatracelabs.com|~github.com|~github.io
-/dynatrace/*$domain=~dynatrace-managed.com|~dynatrace.com|~dynatracelabs.com|~github.com|~github.io
-/googleads-$domain=~github.com|~github.io
-/googleads/*$domain=~github.com|~github.io
-/matomo/*$domain=~github.com|~hub.docker.com|~matomo.org|~wordpress.org
-/shopify/track$domain=~github.com
-#@#.ad-content
-#@#.ad-placeholder
-#@#.adBanner
-#@#.adbanner
-#@#.ads-iframe
-#@#.adsBox
-#@#.adsbygoogle
-#@##iqadtile5
-##.botad$domain=here.xxx
-##^.adsbygoogle
+_300x250.$badfilter
+_300x250_$badfilter
+_468x60.$badfilter
+_ads_updater-$badfilter
+_google_ads.$badfilter
+_prebid_$badfilter
+archive.is,archive.today,archive.vn,archive.fo,archive.md,archive.li,archive.ph,archivecaslytosk.onion,archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion,btdig.com,filecr.com,gommonauti.it,gugo.site,krunker.io,lyckansforskola.com,sybertrek.com,##+js(aopw, navigator.brave)
+file-scheme * 1p-script block
+file-scheme * inline-script block
+investorvillage.com#%#//scriptlet('abort-current-inline-script', ' update_visit_count')
+isico.or.jp,kitagawamura.jp,##^#banner_footer1
+m.qoo10.jp#%#//scriptlet('abort-current-inline-script', '$', 'layerpopup_mainBanner')
+mail.tm##:xpath(//*[contains(text(),"blocker")])
+masterduelmeta.com##:xpath(//*[contains(text(),"adblock")]):upward(3)
+no-csp-reports: * true
+no-large-media: behind-the-scene false
+pakomanmama.com###list:has-text(PR()
+spankwire.com##:xpath(//*[contains(text(),"Advertisement")]):upward(1)
+www.reddit.com##+js(aeld, touchmove)
+www.reddit.com##.XPromoInFeed
+www.reddit.com##.XPromoPopup
+www.reddit.com##.XPromoPopupRpl
+www.reddit.com##.XPromoPopupRplNew
+www.reddit.com##.bottom-bar, .XPromoBottomBar
+www.reddit.com##.useApp,.TopNav__promoButton
+www.reddit.com##^xpromo-nsfw-blocking-modal
+www.reddit.com##body.scroll-disabled:style(overflow: visible !important; position: static !important;)
+www.reddit.com##body.scroll-is-blocked:style(overflow: visible !important; position: static !important;)
+www.reddit.com##body:style(pointer-events: auto !important;)
+www.reddit.com##div.prompt
+www.reddit.com##img[id="post-image"]:style(object-fit: fill !important;)
+www.reddit.com##xpromo-app-selector
+www.reddit.com##xpromo-new-app-selector
+yun.ir#%#//scriptlet('set-cookie-reload', 'bypasstimer', '10')
 ||adservice.google.*/
 ||adservice.google.ca^
 ||adservice.google.co.za^
@@ -213,15 +242,15 @@ _prebid_$badfilter
 ||discourse-cdn.com/
 ||doubleclick.net/
 ||doubleclick.net^
+||doubleclick.net^$
 ||doubleclick.net^*/
 ||doubleclick.net^*/trackimp/$third-party
-||doubleclick.net^$
 ||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion^
 ||github.com^
 ||githubusercontent.com^
 ||google-analytics.com/
-||google-analytics.com^*/
 ||google-analytics.com^$
+||google-analytics.com^*/
 ||google.co.jp/
 ||google.com^$popup
 ||googleads.g.doubleclick.net/
@@ -241,31 +270,3 @@ _prebid_$badfilter
 ||smetrics.
 ||trustseal.enamad.ir^$third-party,cookie
 ||tumblr.com^
-archive.is,archive.today,archive.vn,archive.fo,archive.md,archive.li,archive.ph,archivecaslytosk.onion,archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion,btdig.com,filecr.com,gommonauti.it,gugo.site,krunker.io,lyckansforskola.com,sybertrek.com,##+js(aopw, navigator.brave)
-file-scheme * 1p-script block
-file-scheme * inline-script block
-investorvillage.com#%#//scriptlet('abort-current-inline-script', ' update_visit_count')
-isico.or.jp,kitagawamura.jp,##^#banner_footer1
-m.qoo10.jp#%#//scriptlet('abort-current-inline-script', '$', 'layerpopup_mainBanner')
-mail.tm##:xpath(//*[contains(text(),"blocker")])
-masterduelmeta.com##:xpath(//*[contains(text(),"adblock")]):upward(3)
-no-csp-reports: * true
-no-large-media: behind-the-scene false
-pakomanmama.com###list:has-text(PR()
-spankwire.com##:xpath(//*[contains(text(),"Advertisement")]):upward(1)
-www.reddit.com##.bottom-bar, .XPromoBottomBar
-www.reddit.com##.useApp,.TopNav__promoButton
-www.reddit.com##.XPromoInFeed
-www.reddit.com##.XPromoPopup
-www.reddit.com##.XPromoPopupRpl
-www.reddit.com##.XPromoPopupRplNew
-www.reddit.com##^xpromo-nsfw-blocking-modal
-www.reddit.com##+js(aeld, touchmove)
-www.reddit.com##body:style(pointer-events: auto !important;)
-www.reddit.com##body.scroll-disabled:style(overflow: visible !important; position: static !important;)
-www.reddit.com##body.scroll-is-blocked:style(overflow: visible !important; position: static !important;)
-www.reddit.com##div.prompt
-www.reddit.com##img[id="post-image"]:style(object-fit: fill !important;)
-www.reddit.com##xpromo-app-selector
-www.reddit.com##xpromo-new-app-selector
-yun.ir#%#//scriptlet('set-cookie-reload', 'bypasstimer', '10')
