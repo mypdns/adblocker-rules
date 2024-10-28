@@ -6,7 +6,7 @@
     "sources": [
         {
             "name": "My Privacy DNS Noise Filter",
-            "source": "rules/noise.txt",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/noise.txt",
             "type": "adblock"
         },
         {

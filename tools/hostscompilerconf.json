@@ -6,7 +6,7 @@
     "sources": [
         {
             "name": "My Privacy DNS Filter adult_domain.txt",
-            "source": "rules/adult_domain.txt",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/adult_domain.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
@@ -14,7 +14,7 @@
         },
         {
             "name": "My Privacy DNS Filter adult_rule.txt",
-            "source": "rules/adult_rule.txt",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/adult_rule.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
@@ -22,7 +22,7 @@
         },
         {
             "name": "My Privacy DNS Filter adware_domain.txt",
-            "source": "rules/adware_domain.txt",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/adware_domain.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
@@ -30,7 +30,7 @@
         },
         {
             "name": "My Privacy DNS Filter adware_rule.txt",
-            "source": "rules/adware_rule.txt",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/adware_rule.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
@@ -38,7 +38,7 @@
         },
         {
             "name": "My Privacy DNS Filter annoyance_domain.txt",
-            "source": "rules/annoyance_domain.txt",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/annoyance_domain.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
@@ -46,7 +46,7 @@
         },
         {
             "name": "My Privacy DNS Filter annoyance_rule.txt",
-            "source": "rules/annoyance_rule.txt",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/annoyance_rule.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
@@ -54,7 +54,7 @@
         },
         {
             "name": "My Privacy DNS Filter anti_social_domain.txt",
-            "source": "rules/anti_social_domain.txt",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/anti_social_domain.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
@@ -62,7 +62,7 @@
         },
         {
             "name": "My Privacy DNS Filter anti_social_rule.txt",
-            "source": "rules/anti_social_rule.txt",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/anti_social_rule.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
@@ -70,7 +70,7 @@
         },
         {
             "name": "My Privacy DNS Filter anti_whitelist_domain.txt",
-            "source": "rules/anti_whitelist_domain.txt",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/anti_whitelist_domain.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
@@ -78,7 +78,7 @@
         },
         {
             "name": "My Privacy DNS Filter anti_whitelist_rule.txt",
-            "source": "rules/anti_whitelist_rule.txt",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/anti_whitelist_rule.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
@@ -86,7 +86,7 @@
         },
         {
             "name": "My Privacy DNS Filter cookie_domain.txt",
-            "source": "rules/cookie_domain.txt",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/cookie_domain.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
@@ -94,7 +94,7 @@
         },
         {
             "name": "My Privacy DNS Filter cookie_rule.txt",
-            "source": "rules/cookie_rule.txt",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/cookie_rule.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
@@ -102,7 +102,7 @@
         },
         {
             "name": "My Privacy DNS Filter domain_piracy_rules.txt",
-            "source": "rules/domain_piracy_rules.txt",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/domain_piracy_rules.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
@@ -110,7 +110,7 @@
         },
         {
             "name": "My Privacy DNS Filter privacy_domain.txt",
-            "source": "rules/privacy_domain.txt",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/privacy_domain.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
@@ -118,7 +118,7 @@
         },
         {
             "name": "My Privacy DNS Filter privacy.rules.txt",
-            "source": "rules/privacy_rules.txt",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/privacy_rules.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
@@ -126,7 +126,7 @@
         },
         {
             "name": "My Privacy DNS Filter whitelist_domain.whitelist",
-            "source": "rules/whitelist_domain.txt",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/whitelist_domain.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
@@ -134,7 +134,7 @@
         },
         {
             "name": "My Privacy DNS Filter whitelist_rule.whitelist",
-            "source": "rules/whitelist_rule.txt",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/whitelist_rule.txt",
             "type": "adblock",
             "transformations": [
                 "RemoveComments"
@@ -142,7 +142,7 @@
         },
         {
             "name": "AdWare Domain list",
-            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/domains.list",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/domains.csv",
             "type": "adblock",
             "transformations": [
                 "RemoveComments",
@@ -151,7 +151,7 @@
         },
         {
             "name": "AdWare onion list",
-            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/onions.list",
+            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/onions.csv",
             "type": "adblock",
             "transformations": [
                 "RemoveComments",
@@ -160,7 +160,7 @@
         },
         {
             "name": "AdWare .TLD list",
-            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/tld.list",
+            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/tld.csv",
             "type": "adblock",
             "transformations": [
                 "RemoveComments",
@@ -169,7 +169,7 @@
         },
         {
             "name": "AdWare wildcard list",
-            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/wildcard.list",
+            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/wildcard.csv",
             "type": "adblock",
             "transformations": [
                 "RemoveComments",
@@ -183,7 +183,7 @@
         },
         {
             "name": "tracking Domain list",
-            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/tracking/domains.list",
+            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/tracking/domains.csv",
             "type": "adblock",
             "transformations": [
                 "RemoveComments",
@@ -192,7 +192,7 @@
         },
         {
             "name": "tracking onions list",
-            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/tracking/onions.list",
+            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/tracking/onions.csv",
             "type": "adblock",
             "transformations": [
                 "RemoveComments",
@@ -201,7 +201,7 @@
         },
         {
             "name": "tracking .TLD list",
-            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/tracking/tld.list",
+            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/tracking/tld.csv",
             "type": "adblock",
             "transformations": [
                 "RemoveComments",
@@ -210,7 +210,7 @@
         },
         {
             "name": "tracking wildcard list",
-            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/tracking/wildcard.list",
+            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/tracking/wildcard.csv",
             "type": "adblock"
         },
         {
