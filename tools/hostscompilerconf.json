@@ -142,7 +142,7 @@
         },
         {
             "name": "AdWare Domain list",
-            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/domains.csv",
+            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/domains.csv",
             "type": "adblock",
             "transformations": [
                 "RemoveComments",
