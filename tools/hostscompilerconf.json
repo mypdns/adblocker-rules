@@ -1125,11 +1125,6 @@
             "type": "adblock"
         },
         {
-            "name": "Peter @pgl yoyo.org",
-            "source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus;showintro=0",
-            "type": "adblock"
-        },
-        {
             "name": "@migueldemoura ublock-umatrix-rulesets",
             "source": "https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/uBlock/list",
             "type": "adblock"

@@ -164,7 +164,7 @@
 %include https://someonewhocares.org/hosts/hosts%
 
 !------- Peter @pgl yoyo.org ------------------------------------------!
-%include https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus;showintro=0%
+! %include https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus;showintro=0%
 
 !------- @migueldemoura ublock-umatrix-rulesets -----------------------!
 %include https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/uBlock/list%
