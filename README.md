@@ -53,14 +53,17 @@ the abp filter script.
 
 You should also be able to subscribe directly to the rules by
 right-click any of the following urls, choose `<Adblocker>` =>
-`<Subscribe to the filterlist>`
 
-- <a href="abp:
+  ```html
+
+<Subscribe to the filterlist>`
+
+  <a href="abp:
   subscribe?location=https://mypdns.github.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules&requiresLocation=https://mypdns.github.io/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules%20%E2%80%93%20github%20Edition"
   title="Subscribe to My Privacy DNS adblocker rules (0xacab
   edition)">adblocker.mypdns.org | Adblock Rules (github edition)
   </a>
-- ~~mypdns.github.io~~ | No longer Supported
+  ```
 
 ## Issues and comments
 
@@ -108,10 +111,8 @@ disregarding the actual filter first are present at the 3rd argument.
 In this rules we like to hide the `.modal-backdrop` but to actually succeed
 with this, will need some more arguments.
 
-```css
-#
-#
-.show.fade.modal-backdrop
+```
+##.show.fade.modal-backdrop
 ```
 
 This should be sorted by the first `s`
@@ -167,26 +168,14 @@ How to write filters: <https://help.eyeo.com/en/adblockplus/how-to-write-filters
 
 If the original rule was like
 
-```css
-@
-@
-/
-advertise.js$ script, domain
-
-=
-example.com |xyz.com
+```
+@@/advertise.js$ script,domain=example.com|xyz.com
 ```
 
 Then
 
-```css
-@
-@
-/
-advertise.js$ script, domain
-
-=
-example.com, badfilter
+```
+@@/advertise.js$script,domain=example.com,badfilter
 ```
 
 is a valid filter, it disables the whitelisted rule only on `example.com`.
@@ -195,30 +184,7 @@ See the dialogue at [github][dialogue]
 
 ## External resources
 
-@Yuki2718 `/adblock` (~~`https://github.com/Yuki2718/adblock`~~ Spyware
-infected domain) (Pretty much all the rules)
-
-@yourduskquibbles `/webannoyances` (~~`https://github.com/yourduskquibbles/webannoyances`~~
-Spyware infected domain)
-
-@ryanbr `fanboy-adblock` (~~`https://github.com/ryanbr/fanboy-adblock`~~
-Spyware infected domain)
-
-@pgl [yoyo.org](https://pgl.yoyo.org/)
-
-@EasyList [easylist.to][easylist.to]
-
-@Spam404 `/Spam404/lists` (~~`https://github.com/Spam404/lists`~~
-Spyware infected domain)
-
-@migueldemoura `ublock-umatrix-rulesets` (~~`https://github.com/migueldemoura/ublock-umatrix-rulesets/`~~
-Spyware infected domain)
-
-@PeterDaveHello `url shorteneres` (~~`https://github.com/PeterDaveHello/url-shorteners`~~
-Spyware infected domain)
-
-And everyone else I've forgot to mention here.  
-Have a look in the [source list](/adblocker-rules.template)
+Please see `tools/hostscompilerconf.json` & `tools/noise.json`
 
 ## Sponsors
 
