@@ -153,7 +153,7 @@ to read a filter list (we use Python 3 syntax here but the API is the same):
 
 If ``filterlist.txt`` contains this filter list::
 
-    [Adblock Plus 2.0]
+    [uBlock Origin]
     ! Title: Example list
 
     abc.com,cdf.com##div#ad1

@@ -1,11 +1,11 @@
-[Adblock Plus 2.0]
+[uBlock Origin]
 ! Title: My Privacy DNS
 ! Last modified: %timestamp%
 ! Expires: 1 hours (update frequency)
-! List url:
-! https://github.com/mypdns/adblocker-rules/blob/master/rules/adult_rule.blacklist
-!
 %include ublockorigin-rules:template_header.txt%
+!
+! List url:
+! https://github.com/mypdns/adblocker-rules/raw/master/rules/adult_rule.txt
 
 ! 0.
 

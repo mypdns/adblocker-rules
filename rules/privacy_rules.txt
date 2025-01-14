@@ -1,11 +1,11 @@
-[Adblock Plus 2.0]
+[uBlock Origin]
 ! Title: My Privacy DNS
 ! Last modified: %timestamp%
 ! Expires: 1 hours (update frequency)
+%include ublockorigin-rules:template_header.txt%
+!
 ! List url:
 ! https://github.com/mypdns/adblocker-rules/blob/master/rules/spyware_rule.blacklist
-!
-%include ublockorigin-rules:template_header.txt%
 
 ! 0.
 
@@ -128,6 +128,7 @@ serverfault.com,superuser.com,stackoverflow.com,askubuntu.com,stackexchange.com#
 /metrika/watch.js
 @@||mypdns.github.io/adblocker-rules/*$xhr
 ||mypdns.*^$all,domain=~mypdns.org,to=~mypdns.org
+||mypdns.*^$all,domain=~mypdns.youtrack.cloud,,to=~mypdns.youtrack.cloud
 
 ! N.
 /noui/eventlogger.js
