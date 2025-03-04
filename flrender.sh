@@ -40,6 +40,6 @@ head -n 5 _public/blockrules.txt
 # Content: https://mypdns.org/spirillen/
 # Source: https://github.com/mypdns/adblocker-rules
 # License: https://github.com/mypdns/adblocker-rules/blob/master/LICENSE.md
-# License: MCRAE GENERAL PUBLIC LICENSE (version 4.r53m2)
+# Licence: CC BY-NC-SA 4.0
 #
 # You should have received a copy of the license along with this work.
