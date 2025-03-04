@@ -6,7 +6,12 @@
     "sources": [
         {
             "name": "My Privacy DNS Chuck Norris Filter",
-            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/noise.txt",
+            "source": "https://github.com/mypdns/adblocker-rules/raw/master/rules/noise.txt",
+            "type": "adblock"
+        },
+        {
+            "name": "iam-py-test: Private list",
+            "source": "https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/personal/iam-py-test.txt",
             "type": "adblock"
         }
     ],
