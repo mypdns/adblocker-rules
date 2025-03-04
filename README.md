@@ -184,7 +184,7 @@ See the dialogue at [github][dialogue]
 
 ## External resources
 
-Please see `tools/hostscompilerconf.json` & `tools/noise.json`
+Please see `tools/hostscompilerconf.json5` & `tools/noise.json`
 
 ## Sponsors
 

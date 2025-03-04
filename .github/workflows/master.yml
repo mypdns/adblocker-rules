@@ -57,8 +57,11 @@ jobs:
 
       - name: Compiling blacklists
         run: |
-          hostlist-compiler -c tools/hostscompilerconf.json -o _public/blockrules.txt
-          hostlist-compiler -c tools/noise.json -o _public/noise.txt
+          hostlist-compiler -c tools/hostscompilerconf.json5 -o _public/blockrules.txt
+
+      - name: Compile Noice List
+        run: |
+          hostlist-compiler -c tools/noise.json5 -o _public/noise.txt
 
       # - name: Render the rules
       #   run: |
