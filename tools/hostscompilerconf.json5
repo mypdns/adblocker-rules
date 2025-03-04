@@ -1182,7 +1182,9 @@
         "RemoveEmptyLines",
         "TrimLines"
     ],
-    "exclusions": [],
+    "exclusions": [
+        "/^@@\\|\\|.+/"
+    ],
     "exclusions_sources": [
         "tools/global_exclusions.txt"
     ],
