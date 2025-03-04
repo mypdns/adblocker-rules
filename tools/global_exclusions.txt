@@ -198,6 +198,8 @@ _prebid_$badfilter
 archive.is,archive.today,archive.vn,archive.fo,archive.md,archive.li,archive.ph,archivecaslytosk.onion,archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion,btdig.com,filecr.com,gommonauti.it,gugo.site,krunker.io,lyckansforskola.com,sybertrek.com,##+js(aopw, navigator.brave)
 file-scheme * 1p-script block
 file-scheme * inline-script block
+github.com
+githubusercontent.com
 investorvillage.com#%#//scriptlet('abort-current-inline-script', ' update_visit_count')
 isico.or.jp,kitagawamura.jp,##^#banner_footer1
 m.qoo10.jp#%#//scriptlet('abort-current-inline-script', '$', 'layerpopup_mainBanner')
@@ -247,7 +249,6 @@ yun.ir#%#//scriptlet('set-cookie-reload', 'bypasstimer', '10')
 ||doubleclick.net^*/
 ||doubleclick.net^*/trackimp/$third-party
 ||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion^
-||githubusercontent.com^
 ||google-analytics.com/
 ||google-analytics.com^$
 ||google-analytics.com^*/
