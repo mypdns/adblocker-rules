@@ -25,7 +25,7 @@ jobs:
         python_version:
           - '3.11'
         os:
-          - ubuntu-latest
+          - ubuntu-22.04
 
     steps:
       - uses: actions/checkout@main
