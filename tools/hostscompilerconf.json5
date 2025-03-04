@@ -1145,6 +1145,11 @@
             "type": "adblock"
         },
         {
+            "name": "urlhaus.Abuse.Ch",
+            "source": "https://urlhaus.abuse.ch/downloads/hostfile/",
+            "type": "hosts"
+        },
+        {
             "name": "@PeterDaveHello url shorteneres",
             "source": "https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list",
             "type": "adblock"
