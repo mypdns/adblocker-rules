@@ -53,7 +53,7 @@ jobs:
 
       - name: Install hostlist-compiler
         run: |
-          npm i -g @adguard/hostlist-compiler@1.0.36
+          npm i -g @adguard/hostlist-compiler@1.0.35
 
       - name: Compiling blacklists
         run: |
