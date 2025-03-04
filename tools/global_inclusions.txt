@@ -6,3 +6,4 @@
 @@||mypdns.org^$ghide
 @@||www.hetzner.com^$font,domain=www.hetzner.com
 @@github.com^$domain=github.com
+@@||avatars.githubusercontent.com^$image,domain=github.com
