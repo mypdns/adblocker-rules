@@ -66,13 +66,16 @@ bibliotek.dk##[class*="recommender"]
 ||search.brave.com^$removeparam=source
 
 ! C.
+!||cloudflare.net^$xhr,important
 ||catsnthing.com^$important,all
 ||catsnthings.fun^$important,all
 ||cdnjs.cloudflare.com^$script,font,stylesheet
 ||cheapcinema.club^$important,all
 ||clarity.microsoft.com^
 ||clarity.ms^
-||cloudflare.net^$xhr,important
+||cloudflare.com^$important,all
+||cloudflare.net^$important,all
+||cloudflare.org^$important,all
 ||cloudflareinsights.com`
 ||crowdin.com$3p,important
 ||cxense.com^$important
