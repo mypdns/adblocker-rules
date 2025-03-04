@@ -1,17 +1,17 @@
 {
     "name": "My Privacy DNS",
-    "description": "My Privacy DNS, Chuck Norris list",
+    "description": "My Privacy DNS, Noise list",
     "homepage": "https://mypdns.github.io/adblocker-rules/",
     "license": "MCRAE GENERAL PUBLIC LICENSE (version 4.r53m2)",
     "sources": [
         {
-            "name": "My Privacy DNS Chuck Norris Filter",
-            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/noise.txt",
+            "name": "iam-py-test: Private list",
+            "source": "https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/personal/iam-py-test.txt",
             "type": "adblock"
         },
         {
-            "name": "iam-py-test: Private list",
-            "source": "https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/personal/iam-py-test.txt",
+            "name": "My Privacy DNS Chuck Norris Filter",
+            "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/noise.txt",
             "type": "adblock"
         }
     ],
