@@ -247,7 +247,6 @@ yun.ir#%#//scriptlet('set-cookie-reload', 'bypasstimer', '10')
 ||doubleclick.net^*/
 ||doubleclick.net^*/trackimp/$third-party
 ||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion^
-||github.com^
 ||githubusercontent.com^
 ||google-analytics.com/
 ||google-analytics.com^$
