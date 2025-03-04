@@ -2,11 +2,11 @@
     "name": "My Privacy DNS",
     "description": "My Privacy DNS, Noise list",
     "homepage": "https://mypdns.github.io/adblocker-rules/",
-    "license": "MCRAE GENERAL PUBLIC LICENSE (version 4.r53m2)",
+    "license": "CC BY-NC-SA 4.0",
     "sources": [
         {
             "name": "My Privacy DNS Chuck Norris Filter",
-            "source": "https://github.com/mypdns/adblocker-rules/raw/master/rules/noise.txt",
+            "source": "rules/noise.txt",
             "type": "adblock"
         },
         {
@@ -22,6 +22,9 @@
         "RemoveComments",
         "RemoveEmptyLines",
         "TrimLines"
+    ],
+    "exclusions": [
+        "/^@@/"
     ],
     "inclusions": [
         "*"

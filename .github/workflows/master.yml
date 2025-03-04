@@ -55,13 +55,17 @@ jobs:
         run: |
           npm i -g @adguard/hostlist-compiler@1.0.35
 
+      - name: Print Hostlist-compiler version
+        run: |
+          hostlist-compiler --version
+
       - name: Compiling blacklists
         run: |
           hostlist-compiler -c tools/hostscompilerconf.json5 -o _public/blockrules.txt
 
       - name: Compile Noice List
         run: |
-          hostlist-compiler -c tools/noise.json5 -o _public/noise.txt
+          hostlist-compiler -v -c tools/noise.json5 -o _public/noise.txt
 
       # - name: Render the rules
       #   run: |

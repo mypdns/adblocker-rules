@@ -2,9 +2,7 @@
 @@||livesupport.hetzner.de/fonts/*$font,domain=www.hetzner.com
 @@||matrix.rocks^
 @@||mypdns.cloud^
-@@||mypdns.com^
 @@||mypdns.org^
 @@||mypdns.org^$ghide
 @@||www.hetzner.com^$font,domain=www.hetzner.com
-127.0.0.1##.footer.text-center
 @@github.com^$domain=github.com
