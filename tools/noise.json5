@@ -5,11 +5,6 @@
     "license": "MCRAE GENERAL PUBLIC LICENSE (version 4.r53m2)",
     "sources": [
         {
-            "name": "iam-py-test: Private list",
-            "source": "https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/personal/iam-py-test.txt",
-            "type": "adblock"
-        },
-        {
             "name": "My Privacy DNS Chuck Norris Filter",
             "source": "https://raw.githubusercontent.com/mypdns/adblocker-rules/refs/heads/master/rules/noise.txt",
             "type": "adblock"
