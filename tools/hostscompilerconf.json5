@@ -1192,12 +1192,12 @@
     ],
     "transformations": [
         "Compress",
-        "ConvertToAscii",
-        "Deduplicate",
-        "InsertFinalNewLine",
         "RemoveComments",
         "RemoveEmptyLines",
-        "TrimLines"
+        "ConvertToAscii",
+        "TrimLines",
+        "Deduplicate",
+        "InsertFinalNewLine"
     ],
     "exclusions": [
         "/^@@/"
