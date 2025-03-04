@@ -127,8 +127,8 @@ serverfault.com,superuser.com,stackoverflow.com,askubuntu.com,stackexchange.com#
 /metrics/statsd/*
 /metrika/watch.js
 @@||mypdns.github.io/adblocker-rules/*$xhr
+||mypdns.*^$all,domain=~mypdns.youtrack.cloud,to=~mypdns.youtrack.cloud
 ||mypdns.*^$all,domain=~mypdns.org,to=~mypdns.org
-||mypdns.*^$all,domain=~mypdns.youtrack.cloud,,to=~mypdns.youtrack.cloud
 
 ! N.
 /noui/eventlogger.js

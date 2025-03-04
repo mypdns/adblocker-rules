@@ -49,7 +49,6 @@ duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.
 
 ! H.
 /html$elemhide?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
-0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##.hide.js-explore-groups-landing.content-block.landing.explore-groups
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.header__clickable
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.highlight_sponsored
 
@@ -95,7 +94,6 @@ duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###
 
 ! P.
 /public/$third-party?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
-0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##[class*="promotion-"]
 
 ! Q.
 ^*^q=$elemhide?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
@@ -109,7 +107,6 @@ dailyporn.club,gumtree.com##.right
 ! S.
 /share/spice/amazon/$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
 dharma-production.com##.subscribe
-0xacab.org,framagit.org,gitlab.com,mypdns.org,wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion##.show.dropdown-menu-right.dropdown-menu > ul > li > .text-nowrap
 
 ! T.
 /t/*$important?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com

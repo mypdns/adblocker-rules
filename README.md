@@ -1,7 +1,7 @@
 [![uBlock syntax](_public/icons/ublock-origin-syntax.svg)](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax)
 [![AdGuard syntax](_public/icons/adguard-syntax.svg)](https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters)
 [![ko-fi](_public/icons/ko-fi.png)](https://ko-fi.com/X8X37FUGU)
-[![Donate](_public/icons/donate.png)](https://github.com/mypdns/matrix/blob/master/DONATION.md)
+[![Donate](_public/icons/donate.png)](https://www.mypdns.org/donate)
 [![My Privacy DNS](_public/icons/logo-h128.png)](https://github.com/mypdns/matrix "This project is part of My Privacy DNS")
 
 # Adblocker Rules
@@ -36,20 +36,20 @@ filters/rules (Adblock Plus / uBlock Origin) or User Rules (AdGuard).
 
 Our HTML front end can be found at
 
-- 0xacab: <https://mypdns.github.io/adblocker-rules/>
+- My Privacy DNS: <https://mypdns.github.io/adblocker-rules/>
 - GitHub: No longer Supported as they have incorporated SpyWare
 
 ## Subscribe to the rules
 
 [Click here to activate these rules in your Adblocker][Subscribe]
 
-The following Lnks will provide you with different resulting filters.
-0xacab Editions should be the most advanced and compressed thanks to
+The following Links will provide you with different resulting filters.
+My Privacy DNS Editions should be the most advanced and compressed thanks to
 the @adguard/hostlist-compiler compiler, where the GH editions relay on
 the abp filter script.
 
-- 0xacab edition via [adblocker.mypdns.org][Subscribe]
-- Github No longer Supported
+- My Privacy DNS edition via [www.mypdns.org][Subscribe]
+- GitHub No longer Supported
 
 You should also be able to subscribe directly to the rules by
 right-click any of the following urls, choose `<Adblocker>` =>
@@ -60,8 +60,8 @@ right-click any of the following urls, choose `<Adblocker>` =>
 
   <a href="abp:
   subscribe?location=https://mypdns.github.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules&requiresLocation=https://mypdns.github.io/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules%20%E2%80%93%20github%20Edition"
-  title="Subscribe to My Privacy DNS adblocker rules (0xacab
-  edition)">adblocker.mypdns.org | Adblock Rules (github edition)
+  title="Subscribe to My Privacy DNS adblocker rules (My Privacy DNS
+  edition)">adblocker.mypdns.org | Adblock Rules (GitHub edition)
   </a>
   ```
 
@@ -72,11 +72,11 @@ following:
 
 - [Issues][issues] with any rules is reported on the My Privacy DNS Site.
 - Commit Comments are posted on the individual [commit][commits]'s on
-  the My Privacy DNS Site, in case you don't think it need a
+  the My Privacy DNS Site, in case you don't think it needs an
   [Issues][issues].
-- Common questions, non specific filter topics, goes straight to the
+- Common questions, non-specific filter topics, goes straight to the
   [Support][support] board on the My Privacy DNS Site.
-- Any comments or issues posted elsewhere will in the future be ignored
+- Any comments or issues posted elsewhere will eventually be ignored
   in full. ***The grace period is excised***.
 
 `github.com` is in *only* a full backup of
@@ -97,7 +97,7 @@ We do no longer operate at `Github` do to there anti-privacy terms of usage.
 | `anti_whitelist_*.blacklist` | Found a rules elsewhere your would like to encounter, this is the filters for it.                                                                                                                                                                               |
 | `cookie_*.blacklist`         | Everything preventing cookies being set, where not needed or used for any sorts of tracking/spying/logging :cookie: (1st & 3rd party)                                                                                                                           |
 | `noise.txt`                  | :warning: **_WARNING_**! The following filter, WILL bring interruption to sites functionality. These rules are to clean up sites by removing all the unnecessary noise, bit like @yourduskquibbles webannoyances, but breaking things doesn't matter **AT ALL** |
-| `spyware_*.blacklist`        | Filter preventing any kind of tracking, spying and alike. If you have to ask, you need to read [SpyWare Wiki](https://0xacab.org/my-privacy-dns/matrix/-/wikis/Categories/Spyware/SpyWare)                                                                      |
+| `spyware_*.blacklist`        | Filter preventing any kind of tracking, spying and alike. If you have to ask, you need to read [SpyWare Wiki](https://My Privacy DNS.org/my-privacy-dns/matrix/-/wikis/Categories/Spyware/SpyWare)                                                              |
 | `whitelist_*.whitelist`      | Probably not very used... But it can come in handy sometimes protecting something to keep is spinning....                                                                                                                                                       |
 
 ### Sorting filters
@@ -108,7 +108,7 @@ disregarding the actual filter first are present at the 3rd argument.
 
 #### Example
 
-In this rules we like to hide the `.modal-backdrop` but to actually succeed
+In these rules we like to hide the `.modal-backdrop` but to actually succeed
 with this, will need some more arguments.
 
 ```
@@ -119,7 +119,7 @@ This should be sorted by the first `s`
 
 ## Filter Inclusion - Exclusions
 
-We will only in sevier cases include any rules that could/can be blocked
+We will only in severer cases include any rules that could/can be blocked
 by a DNS related firewall like DNS RPZ.
 
 **IF** a rules is included, this will be to support the tor-browser where
@@ -180,7 +180,7 @@ Then
 
 is a valid filter, it disables the whitelisted rule only on `example.com`.
 
-See the dialogue at [github][dialogue]
+See the dialogue at [GitHub][dialogue]
 
 ## External resources
 
@@ -193,14 +193,15 @@ Please see `tools/hostscompilerconf.json5` & `tools/noise.json`
 
 ## Build tools
 
-we uses the HostlistCompiler https://github.com/AdguardTeam/HostlistCompiler to build our lists
+We use the HostlistCompiler https://github.com/AdguardTeam/HostlistCompiler to
+build our lists
 
 ## Official mirrors
 
 The following repositories are official mirrors and should (when things
 goes right) be updated by [push on commit][poc]
 
-| Project         | Host                                                       | Metode (push \| pull) |
+| Project         | Host                                                       | Method (push \| pull) |
 |:----------------|:-----------------------------------------------------------|----------------------:|
 | Adblocker Rules | `https://git.disroot.org/my-privacy-dns/adblocker-rules`   |                  push |
 | Adblocker Rules | `https://git.kescher.at/my-privacy-dns/adblocker-rules`    |                  pull |
@@ -215,7 +216,7 @@ goes right) be updated by [push on commit][poc]
 | Matrix          | `https://gitlab.com/my-privacy-dns/matrix/matrix`          |                  push |
 | Matrix          | `https://notabug.org/my-privacy-dns/matrix`                |                  pull |
 
-## Tanks to
+## Thanks to
 
 Thanks to @Yuki2718, @THEtomaso, @krystian3w and everyone else who is
 spreading the knowledge of how rules should be made :smiley:
@@ -226,9 +227,11 @@ spreading the knowledge of how rules should be made :smiley:
 
 [commits]: https://github.com/mypdns/adblocker-rules
 
-[support]: https://0xacab.org/my-privacy-dns/support
+[support]: https://My Privacy DNS.org/my-privacy-dns/support
 
-[Subscribe]: abp:subscribe?location=https://mypdns.github.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%200xacab%20Edition%20%E2%80%93%20Adblock%20Rules
+[Subscribe]: abp:
+subscribe?location=https://mypdns.github.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20My
+Privacy DNS%20Edition%20%E2%80%93%20Adblock%20Rules
 
 <!-- External Links -->
 
@@ -244,5 +247,6 @@ spreading the knowledge of how rules should be made :smiley:
 
 [AdGuard]: https://adguard.com/
 
-[poc]: https://0xacab.org/help/user/project/repository/mirror/push.md "Push mirroring"
+[poc]: https://My Privacy DNS.org/help/user/project/repository/mirror/push.md "
+Push mirroring"
 .
