@@ -1141,11 +1141,6 @@
         },
         {
             "name": "UrlHaus",
-            "source": "https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-online.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "UrlHaus",
             "source": "https://malware-filter.gitlab.io/malware-filter/tracking-filter.txt",
             "type": "adblock"
         },
@@ -1153,14 +1148,6 @@
             "name": "@PeterDaveHello url shorteneres",
             "source": "https://raw.githubusercontent.com/PeterDaveHello/url-shorteners/master/list",
             "type": "adblock"
-        },
-        {
-            "name": "openphish",
-            "source": "https://openphish.com/feed.txt",
-            "type": "hosts",
-            "transformations": [
-                "InsertFinalNewLine"
-            ]
         },
         {
             "name": "Geoffrey Frogeye First Party Trackers",
