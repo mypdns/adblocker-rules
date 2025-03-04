@@ -23,9 +23,9 @@ jobs:
       fail-fast: false
       matrix:
         python_version:
-          - '3.11'
+          - '3.13'
         os:
-          - ubuntu-22.04
+          - ubuntu-latest
 
     steps:
       - uses: actions/checkout@main
