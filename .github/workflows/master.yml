@@ -63,6 +63,10 @@ jobs:
         run: |
           hostlist-compiler -c tools/hostscompilerconf.json5 -o _public/blockrules.txt
 
+      - name: Compiling blacklists 2
+        run: |
+          hostlist-compiler -c tools/hostscompilerconf-02.json5 -o _public/blockrules-02.txt
+
       - name: Compile Noice List
         run: |
           hostlist-compiler -v -c tools/noise.json5 -o _public/noise.txt
