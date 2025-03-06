@@ -49,7 +49,6 @@ bitbucket.org##.e1sgjb1l0.css-s1rlud
 ! F.
 
 ! G.
-! Github
 @@avatars.githubusercontent.com^$domain=github.com
 @@github.com^$domain=github.com
 @@github.com^$image,doc,script,xhr,domain=github.com
@@ -62,6 +61,7 @@ bitbucket.org##.e1sgjb1l0.css-s1rlud
 @@||blob.core.windows.net/actions-results/$xhr,domain=github.com
 @@||github.githubassets.com^$domain=github.com
 @@||mypdns.github.io/adblocker-rules/$inline-script,1p
+@@||mypdns.github.io/adblocker-rules/*$xhr,1p
 @@||mypdns.github.io^$stylesheet,1p
 @@||private-user-images.githubusercontent.com^$image,domain=github.com
 @@||private-user-images.githubusercontent.com^$image,domain=github.com
