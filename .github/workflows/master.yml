@@ -53,7 +53,7 @@ jobs:
 
       - name: Install hostlist-compiler
         run: |
-          npm i -g @adguard/hostlist-compiler
+          npm i -g @adguard/hostlist-compiler@1.0.38
 
       - name: Print Hostlist-compiler version
         run: |
