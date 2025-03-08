@@ -6,7 +6,7 @@
     "@adguard/aglint": "^2.1.3"
   },
   "name": "adblocker-rules",
-  "version": "1.0.0",
+    "version": "1.0.1",
   "description": "[![uBlock syntax](_public/icons/ublock-origin-syntax.svg)](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax) [![AdGuard syntax](_public/icons/adguard-syntax.svg)](https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters) [![ko-fi](_public/icons/ko-fi.png)](https://ko-fi.com/X8X37FUGU) [![Donate](_public/icons/donate.png)](https://github.com/mypdns/matrix/blob/master/DONATION.md) [![My Privacy DNS](_public/icons/logo-h128.png)](https://github.com/mypdns/matrix \"This project is part of My Privacy DNS\")",
   "main": "index.js",
   "directories": {
