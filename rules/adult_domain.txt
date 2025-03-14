@@ -286,11 +286,12 @@ javporn.tv##div.download-favorite-container:nth-of-type(3)
 ! K.
 
 ! L.
-||lotzadollars.com^$script,important
+linuxbabe.com##.home_sidebar
 livehdcams.com##.HeroSpace-root-0-2-44
 livehdcams.com##.PayPalAgeGate-root-d0-0-2-76
-love4porn.com##[src*="love4porn.com/player/html.php?aid=pause_html"]
 livejasmin.com###react-container
+love4porn.com##[src*="love4porn.com/player/html.php?aid=pause_html"]
+||lotzadollars.com^$script,important
 
 ! M.
 ||a.montlusa.top/loader$subdocument
