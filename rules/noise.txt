@@ -9,11 +9,12 @@
 ! WARNING!!!!
 ! Notice, The following filters, WILL bring the sites down from fully function
 
-##a[href^="https://google.com"]
-##a[href^="https://youtube.com"]
-##a[href^="https://youtu.be"]
-##a[href^="https://bit.ly/"]
+##a[href*="lnk.to"]
 ##a[href*="youtube.com"]
+##a[href^="https://bit.ly/"]
+##a[href^="https://google.com"]
+##a[href^="https://youtu.be"]
+##a[href^="https://youtube.com"]
 
 ! A.
 *Promo*.jpg$domain=adultdvdempire.com,image
