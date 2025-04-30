@@ -234,83 +234,8 @@
             "type": "adblock"
         },
         {
-            "name": "@Yuki2718 many Filters",
-            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/anti-allowlist.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "@Yuki2718 many Filters",
-            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "@Yuki2718 many Filters",
-            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules-mob.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "@Yuki2718 many Filters",
-            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/medium_mode/dynamic-rules.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "@Yuki2718 many Filters",
-            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "@Yuki2718 many Filters",
-            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/social-plus.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "@Yuki2718 many Filters",
-            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/blog-parts.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "@Yuki2718 many Filters",
-            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/blogroll.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "@Yuki2718 many Filters",
-            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances-plus.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "@Yuki2718 many Filters",
-            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "@Yuki2718 many Filters",
-            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "@Yuki2718 many Filters",
-            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-mob.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "@Yuki2718 many Filters",
-            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-paranoid.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "@Yuki2718 many Filters",
-            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-social.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "@Yuki2718 many Filters",
-            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/mob-app.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "@Yuki2718 many Filters",
-            "source": "https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/sabre-filters2.txt",
+            "name": "@Yuki2718 Japanese Filters",
+            "source": "https://raw.githubusercontent.com/Yuki2718/adblock2/refs/heads/main/japanese/jpfp-ub.txt",
             "type": "adblock"
         },
         {
