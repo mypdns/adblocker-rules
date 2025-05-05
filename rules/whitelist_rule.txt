@@ -60,6 +60,8 @@
 @@||mypdns.org^
 @@||matrix.rocks^
 @@||mypdns.cloud^
+/matomo.js$from=~github.com,badfilter
+/matomo.js$from=matrix.rocks
 
 ! N.
 @@||www.namesilo.com/cdn-cgi/bm/cv/*$script,domain=www.namesilo.com
