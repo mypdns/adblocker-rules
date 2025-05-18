@@ -155,6 +155,7 @@ serverfault.com,superuser.com,stackoverflow.com,askubuntu.com,stackexchange.com#
 /stats/nakedtits.js$script,1p,domain=nakedtits.com
 /swell-ct-ad-data
 /swell-ct-pv^
+/tracker/socket$websocket
 adultdvdempire.com##.site__beacon
 ||simply.com$3p
 ||smetrics.*^

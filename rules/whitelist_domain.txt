@@ -91,6 +91,7 @@ bitbucket.org##.e1sgjb1l0.css-s1rlud
 ! M.
 @@||mypdns.org^$ghide
 @@||tube.matrix.rocks/api/v1/metrics/playback$xhr,domain=tube.matrix.rocks
+@@||tube.matrix.rocks/tracker/socket$websocket,1p
 
 ! N.
 
