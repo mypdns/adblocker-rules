@@ -150,15 +150,6 @@
             ]
         },
         {
-            "name": "AdWare .TLD list",
-            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/tld.csv",
-            "type": "adblock",
-            "transformations": [
-                "RemoveComments",
-                "Compress"
-            ]
-        },
-        {
             "name": "AdWare wildcard list",
             "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/wildcard.csv",
             "type": "adblock",
