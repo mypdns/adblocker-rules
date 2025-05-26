@@ -139,12 +139,15 @@ joyourself.com,liveprivates.com,lsawards.com,maturescam.com,mycams.com,mytrannyc
 ||join.$subdocument
 
 ! K.
-||cdnp.kink.com/assets/promos
-||kanako.store/cart.js$xhr,important
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.kUQgso
 kink.com##.kink-store-section
 kink.com##.product-tag-wrapper
 kink.com##.store
+||cdnp.kink.com/assets/promos
+||kanako.store/cart.js$xhr,important
+||klarna.com^
+||klarnacdn.net^
+||klarnaevt.com^
 
 ! L.
 ##a[href*="/linkout/livecams/"]

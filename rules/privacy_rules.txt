@@ -114,6 +114,7 @@ proxyrarbg.to,rarbggo.to##.is_country
 serverfault.com,superuser.com,stackoverflow.com,askubuntu.com,stackexchange.com##+js(acis, StackExchange.ga.init)
 
 ! K.
+##a[href*="klarna.com"]
 /klaviyo.js$script
 
 ! L.
