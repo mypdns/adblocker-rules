@@ -52,8 +52,10 @@ jobs:
           if [ -f requirements.txt ]; then pip install --no-cache -I -r requirements.txt; fi
 
       - name: Install hostlist-compiler
-        run: |
-          npm i -g @adguard/hostlist-compiler
+        run: npm i -g @adguard/hostlist-compiler@1.0.38
+
+      - name: Install/Update axios to secure version
+        run: npm install -g axios@^0.21.1
 
       - name: Print Hostlist-compiler version
         run: |
