@@ -270,4 +270,5 @@ yun.ir#%#//scriptlet('set-cookie-reload', 'bypasstimer', '10')
 ||pagead2.googlesyndication.com/
 ||smetrics.
 ||trustseal.enamad.ir^$third-party,cookie
+||tube^$document
 ||tumblr.com^

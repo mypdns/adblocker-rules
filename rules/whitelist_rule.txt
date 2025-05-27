@@ -80,6 +80,7 @@ joyourself.com,lsawards.com,maturescam.com,mytrannycams.com,livesexasian.com,cam
 
 ! T.
 @@||64.media.tumblr.com^$image,domain=tumbex.com|tumblr.com
+||tube^$document,badfilter
 
 ! U.
 
