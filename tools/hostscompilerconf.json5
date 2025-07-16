@@ -1007,11 +1007,6 @@
             "type": "adblock"
         },
         {
-            "name": "Dan Pollock",
-            "source": "https://someonewhocares.org/hosts/hosts",
-            "type": "hosts"
-        },
-        {
             "name": "@migueldemoura ublock-umatrix-rulesets",
             "source": "https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/uBlock/list",
             "type": "adblock"
