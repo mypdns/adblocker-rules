@@ -1006,11 +1006,11 @@
             "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt",
             "type": "adblock"
         },
-        {
-            "name": "Dan Pollock",
-            "source": "https://someonewhocares.org/hosts/hosts",
-            "type": "hosts"
-        },
+        //        {
+        //            "name": "Dan Pollock",
+        //            "source": "https://someonewhocares.org/hosts/hosts",
+        //            "type": "hosts"
+        //        },
         {
             "name": "Persian Blocker Annoyance",
             "source": "https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianAnnoyance.txt",
