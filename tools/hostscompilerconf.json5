@@ -201,11 +201,6 @@
             "type": "adblock"
         },
         {
-            "name": "PersianBlocker: Personal Blocker",
-            "source": "https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersonalBlocker.txt",
-            "type": "adblock"
-        },
-        {
             "name": "PersianBlocker: Persian Blocker",
             "source": "https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlocker.txt",
             "type": "adblock"
