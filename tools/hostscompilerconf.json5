@@ -1007,24 +1007,9 @@
             "type": "adblock"
         },
         {
-            "name": "Persian Blocker Annoyance",
-            "source": "https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianAnnoyance.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "Persian Blocker Blocker",
-            "source": "https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlocker.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "Persian Blocker Blocker Hosts",
-            "source": "https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt",
-            "type": "adblock"
-        },
-        {
-            "name": "Persian Blocker Personal Blocker",
-            "source": "https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersonalBlocker.txt",
-            "type": "adblock"
+            "name": "Dan Pollock",
+            "source": "https://someonewhocares.org/hosts/hosts",
+            "type": "hosts"
         },
         {
             "name": "@migueldemoura ublock-umatrix-rulesets",
