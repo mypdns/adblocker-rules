@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"editorLineNumber.foreground": "#00ff00"
+		},
+		"workbench.settings.editor": "json"
+	}
+}
