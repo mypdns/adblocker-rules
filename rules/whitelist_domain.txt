@@ -90,6 +90,8 @@ bitbucket.org##.e1sgjb1l0.css-s1rlud
 
 ! M.
 @@||mypdns.org^$ghide
+@@||mypdns.org^$inline-script,domain=mypdns.org
+@@||mypdns.org^$document,1p
 @@||tube.matrix.rocks/api/v1/metrics/playback$xhr,domain=tube.matrix.rocks
 @@||tube.matrix.rocks/tracker/socket$websocket,1p
 
