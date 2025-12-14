@@ -31,9 +31,10 @@
 
 ! A.
 @@||atlassian.com^$1p
+@@||token.awswaf.com^$script,xhr,domain=id.atlassian.com
 
 ! B.
-@@||bitbucket.org$domain=bitbucket.org
+@@||bitbucket.org^$1p,important
 bitbucket.org##.e1sgjb1l0.css-s1rlud
 
 ! C.
