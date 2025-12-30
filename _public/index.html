@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html lang="en" prefix="og: https://ogp.me/ns#">
-
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <title>My Privacy DNS ads blocking rules</title>
+
+    <!-- Meta tags (unchanged) -->
     <meta content="https://github.com/spirillen" name="generator">
     <meta content="@spirillen" name="author">
-    <link href="../style.css" rel="preload">
-    <link href="../style.css" rel="stylesheet">
+    <link href="./styles.css" rel="preload">
+    <link href="./styles.css" rel="stylesheet">
     <link href="https://github.com/mypdns/adblocker-rules/-/blob/master/LICENSE"
           rel="license">
     <link href="https://www.mypdns.org/" rel="prefetch">
@@ -17,6 +18,7 @@
         content="Ad blocking, anti tracking, privacy, my privacy dns, tracking protection"
         name="keywords">
 
+    <!-- Open‑Graph (unchanged) -->
     <meta content="Ad blocking rules by My Privacy DNS" property="og:title"/>
     <meta content="website" property="og:type"/>
     <meta content="https://mypdns.github.io/adblocker-rules/index.html"
@@ -26,116 +28,130 @@
     <meta content="image/jpeg" property="og:image:type">
     <meta content="768" property="og:image:width">
     <meta content="480" property="og:image:height">
-    <meta
-        content="Man is least himself when he talks in his own person.
+    <meta content="Man is least himself when he talks in his own person.
         Give him a mask, and he will tell you the truth"
-        property="og:image:alt">
-    <meta content="My Privacy DNS adblocking rules" property="og:description">
-    <!-- A one to two sentence description of your object. -->
+          property="og:image:alt"/>
+    <meta content="My Privacy DNS adblocking rules" property="og:description"/>
     <meta content="auto" property="og:determiner">
     <meta content="en_UK" property="og:locale">
-    <meta content="My Privacy DNS" property="og:site_name">
+    <meta content="My Privacy DNS" property="og:site_name"/>
 </head>
 
 <body
     class="gl-dark tab-width-4 gl-browser-firefox gl-platform-windows diff-custom-addition-color diff-custom-deletion-color">
-<div class="navbar">
-    <a href="https://www.mypdns.org" target="_blank">My Privacy DNS</a>
-    <a href="https://github.com/mypdns/adblocker-rules"
-       target="_top">Repository</a>
+
+<!-- ==================== NAVIGATION ==================== -->
+<nav class="navbar">
+    <div class="nav-brand"><a href="/index">Home</a></div>
+
+    <!-- Hamburger toggle (visible on small screens) -->
+    <input class="nav-toggle" id="nav-toggle" type="checkbox">
+    <label class="nav-toggle-label" for="nav-toggle">
+        <span></span>
+    </label>
+
+    <ul class="nav-menu">
+        <li><a href="https://kb.matrix.org">Support</a></li>
+        <li class="nav-submenu">
+            <a href="#">Support ▼</a>
+            <ul>
+                <li><a href="https://framagit.org/mypdns/support">Framagit
+                    Support</a></li>
+                <li><a href="https://www.matrix.org/contact">Matrix Contact</a>
+                </li>
+            </ul>
+        </li>
+        <li class="nav-submenu">
+            <a href="#">Dev ▼</a>
+            <ul>
+                <li><a href="https://framagit.org/mypdns/adblocker-rules">Framagit
+                    Repo</a></li>
+                <li><a href="https://github.com/mypdns/adblocker-rules">GitHub
+                    Repo</a></li>
+            </ul>
+        </li>
+        <li><a href="https://www.mypdns.org">My Privacy DNS</a></li>
+        <li><a href="https://github.com/mypdns/adblocker-rules">Repository</a>
+        </li>
+    </ul>
+</nav>
+
+<!-- ==================== MAIN CONTENT ==================== -->
+<div class="content">
+    <img alt="My Privacy DNS logo"
+         src="https://www.mypdns.org/images/logo.png"
+         style="display:block; margin:0 auto; max-width:60%;">
+
+    <h1>My Privacy DNS – Adblock Rules</h1>
+
+    <p>
+        Project aim's to provide a number of rules to your adblocker like
+        uBlock Origin, Adguard or any other that support the format in
+        complementary to <a href="https://easylist.to/" rel="nofollow"
+                            target="_blank" title="EasyList">easylist</a>.
+    </p>
+
+    <!-- ==================== DOWNLOADS ==================== -->
+    <section id="downloads">
+        <h2>Downloads</h2>
+
+        <h3>Blacklist</h3>
+        <ul>
+            <li><a
+                href="abp:subscribe?location=https://www.mypdns.org/adblocker-rules/blacklist.adblock&title=My%20Privacy%20DNS%20–%20Adblock%20Rules&requiresLocation=https://www.mypdns.org/adblocker-rules/blacklist.adblock&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules"
+                target="_top" title="Subscribe this list to adblocker">My
+                Privacy DNS (online)</a></li>
+            <li><a
+                href="abp:subscribe?location=https://mypdns.github.io/adblocker-rules/blacklist.adblock&title=My%20Privacy%20DNS%20–%20Adblock%20Rules&requiresLocation=https://mypdns.github.io/adblocker-rules/blacklist.adblock&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules"
+                target="_top" title="Subscribe this list to adblocker">GitHub
+                (raw)</a></li>
+        </ul>
+
+        <h3>Noise list</h3>
+        <ul>
+            <li><a
+                href="abp:subscribe?location=https://www.mypdns.org/adblocker-rules/noise.adblock&title=Noise%20by%20My%20Privacy%20DNS&requiresLocation=https://www.mypdns.org/adblocker-rules/noise.adblock&requiresTitle=Noise%20by%20My%20Privacy%20DNS"
+                target="_top" title="Subscribe this list to adblocker">My
+                Privacy DNS</a></li>
+            <li><a
+                href="abp:subscribe?location=https://mypdns.github.io/adblocker-rules/noise.adblock&title=Noise%20by%20My%20Privacy%20DNS&requiresLocation=https://mypdns.github.io/adblocker-rules/noise.adblock&requiresTitle=Noise%20by%20My%20Privacy%20DNS"
+                target="_top"
+                title="Subscribe this list to adblocker">GitHub</a></li>
+        </ul>
+
+        <h3>Whitelist</h3>
+        <ul>
+            <li><a
+                href="abp:subscribe?location=https://www.mypdns.org/adblocker-rules/whiteList.adblock&title=Whitelist%20by%20My%20Privacy%20DNS&requiresLocation=https://www.mypdns.org/adblocker-rules/whiteList.adblock&requiresTitle=Whitelist%20by%20My%20Privacy%20DNS"
+                target="_top" title="Subscribe this list to adblocker">My
+                Privacy DNS</a></li>
+            <li><a
+                href="abp:subscribe?location=https://mypdns.github.io/adblocker-rules/whiteList.adblock&title=Whitelist%20by%20My%20Privacy%20DNS&requiresLocation=https://mypdns.github.io/adblocker-rules/whiteList.adblock&requiresTitle=Whitelist%20by%20My%20Privacy%20DNS"
+                target="_top"
+                title="Subscribe this list to adblocker">GitHub</a></li>
+        </ul>
+
+        <p>For uBlock Origin you can also download the raw files directly:
+            <a href="./blacklist.adblock">blacklist.adblock</a> |
+            <a href="./noise.adblock">noise.adblock</a> |
+            <a href="./whiteList.adblock">whiteList.adblock</a>
+        </p>
+    </section>
+
+    <p>If you would like to contribute to the list, please do this at
+        <a href="https://github.com/mypdns/adblocker-rules">GitHub</a>.
+    </p>
+
+    <p>Cheers</p>
 </div>
 
-<img alt="My Privacy DNS logo"
-     src="https://www.mypdns.org/images/logo.png"
-     style="display:block; margin:0 auto; max-width:60%;">
-
-<h1>My Privacy DNS – Adblock Rules</h1>
-
-<h1>My Privacy DNS – Adblock Rules</h1>
-
-<p>
-    Project aim's to provide a number of rules to your adblocker like
-    uBlock Origin, Adguard or any other that support the format in
-    complementary to <a href="https://easylist.to/" rel="nofollow"
-                        target="_blank" title="EasyList">easylist</a>
-</p>
-
-<h2>The blacklist</h2>
-
-<p>
-    We support the uBlock Origin rule-sets when writing rules.
-    In case of twists, the uBlockOrigin ruleset wins for fixing an issue.
-</p>
-
-<ul>
-    <li>
-        My Privacy DNS edition via
-        <a href="abp:subscribe?location=https://www.mypdns.org/adblocker-rules/blacklist.adblock&title=My%20Privacy%20DNS%20–%20Adblock%20Rules&requiresLocation=https://www.mypdns.org/adblocker-rules/blacklist.adblock&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules"
-           target="_top"
-           title="Subscribe this list to adblocker">www.mypdns.org</a>
-    </li>
-    <li>
-        GitHub edition Part 1 via
-        <a href="abp:subscribe?location=https://mypdns.github.io/adblocker-rules/blacklist.adblock&title=My%20Privacy%20DNS%20–%20Adblock%20Rules&requiresLocation=https://mypdns.github.io/adblocker-rules/blacklist.adblock&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules"
-           target="_top" title="Subscribe this list to adblocker">mypdns.github.io</a>
-    </li>
-    <!--    <li>-->
-    <!--        GitHub edition Part 2 via-->
-    <!--        <a href="abp:subscribe?location=https://mypdns.github.io/adblocker-rules/blockrules-02.adblock&title=My%20Privacy%20DNS%20–%20Adblock%20Rules%20Part%202&requiresLocation=https://mypdns.github.io/adblocker-rules/blockrules-02.adblock&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules%20Part%202"-->
-    <!--           target="_top" title="Subscribe this list to adblocker">mypdns.github.io</a>-->
-    <!--    </li>-->
-</ul>
-
-<p>For uBlock Origin, You can find the latest block rules built
-    <a href="./blacklist.adblock">here</a>
-    <br/>
-    In case the link ain't working, you can right-click on it, then select
-    uBlock origin ⇒ subscribe to filter
-    list...
-</p>
-
-<h2>Noise list</h2>
-
-<p>
-    You can download our noise. list as well by this link.<br>
-    THe noiseList, is build on personal references and should be taken as
-    personal selection of rules.
-</p>
-
-<ul>
-    <li>
-        <a href="abp:subscribe?location=https://www.mypdns.org/adblocker-rules/noise.adblock&title=Noise%20by%20My%20Privacy%20DNS&requiresLocation=https://www.mypdns.org/adblocker-rules/noise.adblock&requiresTitle=Noise%20by%20My%20Privacy%20DNS"
-           target="_top" title="Subscribe this list to adblocker">noise.adblock
-            (My
-            Privacy DNS)</a>
-    </li>
-    <li>
-        <a href="abp:subscribe?location=https://mypdns.github.io/adblocker-rules/noise.adblock&title=My%20Privacy%20DNS%20–%20Noise%20rules&requiresLocation=https://mypdns.github.io/adblocker-rules/noise.adblock&requiresTitle=My%20Privacy%20DNS%20–%20Noise%20rules"
-           target="_top" title="Subscribe this list to adblocker">noise.list
-            (GitHub)</a>
-    </li>
-
-</ul>
-
-<p>For uBlock Origin, You can find the latest noise list built
-    <a href="abp:subscribe?location=https://mypdns.github.io/adblocker-rules/noise.adblock&title=Noise%20by%20My%20Privacy%20DNS&requiresLocation=https://www.mypdns.org/adblocker-rules/noise.adblock&requiresTitle=Noise%20by%20My%20Privacy%20DNS"
-       target="_top" title="Subscribe this list to adblocker">here</a>
-    <br/>
-    In case the link ain't working, you can right-click on it, then select
-    uBlock origin ⇒ subscribe to filter
-    list...
-</p>
-
-<h2>The whitelist</h2>
-
-<p><a
-    href="abp:subscribe?location=https://mypdns.github.io/adblocker-rules/whiteList.adblock&title=Whitelist%20by%20My%20Privacy%20DNS&requiresLocation=https://mypdns.github.io/adblocker-rules/whiteList.adblock&requiresTitle=Noise%20by%20My%20Privacy%20DNS"
-    target="_top" title="Subscribe this list to adblocker">here</a></p>
-
-<p>
-    If you would like to contribute to the list, please do this at <a
-    href="https://github.com/mypdns/adblocker-rules">GitHub</a>
-</p>
-<p>Cheers</p>
+<!-- ==================== FOOTER ==================== -->
+<div class="footer" id="suggestions">
+    <p>Need help? Check the <a href="https://kb.matrix.org">Matrix Knowledge
+        Base</a> or
+        open an issue on <a href="https://github.com/mypdns/adblocker-rules">GitHub</a>.
+    </p>
+</div>
 
 </body>
+</html>

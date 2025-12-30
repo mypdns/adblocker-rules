@@ -1,47 +1,240 @@
+/* -------------------------------------------------
+   Base layout – dark theme
+   ------------------------------------------------- */
 body {
-  background: url(background1.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  /*background-size: 100% 100%;*/
-  font-family: sans-serif;
-  margin: auto;
-  max-width: 1280px;
-  color: white;
+    font-family: Arial, sans-serif;
+    background-color: #121212; /* Dark background */
+    color: #e0e0e0; /* Light text */
+    text-align: center;
+    padding: 0; /* Padding moved to .content */
+    margin: 0;
 }
 
-.navbar {
-  background-color: #313236;
-  border-radius: 2px;
-  max-width: 100%;
+/* Container for the page’s main content */
+.content {
+    padding: 50px 20px;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
-.navbar a {
-  color: #aaa;
-  display: inline-block;
-  font-size: 15px;
-  padding: 10px;
-  text-decoration: none;
-}
-
-.navbar a:hover {
-  color: #0ef20e;
+/* -------------------------------------------------
+   Headings & paragraphs
+   ------------------------------------------------- */
+h1, h2, h3 {
+    color: #4CAF50; /* Green headings */
+    margin-top: 1.5em;
 }
 
 p {
-  margin: 5px 15px 15px 15px;
+    font-size: 1.2em;
+    line-height: 1.5;
 }
 
-h1 {
-    margin-left: 15px;
-}
-
+/* -------------------------------------------------
+   Links & buttons
+   ------------------------------------------------- */
 a {
-  color: #0ef20e;
+    color: #4CAF50;
+    text-decoration: none;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
+a:hover {
+    text-decoration: underline;
+}
+
+/* Button style for any future links */
+.button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color .3s;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
+
+/* -------------------------------------------------
+   Footer / suggestion area
+   ------------------------------------------------- */
+.footer {
+    margin-top: 50px;
+    font-size: 0.8em;
+    color: #777;
+}
+
+/* -------------------------------------------------
+   Navigation – hamburger on mobile
+   ------------------------------------------------- */
+.navbar {
+    background-color: #1e1e1e;
+    padding: 10px 20px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Brand / Home link */
+.nav-brand a {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #4CAF50;
+}
+
+/* Hide the native checkbox */
+.nav-toggle {
+    display: none;
+}
+
+/* Hamburger icon */
+.nav-toggle-label {
+    display: none; /* hidden on desktop */
+    cursor: pointer;
+}
+
+.nav-toggle-label span,
+.nav-toggle-label span::before,
+.nav-toggle-label span::after {
+    display: block;
+    background: #e0e0e0;
+    height: 3px;
+    width: 25px;
+    border-radius: 3px;
+    position: relative;
+}
+
+.nav-toggle-label span::before,
+.nav-toggle-label span::after {
+    content: "";
+    position: absolute;
+}
+
+.nav-toggle-label span::before {
+    top: -8px;
+}
+
+.nav-toggle-label span::after {
+    top: 8px;
+}
+
+/* Menu list */
+.nav-menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+}
+
+.nav-menu li {
+    position: relative;
+}
+
+.nav-menu a {
+    color: #e0e0e0;
+    padding: 5px 10px;
+}
+
+/* Sub‑menu handling */
+.nav-submenu > a::after {
+    content: " ▼";
+    font-size: .8em;
+}
+
+.nav-submenu ul {
+    display: none;
+    position: absolute;
+    background: #1e1e1e;
+    top: 100%;
+    left: 0;
+    min-width: 180px;
+    padding: 5px 0;
+    border-radius: 4px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, .5);
+}
+
+.nav-submenu:hover ul {
+    display: block;
+}
+
+.nav-submenu ul li a {
+    display: block;
+    padding: 8px 12px;
+}
+
+/* -------------------------------------------------
+   Mobile view – activate hamburger
+   ------------------------------------------------- */
+@media (max-width: 768px) {
+    .nav-toggle-label {
+        display: block;
+    }
+
+    .nav-menu {
+        flex-direction: column;
+        background: #1e1e1e;
+        width: 100%;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height .3s ease-out;
+    }
+
+    .nav-menu li {
+        width: 100%;
+    }
+
+    .nav-menu a {
+        display: block;
+        width: 100%;
+        padding: 12px;
+    }
+
+    /* When checkbox is checked, show menu */
+    #nav-toggle:checked + .nav-toggle-label + .nav-menu {
+        max-height: 500px; /* enough for all items */
+    }
+
+    /* Hide sub‑menus on mobile (they’ll appear as normal links) */
+    .nav-submenu ul {
+        position: static;
+        box-shadow: none;
+    }
+
+    .nav-submenu > a::after {
+        content: "";
+    }
+}
+
+/* -------------------------------------------------
+   Dark‑mode fallback (prefers‑color‑scheme)
+   ------------------------------------------------- */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #121212;
+        color: #e0e0e0;
+    }
+
+    .navbar, .nav-submenu ul {
+        background: #1e1e1e;
+    }
+
+    .footer {
+        color: #777;
+    }
+}
+
+/* -------------------------------------------------
+   Footer suggestion box – green border
+   ------------------------------------------------- */
+#suggestions {
+    border: 4px solid #FFB74D; /* orange‑yellow border */
+    padding: 15px;
+    border-radius: 8px;
+    margin: 30px auto;
+    max-width: 800px;
 }
