@@ -77,7 +77,7 @@ jobs:
       - name: Compile whitelist
         run: |
           hostlist-compiler -c tools/compile_whiteList.json \
-          -o _public/whiteList.txt
+          -o _public/whiteList.db
 
       # - name: Render the rules
       #   run: |

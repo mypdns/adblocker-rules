@@ -17,9 +17,13 @@
         }
     ],
     "transformations": [
+        "Compress",
         "RemoveComments",
+        "RemoveEmptyLines",
+        "ConvertToAscii",
+        "TrimLines",
         "Deduplicate",
-        "Compress"
+        "InsertFinalNewLine"
     ],
     "exclusions": [],
     "exclusions_sources": [

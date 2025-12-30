@@ -17,11 +17,12 @@
     ],
     "transformations": [
         "Compress",
-        "Deduplicate",
-        "InsertFinalNewLine",
         "RemoveComments",
         "RemoveEmptyLines",
-        "TrimLines"
+        "ConvertToAscii",
+        "TrimLines",
+        "Deduplicate",
+        "InsertFinalNewLine"
     ],
     "exclusions": [
         "/^@@/"
