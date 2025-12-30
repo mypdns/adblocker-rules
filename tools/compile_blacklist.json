@@ -3,6 +3,7 @@
     "description": "My Privacy DNS, adblockers list part 1",
     "homepage": "https://mypdns.github.io/adblocker-rules/",
     "license": "CC BY-NC-SA 4.0",
+    "version": "1.0.0.2",
     "sources": [
         {
             "name": "My Privacy DNS Filter adult_domain.txt",
@@ -126,22 +127,13 @@
         },
         {
             "name": "My Privacy DNS Filter whitelist_domain.whitelist",
-            "source": "https://github.com/mypdns/adblocker-rules/raw/master/rules/whitelist_domain.txt",
+            "source": "rules/whitelist_domain.txt",
             "type": "adblock"
         },
         {
             "name": "My Privacy DNS Filter whitelist_rule.whitelist",
-            "source": "https://github.com/mypdns/adblocker-rules/raw/master/rules/whitelist_rule.txt",
+            "source": "rules/whitelist_rule.txt",
             "type": "adblock"
-        },
-        {
-            "name": "AdWare onion list",
-            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/onions.csv",
-            "type": "adblock",
-            "transformations": [
-                "RemoveComments",
-                "Compress"
-            ]
         },
         {
             "name": "AdWare wildcard list",
@@ -165,15 +157,6 @@
         {
             "name": "tracking Domain list",
             "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/tracking/domains.csv",
-            "type": "adblock",
-            "transformations": [
-                "RemoveComments",
-                "Compress"
-            ]
-        },
-        {
-            "name": "tracking onions list",
-            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/tracking/onions.csv",
             "type": "adblock",
             "transformations": [
                 "RemoveComments",

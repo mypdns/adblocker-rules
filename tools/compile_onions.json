@@ -1,0 +1,34 @@
+{
+    "name": "The Onions... | My Privacy DNS",
+    "description": "Onions by My Privacy DNS",
+    "homepage": "https://mypdns.github.io/adblocker-rules/",
+    "license": "CC BY-NC-SA 4.0",
+    "version": "1.0.0.2",
+    "sources": [
+        {
+            "name": "AdWare onion list",
+            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/onions.csv",
+            "type": "adblock"
+        },
+        {
+            "name": "tracking onions list",
+            "source": "https://raw.githubusercontent.com/mypdns/matrix/master/source/tracking/onions.csv",
+            "type": "adblock"
+        }
+    ],
+    "transformations": [
+        "RemoveComments",
+        "Deduplicate",
+        "Compress"
+    ],
+    "exclusions": [],
+    "exclusions_sources": [
+        "tools/global_exclusions.txt"
+    ],
+    "inclusions": [
+        "*"
+    ],
+    "inclusions_sources": [
+        "tools/global_inclusions.txt"
+    ]
+}
