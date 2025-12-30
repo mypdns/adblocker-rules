@@ -64,20 +64,20 @@ jobs:
       - name: Compiling blacklists
         run: |
           hostlist-compiler -v -c tools/compile_blacklist.json \
-          -o _public/blacklist.bin
+          -o _public/blacklist.adblock
 
       - name: Compile Noice List
         run: |
-          hostlist-compiler -v -c tools/compile_noise.json -o _public/noise.bin
+          hostlist-compiler -v -c tools/compile_noise.json -o _public/noise.adblock
 
       #   - name: Compile onions
       #     run: |
-      #       hostlist-compiler -v -c tools/compile_onions.json -o _public/onions.txt
+      #       hostlist-compiler -v -c tools/compile_onions.json -o _public/onions.adblock
 
       - name: Compile whitelist
         run: |
           hostlist-compiler -c tools/compile_whiteList.json \
-          -o _public/whiteList.bin
+          -o _public/whiteList.adblock
 
       # - name: Render the rules
       #   run: |
