@@ -64,11 +64,11 @@ jobs:
       - name: Compiling blacklists
         run: |
           hostlist-compiler -v -c tools/compile_blacklist.json \
-          -o _public/blacklist.dat
+          -o _public/blacklist.bin
 
       - name: Compile Noice List
         run: |
-          hostlist-compiler -v -c tools/compile_noise.json -o _public/noise.dat
+          hostlist-compiler -v -c tools/compile_noise.json -o _public/noise.bin
 
       #   - name: Compile onions
       #     run: |
@@ -77,7 +77,7 @@ jobs:
       - name: Compile whitelist
         run: |
           hostlist-compiler -c tools/compile_whiteList.json \
-          -o _public/whiteList.dat
+          -o _public/whiteList.bin
 
       # - name: Render the rules
       #   run: |
