@@ -1,0 +1,54 @@
+# Sample workflow to run AGLint on GitHub Actions
+name: AGLint
+
+# Change the Node.js version if you want
+env:
+  NODE_VERSION: 20
+
+# AGLint will run on every push and pull request to "main" branch,
+# but only if the changed files contain .txt files
+# If you use a different branch, replace "main" with your default
+# branch name, for example: "master"
+on:
+  push:
+    branches:
+      # TODO: If your default branch is not "main", you should
+      # change this to your default branch name, for example: "master"
+      - master
+    paths:
+      - "**/*.txt"
+      - ".aglintrc.*"
+      - "package.json"
+      - "package-lock.json"
+  pull_request:
+    branches:
+      # TODO: If your default branch is not "main", you should
+      # change this to your default branch name, for example: "master"
+      - master
+    paths:
+      - "**/*.txt"
+      - ".aglintrc.*"
+      - "package.json"
+      - "package-lock.json"
+
+jobs:
+  lint:
+    name: Run AGLint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out to repository
+        uses: actions/checkout@main
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      # If the linter found any errors, it will exit with a non-zero
+      # code, which will cause the job to fail
+      - name: Run AGLint
+        run: npm run lint
