@@ -5,7 +5,6 @@ body {
     font-family: Arial, sans-serif;
     background-color: #121212; /* Dark background */
     color: #e0e0e0; /* Light text */
-    text-align: center;
     padding: 0; /* Padding moved to .content */
     margin: 0;
 }
@@ -20,14 +19,24 @@ body {
 /* -------------------------------------------------
    Headings & paragraphs
    ------------------------------------------------- */
-h1, h2, h3 {
+h1 {
     color: #4CAF50; /* Green headings */
     margin-top: 1.5em;
+    text-align: center;
 }
 
-p {
-    font-size: 1.2em;
-    line-height: 1.5;
+/* Light orange for h2 */
+h2 {
+    color: #FFB74D; /* Light orange */
+    margin-top: 1.5em;
+    text-align: left;
+}
+
+/* Medium orange for h3 */
+h3 {
+    color: #FF9800; /* Medium orange */
+    margin-top: 1.5em;
+    text-align: left;
 }
 
 /* -------------------------------------------------
