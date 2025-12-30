@@ -127,18 +127,12 @@
         {
             "name": "My Privacy DNS Filter whitelist_domain.whitelist",
             "source": "rules/whitelist_domain.txt",
-            "type": "adblock",
-            "transformations": [
-                "RemoveComments"
-            ]
+            "type": "adblock"
         },
         {
             "name": "My Privacy DNS Filter whitelist_rule.whitelist",
             "source": "rules/whitelist_rule.txt",
-            "type": "adblock",
-            "transformations": [
-                "RemoveComments"
-            ]
+            "type": "adblock"
         },
         {
             "name": "AdWare onion list",
