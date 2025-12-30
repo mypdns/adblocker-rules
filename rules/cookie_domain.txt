@@ -52,7 +52,7 @@ dr.dk##.drc-cookie-policy
 dr.dk###drcc-overlay
 
 ! E.
-||trustseal.enamad.ir^$third-party,cookie
+||trustseal.enamad.ir^$third-party
 eldiplo.org##[class*="popup-dialog-"]
 
 ! F.

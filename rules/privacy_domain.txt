@@ -66,7 +66,8 @@ bibliotek.dk##[class*="recommender"]
 ||search.brave.com^$removeparam=source
 
 ! C.
-!||cloudflare.net^$xhr,important
+@@||challenges.cloudflare.com/turnstile/$script,3p,badfilter
+@@||challenges.cloudflare.com/turnstile/$script,badfilter
 ||catsnthing.com^$important,all
 ||catsnthings.fun^$important,all
 ||cdnjs.cloudflare.com^$script,font,stylesheet
@@ -75,8 +76,9 @@ bibliotek.dk##[class*="recommender"]
 ||clarity.ms^
 ||cloudflare.com^$important,all
 ||cloudflare.net^$important,all
+||cloudflare.net^$xhr,important
 ||cloudflare.org^$important,all
-||cloudflareinsights.com`
+||cloudflareinsights.com^$important,all
 ||crowdin.com$3p,important
 ||cxense.com^$important
 

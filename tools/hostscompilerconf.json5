@@ -237,77 +237,122 @@
         {
             "name": "AdGuard Base filter ad servers",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard Base filter adservers firstparty",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard Base filter anti adblock",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/antiadblock.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard Base filter banner sizes",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/banner_sizes.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard Base filter content blocker",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/content_blocker.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard Base filter cryptominers",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard Base filter foreign",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/foreign.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard Base filter general elemhide",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/general_elemhide.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard Base filter general extensions",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/general_extensions.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard Base filter general url",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/general_url.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard Base filter specific",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/replace.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard Base filter specific",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/specific.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard Chinese filter",
             "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard Japanese filter",
             "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard UsefulAdsFilter filter ad servers",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/UsefulAdsFilter/sections/usefulads.txt",
             "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ],
             "exclusions": [
                 "/(?!^(\\|\\||@@\\|\\|))^.+/"
             ]
@@ -315,12 +360,18 @@
         {
             "name": "AdGuard Base filter ad servers first-party",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard Mobile Ads filter ad servers",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "EasyList ad servers",
@@ -335,17 +386,26 @@
         {
             "name": "AdGuard Tracking Protection filter third-party trackers",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard Tracking Protection filter first-party trackers",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard Tracking Protection filter mobile trackers",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "EasyPrivacy tracking servers",
@@ -370,127 +430,202 @@
         {
             "name": "AdGuard Base filter cryptominers",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard SpywareFilter cookies general",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/cookies_general.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard SpywareFilter cookies specific",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/cookies_specific.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard SpywareFilter general elemhide",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/general_elemhide.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard SpywareFilter general extensions",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/general_extensions.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard SpywareFilter general url",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/general_url.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard SpywareFilter Mobile",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard SpywareFilter specific",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/specific.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard SpywareFilter tracking servers",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard SpywareFilter tracking servers firstparty",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard TrackParamFilter general url",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TrackParamFilter/sections/general_url.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard TrackParamFilter specific",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TrackParamFilter/sections/specific.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard AnnoyancesFilter cookies general",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Cookies/sections/cookies_general.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard AnnoyancesFilter cookies specific",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Cookies/sections/cookies_specific.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard AnnoyancesFilter annoyances",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Other/sections/annoyances.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard AnnoyancesFilter self promo",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Other/sections/self-promo.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard AnnoyancesFilter tweaks",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Other/sections/tweaks.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard AnnoyancesFilter Popups antiadblock.txt",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/antiadblock.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard AnnoyancesFilter Popups popups general",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/popups_general.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard AnnoyancesFilter Popups popups specific",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/popups_specific.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard AnnoyancesFilter Popups push-notifications_general",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/push-notifications_general.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard AnnoyancesFilter Popups push-notifications_specific",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/push-notifications_specific.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard AnnoyancesFilter Popups subscriptions_general",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/subscriptions_general.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard AnnoyancesFilter Popups subscriptions_specific.txt",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/subscriptions_specific.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "AdGuard AnnoyancesFilter Widgets widgets",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Widgets/sections/widgets.txt",
-            "type": "adblock"
+            "type": "adblock",
+            "transformations": [
+                "RemoveComments"
+            ]
         },
         {
             "name": "ABPindo ad servers",
@@ -506,6 +641,7 @@
             "name": "Adguard Additional rules",
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt",
             "transformations": [
+                "RemoveComments",
                 "Validate"
             ],
             "type": "adblock"

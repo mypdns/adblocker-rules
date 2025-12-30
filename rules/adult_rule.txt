@@ -182,6 +182,7 @@ alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,g
 popcode*.js$domain=vipergirls.to
 /poppy/*$domain=hclips.com|hdzog.com|hotmovs.com|porn555.com|pornforrelax.com|pornj.com|pornl.com|pornq.com|puporn.com|see.xxx|shemalez.com|thegay.com|thegay.porn|tubepornclassic.com|tuberel.com|txxx.com|upornia.com|voyeurhit.com
 @@||images.psmcdn.net/design/tour/dc/tour/pics/$inline-font,domain=dadcrush.com
+go.matrix.rocks##.promoWidget
 
 ! Q.
 

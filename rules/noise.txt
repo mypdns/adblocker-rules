@@ -37,6 +37,7 @@ askubuntu.com,stackexchange.com##.js-footer
 askubuntu.com,stackexchange.com##.left-sidebar
 askubuntu.com,stackexchange.com###sidebar
 avgle.com##.alert-dismissable
+go.matrix.rocks##.alert.alert-info
 
 ! B.
 
@@ -108,7 +109,6 @@ imdb.com###titleVideoStrip
 lyrics.com##.col-sm-pull-8.col-sm-4
 
 ! M.
-matrix.rocks##._shadow._panel
 miniwa.moe##.global-notice-list
 miniwa.moe##.global-notice.alert
 misskey.io,matrix.rocks##._shadow._panel

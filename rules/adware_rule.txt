@@ -59,12 +59,13 @@ twentytwowords.com##.ad-units-wrapper
 ##.banner-container
 ###banner-ad
 ###BannerContainer
-||/banners/*$domain=freefaucet.io|zoofiliatube.xxx,generichide
+||/banners/*$domain=freefaucet.io|zoofiliatube.xxx
 1on1-webcams.com,xlovecam.com##.bottomSlidebar
 babesandstars.com,castingcouch-x.com,cum4k.com,definebabe.com,holed.com,lubed.com,passion-hd.com,pornhubpremium.com,pornpros.com,spyfam.com##.btn-block
 bestwifeporn.com,pxrnxx.xyz##.bx-wrapper
 filmikisex.de,films-sex.de,filmssex.de,oferty-sex.de,ofertysex.de,pornafilm.de,sexdarmowe.de,sexfilmiki.de,sexfilmy.de,telefonla-sex.de,videolar-sex.de,videolarsex.de##div[id^="BannerPopup"]
 gamemodding.com##.big_banner
+go.matrix.rocks##.bannerHeader
 here.xxx,jagaporn.com##.botad
 isico.or.jp,kitagawamura.jp##^#banner_footer1
 
@@ -210,6 +211,9 @@ xxxjavporn.cam###tracking-url
 /wp-content/plugins/mailchimp/*
 ##[href^="https://widget.watchmondo.com/"]
 ##a[href^="https://widget.watchmondo.com/home/redirectto"]
+go.matrix.rocks###widgetCoreHomegetPromoVideo
+go.matrix.rocks###widgetRssWidgetrssPiwik
+go.matrix.rocks###widgetTourgetEngagement
 pornmadeathome.com##.wrapper
 thesun.co.uk##.widget-sticky
 

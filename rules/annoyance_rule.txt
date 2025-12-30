@@ -30,22 +30,33 @@
 ! A.
 ##.animated.sah_dialog
 ##.article-recommend
+dev.funkwhale.audio,framagit.org,gitlab.com##.alert-wrapper
 linuxhint.com,opensourceforu.com##.author-box
 
 ! B.
+dev.funkwhale.audio,framagit.org,gitlab.com##.broadcast-wrapper
 
 ! C.
 /copyright.js$script
+dev.funkwhale.audio,framagit.org,gitlab.com##.content-block.bordered-box
+dev.funkwhale.audio,framagit.org,gitlab.com##.content-block.landing.bordered-box
 
 ! D.
+dev.funkwhale.audio,framagit.org,gitlab.com##.d-flex.js-broadcast-notification-100719.broadcast-notification-message
 dr.dk##.dre-read-more-link
 
 ! E.
 
 ! F.
+dev.funkwhale.audio,framagit.org,gitlab.com##.flash-alert
+dev.funkwhale.audio,framagit.org,gitlab.com##.flash-notice
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.footer
 
 ! G.
+dev.funkwhale.audio,framagit.org,gitlab.com##.gl-banner-introduction
+dev.funkwhale.audio,framagit.org,gitlab.com##.gl-banner.js-autodevops-banner
+dev.funkwhale.audio,framagit.org,gitlab.com##.gl-card
+dev.funkwhale.audio,framagit.org,gitlab.com##.gl-pt-6
 
 ! H.
 /html$elemhide?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
@@ -56,6 +67,7 @@ duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.ia-modules
 
 ! J.
+dev.funkwhale.audio,framagit.org,gitlab.com##.js-recovery-settings-callout.gl-alert-warning.gl-alert
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-feedback-btn-wrap
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-hl-button.header__clickable
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-ia-modules
@@ -71,15 +83,16 @@ duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##l
 /lite$elemhide?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
 
 ! M.
+/m.js?*^cb=ddg_spice_amazon^?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
+/m.js?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
+answear.ua,bournemouthecho.co.uk,businessoffashion.com,dharma-production.com,jobomas.com,longreads.com,patient.info,tuaw.com,vogue.com,voyages-sncf.com,xconfessions.com##.modal
+dev.funkwhale.audio,framagit.org,gitlab.com##.mb-2.flash-notice
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.module--carousel
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.module--images
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###m1-0
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###m2-0
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###m5-0
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##m4-0
-/m.js?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
-/m.js?*^cb=ddg_spice_amazon^?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
-answear.ua,bournemouthecho.co.uk,businessoffashion.com,dharma-production.com,jobomas.com,longreads.com,patient.info,tuaw.com,vogue.com,voyages-sncf.com,xconfessions.com##.modal
 
 ! N.
 !joyourself.com,liveprivates.com,lsawards.com,maturescam.com,mycams.com,mytrannycams.com,livesexasian.com,cameraboys.com,livesex.com##.notifier-wrapper
@@ -94,6 +107,9 @@ duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###
 
 ! P.
 /public/$third-party?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
+dev.funkwhale.audio,framagit.org,gitlab.com##.popover-body
+dev.funkwhale.audio,framagit.org,gitlab.com##.prepend-top-10.append-bottom-20.banner-non-empty-state.banner-callout.js-autodevops-banner
+dev.funkwhale.audio,framagit.org,gitlab.com###promote_repository_features
 
 ! Q.
 ^*^q=$elemhide?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
@@ -101,8 +117,10 @@ duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion###
 
 
 ! R.
-duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.related-searches
 dailyporn.club,gumtree.com##.right
+dev.funkwhale.audio,framagit.org,gitlab.com##.rounded.flash-alert.flash-content
+dev.funkwhale.audio,framagit.org,gitlab.com##.rounded.flash-notice.flash-content
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.related-searches
 
 ! S.
 /share/spice/amazon/$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
@@ -110,6 +128,7 @@ dharma-production.com##.subscribe
 
 ! T.
 /t/*$important?$domain=duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|duckduckgo.com
+dev.funkwhale.audio,framagit.org,gitlab.com##.trial-link
 
 ! U.
 

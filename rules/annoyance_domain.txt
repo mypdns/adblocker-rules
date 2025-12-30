@@ -113,21 +113,6 @@ github.com##a.dropdown-item:nth-of-type(3)
 github.com##a.dropdown-item:nth-of-type(8)
 github.com##a.dropdown-item:nth-of-type(9)
 github.com##li > .btn-sm.btn
-gitlab.com##.content-block.bordered-box
-gitlab.com##.content-block.landing.bordered-box
-gitlab.com##.d-flex.js-broadcast-notification-100719.broadcast-notification-message
-gitlab.com##.flash-alert
-gitlab.com##.flash-notice
-gitlab.com##.gl-banner.js-autodevops-banner
-gitlab.com##.gl-card
-gitlab.com##.js-recovery-settings-callout.gl-alert-warning.gl-alert
-gitlab.com##.mb-2.flash-notice
-gitlab.com##.popover-body
-gitlab.com##.prepend-top-10.append-bottom-20.banner-non-empty-state.banner-callout.js-autodevops-banner
-gitlab.com##.rounded.flash-alert.flash-content
-gitlab.com##.rounded.flash-notice.flash-content
-gitlab.com##.trial-link
-gitlab.com###promote_repository_features
 gumtree.com##.fixed-bottom.gdpr-banner.notification
 webrtc.github.io/adapter/adapter-latest.js
 

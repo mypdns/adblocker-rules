@@ -1,4 +1,4 @@
-##.botad$domain=here.xxx
+here.xxx##.botad
 ##^.adsbygoogle
 #@##iqadtile5
 #@#.ad-content
@@ -13,7 +13,6 @@
 -auto-ads-$badfilter
 -google-analytics
 -google-tag-manager
-.*\.,cookie$
 .com/ads/$image
 .in/ads.$badfilter
 .in/ads/$badfilter
@@ -40,7 +39,7 @@
 /^\*.*denyallow.*/
 /^\*[ ].*/
 /adlink-$domain=~adlinktech.com|~github.com|~github.io
-/ads.js$script,important,domain=evoload.io,here.xxx,mixdrop.co,xn--icktho51h7xpyfnezf.com
+/ads.js$script,important,domain=evoload.io|here.xxx|mixdrop.co|xn--icktho51h7xpyfnezf.com
 /adservice.$domain=~adservice.io|~github.com|~githubusercontent.com
 /adsmanager/*$domain=~github.com
 /cookie-consent-$script,domain=~cookielaw.org|~github.com|~gitlab.com
@@ -52,12 +51,7 @@
 /googleads/*$domain=~github.com|~github.io
 /matomo/*$domain=~github.com|~hub.docker.com|~matomo.org|~wordpress.org
 /shopify/track$domain=~github.com
-://ads.$domain=~
 @@.com/upload_image/$image,domain=chobirich.com|dietnavi.com|gendama.jp|point.i2i.jp|pointtown.com
-@@.jp/ad/$image,domain=chobirich.com|cmnw.jp|gendama.jp|moppy.jp|netmile.co.jp|pint.yattayo.net|pointi.jp|pointtown.com
-@@.jp/af/$image,domain=chobirich.com|gendama.jp|manpukujima.com|netmile.co.jp|pointtown.com
-@@.jp/affiliate/$image,domain=dietnavi.com|gendama.jp|manpukujima.com|moppy.jp|t-mall.tsite.jp
-@@/300x250.$image,domain=gpoint.co.jp|point.i2i.jp
 @@/\/js\/[_0-9a-zA-Z]{4,12}\/(?:ad[-a-z]{4}|bannerpump|nugg\.min|transad|[a-z]{2}ads|[a-z]{3}-(?:adscript|inspire-ad|rail-ads))\.js\?_v=[0-9a-f]{8}$/$script,~third-party
 @@/^https?:\/\/(www\.)?.*\/ad[vs](er(ve)?t?(ise|ising|isement)?)?([_-a-zA-Z0-9.]{1,17})?\.js/$script
 @@/ad/banner/_adsense_/_adserver/_adview_.ad.js
@@ -101,7 +95,6 @@
 @@||adsafeprotected.com/
 @@||adservice.google.
 @@||adspremium.it
-@@||adtech.de/dt/common/DAC.js$domain=
 @@||adtrackers.net
 @@||adv.wp.
 @@||advertisement.vg.no
@@ -195,19 +188,17 @@ _468x60.$badfilter
 _ads_updater-$badfilter
 _google_ads.$badfilter
 _prebid_$badfilter
-archive.is,archive.today,archive.vn,archive.fo,archive.md,archive.li,archive.ph,archivecaslytosk.onion,archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion,btdig.com,filecr.com,gommonauti.it,gugo.site,krunker.io,lyckansforskola.com,sybertrek.com,##+js(aopw, navigator.brave)
 file-scheme * 1p-script block
 file-scheme * inline-script block
 github.com
 githubusercontent.com
 investorvillage.com#%#//scriptlet('abort-current-inline-script', ' update_visit_count')
-isico.or.jp,kitagawamura.jp,##^#banner_footer1
+isico.or.jp,kitagawamura.jp##^#banner_footer1
 m.qoo10.jp#%#//scriptlet('abort-current-inline-script', '$', 'layerpopup_mainBanner')
 mail.tm##:xpath(//*[contains(text(),"blocker")])
 masterduelmeta.com##:xpath(//*[contains(text(),"adblock")]):upward(3)
 no-csp-reports: * true
 no-large-media: behind-the-scene false
-pakomanmama.com###list:has-text(PR()
 spankwire.com##:xpath(//*[contains(text(),"Advertisement")]):upward(1)
 www.reddit.com##+js(aeld, touchmove)
 www.reddit.com##.XPromoInFeed
@@ -233,8 +224,6 @@ yun.ir#%#//scriptlet('set-cookie-reload', 'bypasstimer', '10')
 ||adservice.google.nl
 ||analytics.
 ||analytics.google.com
-||aparat.com^$third-party,cookie
-||api2.branch.io^$dnsrewrite=0.0.0.0
 ||apis.google.com
 ||cookieinformation.com/*/*.js$third-party
 ||cookieinformation.com/tcf-cmp.js$all
@@ -245,12 +234,12 @@ yun.ir#%#//scriptlet('set-cookie-reload', 'bypasstimer', '10')
 ||discourse-cdn.com/
 ||doubleclick.net/
 ||doubleclick.net^
-||doubleclick.net^$
+||doubleclick.net^
 ||doubleclick.net^*/
 ||doubleclick.net^*/trackimp/$third-party
 ||duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion^
 ||google-analytics.com/
-||google-analytics.com^$
+||google-analytics.com^
 ||google-analytics.com^*/
 ||google.co.jp/
 ||google.com^$popup
@@ -260,15 +249,14 @@ yun.ir#%#//scriptlet('set-cookie-reload', 'bypasstimer', '10')
 ||googleapis.com/
 ||googleoptimize.com/
 ||googlesyndication.com/
-||googlesyndication.com^$domain
 ||googlesyndication.com^$image
-||googlesyndication.com^$important,
+||googlesyndication.com^$important
 ||googlesyndication.com^$script
-||googlesyndication.com^$xhr,
+||googlesyndication.com^$xhr
 ||googletagmanager.com/
 ||googletagservices.com/
 ||pagead2.googlesyndication.com/
 ||smetrics.
-||trustseal.enamad.ir^$third-party,cookie
+||trustseal.enamad.ir^$third-party
 ||tube^$document
 ||tumblr.com^

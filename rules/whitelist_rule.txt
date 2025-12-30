@@ -34,8 +34,6 @@
 ! C.
 @@||ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js$script,domain=www.namesilo.com
 @@||cdnjs.cloudflare.com^$script,domain=babesource.com
-@@||challenges.cloudflare.com/turnstile/$script,3p,badfilter
-@@||challenges.cloudflare.com/turnstile/$script,badfilter
 
 ! D.
 
