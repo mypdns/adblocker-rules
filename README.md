@@ -34,10 +34,11 @@ filters/rules (Adblock Plus / uBlock Origin) or User Rules (AdGuard).
 
 ## Webfront
 
-Our HTML front end can be found at
+Our HTML front end can be found at https://www.mypdns.org/abrules.php
 
-- My Privacy DNS: <https://mypdns.github.io/adblocker-rules/>
-- GitHub: No longer Supported as they have incorporated SpyWare
+[//]: # (- My Privacy DNS: <https://mypdns.github.io/adblocker-rules/>)
+
+[//]: # (- GitHub: No longer Supported as they have incorporated SpyWare)
 
 ## Subscribe to the rules
 
@@ -48,11 +49,13 @@ My Privacy DNS Editions should be the most advanced and compressed thanks to
 the @adguard/hostlist-compiler compiler, where the GH editions relay on
 the abp filter script.
 
-- My Privacy DNS edition via [www.mypdns.org][Subscribe]
-- GitHub No longer Supported
+[//]: # (- My Privacy DNS edition via [www.mypdns.org][Subscribe])
+
+[//]: # (- GitHub No longer Supported)
 
 You should also be able to subscribe directly to the rules by
-right-click any of the following urls, choose `<Adblocker>` =>
+right-click any of the following urls, choose `<uBLock Origin>` =>
+`Subscribe to filter list`
 
   ```html
 
@@ -227,7 +230,7 @@ spreading the knowledge of how rules should be made :smiley:
 
 [commits]: https://github.com/mypdns/adblocker-rules
 
-[support]: https://My Privacy DNS.org/my-privacy-dns/support
+[support]: https://kb.mypdns.org/issues
 
 [Subscribe]: abp:
 subscribe?location=https://mypdns.github.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20My
@@ -247,6 +250,6 @@ Privacy DNS%20Edition%20%E2%80%93%20Adblock%20Rules
 
 [AdGuard]: https://adguard.com/
 
-[poc]: https://My Privacy DNS.org/help/user/project/repository/mirror/push.md "
+[poc]: https://framagit.org/help/user/project/repository/mirror/push.md "
 Push mirroring"
 .

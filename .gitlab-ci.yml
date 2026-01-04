@@ -1,0 +1,40 @@
+workflow:
+  rules:
+    - if: $CI_COMMIT_BRANCH
+
+variables:
+  PIP_CACHE_DIR: '$CI_PROJECT_DIR/.cache/pip'
+  GIT_STRATEGY: clone
+
+cache:
+  key: $CI_COMMIT_SHORT_SHA
+  paths:
+    - _public/
+
+run:
+  stage: build
+  image: node:latest
+  script:
+    - if [ -f requirements.txt ]; then pip install --no-cache -I -r requirements.txt; fi
+    - npm i -g @adguard/hostlist-compiler@1.0.35
+    - hostlist-compiler -c tools/compile_blacklist.json
+      -o _public/blacklist.adblock
+    - hostlist-compiler -c tools/compile_noise.json -o _public/noise.adblock
+    - hostlist-compiler -c tools/compile_whiteList.json -o _public/whiteList.adblock
+
+pages:
+  stage: deploy
+  image: alpine:latest
+  variables:
+    GIT_STRATEGY: clone
+  script:
+    - mv _public public
+    - ls -lha public/
+    - head -n 15 public/blacklist.adblock
+    - head -n 15 public/noise.adblock
+    - head -n 15 public/whiteList.adblock
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH

@@ -1,26 +1,19 @@
 <!DOCTYPE html>
-<html lang="en" prefix="og: https://ogp.me/ns#">
+<html lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>My Privacy DNS ads blocking rules</title>
+    <title>Adblocking rules by My Privacy DNS - Let no one spy on you
+        online</title>
 
-    <!-- Meta tags (unchanged) -->
-    <meta content="https://github.com/spirillen" name="generator">
+    <meta content="https://framagit.org/spirillen" name="generator">
     <meta content="@spirillen" name="author">
-    <link href="./style.css"
-          rel="preload">
-    <link href="./style.css"
-          rel="stylesheet">
-    <link href="https://github.com/mypdns/adblocker-rules/-/blob/master/LICENSE"
-          rel="license">
-    <link href="https://www.mypdns.org/" rel="prefetch">
     <meta content="Ad blocking rules by My Privacy DNS" name="description">
     <meta
         content="Ad blocking, anti tracking, privacy, my privacy dns, tracking protection"
         name="keywords">
 
-    <!-- Open‑Graph (unchanged) -->
     <meta content="Ad blocking rules by My Privacy DNS" property="og:title"/>
     <meta content="website" property="og:type"/>
     <meta content="https://mypdns.github.io/adblocker-rules/index.html"
@@ -30,20 +23,54 @@
     <meta content="image/jpeg" property="og:image:type">
     <meta content="768" property="og:image:width">
     <meta content="480" property="og:image:height">
-    <meta content="Man is least himself when he talks in his own person.
-        Give him a mask, and he will tell you the truth"
-          property="og:image:alt"/>
+    <meta content="" property="og:image:alt"/>
     <meta content="My Privacy DNS adblocking rules" property="og:description"/>
     <meta content="auto" property="og:determiner">
     <meta content="en_UK" property="og:locale">
     <meta content="My Privacy DNS" property="og:site_name"/>
+
+    <link href="https://kb.mypdns.org" rel="preconnect">
+    <link href="./style.css" rel="stylesheet">
+    <link href="./style.css" rel="preload">
+    <link href="https://kb.mypdns.org/articles/MTX-A-4"
+          rel="license">
+    <link href="https://www.mypdns.org/" rel="prefetch">
+    <link href="https://kb.mypdns.org" rel="preconnect">
+
+    <!-- Matomo -->
+    <script>
+        const _paq = window._paq = window._paq || [];
+        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        _paq.push(["setCookieDomain", "*.mypdns.org"]);
+        _paq.push(["setDomains", ["*.mypdns.org"]]);
+        _paq.push(["setDoNotTrack", true]);
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function () {
+            const u = "//go.matrix.rocks/";
+            _paq.push(['setTrackerUrl', u + 'matomo.php']);
+            _paq.push(['setSiteId', '3']);
+            const d = document, g = d.createElement('script'),
+                s = d.getElementsByTagName('script')[0];
+            g.async = true;
+            g.src = u + 'matomo.js';
+            s.parentNode.insertBefore(g, s);
+        })();
+    </script>
+    <noscript>
+        <p><img alt=""
+                referrerpolicy="no-referrer-when-downgrade"
+                src="//go.matrix.rocks/matomo.php?idsite=3&amp;rec=1"
+                style="border:0;"/></p>
+    </noscript>
+    <!-- End Matomo Code -->
 </head>
 
 <body>
 
 <!-- ==================== NAVIGATION ==================== -->
 <nav class="navbar">
-    <div class="nav-brand"><a href="./index">Home</a></div>
+    <div class="nav-brand"><a href="./index.html">Home</a></div>
 
     <!-- Hamburger toggle (visible on small screens) -->
     <input class="nav-toggle" id="nav-toggle" type="checkbox">
@@ -52,13 +79,30 @@
     </label>
 
     <ul class="nav-menu">
+        <li><a href="https://www.mypdns.org/" target="_top"
+               title="My Privacy DNS | HOME">My Privacy DNS</a></li>
+        <li class="nav-submenu">
+            <a href="#">Projects</a>
+            <ul>
+                <li><a href="https://www.mypdns.org/abrules.php" target="_top"
+                       title="uBlock Origin rules ny My Privacy DNS | My Privacy DNS">uBlock
+                    Rules</a></li>
+                <li><a href="#" target="_top" title=" | My Privacy DNS"></a>
+                </li>
+                <li><a href="#" target="_top" title=" | My Privacy DNS"></a>
+                </li>
+                <li><a href="#" target="_top" title=" | My Privacy DNS"></a>
+                </li>
+            </ul>
+        </li>
         <li class="nav-submenu">
             <a href="#">Support</a>
             <ul>
-                <li><a href="https://kb.matrix.org">Support</a></li>
+                <li><a href="https://kb.mypdns.org" target="_blank">Knowledge
+                    Base</a></li>
                 <li><a href="https://framagit.org/mypdns/support">Framagit
                     Support</a></li>
-                <li><a href="https://www.matrix.org/contact">Matrix Contact</a>
+                <li><a href="https://www.mypdns.org/contact">Matrix Contact</a>
                 </li>
             </ul>
         </li>
@@ -71,8 +115,14 @@
                     Repo</a></li>
             </ul>
         </li>
-        <li><a href="https://www.mypdns.org">My Privacy DNS</a></li>
-        <li><a href="https://github.com/mypdns/adblocker-rules">Repository</a>
+
+        <li class="nav-submenu">
+            <a href="#">Repositories</a>
+            <ul>
+                <li><a href="https://github.com/mypdns/adblocker-rules">uBlock
+                    Rules</a></li>
+                <li><a href="" target="_blank">#</a></li>
+            </ul>
         </li>
     </ul>
 </nav>
@@ -81,7 +131,7 @@
 <div class="content">
     <a href="https://www.mypdns.org/" target="_top" title="MyPrivacy DNS"><img
         alt="My Privacy DNS logo"
-         src="https://www.mypdns.org/images/logo.png"
+        src="https://www.mypdns.org/images/logo.png"
         style="display:block; margin:0 auto; max-width:60%;"></a>
 
     <h1>My Privacy DNS – Adblock Rules</h1>
@@ -135,7 +185,7 @@
 
         <p>For uBlock Origin you can also download the raw files directly:<br>
             <a class="button" href="./blacklist.adblock">blacklist.adblock</a> |
-            <a class="button" href="./noise.adblock">noise.adblock</a> | 
+            <a class="button" href="./noise.adblock">noise.adblock</a> |
             <a class="button" href="./whiteList.adblock">whiteList.adblock</a>
         </p>
     </section>
@@ -145,15 +195,17 @@
     </p>
 
     <p>Cheers</p>
-</div>
 
 <!-- ==================== FOOTER ==================== -->
 <div class="footer" id="suggestions">
-    <p>Need help? Check the <a href="https://kb.matrix.org">Matrix Knowledge
+    <p>© 2025 My Privacy DNS. All rights reserved. No cats were harmed in the
+        making of this server.</p>
+    <p>Need help? Check the <a href="https://kb.mypdns.org">Matrix Knowledge
         Base</a> or
         open an issue on <a href="https://github.com/mypdns/adblocker-rules">GitHub</a>.
     </p>
 </div>
-
+</div>
 </body>
+
 </html>
