@@ -17,7 +17,7 @@ run:
   before_script:
     - apt-get update && apt-get install -y python3 python3-pip
   script:
-    - if [ -f requirements.txt ]; then pip install --no-cache -I -r requirements.txt; fi
+    - if [ -f requirements.txt ]; then pip install --no-cache -I -r requirements.txt -break-system-packages; fi
     - npm i -g @adguard/hostlist-compiler@1.0.35
     - hostlist-compiler -c tools/compile_blacklist.json
       -o _public/blacklist.adblock
