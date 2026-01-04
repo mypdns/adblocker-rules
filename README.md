@@ -196,7 +196,7 @@ Please see `tools/hostscompilerconf.json5` & `tools/noise.json`
 
 ## Build tools
 
-We use the HostlistCompiler https://github.com/AdguardTeam/HostlistCompiler to
+We use the Host list Compiler https://github.com/AdguardTeam/HostlistCompiler to
 build our lists
 
 ## Official mirrors
