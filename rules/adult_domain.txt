@@ -116,8 +116,8 @@ bubbaporn.com##.productora
 ||cnt.viptube.com/counter/*$image,important
 ||contentdef.com/*/promos/*/catfish.png$image
 ||coupleairplane.com^
-cduniverse.com##.CenterWithJS.BigPopUp
 cduniverse.com###overlay-back-wholepage
+cduniverse.com##.CenterWithJS.BigPopUp
 celebjihad.com##.post_text_area > table
 celebjihad.com##.theme_article.sidebar_increase
 celebjihad.com##[href^="https://go.celebjihad.live/smartpop/"]
@@ -132,8 +132,10 @@ cherrynudes.com##.sidebar.col-md-3
 chubbyporn.com#?#.twocolumns > div.aside:has(> div[align="center"] > iframe[src^="//a.realsrv.com/"])
 cjxxx.live##.overlay-container
 clicporn.com##[class^="_ciw"]
-cockmeter.com##.aside-itempage-col
 cockmeter.com###upp_r
+cockmeter.com##.aside-itempage-col
+computersalg.dk##.u-banner
+computersalg.dk##.v-product-list-main__list > .u-container--lg
 
 ! D.
 ##[href^="https://join.dadcrush.com/"]

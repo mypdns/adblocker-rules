@@ -90,12 +90,13 @@ bitbucket.org##.e1sgjb1l0.css-s1rlud
 @@||discourse-cdn.com^$domain=community.letsencrypt.org
 
 ! M.
+@@||go.matrix.rocks^
+@@||mypdns.org^$document,1p
 @@||mypdns.org^$ghide
 @@||mypdns.org^$inline-script,domain=mypdns.org
-@@||mypdns.org^$document,1p
-@@||go.matrix.rocks^
 @@||tube.matrix.rocks/api/v1/metrics/playback$xhr
 @@||tube.matrix.rocks/tracker/socket$websocket,1p
+@@||tube.matrix.rocks^$script,domain=tube.matrix.rocks
 
 ! N.
 
@@ -116,6 +117,7 @@ bitbucket.org##.e1sgjb1l0.css-s1rlud
 @@||thetvdb.com/banners/$image
 
 ! U.
+@@||unpkg.com/petite-vue@0.4.1$script,domain=play.matrix.rocks
 
 ! V.
 

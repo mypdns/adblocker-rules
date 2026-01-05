@@ -111,6 +111,7 @@ lyrics.com##.col-sm-pull-8.col-sm-4
 ! M.
 miniwa.moe##.global-notice-list
 miniwa.moe##.global-notice.alert
+miniwa.moe##.notice-dismissible
 misskey.io,matrix.rocks##._shadow._panel
 
 ! N.
@@ -175,11 +176,12 @@ xxxreal.com##.video-detail__pay-methods
 
 ! Y.
 !youtube.com###secondary
+youtube.com###comments
+youtube.com###offer-module
 youtube.com##.iron-selected.ytd-c4-tabbed-header-renderer.style-scope
 youtube.com##.ytd-live-chat-frame
 youtube.com##.ytp-player-content
-youtube.com###comments
-youtube.com###offer-module
+youtube.com##grid-shelf-view-model.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost
 youtube.com##tp-yt-paper-tab.ytd-c4-tabbed-header-renderer.style-scope:nth-of-type(3)
 youtube.com##ytd-popup-container.ytd-app.style-scope
 youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope

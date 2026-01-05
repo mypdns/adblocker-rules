@@ -34,6 +34,7 @@
 /ageGate.php
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,rmetartx.com,ylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.active
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,rmetartx.com,ylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.age-compliance
+asus.com##.reminder-info
 javrip.net,pissrip.net##.adult-warning
 m.proporn.com,yeptube.com,vivatube.com##.ad
 v2.metart.com##.free-access-modal.modal-dialog
@@ -46,6 +47,8 @@ v2.metart.com##.free-access-modal.modal-dialog
 /back$script,important,domain=teenasspussy.com
 /build/disclaimer.
 alsscan.com,domai.com,eroticbeauty.com,errotica-archives.com,eternaldesire.com,goddessnudes.com,live.tv,lovehairy.com,metart.com,met-art.com,metartx.com,rylskyart.com,sexart.com,stunning18.com,thelifeerotic.com,vivthomas.com##.bQeYRl.sc-eLgOdN
+babesrater.com##.friends-links
+babesrater.com##header
 hoertjes.net###bottom
 m.proporn.com,m.yeptube.com,vivatube.com##[class^=".box_spots"]
 m.proporn.com,m.yeptube.com,vivatube.com##[id*="banner_overlay-"]
