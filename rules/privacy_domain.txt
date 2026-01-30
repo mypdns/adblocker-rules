@@ -460,6 +460,7 @@ pixels.com###globalForegroundDiv
 ||shipment.website^$important,all
 ||shopping-2000.com^
 ||shrekis.life^$important,all
+||sonicwall.com^
 ||startpage.com^$removeparam=segment
 ||statsanalitic.net^$important
 ||statsy.net^$important
