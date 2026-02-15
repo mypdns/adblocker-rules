@@ -66,6 +66,13 @@
                 style="border:0;"/></p>
     </noscript>
     <!-- End Matomo Code -->
+
+    <meta content="5; url=https://www.mypdns.org/adblocker-rules/"
+          http-equiv="refresh">
+    <!-- Fallback for browsers that ignore meta refresh -->
+    <script>
+        window.location.replace("https://www.mypdns.org/adblocker-rules/");
+    </script>
 </head>
 
 <body>
@@ -86,7 +93,8 @@
         <li class="nav-submenu">
             <a href="#">Projects</a>
             <ul>
-                <li><a href="https://www.mypdns.org/abrules.php" target="_top"
+                <li><a href="https://www.mypdns.org/adblocker-rules/"
+                       target="_top"
                        title="uBlock Origin rules ny My Privacy DNS | My Privacy DNS">uBlock
                     Rules</a></li>
                 <li><a href="#" target="_top" title=" | My Privacy DNS"></a>
@@ -145,49 +153,116 @@
 
     <!-- ==================== DOWNLOADS ==================== -->
     <section id="downloads">
+
         <h2>Downloads</h2>
 
-        <h3>Blacklist</h3>
-        <ul>
-            <li><a
-                href="abp:subscribe?location=https://www.mypdns.org/adblocker-rules/blacklist.adblock&title=My%20Privacy%20DNS%20–%20Adblock%20Rules&requiresLocation=https://www.mypdns.org/adblocker-rules/blacklist.adblock&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules"
-                target="_top" title="Subscribe this list to adblocker">My
-                Privacy DNS</a></li>
-            <li><a
-                href="abp:subscribe?location=https://adblocker-rules-my-privacy-dns-6e3cf7797f985410854f6f8de8752fe8.frama.io/blacklist.adblock&title=My%20Privacy%20DNS%20–%20Adblock%20Rules&requiresLocation=https://adblocker-rules-my-privacy-dns-6e3cf7797f985410854f6f8de8752fe8.frama.io/blacklist.adblock&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules"
-                target="_top"
-                title="Subscribe this list to adblocker">FramaGit</a></li>
-        </ul>
+        <table class='styled-table download-matrix'>
+            <thead>
+            <tr>
+                <th>List type</th>
+                <th>Description</th>
+                <th>My Privacy DNS</th>
+                <th>FramaGit</th>
+            </tr>
+            </thead>
+            <tbody>
+            <!-- Blacklist -->
+            <tr>
+                <td data-label='List type'>Blacklist</td>
+                <td data-label='Description'>Blocks known ad‑servers and
+                    trackers
+                </td>
+                <td data-label="source">
+                    <a class='button small'
+                       href='abp:subscribe?location=https://www.mypdns.org/adblocker-rules/blacklist.adblock&title=My%20Privacy%20DNS%20–%20Adblock%20Rules&requiresLocation=https://www.mypdns.org/adblocker-rules/blacklist.adblock&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules'
+                       target='_top'
+                       title='Subscribe this list to adblocker'>
+                        Subscribe
+                    </a>
+                </td>
+                <td data-label='source'>
+                    <a class='button small'
+                       href='abp:subscribe?location=https://adblocker-rules-my-privacy-dns-6e3cf7797f985410854f6f8de8752fe8.frama.io/blacklist.adblock&title=My%20Privacy%20DNS%20–%20Adblock%20Rules&requiresLocation=https://adblocker-rules-my-privacy-dns-6e3cf7797f985410854f6f8de8752fe8.frama.io/blacklist.adblock&requiresTitle=My%20Privacy%20DNS%20–%20Adblock%20Rules'
+                       target='_top'
+                       title='Subscribe this list to adblocker'>
+                        Subscribe (FramaGit)
+                    </a>
+                </td>
+            </tr>
 
-        <h3>Noise list</h3>
-        <ul>
-            <li><a
-                href="abp:subscribe?location=https://www.mypdns.org/adblocker-rules/noise.adblock&title=Noise%20by%20My%20Privacy%20DNS&requiresLocation=https://www.mypdns.org/adblocker-rules/noise.adblock&requiresTitle=Noise%20by%20My%20Privacy%20DNS"
-                target="_top" title="Subscribe this list to adblocker">My
-                Privacy DNS</a></li>
-            <li><a
-                href="abp:subscribe?location=https://adblocker-rules-my-privacy-dns-6e3cf7797f985410854f6f8de8752fe8.frama.io/noise.adblock&title=Noise%20by%20My%20Privacy%20DNS&requiresLocation=https://adblocker-rules-my-privacy-dns-6e3cf7797f985410854f6f8de8752fe8.frama.io/noise.adblock&requiresTitle=Noise%20by%20My%20Privacy%20DNS"
-                target="_top"
-                title="Subscribe this list to adblocker">FramaGit</a></li>
-        </ul>
+            <!-- Noise list -->
+            <tr>
+                <td data-label='List type'>Noise list</td>
+                <td data-label='Description'>Filters generic “noise” and is a
+                    personal list
+                </td>
+                <td>
+                    <a class='button small'
+                       href='abp:subscribe?location=https://www.mypdns.org/adblocker-rules/noise.adblock&title=Noise%20by%20My%20Privacy%20DNS&requiresLocation=https://www.mypdns.org/adblocker-rules/noise.adblock&requiresTitle=Noise%20by%20My%20Privacy%20DNS'
+                       target='_top'
+                       title='Subscribe this list to adblocker'>
+                        Subscribe
+                    </a>
+                </td>
+                <td>
+                    <a class='button small'
+                       href='abp:subscribe?location=https://adblocker-rules-my-privacy-dns-6e3cf7797f985410854f6f8de8752fe8.frama.io/noise.adblock&title=Noise%20by%20My%20Privacy%20DNS&requiresLocation=https://adblocker-rules-my-privacy-dns-6e3cf7797f985410854f6f8de8752fe8.frama.io/noise.adblock&requiresTitle=Noise%20by%20My%20Privacy%20DNS'
+                       target='_top'
+                       title='Subscribe this list to adblocker'>
+                        Subscribe (FramaGit)
+                    </a>
+                </td>
+            </tr>
 
-        <h3>Whitelist</h3>
-        <ul>
-            <li><a
-                href="abp:subscribe?location=https://www.mypdns.org/adblocker-rules/whiteList.adblock&title=Whitelist%20by%20My%20Privacy%20DNS&requiresLocation=https://www.mypdns.org/adblocker-rules/whiteList.adblock&requiresTitle=Whitelist%20by%20My%20Privacy%20DNS"
-                target="_top" title="Subscribe this list to adblocker">My
-                Privacy DNS</a></li>
-            <li><a
-                href="abp:subscribe?location=https://adblocker-rules-my-privacy-dns-6e3cf7797f985410854f6f8de8752fe8.frama.io/whiteList.adblock&title=Whitelist%20by%20My%20Privacy%20DNS&requiresLocation=https://adblocker-rules-my-privacy-dns-6e3cf7797f985410854f6f8de8752fe8.frama.io/whiteList.adblock&requiresTitle=Whitelist%20by%20My%20Privacy%20DNS"
-                target="_top"
-                title="Subscribe this list to adblocker">FramaGit</a></li>
-        </ul>
+            <!-- Whitelist -->
+            <tr>
+                <td data-label='List type'>Whitelist</td>
+                <td data-label='Description'>Explicitly allow sites that would
+                    otherwise be blocked
+                </td>
+                <td data-label='source'>
+                    <a class='button small'
+                       href='abp:subscribe?location=https://www.mypdns.org/adblocker-rules/whiteList.adblock&title=Whitelist%20by%20My%20Privacy%20DNS&requiresLocation=https://www.mypdns.org/adblocker-rules/whiteList.adblock&requiresTitle=Whitelist%20by%20My%20Privacy%20DNS'
+                       target='_top'
+                       title='Subscribe this list to adblocker'>
+                        Subscribe
+                    </a>
+                </td>
+                <td data-label='source'>
+                    <a class='button small'
+                       href='abp:subscribe?location=https://adblocker-rules-my-privacy-dns-6e3cf7797f985410854f6f8de8752fe8.frama.io/whiteList.adblock&title=Whitelist%20by%20My%20Privacy%20DNS&requiresLocation=https://adblocker-rules-my-privacy-dns-6e3cf7797f985410854f6f8de8752fe8.frama.io/whiteList.adblock&requiresTitle=Whitelist%20by%20My%20Privacy%20DNS'
+                       target='_top'
+                       title='Subscribe this list to adblocker'>
+                        Subscribe (FramaGit)
+                    </a>
+                </td>
+            </tr>
 
-        <p>For uBlock Origin you can also download the raw files directly:<br>
-            <a class="button" href="./blacklist.adblock">blacklist.adblock</a> |
-            <a class="button" href="./noise.adblock">noise.adblock</a> |
-            <a class="button" href="./whiteList.adblock">whiteList.adblock</a>
-        </p>
+            <!-- Raw list -->
+            <tr class='raw-row'>
+                <td data-label='List type'>Raw list</td>
+                <td data-label='Description'>Direct .adblock files for manual
+                    use
+                </td>
+                <td data-label='source'>
+                    <a href='https://www.mypdns.org/adblocker-rules/blacklist.adblock'
+                       title='Download raw BlackList'>BlackList</a>,
+                    <a href='https://www.mypdns.org/adblocker-rules/noise.adblock'
+                       title='Download raw Noise'>Noise</a>,
+                    <a href='https://www.mypdns.org/adblocker-rules/whiteList.adblock'
+                       title='Download raw Whitelist'>Whitelist</a>
+                </td>
+                <td data-label='source'>
+                    <a href='https://adblocker-rules-my-privacy-dns-6e3cf7797f985410854f6f8de8752fe8.frama.io/blacklist.adblock'
+                       title='Download raw BlackList'>BlackList</a>,
+                    <a href='https://adblocker-rules-my-privacy-dns-6e3cf7797f985410854f6f8de8752fe8.frama.io/noise.adblock'
+                       title='Download raw Noise'>Noise</a>,
+                    <a href='https://adblocker-rules-my-privacy-dns-6e3cf7797f985410854f6f8de8752fe8.frama.io/whiteList.adblock'
+                       title='Download raw Whitelist'>Whitelist</a>
+                </td>
+            </tr>
+            </tbody>
+        </table>
     </section>
 
     <p>If you would like to contribute to the list, please do this at

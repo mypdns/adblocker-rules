@@ -54,13 +54,17 @@ celeb.gate.cc###celeb__posts
 ||dr.dk/feature/drn-corona-frontpage-widget/*$1p
 ||dr.dk/tjenester/corona-api/*$1p
 dr.dk##.dre-footer
+duck.ai##.Lztzw5hrISZFTLADoR63
+duck.ai##.U0ZXbmkfjqD9GZOVbSdu
+duck.ai##.eG8i9sr07ekwPsI1_Tsp
+duck.ai##.pEpgAp_uV2lfaCYzOoNa
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.footer
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-header-aside-item-social
+duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-header-aside-item-social.social.header__label.header--aside__social.header--aside__item
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.react-feedback-prompt-mvc-wrapper
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(4)
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(5)
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##li.zcm__item:nth-of-type(6)
-duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-header-aside-item-social.social.header__label.header--aside__social.header--aside__item
 
 ! E.
 blog.eldernode.com##.navbar-collapse
