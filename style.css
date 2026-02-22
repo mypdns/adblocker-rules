@@ -1,0 +1,269 @@
+/* -------------------------------------------------
+   Base layout – dark theme
+   ------------------------------------------------- */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.content {
+    padding: 50px 20px;
+    /*max-width: 800px;*/
+    margin: 0 10%;
+    color: slategrey;
+}
+
+/* -------------------------------------------------
+   Headings & paragraphs
+   ------------------------------------------------- */
+h1 {
+    color: #a3d6fd; /* Green headings */
+    margin-top: 1.5em;
+    text-align: center;
+}
+
+/* Light orange for h2 */
+h2 {
+    color: #FFB74D; /* Light orange */
+    margin-top: 1.5em;
+    text-align: left;
+}
+
+/* Medium orange for h3 */
+h3 {
+    color: #FF9800; /* Medium orange */
+    margin-top: 1.5em;
+    text-align: left;
+}
+
+/* -------------------------------------------------
+   Links & buttons
+   ------------------------------------------------- */
+a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: double underline;
+    color: orangered;
+
+}
+
+/* Button style for any future links */
+.button {
+    display: inline-block; /* lets width/height work */
+    background-color: #4CAF50;
+    color: #000;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color .3s;
+    margin-bottom: 0.5rem; /* space between buttons */
+}
+
+/* optional – keep the buttons left‑aligned */
+/*.button {*/
+/*    text-align: left;*/
+/*}*/
+
+/* hover state stays the same */
+.button:hover {
+    background-color: #45a049;
+}
+
+
+/* -------------------------------------------------
+   Footer / suggestion area
+   ------------------------------------------------- */
+.footer {
+    margin-top: 50px;
+    font-size: 1.0em;
+    color: #777;
+}
+
+/* -------------------------------------------------
+   Navigation – hamburger on mobile
+   ------------------------------------------------- */
+.navbar {
+    background-color: #1e1e1e;
+    padding: 10px 20px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Brand / Home link */
+.nav-brand a {
+    font-weight: bold;
+    color: #a3d6fd;
+    font-size: 1.0em;
+}
+
+/* Hide the native checkbox */
+.nav-toggle {
+    display: none;
+}
+
+/* Hamburger icon */
+.nav-toggle-label {
+    display: none; /* hidden on desktop */
+    cursor: pointer;
+}
+
+.nav-toggle-label span,
+.nav-toggle-label span::before,
+.nav-toggle-label span::after {
+    display: block;
+    background: #4CAF50;
+    height: 3px;
+    width: 25px;
+    border-radius: 3px;
+    position: relative;
+}
+
+.nav-toggle-label span::before,
+.nav-toggle-label span::after {
+    content: "";
+    position: absolute;
+}
+
+.nav-toggle-label span::before {
+    top: -8px;
+}
+
+.nav-toggle-label span::after {
+    top: 8px;
+}
+
+/* Menu list */
+.nav-menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+}
+
+.nav-menu li {
+    position: relative;
+}
+
+.nav-menu a {
+    color: #a3d6fd;
+    padding: 5px 10px;
+}
+
+/* Sub‑menu handling */
+.nav-submenu > a::after {
+    content: " ▼";
+    font-size: 0.9em;
+}
+
+.nav-submenu ul {
+    display: none;
+    position: absolute;
+    background: #1e1e1e;
+    top: 100%;
+    left: 0;
+    min-width: 180px;
+    padding: 5px 0;
+    border-radius: 4px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, .5);
+}
+
+.nav-submenu:hover ul {
+    display: block;
+}
+
+.nav-submenu ul li a {
+    display: block;
+    padding: 8px 12px;
+    color: #a3d6fd;
+}
+
+/* -------------------------------------------------
+   Mobile view – activate hamburger
+   ------------------------------------------------- */
+@media (max-width: 768px) {
+    .nav-toggle-label {
+        display: block;
+    }
+
+    .nav-menu {
+        flex-direction: column;
+        background: #1e1e1e;
+        width: 100%;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height .3s ease-out;
+    }
+
+    .nav-menu li {
+        width: 100%;
+    }
+
+    .nav-menu a {
+        display: block;
+        width: 100%;
+        padding: 12px;
+    }
+
+    /* When checkbox is checked, show menu */
+    #nav-toggle:checked + .nav-toggle-label + .nav-menu {
+        max-height: 500px; /* enough for all items */
+    }
+
+    /* Hide sub‑menus on mobile (they’ll appear as normal links) */
+    .nav-submenu ul {
+        position: static;
+        box-shadow: none;
+    }
+
+    .nav-submenu > a::after {
+        content: "";
+    }
+}
+
+/* -------------------------------------------------
+   Dark‑mode fallback (prefers‑color‑scheme)
+   ------------------------------------------------- */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #121212;
+        color: #e0e0e0;
+    }
+
+    .navbar, .nav-submenu ul {
+        background: #1e1e1e;
+    }
+
+    .footer {
+        color: #777;
+    }
+}
+
+/* -------------------------------------------------
+   Footer suggestion box – green border
+   ------------------------------------------------- */
+#suggestions {
+    border: 4px solid forestgreen; /* orange‑yellow border */
+    padding: 15px;
+    border-radius: 8px;
+    margin: 30px auto;
+    /*max-width: 800px;*/
+}
+
+#opt-out {
+    border: 4px dotted orange; /* orange‑yellow border */
+    padding: 15px;
+    border-radius: 8px;
+    margin: 30px auto;
+    /*max-width: 800px;*/
+}

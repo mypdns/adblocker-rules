@@ -1,0 +1,62 @@
+!
+! Title: The Whitelist || My Privacy DNS
+! Description: My Privacy DNS | WhiteList
+! Version: 1.0.0.0
+! Homepage: https://mypdns.github.io/adblocker-rules/
+! License: CC BY-NC-SA 4.0
+! Last modified: 2026-02-22T07:36:00.029Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.35
+!
+@@||127.0.0.1:8000^
+127.0.0.1##.footer.text-center
+@@||atlassian.com^$1p
+@@||token.awswaf.com^$script,xhr,domain=id.atlassian.com
+@@||bitbucket.org^$1p,important
+bitbucket.org##.e1sgjb1l0.css-s1rlud
+@@||d301sr5gafysq2.cloudfront.net^$domain=bitbucket.org
+@@||d3bpeqsaub0i6y.cloudfront.net/stylesheets/*$stylesheet,domain=meta.discourse.org
+@@||go.celebjihad.live^$domain=celebjihad.com
+@@||discourse-cdn.com^$domain=meta.discourse.org
+@@||mypdns.github.io/adblocker-rules/$inline-script,1p
+@@||mypdns.github.io/adblocker-rules/*$xhr,1p
+@@||mypdns.github.io^$stylesheet,1p
+@@||i.imgbox.com^$document,domain=i.imgbox.com
+@@||i.imgbox.com^$image,domain=forum.drunkenstepfather.com
+@@||i.imgur.com^$domain=i.imgur.com
+@@||imagebam.com^$image,domain=forum.drunkenstepfather.com
+@@||jetbrains.com^$1p
+@@||resources.jetbrains.com/writerside/apidoc/*/app.js$script,important,domain=docs.matrix.rocks
+@@||jetbrains.com/apple-touch-icon.png$image,important,domain=docs.matrix.rocks
+@@||jetbrains.com/favicon-16x16.png$image,important,domain=docs.matrix.rocks
+@@||resources.jetbrains.com/storage/jetbrains-sans/*$font,important,domain=docs.matrix.rocks
+@@||discourse-cdn.com^$domain=community.letsencrypt.org
+@@||go.matrix.rocks^
+@@||mypdns.org^$document,1p
+@@||mypdns.org^$ghide
+@@||mypdns.org^$inline-script,domain=mypdns.org
+@@||tube.matrix.rocks/api/v1/metrics/playback$xhr
+@@||tube.matrix.rocks/tracker/socket$websocket,1p
+@@||tube.matrix.rocks^$script,domain=tube.matrix.rocks
+@@||tcms.psmcdn.net/2b7780a6a00267dee4033d674b04cdb47b686d9d/component.hydrate.js$script,domain=dadcrush.com
+@@||tube.reck.dk/api/v1/metrics/playback$xhr,domain=tube.reck.dk
+@@||sexvid.xxx/contents/content_sources/*$image,domain=sexvid.xxx
+@@||unpkg.com/petite-vue@0.4.1$script,domain=play.matrix.rocks
+@@||googleusercontent.com^$image,domain=youtube.com
+@@||www.youtube.com^$domain=www.youtube.com
+[uBlock Origin]
+%include ublockorigin-rules:template_header.txt%
+@@||ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js$script,domain=www.namesilo.com
+@@||cdnjs.cloudflare.com^$script,domain=babesource.com
+~hub.filterlists.com#@#.btn-social
+@@||www.hetzner.com^$font,domain=www.hetzner.com
+@@||livesupport.hetzner.de/fonts/*$font,domain=www.hetzner.com
+@@||imgur.com^$image,3p
+@@||mypdns.org^
+@@||matrix.rocks^
+@@||mypdns.cloud^
+@@||www.namesilo.com/cdn-cgi/bm/cv/*$script,domain=www.namesilo.com
+@@||www.namesilo.com/cdn-cgi/bm/cv/*$xhr,domain=www.namesilo.com
+joyourself.com,lsawards.com,maturescam.com,mytrannycams.com,livesexasian.com,cameraboys.com#@#.overlay
+@@||64.media.tumblr.com^$image,domain=tumbex.com|tumblr.com
+@@||ytimg.com^$image,domain=youtube.com
