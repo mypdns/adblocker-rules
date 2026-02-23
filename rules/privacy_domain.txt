@@ -68,6 +68,7 @@ bibliotek.dk##[class*="recommender"]
 ! C.
 @@||challenges.cloudflare.com/turnstile/$script,3p,badfilter
 @@||challenges.cloudflare.com/turnstile/$script,badfilter
+||captcha-delivery.com^
 ||catsnthing.com^$important,all
 ||catsnthings.fun^$important,all
 ||cdnjs.cloudflare.com^$script,font,stylesheet
