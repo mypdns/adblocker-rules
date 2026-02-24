@@ -94,9 +94,7 @@ bitbucket.org##.e1sgjb1l0.css-s1rlud
 @@||mypdns.org^$document,1p
 @@||mypdns.org^$ghide
 @@||mypdns.org^$inline-script,domain=mypdns.org
-@@||tube.matrix.rocks/api/v1/metrics/playback$xhr
-@@||tube.matrix.rocks/tracker/socket$websocket,1p
-@@||tube.matrix.rocks^$script,domain=tube.matrix.rocks
+@@||tube.matrix.rocks^
 
 ! N.
 
