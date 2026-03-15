@@ -54,6 +54,7 @@ celeb.gate.cc###celeb__posts
 ||dr.dk/feature/drn-corona-frontpage-widget/*$1p
 ||dr.dk/tjenester/corona-api/*$1p
 dr.dk##.dre-footer
+dr.dk##.hydra-latest-news-page-short-news-card__reel-player
 duck.ai##.Lztzw5hrISZFTLADoR63
 duck.ai##.U0ZXbmkfjqD9GZOVbSdu
 duck.ai##.eG8i9sr07ekwPsI1_Tsp
@@ -115,7 +116,8 @@ lyrics.com##.col-sm-pull-8.col-sm-4
 ! M.
 miniwa.moe##.global-notice-list
 miniwa.moe##.global-notice.alert
-miniwa.moe##.notice-dismissible
+!miniwa.moe##.notice-dismissible
+miniwa.moe##.notice-dismissible.visibility-notice
 misskey.io,matrix.rocks##._shadow._panel
 
 ! N.
@@ -129,6 +131,7 @@ mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozy
 account.protonmail.com##.p0-5
 
 ! Q.
+qwant.com##.is-sidebar
 
 ! R.
 realjamvr.com##[class^="join-"]
@@ -186,6 +189,8 @@ youtube.com##.iron-selected.ytd-c4-tabbed-header-renderer.style-scope
 youtube.com##.ytd-live-chat-frame
 youtube.com##.ytp-player-content
 youtube.com##grid-shelf-view-model.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost
+youtube.com##grid-shelf-view-model.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost
+youtube.com##grid-shelf-view-model.ytd-item-section-renderer
 youtube.com##tp-yt-paper-tab.ytd-c4-tabbed-header-renderer.style-scope:nth-of-type(3)
 youtube.com##ytd-popup-container.ytd-app.style-scope
 youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope

@@ -38,6 +38,7 @@
 
 ! A.
 /arc-sw.js$important
+amazonaws.com/segmentTracker.js
 ||adobedtm.com^$important
 ||akamaized.net/jiostaticresources/v02/js/googleAnalytics.min.js$script
 ||akamaized.net/jiostaticresources/v05/js/google-analytics-custom-DS2O.js
@@ -45,8 +46,8 @@
 ||antibot.one/antibot8/upd.php$script
 ||antibot.one^
 ||arc.io/widget.min.js$important
+||cdnomnium.azureedge.net^
 ||pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion^
-amazonaws.com/segmentTracker.js
 g.alicdn.com/woodpeckerx/jssdk/plugins/globalerror.js
 g.alicdn.com/woodpeckerx/jssdk/plugins/performance.js
 g.alicdn.com/woodpeckerx/jssdk/wpkReporter.js
@@ -506,6 +507,7 @@ themoviedb.org##.no_border.card.video
 ubuntu.com##+js(addEventListener-defuser, DOMContentLoaded, js-revoke-cookie-manager)
 
 ! V.
+||voyado.com^
 
 ! W.
 ||cdn.whatismybrowser.com/prod-website/static/main/images/fun/

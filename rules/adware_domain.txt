@@ -144,6 +144,8 @@ jagaporn.com##.nativad
 javtrex.com##.ads-desktops
 
 ! K.
+||klarna.com^
+||klarnacdn.net^
 
 ! L.
 learnubuntu.com##.hide-mobile
@@ -163,11 +165,6 @@ merriam-webster.com##.large-view
 ! O.
 
 ! P.
-||parklogic.com^$important
-||popads.net^$important
-||popcash.net^$important
-||pornogoogle.info^
-||pubmatic.com^$important
 mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.bg-info.no-print.text-bold.relative.text-center.flex-nowrap.flex-item-noshrink.flex
 mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.bg-primary
 mail.protonmail.com,mail.protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion,mail.proton.me##.bg-primary.no-print
@@ -182,6 +179,13 @@ pawoo.net##.pawoo-announcements
 pricerunner.dk##.pr-1hay6gt-Card-root
 publicwww.com##.container > .service-wrapper
 publicwww.com##.container > div.row > div.col-sm-6.col-md-6
+www.proshop.dk##.site-product-campaign-text
+||parklogic.com^$important
+||popads.net^$important
+||popcash.net^$important
+||pornogoogle.info^
+||pubmatic.com^$important
+||www.proshop.dk/Images/OnePlus-15R-siteskin-DK_22af0ff31d6a.jpg$image
 
 ! Q.
 ||quotes.com^
