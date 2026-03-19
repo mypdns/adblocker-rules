@@ -69,6 +69,7 @@ devdungeon.com##.col-sm-3
 devdungeon.com##.footer
 dmi.dk##.footer-app
 dr.dk##.dre-read-more-link
+www.dr.dk##.hydra-latest-news-page-short-news-card
 
 ! E.
 
