@@ -61,8 +61,7 @@ right-click any of the following urls, choose `<uBLock Origin>` =>
 
 <Subscribe to the filterlist>`
 
-  <a href="abp:
-  subscribe?location=https://mypdns.github.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules&requiresLocation=https://mypdns.github.io/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules%20%E2%80%93%20github%20Edition"
+    <a href="abp:subscribe?location=https://mypdns.github.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules&requiresLocation=https://mypdns.github.io/adblocker-rules/blockrules.txt&requiresTitle=My%20Privacy%20DNS%20%E2%80%93%20Adblock%20Rules%20%E2%80%93%20github%20Edition"
   title="Subscribe to My Privacy DNS adblocker rules (My Privacy DNS
   edition)">adblocker.mypdns.org | Adblock Rules (GitHub edition)
   </a>
