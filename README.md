@@ -36,7 +36,7 @@ filters/rules (Adblock Plus / uBlock Origin) or User Rules (AdGuard).
 
 Our HTML front end can be found at https://www.mypdns.org/abrules.php
 
-[//]: # (- My Privacy DNS: <https://mypdns.github.io/adblocker-rules/>)
+[//]: # (- My Privacy DNS: <https://www.mypdns.org/adblocker-rules/>)
 
 [//]: # (- GitHub: No longer Supported as they have incorporated SpyWare)
 
@@ -232,8 +232,7 @@ spreading the knowledge of how rules should be made :smiley:
 
 [support]: https://kb.mypdns.org/issues
 
-[Subscribe]: abp:
-subscribe?location=https://mypdns.github.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20My
+[Subscribe]: abp:subscribe?location=https://mypdns.github.io/adblocker-rules/blockrules.txt&title=My%20Privacy%20DNS%20%E2%80%93%20My
 Privacy DNS%20Edition%20%E2%80%93%20Adblock%20Rules
 
 <!-- External Links -->
