@@ -382,6 +382,7 @@ itslinuxfoss.com##[id^="ez-video-wrap-"]
 ||imgur.com/freTg.gif$image,important
 ||inran.biz^$important
 ||investingchannel.com/static/uat.js$script
+||sentry.ixsystems.com^
 
 ! J.
 !||jsdelivr.net/*/js.cookie.min.js$script
