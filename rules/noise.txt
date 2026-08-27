@@ -18,6 +18,10 @@
 
 ! A.
 *Promo*.jpg$domain=adultdvdempire.com,image
+adultdvdempire.com###UserOptions
+adultdvdempire.com###nav-unlimited
+adultdvdempire.com###signUpModal
+adultdvdempire.com###site-nav-account
 adultdvdempire.com##.beacon
 adultdvdempire.com##.btn-success.btn
 adultdvdempire.com##.in.fade.modal
@@ -29,15 +33,12 @@ adultdvdempire.com##.sale
 adultdvdempire.com##.site_footer
 adultdvdempire.com##.sticky-tagline
 adultdvdempire.com##.well
-adultdvdempire.com###nav-unlimited
-adultdvdempire.com###signUpModal
-adultdvdempire.com###site-nav-account
-adultdvdempire.com###UserOptions
+askubuntu.com,stackexchange.com###sidebar
 askubuntu.com,stackexchange.com##.js-footer
 askubuntu.com,stackexchange.com##.left-sidebar
-askubuntu.com,stackexchange.com###sidebar
 avgle.com##.alert-dismissable
 go.matrix.rocks##.alert.alert-info
+hellenic-hd.cc,sextorrent.myds.me,thorhub.eu,torrenthaven.org##.alerts
 
 ! B.
 
@@ -114,9 +115,10 @@ imdb.com###titleVideoStrip
 lyrics.com##.col-sm-pull-8.col-sm-4
 
 ! M.
+!miniwa.moe##.notice-dismissible
+hellenic-hd.cc,sextorrent.myds.me,thorhub.eu,torrenthaven.org##.meta__letterboxd
 miniwa.moe##.global-notice-list
 miniwa.moe##.global-notice.alert
-!miniwa.moe##.notice-dismissible
 miniwa.moe##.notice-dismissible.visibility-notice
 misskey.io,matrix.rocks##._shadow._panel
 
@@ -137,18 +139,19 @@ qwant.com##.is-sidebar
 realjamvr.com##[class^="join-"]
 
 ! S.
-||smutty.com^$popup,1p
-||smutty.com^$script,1p
-||solvemate.com^
+hellenic-hd.cc,sextorrent.myds.me,thorhub.eu,torrenthaven.org##.show-trailer
+smutty.com###reviews
+smutty.com###top-ad-block
 smutty.com##.last.fdb_box_2011.span-16.revi
 smutty.com##.last.menu_h.span-24
 smutty.com##.last.otto
 smutty.com##.last.small.span-24
 smutty.com##.last.span-14
 smutty.com##.menufixed
-smutty.com###reviews
-smutty.com###top-ad-block
 smutty.com##div.cc_cleaner:nth-of-type(4)
+||smutty.com^$popup,1p
+||smutty.com^$script,1p
+||solvemate.com^
 
 ! T.
 themoviedb.org##.actions
